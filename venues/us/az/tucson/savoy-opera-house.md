@@ -1,0 +1,56 @@
+# Savoy Opera House
+
+## Overview
+
+| | |
+|---|---|
+| **Address** | 6541 E Tanque Verde Rd #13, Tucson, AZ 85715, USA |
+| **Phone** | (520) 886-5012 |
+| **Website** | http://www.savoyoperahouse.com/ |
+| **Google Rating** | 4.5/5 (140 reviews) |
+| **Type** | Event Venue, Banquet Hall, Wedding Venue |
+| **Google Maps** | [View](https://maps.google.com/?cid=2841978045684372602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+
+## About
+
+_Research pending — web scrape needed_
+
+## History
+
+_Research pending_
+
+## Key People
+
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
+
+## Programming & Shows
+
+_Research pending — what genres, typical acts, event types_
+
+## Ticketing
+
+| | |
+|---|---|
+| **Current Provider** | _TBD_ |
+| **Box Office** | _TBD_ |
+| **Online Sales** | _TBD_ |
+
+## Contact
+
+| | |
+|---|---|
+| **Booking Email** | _TBD_ |
+| **General Email** | _TBD_ |
+| **Phone** | +1 520-886-5012 |
+| **Website** | http://www.savoyoperahouse.com/ |
+
+## Opendate Fit
+
+_Assessment pending_
+
+---
+
+*Last updated: 2026-02-26*
+*Source: Google Places API*

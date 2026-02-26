@@ -1,0 +1,56 @@
+# The Chelsea
+
+## Overview
+
+| | |
+|---|---|
+| **Address** | The Chelsea Tower, 3708 Las Vegas Blvd S Level 3, Las Vegas, NV 89109, USA |
+| **Phone** | (702) 698-7475 |
+| **Website** | https://www.cosmopolitanlasvegas.com/ |
+| **Google Rating** | 4.4/5 (425 reviews) |
+| **Type** | Event Venue |
+| **Google Maps** | [View](https://maps.google.com/?cid=863796158629504916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+
+## About
+
+_Research pending — web scrape needed_
+
+## History
+
+_Research pending_
+
+## Key People
+
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
+
+## Programming & Shows
+
+_Research pending — what genres, typical acts, event types_
+
+## Ticketing
+
+| | |
+|---|---|
+| **Current Provider** | _TBD_ |
+| **Box Office** | _TBD_ |
+| **Online Sales** | _TBD_ |
+
+## Contact
+
+| | |
+|---|---|
+| **Booking Email** | _TBD_ |
+| **General Email** | _TBD_ |
+| **Phone** | +1 702-698-7475 |
+| **Website** | https://www.cosmopolitanlasvegas.com/ |
+
+## Opendate Fit
+
+_Assessment pending_
+
+---
+
+*Last updated: 2026-02-26*
+*Source: Google Places API*

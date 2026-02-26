@@ -1,0 +1,56 @@
+# Frost-Kalnow Amphitheater on the East Green
+
+## Overview
+
+| | |
+|---|---|
+| **Address** | 155 E Market St, Tiffin, OH 44883, USA |
+| **Phone** | (419) 448-5408 |
+| **Website** | https://www.eastgreenconcerts.com/ |
+| **Google Rating** | 4.8/5 (93 reviews) |
+| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
+| **Google Maps** | [View](https://maps.google.com/?cid=11874659386027609345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+
+## About
+
+_Research pending — web scrape needed_
+
+## History
+
+_Research pending_
+
+## Key People
+
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
+
+## Programming & Shows
+
+_Research pending — what genres, typical acts, event types_
+
+## Ticketing
+
+| | |
+|---|---|
+| **Current Provider** | _TBD_ |
+| **Box Office** | _TBD_ |
+| **Online Sales** | _TBD_ |
+
+## Contact
+
+| | |
+|---|---|
+| **Booking Email** | _TBD_ |
+| **General Email** | _TBD_ |
+| **Phone** | +1 419-448-5408 |
+| **Website** | https://www.eastgreenconcerts.com/ |
+
+## Opendate Fit
+
+_Assessment pending_
+
+---
+
+*Last updated: 2026-02-26*
+*Source: Google Places API*

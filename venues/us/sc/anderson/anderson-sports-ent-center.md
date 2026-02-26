@@ -1,0 +1,56 @@
+# Anderson Sports & Ent Center
+
+## Overview
+
+| | |
+|---|---|
+| **Address** | 3027 Martin Luther King Jr Blvd, Anderson, SC 29625, USA |
+| **Phone** | (864) 260-4800 |
+| **Website** | http://www.andersonevents.com/ |
+| **Google Rating** | 3.9/5 (33 reviews) |
+| **Type** | Stadium, Auditorium, Event Venue, Sports Complex, Local Government Office |
+| **Google Maps** | [View](https://maps.google.com/?cid=13218412004654750912&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+
+## About
+
+_Research pending — web scrape needed_
+
+## History
+
+_Research pending_
+
+## Key People
+
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
+
+## Programming & Shows
+
+_Research pending — what genres, typical acts, event types_
+
+## Ticketing
+
+| | |
+|---|---|
+| **Current Provider** | _TBD_ |
+| **Box Office** | _TBD_ |
+| **Online Sales** | _TBD_ |
+
+## Contact
+
+| | |
+|---|---|
+| **Booking Email** | _TBD_ |
+| **General Email** | _TBD_ |
+| **Phone** | +1 864-260-4800 |
+| **Website** | http://www.andersonevents.com/ |
+
+## Opendate Fit
+
+_Assessment pending_
+
+---
+
+*Last updated: 2026-02-26*
+*Source: Google Places API*

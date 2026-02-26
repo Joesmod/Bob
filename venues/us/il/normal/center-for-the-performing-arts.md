@@ -1,0 +1,56 @@
+# Center for the Performing Arts
+
+## Overview
+
+| | |
+|---|---|
+| **Address** | 351 S School St, Normal, IL 61761, USA |
+| **Phone** | (309) 438-2535 |
+| **Website** | http://maps.illinoisstate.edu/locations/performing |
+| **Google Rating** | 4.9/5 (12 reviews) |
+| **Type** | Performing Arts Theater, Academic Department, Event Venue |
+| **Google Maps** | [View](https://maps.google.com/?cid=17661793991067889767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+
+## About
+
+_Research pending — web scrape needed_
+
+## History
+
+_Research pending_
+
+## Key People
+
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
+
+## Programming & Shows
+
+_Research pending — what genres, typical acts, event types_
+
+## Ticketing
+
+| | |
+|---|---|
+| **Current Provider** | _TBD_ |
+| **Box Office** | _TBD_ |
+| **Online Sales** | _TBD_ |
+
+## Contact
+
+| | |
+|---|---|
+| **Booking Email** | _TBD_ |
+| **General Email** | _TBD_ |
+| **Phone** | +1 309-438-2535 |
+| **Website** | http://maps.illinoisstate.edu/locations/performing |
+
+## Opendate Fit
+
+_Assessment pending_
+
+---
+
+*Last updated: 2026-02-26*
+*Source: Google Places API*

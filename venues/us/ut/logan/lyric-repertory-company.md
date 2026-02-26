@@ -1,0 +1,56 @@
+# Lyric Repertory Company
+
+## Overview
+
+| | |
+|---|---|
+| **Address** | 28 W Center St, Logan, UT 84321, USA |
+| **Phone** | (435) 797-8022 |
+| **Website** | https://cca.usu.edu/theatre/about-us/lyric |
+| **Google Rating** | 4.8/5 (87 reviews) |
+| **Type** | Performing Arts Theater, Event Venue |
+| **Google Maps** | [View](https://maps.google.com/?cid=10534694144588620676&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+
+## About
+
+_Research pending — web scrape needed_
+
+## History
+
+_Research pending_
+
+## Key People
+
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
+
+## Programming & Shows
+
+_Research pending — what genres, typical acts, event types_
+
+## Ticketing
+
+| | |
+|---|---|
+| **Current Provider** | _TBD_ |
+| **Box Office** | _TBD_ |
+| **Online Sales** | _TBD_ |
+
+## Contact
+
+| | |
+|---|---|
+| **Booking Email** | _TBD_ |
+| **General Email** | _TBD_ |
+| **Phone** | +1 435-797-8022 |
+| **Website** | https://cca.usu.edu/theatre/about-us/lyric |
+
+## Opendate Fit
+
+_Assessment pending_
+
+---
+
+*Last updated: 2026-02-26*
+*Source: Google Places API*
