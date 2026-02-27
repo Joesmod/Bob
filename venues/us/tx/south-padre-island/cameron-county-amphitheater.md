@@ -13,29 +13,37 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Outdoor amphitheater and event center located at Isla Blanca Park on South Padre Island, TX. County-operated venue hosting major concerts, festivals, and Spring Break events. Active year-round with focus on Texas hip-hop, EDM, and regional touring acts.
 
 ## History
 
-_Research pending_
+County-operated venue with established presence in South Texas concert market. Part of Cameron County Parks system.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Venue Manager | County-operated |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Hip-hop, EDM, country, rock, festivals
+- **Notable Upcoming Acts** (2026): Kodak Black, That Mexican OT, Paul Wall, DJ Pauly D
+- **Event Types**: Concerts, Spring Break events, festivals (Seltzer Island), themed shows
+- **Frequency**: Regular programming, heavy Spring Break season
+- **Ticket Range**: $25-$75+ typical for major acts
+- Outdoor amphitheater format with standing GA and reserved seating
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Eventbrite |
+| **Box Office** | On-site at venue |
+| **Online Sales** | Yes, via Eventbrite |
+| **Phone** | (956) 356-6277 |
+
+All events ticketed through Eventbrite. Professional event pages with detailed venue policies, age requirements, security screening info.
 
 ## Contact
 
@@ -43,14 +51,18 @@ _Research pending — what genres, typical acts, event types_
 |---|---|
 | **Booking Email** | _TBD_ |
 | **General Email** | _TBD_ |
-| **Phone** | +1 956-356-6277 |
-| **Website** | https://cameroncountyvenues.com/ |
+| **Phone** | (956) 356-6277 |
+| **Website** | https://cameroncountyvenues.com |
+| **Location** | 33174 State Park Rd 100, Isla Blanca Park |
+| **Parking** | $12/vehicle (waived with event ticket at tollbooth) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 70/100 — Good Lead**
+
+Active ticketed venue with strong programming and professional operations. Currently on Eventbrite (switchable platform). However, county ownership means procurement/approval processes may be more complex than independent venues. Strong event volume justifies outreach. Spring Break programming shows sophistication in event production and ticketing operations.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-27*
+*Source: Opendate Lead Pipeline — Venue Research*

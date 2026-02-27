@@ -13,44 +13,56 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Stand-up comedy club in Pasadena, CA. Full-service venue with regular comedy shows, VIP room, food & drink menu, and comedy school (Cool Beans Comedy). Also offers private event space. Active programming with newsletter for updates. Operates on Shopify platform for ticket sales.
 
 ## History
 
-_Research pending_
+Established comedy club with decades of operation in Los Angeles area. Known as a premier comedy venue that has hosted major acts.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Owner/Manager | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Focus**: Stand-up comedy
+- **Event Types**: Nightly comedy shows, special events, Juneteenth celebration
+- **Special Features**: VIP room, comedy school
+- **Food & Drink**: Full menu available
+- **Private Events**: Available for booking
+- Active newsletter with event updates
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Shopify / ShowClix |
+| **Box Office** | Phone & online |
+| **Online Sales** | Yes, via Shopify e-commerce |
+| **Phone** | (626) 414-2386 |
+
+Website runs on Shopify platform. Event shown with ShowClix ticketing (icehousecomedy.com redirects to Shopify store). Full e-commerce integration for tickets, merchandise, gift cards.
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
+| **Booking Email** | _TBD_ (contact page available) |
 | **General Email** | _TBD_ |
-| **Phone** | +1 626-414-2386 |
-| **Website** | http://theicehouse.com/ |
+| **Phone** | (626) 414-2386 |
+| **Website** | https://icehousecomedy.com |
+| **Location** | 24 N Mentor Ave, Pasadena, CA 91106 |
+| **Social** | Facebook, Instagram, YouTube (@theicehousecc) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 72/100 — Good Lead**
+
+Active comedy club with professional ticketing operation. Currently using Shopify + ShowClix (switchable). Regular programming suggests consistent ticket sales. Food/beverage + ticket integration could be selling point for Opendate's platform. VIP and private events add complexity that might benefit from integrated solution. Worth pursuing.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-27*
+*Source: Opendate Lead Pipeline — Venue Research*
