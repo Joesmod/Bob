@@ -13,44 +13,53 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Professional comedy theater in downtown St. Petersburg offering improv, sketch, and stand-up shows. Cool, comfortable club atmosphere with alcoholic and non-alcoholic beverages available. No drink minimum. Also operates a comedy training center offering classes in improv, sketch, and public speaking.
 
 ## History
 
-_Research pending_
+Operating since at least 2016 (copyright on website indicates ©2016-2026). Established comedy venue and training center in the Tampa Bay area.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| *(No names found)* | - | - |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Improv comedy, sketch comedy, stand-up
+- **Frequency**: Weekly lineup of shows
+- **Ticket prices**: Varies by show (site has "buy tickets" system)
+- **Programming**: Mix of resident company shows and touring acts
+- **Additional offerings**: Comedy classes (improv, sketch), corporate events, team building
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Squarespace Commerce (built-in cart system) |
+| **Box Office** | Online via website |
+| **Online Sales** | Yes, full e-commerce integration |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 727-329-6290 |
+| **Email** | spitfiretheater@gmail.com |
+| **Phone** | (727) 329-6290 |
+| **Address** | 1920 1st Avenue South, St. Petersburg, FL 33712 |
 | **Website** | https://spitfirecomedy.com/ |
+| **Facebook** | /SpitfireComedyHouse |
+| **Instagram** | @spitfirecomedyhouse |
+| **YouTube** | UCiLa7HkrBVrk7Ztig3-HYaw |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 75/100 — Good Lead**
+
+Active comedy club with regular ticketed shows and classes. Currently using basic Squarespace commerce tools for ticketing. Independent operation with multiple revenue streams (shows, classes, corporate events). Good candidate for Opendate's platform — would benefit from professional ticketing features, better analytics, and marketing tools. Established venue with strong community presence.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-27*
+*Source: Website research*

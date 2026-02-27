@@ -1,56 +1,41 @@
 # The Box Events Venue
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 220 NW 180th Ave, Pembroke Pines, FL 33029, USA |
-| **Phone** | (754) 230-3227 |
-| **Website** | https://theboxvenue.com/ |
-| **Google Rating** | 4.8/5 (36 reviews) |
-| **Type** | Art Studio, Dance Hall, Concert Hall, Live Music Venue, Auditorium |
-| **Google Maps** | [View](https://maps.google.com/?cid=11385848187896533103&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Multi-purpose events venue in Pembroke Pines hosting ticketed concerts, comedy shows, and cultural events. Focus on Latin/Hispanic programming including tribute shows, concerts, and theatrical performances. Intimate setting with flexible rental space for celebrations and corporate events.
 
 ## History
-
-_Research pending_
+Active entertainment venue serving the South Florida Hispanic/Latin community with regular ticketed shows and events.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| *(No contact names found)* | - | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Latin music, tribute shows, comedy, theatrical performances
+- **Frequency**: Multiple shows per month
+- **Ticket prices**: $25-$35 typical range
+- **Notable recent shows**: 
+  - Tributo a Juan Gabriel (with live mariachi) - $32
+  - Mirtha Pérez en Concierto "Inmenso" - $25  
+  - "Novia Plantada" comedy show - $35
+- Spanish-language programming with occasional English shows
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | TicketPlate |
+| **Ticket Range** | $25-$35 |
+| **Online Sales** | Yes, via TicketPlate embedded checkout |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 754-230-3227 |
-| **Website** | https://theboxvenue.com/ |
+| **Address** | 220 NW 180th Ave, Pembroke Pines, FL 33029 |
+| **Phone** | (754) 230-3227 |
+| **Email** | contact@theboxvenue.com |
+| **Instagram** | @thebox_venue |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Good Lead**
+Active ticketed venue with regular programming. Currently using TicketPlate for ticketing. Niche Latin/Hispanic market focus. Could benefit from Opendate's platform, especially if expansion beyond Spanish-language shows is planned. Independent operation, good event frequency.

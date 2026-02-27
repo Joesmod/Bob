@@ -1,56 +1,22 @@
 # The Venue Fort Lauderdale
 
 ## Overview
+Premier 42,000 square-foot wedding and private events venue. Two ballrooms (Crystal Ballroom with 18,000 sq ft and Epic Ballroom) featuring 3D projection mapping, state-of-the-art A/V, and full-service event production. NOT a public ticketed entertainment venue.
 
-| | |
-|---|---|
-| **Address** | 2345 Wilton Dr, Fort Lauderdale, FL 33305, USA |
-| **Phone** | (954) 765-6968 |
-| **Website** | http://www.thevenueftlauderdale.com/ |
-| **Google Rating** | 4.6/5 (610 reviews) |
-| **Type** | Event Venue, Banquet Hall, Live Music Venue, Wedding Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11915690604338501239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Facilities
+- **Crystal Ballroom**: 18,000+ sq ft with 3D projection mapping, advanced sound system
+- **Epic Ballroom**: Cosmopolitan style, featured in TV shows, music videos, and movies
+- **In-house services**: Catering, event coordination, production services, 3D projection mapping
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Awards & Recognition
+South Florida's highest-rated wedding venue for 15+ years. Award-winning venue celebrated for quality and service.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 954-765-6968 |
-| **Website** | http://www.thevenueftlauderdale.com/ |
+| **Website** | https://www.thevenueftlauderdale.com |
+| **Services** | Weddings, corporate events, private celebrations |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 0/100 — Not a Fit**
+This is a private events and wedding venue, NOT a public ticketed entertainment space. No concerts, shows, or public programming. Focuses exclusively on weddings, corporate events, and private parties. Not suitable for Opendate's ticketing platform.
