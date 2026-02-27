@@ -13,44 +13,52 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Premier event space within the Rosen Jewish Community Center in Southwest Orlando. Offers versatile space for weddings, quinceañeras, corporate meetings, holiday parties, community expos, proms, graduations, and theater performances. Located between Dr. Phillips and Lake Buena Vista North.
 
 ## History
 
-_Research pending_
+Recently renamed Pargh Event Center following a transformative $1 million gift from philanthropist Andy Pargh. Part of the Jack & Lee Rosen JCC, which was built through the vision and generosity of the late Harris Rosen to create an inclusive community hub for Southwest Orlando.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Andy Pargh | Philanthropist/Namesake Donor | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Primary Use**: Private events and rentals (weddings, corporate events, cultural programming)
+
+**Capacity**:
+- Theater-style: 600
+- Banquet-style: 350+
+
+**Types of Events**: Weddings, quinceañeras, corporate meetings, holiday parties, community expos, proms, graduations, theater performances, arts and cultural programming.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not applicable (rental venue, not ticketed shows) |
+| **Box Office** | N/A |
+| **Online Sales** | N/A |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
+| **Booking Email** | eventcoordinator@ourladydunedin.org (general inquiries via form) |
+| **General Email** | info@www.rosenjcc.org |
 | **Phone** | +1 407-387-5330 |
 | **Website** | https://www.rosenjcc.org/rosen-event-center/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 20/100 — Not a Fit**
+
+This is a private event rental space operated by a Jewish Community Center, not a ticketed live entertainment venue. They do not sell tickets to public shows. Focus is on facility rentals for private events (weddings, corporate gatherings, etc.). Not a viable lead for ticketing platform.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-27*
+*Source: Website research*

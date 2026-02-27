@@ -13,44 +13,64 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Spacious and modern event space in Pompano Beach perfect for hosting diverse events — concerts, trade shows, weddings, conferences, comedy shows, and more. Offers a contemporary venue with flexible space and customizable setup.
 
 ## History
 
-_Research pending_
+Modern venue established as a versatile event space in Pompano Beach. Excellent parking (180+ designated spots).
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Event Planners | Website contact form |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Capacity**: Maximum 340 people
+
+**Event Types**: 
+- Concerts
+- Trade shows
+- Weddings
+- Conferences
+- Comedy shows
+- Movies
+- Mitzvahs
+- Quinceañeras
+- Corporate events
+
+**Services**: Complete range including event setup, decoration, sound and lighting systems.
+
+**Parking**: 180+ designated parking spots
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (website has "UPCOMING EVENTS" navigation but pages return 404) |
+| **Box Office** | Unknown |
+| **Online Sales** | Unknown |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
+| **Booking Email** | Available via contact form |
+| **General Email** | Available via contact form |
 | **Phone** | +1 954-256-2449 |
 | **Website** | http://www.soundpostvenue.com/ |
+| **Social Media** | Facebook, Instagram, LinkedIn (links present) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 45/100 — Mixed Potential**
+
+Venue advertises concerts and comedy shows as event types, suggesting possible ticketed programming. However, website navigation indicates "UPCOMING EVENTS" section but those pages return 404 errors. Unclear if they actively host ticketed public events or primarily focus on private rentals. Would need direct contact to confirm their ticketing needs and event frequency.
+
+**Recommendation**: Contact venue to clarify their public vs. private event split and current ticketing setup.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-27*
+*Source: Website research*

@@ -13,44 +13,56 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Elegant special events venue in the heart of Dunedin, Florida. Multiple spaces available for banquets, meetings, and celebrations. Embodies elegance and class with flexible room configurations.
 
 ## History
 
-_Research pending_
+Part of Our Lady of Lourdes Church community in Dunedin. Includes the newly refurbished Dubois Main Hall in addition to the main Conmy Center spaces.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Doreen Saccardo | Event Coordinator | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Primary Use**: Private event rentals
+
+**Room Capacities**:
+- **Main Hall**: 360 banquet / 1,041 theater
+- **Mary Room**: 50 banquet / 65 theater
+- **Bernadette Room**: 50 banquet / 65 theater
+- **Room Combo (Mary & Bernadette)**: 110 banquet / 135 theater
+- **Dubois Main Hall**: 100 banquet / 150 theater
+
+**Types of Events**: Weddings, corporate events, banquets, meetings, celebrations. Also hosts "Saints & Sinners Ball" special event.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not applicable (rental venue) |
+| **Box Office** | N/A |
+| **Online Sales** | N/A |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 727-738-6159 |
+| **Booking Email** | eventcoordinator@ourladydunedin.org |
+| **General Email** | eventcoordinator@ourladydunedin.org |
+| **Phone** | +1 727-409-2650 (Doreen Saccardo) |
 | **Website** | http://www.conmycenter.com/ |
+| **Related** | https://www.ourladydunedin.org (Our Lady of Lourdes Church) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 15/100 — Not a Fit**
+
+Private event rental facility operated by a church. Does not sell tickets to public events. Focus is entirely on facility rentals for private functions (weddings, banquets, corporate events). Not a viable lead for ticketing platform.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-27*
+*Source: Website research*
