@@ -1,56 +1,37 @@
 # New Tampa Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 8550 Hunters Village Rd, Tampa, FL 33647, USA |
-| **Phone** | (813) 829-2760 |
-| **Website** | http://www.newtampaartscenter.org/ |
-| **Google Rating** | 4.8/5 (164 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11607611018140670625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+354-seat multipurpose theater with large stage, orchestra pit, and elaborate sound/lighting systems. 20,000-square-foot facility built alongside nature preserves in New Tampa. Hosts diverse programming including concerts, theater, dance, comedy, tribute shows, and community performances.
 
 ## History
-
-_Research pending_
+Built as a new home for performing arts in the New Tampa community. State-of-the-art facility designed to inspire, connect, and educate through the arts. Hosts local productions (New Tampa Players, Tampa City Ballet) and touring professional acts.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Unknown | Venue management | — |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Concerts, tribute shows, theater (musicals), dance, comedy, jazz, family films
+- **Recent/Upcoming**: Popovich Comedy Pet Theater, Moonflower (Santana tribute), Dave Stryker (jazz), New Tampa Players productions (Annie, SpongeBob Musical), Tampa City Ballet (Nutcracker)
+- **Series**: New Tampa Jazz Nights, New Tampa Unplugged, Solo Spotlight Series, free family films
+- **Frequency**: 3-5 events per week year-round
+- **Ticket prices**: $15-$50+ (varies by production)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Eventbrite (for most events) |
+| **Ticket Range** | $15-$50+ |
+| **Online Sales** | Yes via event pages |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 813-829-2760 |
-| **Website** | http://www.newtampaartscenter.org/ |
+| **Website** | https://www.newtampaartscenter.org |
+| **Location** | New Tampa, FL |
+| **Capacity** | 354 seats |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Strong Prospect**
+Active 354-seat venue with high event volume (100+ events/year). Currently using Eventbrite—prime candidate for platform switch. Mix of presenting and rental makes ticketing needs complex. Good ticket volume and price points. Modern facility with professional operations. Would benefit significantly from integrated ticketing + marketing platform vs. Eventbrite's generic approach.

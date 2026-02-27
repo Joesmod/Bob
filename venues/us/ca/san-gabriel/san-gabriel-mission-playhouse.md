@@ -1,56 +1,35 @@
 # San Gabriel Mission Playhouse
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 320 S Mission Dr, San Gabriel, CA 91776, USA |
-| **Phone** | (626) 308-2865 |
-| **Website** | http://www.missionplayhouse.org/ |
-| **Google Rating** | 4.6/5 (667 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1309542892434585685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic arts and entertainment venue in San Gabriel, CA, approaching its centennial anniversary. Hosts dance, theater, and community performances by local groups. Currently undergoing restoration efforts.
 
 ## History
-
-_Research pending_
+Approaching centennial anniversary (est. ~1927). Historic theater undergoing restoration projects. Seeking donations to fund restoration while providing legacy opportunities for donors. Important cultural landmark in San Gabriel.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Unknown | — | — |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Ballet, theater, community performances
+- **Recent**: Pasadena Civic Ballet's Aladdin (Feb 2026), Temple City Performing Arts' The Little Mermaid (March 2026)
+- **Frequency**: Host venue for local performing arts groups
+- Showcases community theater and dance companies
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (likely managed by presenting organizations) |
+| **Ticket Range** | Varies by production |
+| **Online Sales** | Not clearly evident |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 626-308-2865 |
-| **Website** | http://www.missionplayhouse.org/ |
+| **Website** | https://missionplayhouse.org |
+| **Location** | San Gabriel, CA |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 40/100 — Marginal Fit**
+Historic venue in restoration mode. Functions primarily as a rental/host space for community groups rather than self-producing shows. Unclear ticketing infrastructure. Current focus on fundraising for restoration. May not have capacity or need for new ticketing platform during this phase.

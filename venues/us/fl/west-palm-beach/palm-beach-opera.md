@@ -1,56 +1,38 @@
 # Palm Beach Opera
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 425 24th St, West Palm Beach, FL 33407, USA |
-| **Phone** | (561) 833-7888 |
-| **Website** | http://www.pbopera.org/ |
-| **Google Rating** | 4.7/5 (29 reviews) |
-| **Type** |  |
-| **Google Maps** | [View](https://maps.google.com/?cid=1058797227127160793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Professional opera company bringing world-class opera to South Florida. Produces multiple full-scale operas per season plus educational programs, artist training, and special events. Resident Artist program trains next generation of opera stars. Performances at major South Florida venues.
 
 ## History
-
-_Research pending_
+Established opera company with long history in Palm Beach/South Florida region. Mission-driven organization focused on world-class performances, free arts education for all ages, and training emerging opera talent. Hosts annual gala fundraiser and offers extensive patron engagement programs.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Gwendolyn & Austin Fragomen | 2026 Gala Chairs | Website |
+| Craig Terry | Conductor/Host | Cabaret events |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **2026 Season**: La bohème (Jan 23-25), The Pearl Fishers (Feb 20-22), Rigoletto (Mar 20-22)
+- **Special Events**: 2026 Gala with Lisette Oropesa (March 2 at The Breakers), Cabaret with Craig Terry (March 28)
+- **Patron Programs**: Lunch & Learn, Opening Night Dinner, Curtain Warmers, Sunday Q&A with artists
+- **Education**: Free arts education programs, resident artist events
+- **Ticket prices**: $75-$300+ (opera house pricing)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (likely major performing arts ticketing system) |
+| **Ticket Range** | $75-$300+ |
+| **Online Sales** | Yes |
+| **Subscriptions** | Season packages available |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 561-833-7888 |
-| **Website** | http://www.pbopera.org/ |
+| **Website** | https://pbopera.org |
+| **Location** | West Palm Beach, FL (performs at multiple venues) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 25/100 — Poor Fit**
+Opera presenting organization, not a venue. Rents major performing arts centers for productions. Different business model—they produce shows at third-party venues. Ticketing integrated with donor CRM and high-end patron management systems. Budget allocated to established opera/symphony ticketing platforms. Not a target for Opendate.

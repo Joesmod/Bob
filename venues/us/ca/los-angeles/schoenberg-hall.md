@@ -1,56 +1,38 @@
 # Schoenberg Hall
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 445 Charles E Young Dr E, Los Angeles, CA 90095, USA |
-| **Phone** | Unknown |
-| **Website** | https://schoolofmusic.ucla.edu/facilities/schoenberg-hall/ |
-| **Google Rating** | 4.7/5 (140 reviews) |
-| **Type** | Concert Hall, Auditorium, Live Music Venue, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=4924801601674409295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+522-seat concert hall on UCLA campus, serving as the main performance venue for The UCLA Herb Alpert School of Music. Named after composer Arnold Schoenberg (1936-44 UCLA faculty). Academic venue hosting hundreds of concerts, recitals, masterclasses, and conferences annually.
 
 ## History
-
-_Research pending_
+Named in honor of famed composer Arnold Schoenberg who taught at UCLA from 1936-1944. Recently renovated with rich acoustics ideal for classical and contemporary music performances. Owned and operated by UCLA.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Michael Beckerman | Dean, UCLA Herb Alpert School of Music | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Classical music, recitals, student performances, guest artists, conferences
+- **Frequency**: Hundreds of events per year
+- **Ticket prices**: Mostly free and open to public; some ticketed events
+- **Notable guests**: Placido Domingo, John Adams, Kaskade, A$AP Rocky, Grant Gershon, Los Angeles Chamber Orchestra
+- Student ensemble performances, faculty concerts, visiting artists
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | UCLA.evenue.net (for select events), Eventbrite (for some shows) |
+| **Ticket Range** | Free - $50 (most events free) |
+| **Online Sales** | Via UCLA ticketing system |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | https://schoolofmusic.ucla.edu/facilities/schoenberg-hall/ |
+| **General Email** | uclaalpert@schoolofmusic.ucla.edu |
+| **Phone** | (310) 825-4761 |
+| **Address** | 2520 Schoenberg Music Building, Box 951657, Los Angeles, CA 90095-1657 |
+| **Instagram** | @uclaalpert |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 25/100 — Poor Fit**
+Academic venue owned by UCLA. Most events are free student/faculty performances. Not a commercial operation—no independent ticketing needs. Would not benefit from Opendate platform.

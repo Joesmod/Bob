@@ -1,56 +1,36 @@
 # Cornerstone Theater Company
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | Los Angeles, CA 90012, USA |
-| **Phone** | (213) 613-1700 |
-| **Website** | http://cornerstonetheater.org/ |
-| **Google Rating** | 4.3/5 (12 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=3712844736698591927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community-based theater company in Los Angeles producing collaborative works with local communities. Over 30 years of bringing professional ensemble artists together with community members to create original theater. Performances staged in theaters, parking lots, factories, schools, and non-traditional spaces.
 
 ## History
-
-_Research pending_
+Founded over 30 years ago with a mission to collaborate with communities that traditionally don't engage with theater. Known for The Hunger Cycle and other community-focused productions. Company has taken residence in small towns and urban neighborhoods to tell local stories through theater.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Michael John Garcés | Artistic Director | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Original community-created plays, ensemble productions
+- **Focus**: "Magic Fruit" (Hunger Bridge Show), DIRECT ADDRESS commissions
+- **Philosophy**: "Any theater that has a result in mind is not having a conversation"
+- Integrates professional artists with community members who would never think of themselves as artists
+- Productions celebrate many voices from underrepresented communities
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown/varies by production |
+| **Ticket Range** | Unknown |
+| **Online Sales** | Not clearly evident on website |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 213-613-1700 |
-| **Website** | http://cornerstonetheater.org/ |
+| **Website** | https://cornerstonetheater.org |
+| **Location** | Los Angeles, CA |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 20/100 — Poor Fit**
+Not a traditional ticketing venue. Community theater company producing sporadic productions in non-traditional spaces. No clear ticketing infrastructure or regular event calendar. Mission-driven organization focused on community collaboration rather than commercial ticket sales.
