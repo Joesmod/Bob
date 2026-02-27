@@ -1,56 +1,46 @@
 # Historic Heard Opera House Arcadia
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 106 W Oak St, Arcadia, FL 34266, USA |
-| **Phone** | (863) 444-4328 |
-| **Website** | http://historic-heard-opera-house-arcadia.square.site/ |
-| **Google Rating** | 4.5/5 (284 reviews) |
-| **Type** | Event Venue, Live Music Venue, Performing Arts Theater |
-| **Google Maps** | [View](https://maps.google.com/?cid=6396736518579873559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic opera house in Arcadia, FL operating as an event venue and performing arts theater. Located at 106 W Oak St in downtown Arcadia. Google rating of 4.5/5 from 284 reviews indicates active community engagement.
 
 ## History
-
-_Research pending_
+Historic venue (specific founding date requires further research). Preserved and operating as a performing arts space in small-town Florida.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Contact via phone | (863) 444-4328 | Google Places |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Event venue, live music, performing arts theater
+- **Genres**: Multiple (specific programming requires further research)
+- Limited information available on Square website (minimal content extraction)
+- Google reviews suggest active event programming and community use
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Square (website hosted on Square platform) |
+| **Ticket Range** | Not visible |
+| **Online Sales** | Likely via Square |
+
+Website is built on Square's platform (historic-heard-opera-house-arcadia.square.site), suggesting they use Square for payments/ticketing.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 863-444-4328 |
-| **Website** | http://historic-heard-opera-house-arcadia.square.site/ |
+| **Phone** | (863) 444-4328 |
+| **Address** | 106 W Oak St, Arcadia, FL 34266 |
+| **Website** | http://historic-heard-opera-house-arcadia.square.site |
+| **Google Maps** | [View](https://maps.google.com/?cid=6396736518579873559) |
 
 ## Opendate Fit
+**Score: 55/100 — Moderate Lead**
+Historic venue in small Florida town with good community engagement (4.5★, 284 reviews). Currently using Square platform which is basic but switchable. Limited online presence makes it difficult to assess event volume and ticketing sophistication. Small market venue - may benefit from better ticketing platform but decision-making process and volume unknown. Worth follow-up contact to learn more about their operation.
 
-_Assessment pending_
+**Note**: Website has minimal public content. Direct outreach needed to understand their programming, event frequency, and ticketing needs.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-27*
+*Source: Google Places API + web research*

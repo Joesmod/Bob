@@ -1,56 +1,48 @@
 # K.O. Performing Arts
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 2700 Sheridan Ave, Miami Beach, FL 33140, USA |
-| **Phone** | (310) 902-2910 |
-| **Website** | https://www.koperformingarts.com/ |
-| **Google Rating** | 5/5 (7 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=8953273848414264476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Performing arts school in Miami Beach offering theater classes, summer camps, and MainStage musical productions for children and teens ages 6-17. Not a traditional ticketed venue—primarily an educational program that produces student shows.
 
 ## History
-
-_Research pending_
+Founded and led by Kelly O'Shea. Featured on South Florida Live NBC 6.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Kelly O'Shea | Director & Producer | Website |
+| Catherine Hamilton | Choreographer & Assistant Director | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Student productions (musical theater)
+- **Genres**: Broadway-style musicals performed by students
+- **Programs**:
+  - MainStage Musicals (ages 6-17, by audition)
+  - Theater Classes
+  - On-Camera Acting Classes
+  - Private Lessons (voice, piano, songwriting)
+  - Summer Camps
+- **Frequency**: Seasonal productions (Spring 2026 season: Jan 12 - May 31)
+- **Faculty**: Broadway performers and nationally touring artists
+- Productions performed at professional venues (location varies)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | HiSawyer (class registration platform) |
+| **Ticket Range** | N/A - student productions, likely free/family tickets |
+| **Online Sales** | Class registration via hisawyer.com |
+
+This is an educational program, not a commercial ticketed venue. Productions are student showcases.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 310-902-2910 |
-| **Website** | https://www.koperformingarts.com/ |
+| **Website** | https://www.koperformingarts.com |
+| **Instagram** | @koperformingarts |
+| **Facebook** | Listed (specific handle not captured) |
+
+Contact form available on website but no direct email/phone listed publicly.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 20/100 — Not a Fit**
+This is a performing arts school for children, not a commercial ticketed venue. Productions are student showcases for families, not public ticketed events. Does not align with Opendate's target market of professional venues selling tickets to the general public.

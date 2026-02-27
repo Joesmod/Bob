@@ -1,56 +1,50 @@
 # Howl at the Moon San Antonio
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 111 W. Crockett Street St. #201, 111 W Crockett St St. #201, San Antonio, TX 78205, USA |
-| **Phone** | (210) 212-4770 |
-| **Website** | https://www.howlatthemoon.com/san-antonio/ |
-| **Google Rating** | 4.3/5 (2569 reviews) |
-| **Type** | Bar, Lounge Bar, Night Club, Live Music Venue, Cocktail Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=4552522017371394936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+National chain dueling piano bar located on the San Antonio Riverwalk South Bank. High-energy live music venue featuring dueling pianos, dancing, and drinks. Open 7 nights a week with shows starting nightly. Part of Howl at the Moon national franchise.
 
 ## History
-
-_Research pending_
+Part of the Howl at the Moon national chain of dueling piano bars with locations across the US.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| National franchise | Corporate ownership | Website |
+
+Contact information not publicly listed for individual location management.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Dueling piano bar (live interactive music)
+- **Genres**: Top 40, rock, pop, party music (request-driven format)
+- **Frequency**: 7 nights per week
+- **Show times**: 
+  - Thursday: 7:30 PM
+  - Friday-Saturday: 7 PM
+  - Sunday-Wednesday: 7:30 PM
+- **Special events**: 
+  - Theme nights (80s night, 2000s night, St. Patrick's Day)
+  - Howlin' Heroes Thursdays (military/first responder specials)
+- **Capacity**: Not specified
+- Not a traditional ticketed venue - bar/nightclub format with free admission (table reservations available)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - no ticketed shows |
+| **Admission** | Free (cover charge may apply) |
+| **Online Sales** | Table reservations only |
+
+Piano bar format with no advance ticket sales. Revenue from food, drinks, and table reservations.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 210-212-4770 |
-| **Website** | https://www.howlatthemoon.com/san-antonio/ |
+| **Website** | https://home.howlatthemoon.com/san-antonio/ |
+| **Address** | Riverwalk South Bank, San Antonio, TX |
+| **Hours** | Thu-Sun 7PM-2AM, Fri-Sat 6PM-2AM |
+
+Specific street address and phone number not visible on website.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 10/100 — Not a Fit**
+This is a bar/nightclub with live entertainment, not a ticketed venue. Operates on a free admission model with revenue from alcohol sales and table reservations. No advance ticket sales or box office operation. Not aligned with Opendate's ticketing platform use case. Corporate franchise operation means local decision-making is limited.

@@ -1,56 +1,59 @@
 # Scottish Rite Auditorium
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 308 Ave E, San Antonio, TX 78205, USA |
-| **Phone** | (210) 222-0133 |
-| **Website** | https://www.sanantonioscottishrite.com/the-perfect-venue |
-| **Google Rating** | 3.9/5 (208 reviews) |
-| **Type** | Auditorium, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17060027722254650386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic auditorium and event venue operated by the San Antonio Scottish Rite Valley (Masonic organization). Built in 1924 and designed for South Texas arts and entertainment. Multi-purpose rental facility hosting theater, symphony, weddings, corporate events, talent competitions, sporting events, banquets, and awards ceremonies.
 
 ## History
-
-_Research pending_
+Built in 1924. Has hosted "some of San Antonio's finest events" for 100+ years. Historic venue maintained by the Scottish Rite Masonic organization.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Valley Office | General inquiries | ValleyOffice@SanAntonioScottishRite.com |
+| Valley Secretary | Administrative | Secretary@SanAntonioScottishRite.com |
+| Personal Representative | Valley PR | ValleyPR@SanAntonioScottishRite.com |
 
 ## Programming & Shows
+- **Type**: Multi-purpose rental venue
+- **Event types**: 
+  - Theater productions
+  - Symphony concerts
+  - Weddings
+  - Corporate events
+  - Talent competitions
+  - Sporting events
+  - Black tie events
+  - Awards banquets
+  - Ballroom events
+- **Ownership**: Operated by San Antonio Scottish Rite Valley (Masonic organization)
+- Events managed by individual renters, not house-produced shows
 
-_Research pending — what genres, typical acts, event types_
+## Facility
+- Historic 1924 auditorium
+- Multiple event spaces including auditorium and ballrooms
+- Capacity not specified on website
+- Rental website: scottishritehall.com
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Varies by event/renter |
+| **Ticket Range** | N/A - rental venue |
+| **Online Sales** | Managed by individual event producers |
+
+As a rental facility, ticketing is handled by the organizations that rent the space.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 210-222-0133 |
+| **Valley Office** | ValleyOffice@SanAntonioScottishRite.com |
+| **Valley Secretary** | Secretary@SanAntonioScottishRite.com |
+| **Phone** | (210) 222-0133 |
+| **Fax** | (210) 222-0136 |
+| **Address** | 308 Avenue E, San Antonio, TX 78205 |
 | **Website** | https://www.sanantonioscottishrite.com/the-perfect-venue |
+| **Rental Site** | https://scottishritehall.com/ |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 20/100 — Not a Fit**
+This is a rental venue owned by a Masonic organization (Scottish Rite), not a professional venue producing ticketed shows. Decision-making controlled by fraternal organization leadership with institutional governance. Does not sell tickets directly—operates as facility rental where individual renters manage their own events and ticketing. Not aligned with Opendate's target market of venues seeking integrated ticketing solutions for their own programming.

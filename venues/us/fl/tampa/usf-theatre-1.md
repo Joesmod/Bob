@@ -1,56 +1,47 @@
 # USF Theatre 1
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 3839 USF Holly Drive Theatre I, Tampa, FL 33620, USA |
-| **Phone** | (813) 974-2323 |
-| **Website** | http://arts.usf.edu/ |
-| **Google Rating** | 4.8/5 (18 reviews) |
-| **Type** | Performing Arts Theater, Concert Hall, Auditorium, Live Music Venue, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12609590571916963003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+University theater space within the USF School of Theatre & Dance, part of the College of Design, Art & Performance at University of South Florida (Tampa campus). One of multiple performance spaces used for student productions, academic programming, and educational theater.
 
 ## History
-
-_Research pending_
+Part of USF's School of Theatre & Dance, which produces over 250 events annually as part of the university's arts programming. USF has a 70-year history in Tampa's Ybor City arts scene.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Gretchen Ward Warren | Professor Emerita of Dance | Website/NPR |
+
+Faculty directory available on website but specific theater management contacts not listed publicly.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Academic theater productions
+- **Genres**: Student-produced theater and dance performances
+- **Frequency**: Part of 250+ annual arts events across the college
+- **Programs**: 
+  - Bachelor of Fine Arts in Dance Performance
+  - Bachelor of Arts in Theatre Arts, Theatre Design, Theatre Performance, Dance Studies
+  - Student-written, choreographed, designed, and performed productions
+- **Past productions**: "9 to 5: The Musical" (SPOTLIGHT Festival)
+- Productions serve educational purposes for theater and dance students
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | University box office (platform unclear) |
+| **Ticket Range** | Student/community pricing typical for academic venues |
+| **Online Sales** | Likely managed through USF arts box office |
+
+Event ticketing integrated with university systems.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 813-974-2323 |
-| **Website** | http://arts.usf.edu/ |
+| **Website** | https://www.usf.edu/arts/theatre-and-dance/ |
+| **College** | College of Design, Art & Performance |
+| **Address** | University of South Florida, Tampa, FL |
+
+General contact through School of Theatre & Dance. No specific venue contact info publicly listed.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 25/100 — Not a Fit**
+This is an academic theater space within a university theater department, not a commercial ticketed venue. Primary function is education and student production showcasing. Ticketing decisions controlled by university administration with institutional procurement requirements. Not aligned with Opendate's target market of independent professional venues optimizing commercial ticketing.

@@ -1,56 +1,49 @@
-# Cristy B Comedy
+# Cristy B Comedy Club
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 242 S Beach St STE 100, Daytona Beach, FL 32114, USA |
-| **Phone** | (386) 297-2131 |
-| **Website** | http://cristybcomedy.com/ |
-| **Google Rating** | 4.8/5 (96 reviews) |
-| **Type** | Comedy Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=11517912482689581662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Stand-up comedy club in downtown Daytona Beach featuring nationally touring comedians, local talent, and specialty shows. Located at 242 S Beach St Suite 100. Active event calendar with 4-6 shows per week including showcases, open mics, and themed nights.
 
 ## History
-
-_Research pending_
+Described as "Daytona's Newest Event Venue" - recently opened comedy club bringing live stand-up to Daytona Beach.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Cristy B | Owner/Headliner | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Stand-up comedy (touring comedians, local showcases, open mics)
+- **Frequency**: 4-6 shows per week
+- **Ticket prices**: Varies by show (typically $15-$35 based on event links)
+- **Notable acts**: Nationally touring comedians (Patrick Garrity "Neverending Tour", Lance Weiss, Tommy Torres, James Yon)
+- **Specialty shows**: 
+  - "That's What She Said" (all-female comedy)
+  - "Broken Down Boomers Comedy Show"
+  - "Sunday Bubbly Sunday" comedy brunch
+  - Weekly open mic nights (Wednesdays)
+  - Karaoke nights
+  - Comedy hypnosis shows
+- Active March 2026 calendar shows consistent booking
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Best of Daytona (tickets.bestofdaytona.com) |
+| **Ticket Range** | $15-$35 typical |
+| **Online Sales** | Yes, via external ticketing platform |
+
+Event URLs all route through tickets.bestofdaytona.com platform.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 386-297-2131 |
-| **Website** | http://cristybcomedy.com/ |
+| **General Email** | info@CristyBComedy.com |
+| **Phone** | (386) 297-2131 |
+| **Address** | 242 S Beach St Suite 100, Daytona Beach, FL 32114 |
+| **Website** | https://cristybcomedy.com |
+| **Facebook** | Listed (link not captured) |
+| **Instagram** | Listed (handle not captured) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Good Lead**
+Active comedy club with consistent ticketed shows. Currently using Best of Daytona ticketing platform (switchable). Multiple shows per week with variety programming. Independent operation focused on live comedy. Good candidate for integrated ticketing platform with better margins and features.

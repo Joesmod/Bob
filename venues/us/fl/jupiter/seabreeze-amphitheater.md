@@ -1,56 +1,58 @@
 # Seabreeze Amphitheater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 750 South, Jimmy Buffett Mem Hwy, Jupiter, FL 33477, USA |
-| **Phone** | (561) 966-7043 |
-| **Website** | https://discover.pbc.gov/parks/amphitheaters/Pages/Seabreeze.aspx |
-| **Google Rating** | 4.7/5 (163 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=5924836573375572424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+County-owned outdoor amphitheater in Carlin Park, Jupiter, FL. 2,000 lawn capacity with covered 55' x 35' stage. Operated by Palm Beach County Parks & Recreation. Hosts concerts, theater, tribute bands, community fundraisers, and movies.
 
 ## History
-
-_Research pending_
+21+ years of operation. Long-time home to Palm Beach Shakespeare Festival (now in its 21st season).
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| VACANT | Recreation Programs Coordinator | Website |
+| VACANT | Amphitheater Manager | Website |
+| Rebecca Cruz | Amphitheater Assistant Manager | Website |
 
 ## Programming & Shows
+- **Genres**: Theater (Shakespeare Festival), concerts, tribute bands, community events, movies
+- **Frequency**: Regular programming including 21-season Shakespeare Festival
+- **Capacity**: 2,000 (lawn seating)
+- **Notable tenants**: 
+  - Palm Beach Shakespeare Festival (resident company)
+  - Safe Harbor Celebrity Dog Wash (annual)
+  - CBS Radio events
+  - Guanabanas Restaurant events
+- **Rental venue**: Available for private events and productions
 
-_Research pending — what genres, typical acts, event types_
+## Facility Specs
+- **Stage**: 55' wide x 35' deep, covered, 26' truss height
+- **Capacity**: 2,000 lawn (no fixed seats)
+- **Dressing rooms**: 3 (two at 210 SF, one at 213 SF)
+- **Power**: 3-phase 120/208, 400 amp
+- **Load-in**: 4' side-of-stage loading dock
+- **Notable**: NO house light or sound system (renters provide own)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Varies by event/renter |
+| **Ticket Range** | Varies (county facility) |
+| **Online Sales** | Managed by individual event producers |
+
+As a rental facility, ticketing is handled by individual renters (e.g., Shakespeare Festival manages their own tickets).
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 561-966-7043 |
+| **General Email** | pbcamphitheaters@pbc.gov |
+| **Phone** | (561) 966-7043 |
+| **Address** | Carlin Park, 750 South S.R. A1A, Jupiter, FL 33477 |
 | **Website** | https://discover.pbc.gov/parks/amphitheaters/Pages/Seabreeze.aspx |
+| **Facebook** | @SeabreezeAmphitheater |
+| **Instagram** | @pbc_amphitheaters |
+
+Rental applications and guides available on website.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 15/100 — Not a Fit**
+County-owned public park facility operated by Palm Beach County Parks & Recreation department. Decision-making controlled by government bureaucracy with formal procurement processes. Does not sell tickets directly—operates as rental venue where individual producers manage their own ticketing. Not aligned with Opendate's target market of independent venues seeking integrated ticketing solutions. Government contracts are slow, complex, and low-priority targets.
