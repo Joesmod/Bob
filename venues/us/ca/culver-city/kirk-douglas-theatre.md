@@ -1,56 +1,36 @@
 # Kirk Douglas Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 9820 Washington Blvd, Culver City, CA 90232, USA |
-| **Phone** | (213) 628-2772 |
-| **Website** | http://www.centertheatregroup.org/ |
-| **Google Rating** | 4.7/5 (476 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=8411369013379087967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Theater venue operated by Center Theatre Group. Website content extraction failed during research.
 
 ## History
-
-_Research pending_
+Part of Center Theatre Group's network of Los Angeles theaters. Named after actor Kirk Douglas.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not accessible | Center Theatre Group staff | Website extraction failed |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Operator**: Center Theatre Group
+- **Genres**: Unable to determine
+- **Frequency**: Unknown
+- Website extraction failed
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Ticket Range** | Not accessible |
+| **Online Sales** | Likely via Center Theatre Group system |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 213-628-2772 |
-| **Website** | http://www.centertheatregroup.org/ |
+| **Website** | www.centertheatregroup.org |
+| **City** | Culver City, CA |
+| **Operator** | Center Theatre Group |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 60/100 — Part of Larger Organization**
+Kirk Douglas Theatre is operated by Center Theatre Group, a major LA theatrical institution that likely has enterprise-level ticketing infrastructure centrally managed. Multi-venue organizations typically have established contracts and systems that are difficult to change at the individual venue level. Would require engaging with Center Theatre Group's central operations rather than venue-level staff.

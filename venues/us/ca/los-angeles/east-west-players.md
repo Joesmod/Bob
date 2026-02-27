@@ -1,56 +1,41 @@
 # East West Players
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 120 Judge John Aiso St, Los Angeles, CA 90012, USA |
-| **Phone** | (213) 625-7000 |
-| **Website** | http://www.eastwestplayers.org/ |
-| **Google Rating** | 4.8/5 (144 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=15132634779459155716&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Nation's premier Asian American theater company based in Los Angeles, performing at the Aratani Theatre. Professional theater producing original works and reimagined classics with Asian American perspectives. Active event calendar with multiple shows per month including workshops, performances, and community events.
 
 ## History
-
-_Research pending_
+Founded as the first Asian American theater company in the United States. Decades of producing groundbreaking work centered on Asian American stories, artists, and perspectives. Recently presenting major productions including Rodgers and Hammerstein's "Flower Drum Song" with an updated book by David Henry Hwang.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not publicly listed | Artistic leadership | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Venue**: Aratani Theatre (for major productions)
+- **Focus**: Asian American theater, stories, and artists
+- **Current Production**: Flower Drum Song (April-May 2026)
+- **Event Frequency**: Multiple events per week including performances, workshops, community programs
+- **Programming**: Main stage productions, workshops, educational programs, community events
+- **Schedule**: Busy calendar - evening shows (7:30pm, 8:00pm) and matinees (1:00pm, 2:00pm, 3:30pm)
+- **Upcoming Events**: March-May 2026 calendar shows consistent programming
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown - likely professional system |
+| **Online Sales** | Yes (website indicates online ticketing) |
+| **Ticket Types** | Single tickets for shows, likely subscriptions/memberships |
+| **Schedule** | Multiple shows weekly during production runs |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 213-625-7000 |
-| **Website** | http://www.eastwestplayers.org/ |
+| **Website** | www.eastwestplayers.org |
+| **City** | Los Angeles, CA |
+| **Performance Venue** | Aratani Theatre |
+| **Newsletter** | Signup available for event news and updates |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 60/100 — Established Professional Theater**
+East West Players is a well-established, professional theater company with consistent programming and strong community presence. They perform at the Aratani Theatre and have an active calendar with regular ticketed events. As a nationally recognized arts organization, they likely have an established ticketing platform and box office operations. May be locked into existing contracts or satisfied with current system. However, if they're looking for better data/analytics, community engagement features, or cost savings, they could be a good prospect. Would need to identify current platform and decision-makers to assess switching potential.

@@ -1,56 +1,36 @@
 # James R. Armstrong Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 3330 Civic Center Dr, Torrance, CA 90503, USA |
-| **Phone** | (310) 781-7171 |
-| **Website** | https://arts.torranceca.gov/our-city/general-services/cultural-arts/james-r-armstrong-theatre |
-| **Google Rating** | 4.6/5 (345 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17378690232964423053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Municipal performing arts venue operated by the City of Torrance Cultural Arts department. Website blocked access during research (403 error).
 
 ## History
-
-_Research pending_
+Part of Torrance's Cultural Arts program. Named after James R. Armstrong.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not accessible | City of Torrance staff | Website blocked |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Ownership**: City of Torrance - General Services / Cultural Arts
+- **Genres**: Unable to determine
+- **Frequency**: Unknown
+- Website access was blocked (403 error)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Ticket Range** | Not accessible |
+| **Online Sales** | Unable to determine |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 310-781-7171 |
-| **Website** | https://arts.torranceca.gov/our-city/general-services/cultural-arts/james-r-armstrong-theatre |
+| **Website** | arts.torranceca.gov/our-city/general-services/cultural-arts/james-r-armstrong-theatre |
+| **City** | Torrance, CA |
+| **Department** | Cultural Arts / General Services |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 60/100 — Municipal Venue - Restricted Access**
+City-operated venue. Website blocked automated access. Municipal venues often have established systems through city contracts, which can make switching platforms complex. Would require direct contact with Torrance Cultural Arts department to assess ticketing needs and decision-making authority.

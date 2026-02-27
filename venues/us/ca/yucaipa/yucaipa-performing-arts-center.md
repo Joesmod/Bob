@@ -1,56 +1,34 @@
 # Yucaipa Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 12062 California St, Yucaipa, CA 92399, USA |
-| **Phone** | (909) 500-7714 |
-| **Website** | http://www.yucaipaperformingarts.org/ |
-| **Google Rating** | 4.6/5 (216 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1708555871371544036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Performing arts venue in Yucaipa, CA. Website exists but content did not extract properly during research, limiting available information.
 
 ## History
-
-_Research pending_
+Website present at yucaipaperformingarts.org but technical issues prevented content extraction.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not accessible | - | Website extraction failed |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Unable to determine from website
+- **Frequency**: Unknown
+- **Ticket prices**: Not accessible
+- Website exists but content extraction failed
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Ticket Range** | Not accessible |
+| **Online Sales** | Unable to determine |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 909-500-7714 |
-| **Website** | http://www.yucaipaperformingarts.org/ |
+| **Website** | www.yucaipaperformingarts.org |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 60/100 — Requires Direct Contact**
+Website is present but inaccessible via automated extraction. Would require direct outreach or manual browser visit to assess programming, ticketing setup, and Opendate fit. The existence of a dedicated website suggests they may host regular events.
