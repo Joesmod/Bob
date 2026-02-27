@@ -1,56 +1,35 @@
 # Miller Park Amphitheater
 
 ## Overview
+Outdoor amphitheater stage located in Miller Park, a City of Fontana municipal park. Available for rental for community events, concerts, and private functions. Part of larger park complex that includes playground, fitness center, pool, and racquetball courts.
 
-| | |
-|---|---|
-| **Address** | 17002 Arrow Blvd, Fontana, CA 92335, USA |
-| **Phone** | (909) 349-6900 |
-| **Website** | https://www.fontanaca.gov/716/Miller-Park |
-| **Google Rating** | 4.6/5 (68 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17775089754632011578&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Venue Details
+- **Type**: Outdoor amphitheater stage
+- **Ownership**: City of Fontana
+- **Park Features**: Fenced area, playground, restrooms, fitness center
+- **Use**: Rental for events and performances
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Facility Rental
+Contact (909) 349-6952 for amphitheater rental information and rates.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 909-349-6900 |
+| **Rental Info** | (909) 349-6952 |
 | **Website** | https://www.fontanaca.gov/716/Miller-Park |
+| **Operator** | City of Fontana Parks & Recreation |
+
+## Ticketing
+This is a rental venue, not a ticketed performance venue. Events are booked by external organizers who handle their own ticketing if needed. No regular programming schedule.
 
 ## Opendate Fit
+**Score: 10/100 — Not a Good Fit**
 
-_Assessment pending_
+**Why:**
+- Municipal park rental facility
+- No regular ticketed programming
+- City-operated (government entity)
+- Events organized by external renters
+- Primarily community events
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Recommendation:** Skip. This is a park rental facility, not a venue with regular ticketed shows.

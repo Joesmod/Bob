@@ -1,56 +1,31 @@
 # Ahmanson Theatre
 
 ## Overview
+Major professional theater in Los Angeles, part of Center Theatre Group. One of three theaters operated by Center Theatre Group at the Music Center in downtown LA. Presents Broadway and pre-Broadway productions, classic plays, and new works.
 
-| | |
-|---|---|
-| **Address** | 135 N Grand Ave, Los Angeles, CA 90012, USA |
-| **Phone** | (213) 628-2772 |
-| **Website** | https://www.centertheatregroup.org/ |
-| **Google Rating** | 4.8/5 (3233 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=18131343718004685837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Organization
+- **Operator**: Center Theatre Group
+- **Location**: The Music Center, Downtown Los Angeles
+- **Siblings**: Mark Taper Forum, Kirk Douglas Theatre
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 213-628-2772 |
-| **Website** | https://www.centertheatregroup.org/ |
+| **Website** | https://www.centertheatregroup.org |
+| **Organization** | Center Theatre Group |
+
+## Ticketing
+Center Theatre Group operates three major LA theaters and uses enterprise-level ticketing infrastructure. Likely AudienceView or similar large-scale platform.
 
 ## Opendate Fit
+**Score: 5/100 — Not a Good Fit**
 
-_Assessment pending_
+**Why:**
+- Major professional theater company
+- Part of LA's Music Center complex
+- Enterprise-level operation
+- Institutional/cultural landmark status
+- Established ticketing infrastructure across multiple venues
+- High production budgets and complexity
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Recommendation:** Skip. This is a major cultural institution, not an independent venue. Website failed to load during research, but this is clearly outside Opendate's target market.
