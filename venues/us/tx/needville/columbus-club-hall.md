@@ -1,56 +1,26 @@
 # Columbus Club Hall
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 13631 TX-36, Needville, TX 77461, USA |
-| **Phone** | (979) 793-6224 |
-| **Website** | https://www.kofc.org/ |
-| **Google Rating** | 4.4/5 (21 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7546262663484639517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Knights of Columbus hall in Needville, Texas. The provided website (kofc.org) is the national Knights of Columbus organization, not the specific local hall. Knights of Columbus halls typically serve as meeting spaces for the Catholic fraternal organization and are sometimes rented for weddings, community meetings, and private events. Not a commercial performance venue.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Primary Use**: Knights of Columbus meetings, community events
+- **Rentals**: Likely available for weddings, private parties, community gatherings
+- **No ticketed concerts or performances**: This is a community hall, not an entertainment venue
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - no ticketed events |
+| **Ticket Range** | N/A |
+| **Online Sales** | No |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 979-793-6224 |
-| **Website** | https://www.kofc.org/ |
+| **Website Listed** | https://www.kofc.org (national organization, not venue-specific) |
+| **Location** | Needville, TX |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 5/100 — Not a Fit**
+Columbus Club Hall is a Knights of Columbus community hall used for organizational meetings and private event rentals, not a commercial performance venue selling tickets to concerts or shows. Completely outside Opendate's target market.

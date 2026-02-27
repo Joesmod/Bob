@@ -1,52 +1,28 @@
 # Holiday World
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Santa Claus |
-| **State** | IN |
-| **Country** | US |
-| **Category** | Attraction |
-| **Website** | holidayworld.com |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Family-owned theme park and water park in Santa Claus, Indiana. Features Holiday World (theme park with roller coasters) and Splashin' Safari (water park). Known for free soft drinks, sunscreen, and parking. This is an amusement park attraction, not a live event venue.
 
 ## Programming & Shows
-
-_Research pending_
+- **Primary Use**: Theme park admission (daily tickets and season passes)
+- **Events**: Seasonal events like Halloween activities, drone shows at the park
+- **No ticketed concerts or live performances**: This is a ride-based amusement park
+- Tickets sold for park admission, not individual shows
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | Custom e-commerce for park admission |
+| **Ticket Type** | Daily admission, season passes |
+| **Online Sales** | Yes, via holidayworld.com |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | fun@holidayworld.com |
+| **Phone** | (812) 937-4401 |
+| **Address** | 452 E. Christmas Blvd., Santa Claus, IN 47579 |
 | **Website** | holidayworld.com |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+**Score: 5/100 — Not a Fit**
+This is a theme park/water park selling admission tickets, not a live event venue. They do not host ticketed concerts, comedy shows, theater, or similar performances. Completely outside Opendate's target market.

@@ -1,52 +1,38 @@
-# Music Center Of The Northwest Performance Hall
+# Music Center of the Northwest Performance Hall
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Seattle |
-| **State** | WA |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | musiccenternw.org |
-
-## About
-
-_Research pending — web scrape needed_
+Nonprofit community music school in North Seattle founded in 1989. Offers private lessons, group classes, ensembles, and workshops for all ages and abilities. Has a performance hall that hosts student recitals and can be rented for events. This is primarily an educational institution, not a commercial performance venue.
 
 ## History
-
-_Research pending_
+Founded in 1989, Music Center is Seattle's oldest community music school. Member of the National Guild for Community Arts Education and associate member of the Washington Music Educators Association. Located at 901 N 96th St in Seattle.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| (Staff not listed on pages fetched) | Executive Director | |
 
 ## Programming & Shows
-
-_Research pending_
+- **Primary Use**: Music education (lessons and classes)
+- **Student Recitals**: Free student performances
+- **Resident Ensembles**: CenterPiece Jazz and other groups perform at community venues (free shows)
+- **Hall Rentals**: Performance hall available for rental
+- **No regular ticketed concerts**: Events are primarily educational or free community performances
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | N/A - no ticketed events |
+| **Ticket Range** | N/A (student recitals are free) |
+| **Online Sales** | No commercial ticketing |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | user@domain.com |
+| **Email** | office@musiccenternw.org |
+| **Phone** | (206) 526-8443 |
+| **Address** | Physical: 901 N 96th St, Seattle, WA 98103 / Mailing: PO Box 30757, Seattle, WA 98113 |
 | **Website** | musiccenternw.org |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+**Score: 10/100 — Not a Fit**
+This is a nonprofit music education school, not a commercial performance venue. They host free student recitals and community performances, not ticketed concerts or shows. Their performance hall may be available for rental, but the organization itself doesn't operate as a ticketed event venue. Not a candidate for Opendate's platform.
