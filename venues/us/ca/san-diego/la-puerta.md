@@ -1,56 +1,50 @@
 # La Puerta
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 560 Fourth Ave, San Diego, CA 92101, USA |
-| **Phone** | (619) 696-3466 |
-| **Website** | https://lapuertasd.com/?utm_source=Business-Listings |
-| **Google Rating** | 4.5/5 (5050 reviews) |
-| **Type** | Mexican Restaurant, Sports Bar, Brunch Restaurant, Lounge Bar, Bar And Grill |
-| **Google Maps** | [View](https://maps.google.com/?cid=4238869013816314905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Mexican restaurant and tequila bar with two San Diego locations (Downtown and Mission Hills). Tagline: "Tacos, Tunes, & Tequila" - emphasizes Sinaloa-inspired family recipes, fresh margaritas, and a celebratory bar atmosphere with music. Casual dining and drinking spot, not a ticketed performance venue.
 
 ## History
-
-_Research pending_
+Positioned as an unexpected neighborhood spot in downtown San Diego with affordable Mexican food and drinks. Brand identity centers around hospitality, daily happy hours (3-5pm), and fresh ingredients. Uses family recipes from Sinaloa.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not listed | - | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Restaurant/bar, not a traditional performance venue
+- **Entertainment**: Background music ("tunes"), occasional DJ or ambient live music likely
+- **No ticketed events**: No events calendar, no ticket sales, no show listings
+- **Happy Hour**: Daily 3-5pm
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Not a ticketed venue |
+| **Ticket Range** | N/A |
+| **Online Sales** | Online ordering for food via ToastTab; OpenTable reservations at Mission Hills |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 619-696-3466 |
-| **Website** | https://lapuertasd.com/?utm_source=Business-Listings |
+| **Downtown Phone** | (619) 696-3466 |
+| **Mission Hills Phone** | (619) 876-5200 |
+| **Instagram** | @lapuertasd |
+| **Facebook** | facebook.com/LaPuertaSD |
+| **Twitter** | @lapuertasd |
+
+## Locations
+**Downtown (Original):**
+- Hours: Mon-Thu 11am-midnight, Fri 11am-1am, Sat 10am-1am, Sun 10am-midnight
+- No reservations
+
+**Mission Hills:**
+- Hours: Mon-Thu 11am-10:30pm, Fri 11am-11pm, Sat 9am-11pm, Sun 9am-10:30pm
+- Takes OpenTable reservations
 
 ## Opendate Fit
+**Score: 0/100 — Not a Fit**
 
-_Assessment pending_
+La Puerta is a restaurant and tequila bar, not a ticketed event venue. While they use "Tunes" in their tagline, there's no evidence of ticketed shows, events calendar, or performance programming. Their online presence focuses on food menus, drink lists, and online ordering. This is a dining/drinking establishment, not a venue for Opendate's ticketing platform.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Recommendation**: Remove from sheet or mark as "Not a venue."

@@ -1,56 +1,41 @@
 # Bar Clara
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 649 S Olive St, Los Angeles, CA 90014, USA |
-| **Phone** | (213) 358-0000 |
-| **Website** | http://barclaradtla.com/ |
-| **Google Rating** | 4.1/5 (71 reviews) |
-| **Type** | Bar, Lounge Bar, Night Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=7290784069727491019&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Rooftop bar located at Hotel Per La (Marriott Autograph Collection) in downtown Los Angeles. Features California-inspired cocktails, poolside seating, and views of LA skyline. Named after Claire Giannini, honoring her legacy of breaking class barriers.
 
 ## History
-
-_Research pending_
+Part of Hotel Per La. Named in honor of Claire Giannini, who dedicated her life to breaking barriers and treating everyone with respect. The bar embodies this philosophy through inclusive hospitality.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not listed | - | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Hotel rooftop bar, not a performance venue
+- **Events**: Sunday Swim Club with DJ music and poolside events
+- **No ticketed shows**: Social/poolside events only, no concert programming
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Not a ticketed venue |
+| **Ticket Range** | N/A |
+| **Online Sales** | Resort Pass for cabana reservations |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 213-358-0000 |
-| **Website** | http://barclaradtla.com/ |
+| **Website** | hotelperla.com/bar-clara/ |
+
+## Hours
+- Sunday: 11am-10pm
+- Monday: 11am-10pm
+- Tue-Sat: 11am-8pm
 
 ## Opendate Fit
+**Score: 0/100 — Not a Fit**
 
-_Assessment pending_
+Bar Clara is a hotel rooftop bar, not a ticketed performance venue. While they host "Sunday Swim Club" with DJs, these are casual poolside events, not ticketed concerts. This is a hospitality/dining establishment within a Marriott hotel, not a venue appropriate for Opendate's ticketing platform.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Recommendation**: Remove from sheet or mark as "Not a venue."

@@ -1,56 +1,44 @@
 # Brickroom LA
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 5364 Wilshire Blvd, Los Angeles, CA 90036, USA |
-| **Phone** | (424) 535-1754 |
-| **Website** | https://brickroomla.com/ |
-| **Google Rating** | 4.9/5 (35 reviews) |
-| **Type** | Event Venue, Live Music Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11950302870095138784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Event space rental and private club located in Mid Wilshire, Los Angeles (Wilshire & La Brea). Historic brick building with original rafters, high ceilings, and over a century of architectural history. Features ballroom with stage, LED wall, professional sound system, and VIP seating areas.
 
 ## History
-
-_Research pending_
+Over a century of history in one of LA's most unique architectural buildings. Positioned as a private club and event space in the Miracle Mile area of central Los Angeles.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not listed | - | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Event space rental, not a regular performance venue
+- **Uses**: Engagement parties, corporate events, holiday parties, birthday parties
+- **Mentioned**: "Intimate concerts" listed as possible use case
+- **Business model**: Private event bookings, not public ticketed shows
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Not a ticketed venue |
+| **Ticket Range** | N/A |
+| **Online Sales** | Contact-based private event booking |
+
+## Facilities
+- Ballroom with stage
+- LED wall for brand displays/videos
+- Professional sound system
+- Two elevated VIP seating areas
+- Bar
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 424-535-1754 |
-| **Website** | https://brickroomla.com/ |
+| **Website** | brickroomla.com |
 
 ## Opendate Fit
+**Score: 15/100 — Unlikely Fit**
 
-_Assessment pending_
+Brickroom LA is primarily an event space rental business for private functions (weddings, corporate events, parties). While they mention "intimate concerts" as a potential use case, there's no evidence of regular public ticketed shows, events calendar, or concert programming. Their business model is based on private bookings and venue rentals, not public ticket sales.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Not appropriate for Opendate unless they pivot to hosting regular public concerts with their own programming.

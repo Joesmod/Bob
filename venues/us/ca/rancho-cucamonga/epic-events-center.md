@@ -1,56 +1,38 @@
 # Epic Events Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 12469 Foothill Blvd, Rancho Cucamonga, CA 91739, USA |
-| **Phone** | (909) 899-3742 |
-| **Website** | http://epiceventscenter.com/ |
-| **Google Rating** | 4.6/5 (115 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17893775993569613922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Private event venue in Rancho Cucamonga. Tastefully decorated event space for mid-sized gatherings. Focuses on parties, corporate events, brunch service. Described as having "classy ambiance" with professional staff.
 
 ## History
-
-_Research pending_
+Local venue established in Rancho Cucamonga area.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not listed | - | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Private event venue, not a performance space
+- **Events**: Birthday parties, corporate events, celebrations
+- **Food**: Brunch service noted as "amazing" in reviews
+- **No public shows**: No events calendar, no ticketed performances
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Not a ticketed venue |
+| **Ticket Range** | N/A |
+| **Online Sales** | Contact-based private event inquiry system |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 909-899-3742 |
-| **Website** | http://epiceventscenter.com/ |
+| **Website** | epiceventscenter.com |
+| **Booking** | Submit inquiry form for private parties |
 
 ## Opendate Fit
+**Score: 0/100 — Not a Fit**
 
-_Assessment pending_
+Epic Events Center is a private event space for parties and corporate functions. No evidence of public ticketed shows, concert programming, or entertainment events. This is a venue rental business for private celebrations, not a performing arts or concert venue.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Recommendation**: Remove from sheet or mark as "Not a venue."

@@ -1,56 +1,40 @@
 # Empire Stage
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1140 N Flagler Dr, Fort Lauderdale, FL 33304, USA |
-| **Phone** | (954) 678-1496 |
-| **Website** | http://www.empirestage.com/ |
-| **Google Rating** | 4.6/5 (170 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12156350114882867863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Intimate blackbox theater in Fort Lauderdale. Performance art space hosting comedy shows, theatrical parodies, and alternative entertainment. Known for their "hidden gem" atmosphere with close seating and engaging performances.
 
 ## History
-
-_Research pending_
+Founded as a performance art theater. David R. Gordon is a founding producing partner and active performer at the venue. The space has built a reputation for hosting unique comedy and parody productions, including long-running shows like "Thank You For Being a Friend" (a Golden Girls parody).
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| David R. Gordon | Founding Producing Partner/Actor | Website About Page |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Comedy, parody theater, alternative performance art, "naked comedy" shows
+- **Frequency**: Regular productions, specific schedule not listed on events page
+- **Notable shows**: "Thank You For Being a Friend" (Golden Girls parody), "Making Porn", "He's Coming Up the Stairs!"
+- **Vibe**: Intimate blackbox setting described as "hip theater" with lobby couches and snacks
+- Reviews emphasize close seating where "you see and hear everything"
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown - events page has no ticket links |
+| **Ticket Range** | Not listed |
+| **Online Sales** | Unclear - website has events section but no active ticket sales visible |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 954-678-1496 |
-| **Website** | http://www.empirestage.com/ |
+| **Email** | info@empirestage.com |
+| **Phone** | (954) 678-1496 |
+| **Address** | 1140 N Flagler Drive, Fort Lauderdale, FL 33304 |
+| **Facebook** | facebook.com/Empire-Stage-354660904550487 |
+| **Instagram** | @empirestage (location tag) |
 
 ## Opendate Fit
+**Score: 50/100 — Uncertain Fit**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Theater appears active based on reviews but website has minimal event listings and no visible ticketing integration. Events page is essentially empty. May do in-person box office sales or email reservations. Would need direct outreach to understand their current ticketing setup and volume. The intimate blackbox format and alternative programming could work with Opendate, but unclear event frequency and ticketing needs make this a lower-priority lead without more information.
