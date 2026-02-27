@@ -13,42 +13,62 @@
 
 ## About
 
-_Research pending — web scrape needed_
+University concert hall within the School of Music at California State University, Fullerton's College of the Arts. Part of an academic arts complex serving 40,000+ students and community members annually. Hosts student and faculty recitals, concerts, and performances as part of CSUF's NASM-accredited music program (accredited since 1966).
 
 ## History
 
-_Research pending_
+Part of California State University, Fullerton's College of the Arts complex. The college presents hundreds of concerts, exhibitions, and performances annually and serves as both an academic and cultural resource for Southern California.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _School of Music Faculty_ | Various | Website |
+| jbussell@fullerton.edu | Web Contact | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Primary Focus**: Classical music, student recitals, faculty performances, university ensembles
+- **Programming**: Academic concerts, School of Music performances, guest artist performances
+- **Ensembles**: University orchestras, choirs, jazz bands, chamber groups
+- **Frequency**: Regular academic year programming (fall/spring semesters)
+- **Ticketing**: Likely free or low-cost for university events
+- Part of a college that welcomes 40,000+ attendees annually across all venues and events
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | University-managed (academic venue) |
+| **Box Office** | (657) 278-3371 |
+| **Online Sales** | Unknown - website access limited |
+| **Ticket Range** | Free to low-cost (academic venue) |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 657-278-3371 |
-| **Website** | https://arts.fullerton.edu/ |
+| **General** | jbussell@fullerton.edu |
+| **Phone** | (657) 278-3371 |
+| **Website** | https://www.fullerton.edu/arts/ |
+| **Main Site** | https://www.fullerton.edu/arts/music/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 25/100 — Poor Fit**
+
+**Why Not a Good Lead**:
+- **Academic venue** - Part of a university music school
+- **Non-commercial ticketing** - Primarily free or low-cost student/faculty performances
+- **Institutional control** - University-managed, not independent operator
+- **Limited commercial need** - Academic programming doesn't require sophisticated commercial ticketing platform
+
+**Reality**: This is an educational facility, not a commercial venue. Most events are likely free or minimal cost for students/community. Universities typically use institutional systems (e.g., campus box office, Ticketmaster higher ed partnerships) rather than independent ticketing platforms. Not a viable commercial customer for Opendate.
+
+---
+
+*Last updated: 2026-02-27*
+*Research: Limited web access - university firewall restrictions*
 
 ---
 

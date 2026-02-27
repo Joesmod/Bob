@@ -13,42 +13,59 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Academic performing arts theater within California State University, Fullerton's College of the Arts. Part of the same CSUF arts complex as Meng Concert Hall. Hosts student and faculty theater, dance, and interdisciplinary performances as part of the university's academic programming.
 
 ## History
 
-_Research pending_
+Part of Cal State Fullerton's College of the Arts, which serves as both an academic and cultural resource for Southern California. The college presents hundreds of events annually for students and the community.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _College of the Arts Faculty_ | Various | Website |
+| jbussell@fullerton.edu | Web Contact | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Primary Focus**: Theater, dance, student productions, faculty showcases
+- **Programming**: Academic year performances (fall/spring semesters)
+- **Type**: Student productions, visiting artists, department showcases
+- **Ticketing**: Likely free or low-cost for university events
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | University-managed (academic venue) |
+| **Box Office** | (657) 278-3371 |
+| **Online Sales** | Unknown |
+| **Ticket Range** | Free to low-cost (academic venue) |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 657-278-3371 |
-| **Website** | http://arts.fullerton.edu/ |
+| **General** | jbussell@fullerton.edu |
+| **Phone** | (657) 278-3371 |
+| **Website** | https://www.fullerton.edu/arts/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 25/100 — Poor Fit**
+
+**Why Not a Good Lead**:
+- **Academic venue** - Part of CSUF College of the Arts (same as Meng Concert Hall)
+- **Non-commercial** - Primarily student productions and academic programming
+- **Institutional control** - University-managed, not independent
+- **Limited commercial need** - Free/low-cost events don't require commercial ticketing platform
+
+**Reality**: Academic facility, not a commercial venue. Same limitations as Meng Concert Hall (see that profile). Universities use institutional systems, not independent platforms. Not a viable Opendate customer.
+
+---
+
+*Last updated: 2026-02-27*
+*Research: Limited web access - same CSUF facility as Meng Concert Hall*
 
 ---
 
