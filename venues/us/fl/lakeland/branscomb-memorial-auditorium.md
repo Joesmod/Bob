@@ -1,56 +1,41 @@
 # Branscomb Memorial Auditorium
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1100 Johnson Ave, Lakeland, FL 33803, USA |
-| **Phone** | (863) 680-4296 |
-| **Website** | https://www.flsouthern.edu/campus-life/arts-centers/festival-of-fine-arts/ticket-and-seating-information |
-| **Google Rating** | 4.6/5 (266 reviews) |
-| **Type** | Auditorium, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=4765375309983888014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic 1,800-seat auditorium at Florida Southern College in Lakeland, FL. Part of the college's Festival of Fine Arts, featuring one of the largest collections of Frank Lloyd Wright architecture in the world. Known for outstanding acoustics and serves as the main performance hall for symphonies, jazz, and headline performances.
 
 ## History
+Branscomb Auditorium is the crown jewel of Florida Southern College's performing arts facilities. The campus features the world's largest single-site collection of Frank Lloyd Wright architecture, including a unique Theatre-in-the-Round designed by Wright himself.
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Venues
+The college operates multiple performance spaces:
+- **Branscomb Auditorium**: 1,800 seats, symphonies and major concerts
+- **Buckner Theatre**: Intimate black box space for theater and dance
+- **Anne MacGregor Jenkins Recital Hall (B202)**: 200 seats, chamber music and recitals
+- **Frank Lloyd Wright Theatre-in-the-Round**: Architectural treasure with 360° seating
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Classical music, jazz, theater, dance, family programming
+- **Notable events**: Video Games Live (March 2026), Festival of Fine Arts season
+- **Frequency**: Regular academic year programming
+- **Ticket prices**: $5-$20, free for students/faculty/staff
+- Active season with diverse programming for community and campus
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (likely in-house or Ticketmaster) |
+| **Ticket Range** | $5-$20 |
+| **Online Sales** | Yes, website mentions online purchasing |
+| **Box Office** | Yes, on-site box office |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 863-680-4296 |
-| **Website** | https://www.flsouthern.edu/campus-life/arts-centers/festival-of-fine-arts/ticket-and-seating-information |
+| **Website** | flsouthern.edu/festival-of-fine-arts |
+| **Location** | Florida Southern College, Lakeland, FL |
+| **Parking** | Johnson Avenue, on-campus parking |
 
 ## Opendate Fit
+**Score: 45/100 — Low Priority**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+College venue with heavily subsidized tickets ($5-20) and free admission for students/staff. Educational mission and institutional budget likely make platform switching unlikely. Low ticket prices suggest minimal revenue focus. Would need college administration buy-in.

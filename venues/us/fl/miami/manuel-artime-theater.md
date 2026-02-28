@@ -1,56 +1,28 @@
 # Manuel Artime Theater
 
 ## Overview
+City-owned theater in Miami, FL. Part of the Miami-Dade County facilities. Used by multiple performing arts organizations including The Opera Atelier.
 
-| | |
-|---|---|
-| **Address** | 900 SW 1st St, Miami, FL 33130, USA |
-| **Phone** | (786) 991-9008 |
-| **Website** | http://www.manuelartimetheater.com/ |
-| **Google Rating** | 4.5/5 (1254 reviews) |
-| **Type** | Performing Arts Theater, Wedding Venue, Live Music Venue, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1728380979636225109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Current Status
+**Research Limited**: Official website (miami.gov/manuelartime) blocked access during research (403 error). Unable to gather detailed information about programming, capacity, or ticketing.
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+## Known Information
+- **Location**: 900 SW 1st Street, Miami, FL 33130
+- **Ownership**: City of Miami / Miami-Dade County
+- **Users**: The Opera Atelier performs here (Studio in Room 205)
+- Also houses Manuel Artime Community Center (970 SW 1st St, Suite 408)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 786-991-9008 |
-| **Website** | http://www.manuelartimetheater.com/ |
+| **Current Provider** | Unknown |
 
 ## Opendate Fit
+**Score: N/A — Insufficient Data**
 
-_Assessment pending_
+Municipal/government-owned venue likely has institutional contracts and booking policies. Without access to programming details, capacity, event frequency, or current ticketing provider, cannot accurately assess. Government venues often have complex decision-making processes.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Next steps**: 
+1. Try alternative research methods (social media, news articles, local listings)
+2. Check if city of Miami has a centralized arts/venues page
+3. Contact directly via phone if contact info can be found

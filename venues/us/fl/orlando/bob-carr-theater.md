@@ -1,56 +1,33 @@
-# Bob Carr Theater
+# Bob Carr Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 401 W Livingston St, Orlando, FL 32801, USA |
-| **Phone** | Unknown |
-| **Website** | http://bobcarrperformingartscenter.net/ |
-| **Google Rating** | 4.3/5 (1134 reviews) |
-| **Type** | Performing Arts Theater, Concert Hall, Auditorium, Live Music Venue, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17084415488221289459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic 2,518-seat performing arts theater in Orlando, FL, operational since 1926. Home to Orlando Philharmonic Orchestra and Florida Symphony Youth Orchestra. Now part of the Dr. Phillips Center for the Performing Arts complex.
 
 ## History
+One of Orlando's top theaters since 1926, originally known as Bob Carr Performing Arts Center. The venue has been integrated into the Dr. Phillips Center for the Performing Arts in recent years. Nearly 100 years of history in Orlando's cultural landscape.
 
-_Research pending_
+## Key Features
+- **Capacity**: 2,518 seats
+- **Primary tenants**: Orlando Philharmonic Orchestra, Florida Symphony Youth Orchestra
+- **Programming**: Classical music, symphonic performances
 
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+## Current Status
+**Note**: The website listed (bobcarrperformingartscenter.net) is a third-party ticket resale marketplace, not the official venue website. The actual venue is now operated as part of the Dr. Phillips Center for the Performing Arts.
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Dr. Phillips Center ticketing system |
+| **Official Website** | drphillipscenter.org |
 
 ## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | http://bobcarrperformingartscenter.net/ |
+**Official venue contact should be through Dr. Phillips Center:**
+- Website: drphillipscenter.org
+- Location: Orlando, FL
 
 ## Opendate Fit
+**Score: N/A — Requires Further Research**
 
-_Assessment pending_
+Cannot accurately assess without access to official venue information. The Bob Carr is part of the larger Dr. Phillips Center complex, which likely has institutional ticketing arrangements. Would need to research Dr. Phillips Center directly to understand their ticketing setup, programming, and decision-making structure.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Next steps**: Research Dr. Phillips Center for the Performing Arts as the parent organization.
