@@ -13,44 +13,56 @@
 
 ## About
 
-_Research pending — web scrape needed_
+**Website is non-functional** — eventvenuela.com loads to a blank page with "Embedded Files" and "Report abuse" footer only. No venue information accessible.
+
+Google Places indicates this is an event venue/banquet hall/concert hall with strong reviews (4.7/5), but without a functional website, cannot verify:
+- Capacity
+- Programming/events
+- Ticketing approach
+- Management/ownership
+- Current operational status
 
 ## History
 
-_Research pending_
+Unknown — website provides no information.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Unknown | Unknown | N/A |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+Unknown — no accessible event calendar or programming information. Google Places type suggests events/concerts/banquets, but cannot verify.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Box Office** | Unknown |
+| **Online Sales** | Unknown |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
+| **Booking Email** | Unknown |
+| **General Email** | Unknown |
 | **Phone** | +1 424-209-2472 |
-| **Website** | https://eventvenuela.com/ |
+| **Address** | 307 Carson St, Carson, CA 90745 |
+| **Website** | https://eventvenuela.com/ (non-functional) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Insufficient Data**
+
+Cannot assess venue without functional website or accessible information about programming, capacity, ticketing, or operations. Phone number is available for manual outreach.
+
+**Recommendation**: Remove from lead pipeline OR attempt phone contact to verify operational status and gather basic information.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-28*
+*Source: Web research + Google Places*

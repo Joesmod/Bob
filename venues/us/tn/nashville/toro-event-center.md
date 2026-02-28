@@ -7,46 +7,50 @@
 | **City** | Nashville |
 | **State** | TN |
 | **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
+| **Category** | NOT A VENUE |
+| **Website** | https://nashville-tn.events |
 
 ## About
 
-_Research pending — web scrape needed_
+**NOT AN ACTUAL VENUE** — This is an event aggregator/ticketing website (nashville-tn.events) that lists events across Nashville. Similar to Ticketmaster or StubHub, it's a ticket marketplace/calendar, not a physical venue.
+
+The website aggregates 1500+ events from actual Nashville venues like Grand Ole Opry, Ryman Auditorium, Bridgestone Arena, etc. It appears to be a ticket resale/affiliate site.
 
 ## History
 
-_Research pending_
+N/A — This is a website, not a physical location.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Unknown | Website operator | N/A |
 
 ## Programming & Shows
 
-_Research pending_
+N/A — Aggregator only
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | Third-party aggregator |
+| **Box Office** | N/A |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **Booking Email** | N/A |
+| **Website** | https://nashville-tn.events |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not Applicable**
+
+This is not a venue and should be removed from the lead pipeline. It's an event listing/ticketing aggregator website.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-02-28*
+*Source: Web research*
