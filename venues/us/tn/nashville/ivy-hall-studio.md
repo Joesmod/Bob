@@ -2,51 +2,42 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **City** | Nashville |
-| **State** | TN |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
+Recording studio and creative rental space in East Nashville's Inglewood neighborhood. Built in 1935, renovated in 2016 as a professional recording facility.
 
-## About
+## Research Status
 
-_Research pending — web scrape needed_
+**NOT A TICKETING VENUE**
 
-## History
+Ivy Hall Studio is a recording studio rental business, not a performance venue. They offer:
+- Day rate studio recording sessions
+- Whole house + studio rentals (Airbnb-style)
+- Songwriters' retreat venue
+- Film/video location rental
 
-_Research pending_
+No evidence of ticketed public performances or concert series.
 
-## Key People
+## Facility Details
 
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+- **Location**: East Nashville, Inglewood area
+- **Building**: Historic 1935 Tudor home
+- **Services**: Recording studio, creative retreat space
+- **Equipment**: Low-latency recording gear, vintage mics, console
+- **Target Market**: Musicians, songwriters, filmmakers
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **Website** | https://www.ivyhallstudio.com |
+| **Type** | Recording studio rental |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Wrong venue type**
+
+This is a recording studio rental facility, not a performance venue. No ticketing operation. Should be removed from venue pipeline and reclassified.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-02-28*
+*Source: Website research*

@@ -7,46 +7,43 @@
 | **City** | Nashville |
 | **State** | TN |
 | **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
+| **Website** | https://skinnydennisnashville.com |
 
-## About
+## Research Status
 
-_Research pending — web scrape needed_
+**WEBSITE NON-FUNCTIONAL - EMPTY WORDPRESS TEMPLATE**
 
-## History
+The website exists but contains no real content - just a default WordPress installation with:
+- Placeholder "About" page with sample text
+- Empty events archive
+- Copyright footer: "2025 Skinny Dennis Pvt. Ltd."
+- No venue information, no event calendar, no contact details
 
-_Research pending_
+## Possible Scenarios
 
-## Key People
+1. **Venue in development**: Website created but venue not yet open
+2. **Venue closed**: Website abandoned after closure
+3. **Website error**: Lost content due to technical issue
+4. **Data error**: Wrong URL for the actual venue
 
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Note
 
-## Programming & Shows
+There is a "Skinny Dennis" bar in Brooklyn, NY that's well-established. This may be an attempted Nashville expansion that didn't materialize, or completely unrelated.
 
-_Research pending_
+## Recommended Actions
 
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+1. Search for Skinny Dennis Nashville on Google/social media
+2. Verify venue actually exists/operates
+3. Check Nashville business licenses
+4. Remove from pipeline if venue doesn't exist or isn't operational
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Cannot assess**
+
+No functional website, no evidence of operations. Cannot determine if venue exists or what it offers.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-02-28*
+*Source: Research - website empty/non-functional*

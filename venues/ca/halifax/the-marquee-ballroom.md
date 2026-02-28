@@ -5,48 +5,31 @@
 | | |
 |---|---|
 | **City** | Halifax |
-| **State** | NS |
+| **State/Province** | NS |
 | **Country** | CA |
 | **Category** | Venue |
-| **Website** | themarqueeclub.ca |
+| **Website** | themarqueeclub.ca (DOWN) |
 
-## About
+## Research Status
 
-_Research pending — web scrape needed_
+**WEBSITE DOWN/UNREACHABLE**
 
-## History
+Attempted research on 2026-02-28. The website themarqueeclub.ca returns DNS errors (ENOTFOUND). Domain may be expired, moved, or the venue may be closed.
 
-_Research pending_
+## Recommended Actions
 
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | themarqueeclub.ca |
+1. Verify venue is still operational
+2. Search for alternative website/social media
+3. Check if they've rebranded or relocated
+4. Remove from pipeline if permanently closed
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Cannot assess**
+
+Unable to research due to non-functional website.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-02-28*
+*Source: Research attempt - website unreachable*
