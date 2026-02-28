@@ -13,42 +13,50 @@
 
 ## About
 
-_Research pending — web scrape needed_
+**NOT AN INDEPENDENT VENUE** - This is an amphitheater within Disney's Hollywood Studios theme park at Walt Disney World. It exclusively hosts "Fantasmic!", a nighttime spectacular show featuring Mickey Mouse, Disney characters, water effects, pyrotechnics, and a 40-foot-tall Maleficent dragon. The amphitheater curves around a lagoon and seats are first-come, first-served (guests can arrive up to 90 minutes before showtime).
 
 ## History
 
-_Research pending_
+Part of Disney's Hollywood Studios theme park, opened to present the Fantasmic! nighttime show.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| N/A | Owned/operated by The Walt Disney Company | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Show**: Fantasmic! (exclusive Disney production)
+- **Type**: Nighttime water and pyrotechnic spectacular featuring Disney characters
+- **Frequency**: Nightly shows (check Disney's Entertainment Schedule or My Disney Experience app)
+- **Characters/Films**: Moana, Frozen 2, Mulan, Aladdin, Pocahontas, Beauty and the Beast, The Little Mermaid, The Lion King
+- **Duration**: ~30 minutes
+- **Note**: Outdoor show, subject to weather cancellation
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Disney proprietary ticketing (part of theme park admission) |
+| **Access** | Included with Disney's Hollywood Studios admission - no separate ticket |
+| **Reservations** | Through My Disney Experience app (Disney's platform) |
+| **Online Sales** | Via disneyworld.com only |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 407-939-5277 |
-| **Website** | https://disneyworld.disney.go.com/entertainment/hollywood-studios/fantasmic/?CMP=OKC-80008014_GM_WDW_Entertainment_HollywoodHillsAmphitheater_NA |
+| **Booking Email** | N/A - not available for private bookings |
+| **General** | Disney World general contact |
+| **Phone** | (407) 939-5277 |
+| **Website** | https://disneyworld.disney.go.com/entertainment/hollywood-studios/fantasmic/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not Applicable**
+
+This is not an independent venue. It's a Disney World theme park attraction that is part of the park's admission - no separate ticketing. Owned and operated by The Walt Disney Company with proprietary ticketing systems fully integrated into Disney's ecosystem. Not a lead for Opendate.
 
 ---
 

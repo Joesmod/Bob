@@ -13,42 +13,55 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Historic opera house in downtown Sarasota, celebrating its 100th anniversary in April 2026. Sarasota Opera produces world-class opera performances with a mission to entertain, enrich, educate, and inspire a life-long love of opera in the community. Known for their annual Winter Opera Festival and comprehensive Verdi Cycle repertoire.
 
 ## History
 
-_Research pending_
+The Sarasota Opera House was built in 1926 and is celebrating its centennial in 2026. For nearly 70 seasons, Sarasota Opera has been producing professional opera in this historic venue. The organization is renowned for its Verdi Cycle and commitment to honoring the composer's musical intent.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Research needed_ | Artistic Director | Website |
+| _Research needed_ | General Director | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Classical opera (Puccini, Verdi, Lehár, Floyd)
+- **Frequency**: Winter Opera Festival (4 operas per season), plus special concerts and events
+- **Current Season (2026)**: La bohème, The Merry Widow, Il trovatore, Susannah
+- **Ticket prices**: Varies by seating section and opera
+- **Notable productions**: The Verdi Cycle (all of Verdi's operas), American opera productions
+- **Special events**: Moonlight & Melodies dinner series, Salute to the Stars luncheon, Opera Lovers Weeks, Centennial Celebration
+- Events run through March 29, 2026
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | In-house ticketing platform (event.sarasotaopera.org) |
+| **Box Office** | 61 N. Pineapple Ave., open 7 days/week 10 AM - 5 PM (+ through first intermission on performance dates) |
+| **Online Sales** | Yes, via event.sarasotaopera.org |
+| **Mobile** | Dedicated Sarasota Opera app available for iOS/Android |
+| **Subscriptions** | Season subscriptions available |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 941-328-1300 |
+| **Box Office Email** | boxoffice@sarasotaopera.org |
+| **General Email** | information@sarasotaopera.org |
+| **Development** | development@sarasotaopera.org | (941) 366-8450 ext. 813 |
+| **Phone** | (941) 328-1300 |
 | **Website** | https://www.sarasotaopera.org/ |
+| **Social** | Facebook: /sarasotaopera, Twitter: @sarasotaopera, Instagram: @sarasotaopera |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 30/100 — Low Priority**
+
+Sarasota Opera runs their own sophisticated in-house ticketing platform with mobile app integration. As a professional opera company with an established ticketing infrastructure, subscriptions, and donor management, they are unlikely to switch to a new platform. Their needs are highly specialized for opera season planning, subscription management, and donor cultivation. Not a good fit for Opendate.
 
 ---
 
