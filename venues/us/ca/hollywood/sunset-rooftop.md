@@ -1,56 +1,26 @@
 # Sunset Rooftop
 
 ## Overview
+**WEBSITE COMPROMISED - UNABLE TO RESEARCH**
 
-| | |
-|---|---|
-| **Address** | 6099 Sunset Blvd, Hollywood, CA 90028, USA |
-| **Phone** | (323) 701-2110 |
-| **Website** | http://sunsetrooftophollywood.com/ |
-| **Google Rating** | 3.8/5 (394 reviews) |
-| **Type** | Hookah Bar, Comedy Club, Bar, Educational Institution, Restaurant |
-| **Google Maps** | [View](https://maps.google.com/?cid=1381329107867578800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+Hollywood rooftop venue. Website (sunsetrooftophollywood.com) has been hijacked by gambling spam content (Hong Kong lottery/togel site) as of February 28, 2026. Unable to gather any legitimate information about the venue, programming, or operations.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 323-701-2110 |
-| **Website** | http://sunsetrooftophollywood.com/ |
+| **Website** | sunsetrooftophollywood.com (**COMPROMISED - DO NOT VISIT**) |
+| **Location** | Hollywood, CA |
 
 ## Opendate Fit
+**Score: 0/100 — Cannot Assess**
 
-_Assessment pending_
+Website has been compromised by spam/gambling content. Unclear if venue is still operational or if domain was abandoned and hijacked. 
 
----
+**Recommendations**:
+1. Search for alternative contact information (social media, Yelp, Google Maps)
+2. Verify if venue still exists and is operational
+3. If venue is active with different web presence, reassess
+4. If venue is closed/abandoned, remove from pipeline
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Date**: February 28, 2026
+**Status**: Website hijacked by gambling spam

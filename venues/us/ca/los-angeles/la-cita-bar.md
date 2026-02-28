@@ -1,56 +1,24 @@
 # La Cita Bar
 
 ## Overview
+**WEBSITE DOWN - UNABLE TO RESEARCH**
 
+Downtown Los Angeles bar/venue. Website (lacitabar.com) returned 503 errors during research attempt on February 28, 2026. Unable to gather information about programming, capacity, ticketing, or operations.
+
+## Contact Information Found
 | | |
 |---|---|
-| **Address** | 336 S Hill St, Los Angeles, CA 90013, USA |
-| **Phone** | (213) 687-7111 |
-| **Website** | http://www.lacitabar.com/ |
-| **Google Rating** | 4.1/5 (1889 reviews) |
-| **Type** | Bar, Night Club, Sports Club, Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=12001320319714341495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 213-687-7111 |
-| **Website** | http://www.lacitabar.com/ |
+| **Instagram** | @lacitabar |
+| **Email** | shorty.citamgmt@gmail.com |
+| **Website** | lacitabar.com (currently down) |
 
 ## Opendate Fit
+**Score: ??? — Unable to Assess**
 
-_Assessment pending_
+Cannot evaluate without functional website. Recommend:
+1. Try contacting via Instagram or email to verify if still operational
+2. Check back in 1-2 weeks to see if website is restored
+3. If venue is active, reassess for ticketing needs
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Date**: February 28, 2026
+**Status**: Website down (503 error)

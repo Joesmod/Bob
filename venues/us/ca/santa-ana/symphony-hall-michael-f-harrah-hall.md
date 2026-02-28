@@ -1,56 +1,27 @@
 # Symphony Hall (Michael F. Harrah Hall)
 
 ## Overview
+**WEBSITE BLOCKED - UNABLE TO RESEARCH**
 
+Part of Orange County School of the Arts (ocsarts.net). Website returned 403 Forbidden errors during research attempt on February 28, 2026. Unable to gather information about programming, capacity, ticketing, or public event schedule.
+
+## Known Information
 | | |
 |---|---|
-| **Address** | 965 S Sycamore St, Santa Ana, CA 92701, USA |
-| **Phone** | Unknown |
-| **Website** | http://ocsarts.net/ |
-| **Google Rating** | 4.5/5 (29 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1760399249216112485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | http://ocsarts.net/ |
+| **Website** | ocsarts.net (currently blocked/restricted) |
+| **Location** | Santa Ana, CA |
+| **Affiliation** | Orange County School of the Arts |
 
 ## Opendate Fit
+**Score: ??? — Unable to Assess**
 
-_Assessment pending_
+Cannot evaluate without access to website. Likely a school performance hall that may host public ticketed events (student shows, concerts, recitals). Needs further research.
 
----
+**Recommendations**:
+1. Try alternative research methods (Google search, social media, phone contact)
+2. Check if there's a public events calendar or box office info available elsewhere
+3. Determine if they host regular public ticketed events vs. school-only performances
+4. If public ticketing exists, assess current ticketing provider
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Date**: February 28, 2026
+**Status**: Website access denied (403 error)

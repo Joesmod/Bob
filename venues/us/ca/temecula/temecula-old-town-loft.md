@@ -1,56 +1,30 @@
 # Temecula Old Town Loft
 
 ## Overview
+**NOT A TICKETED VENUE** - Private event rental space in Old Town Temecula. Family-owned business with 20 years in events/wedding industry. Formerly the Temecula Ballast Point Brewery location, now transformed into modern loft event space. Rents by the hour or full day for weddings, quinceañeras, baby showers, corporate meetings - not public ticketed shows.
 
-| | |
-|---|---|
-| **Address** | 28551 Rancho California Rd, Temecula, CA 92590, USA |
-| **Phone** | (951) 587-0220 |
-| **Website** | https://www.temeculaoldtownloft.info/ |
-| **Google Rating** | 4.6/5 (104 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=10189790927130055181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Facilities
+- **Indoor space**: 6,000-7,500 sq ft air-conditioned
+- **Covered patio**: 1,500 sq ft with fans, misters, fire pits
+- **Capacity**: Up to 363 people (300 seated)
+- **Bars**: Two full-service bars
+- **Liquor license**: Full (beer, wine, spirits)
+- **Tech**: State-of-the-art sound and projection systems
+- **Special features**: Private VIP room, 120" projector screen
+- **Hours**: Can host events until 2 AM
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 951-587-0220 |
-| **Website** | https://www.temeculaoldtownloft.info/ |
+| **Address** | 28551 Rancho California Rd, Temecula, CA 92590 |
+| **Website** | temeculaoldtownloft.info |
+| **Location**: Walking distance from Old Town nightlife and hotels, 15 min to wineries/casinos |
 
 ## Opendate Fit
+**Score: 5/100 — Not Applicable**
 
-_Assessment pending_
+Event rental venue, not a ticketed entertainment space. Business model is renting the space to clients for private events (weddings, corporate gatherings, celebrations). No regular public programming or ticket sales. While the venue has excellent sound/projection capabilities and can accommodate live music, they don't produce or ticket their own shows.
 
----
+**Recommendation**: Remove from ticketing lead pipeline. Not a fit for current Opendate platform.
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Date**: February 28, 2026

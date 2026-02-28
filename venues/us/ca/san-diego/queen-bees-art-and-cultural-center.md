@@ -1,56 +1,49 @@
-# Queen Bee's Art and Cultural Center
+# Queen Bee's Art & Cultural Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 3925 Ohio St, San Diego, CA 92104, USA |
-| **Phone** | (619) 255-5147 |
-| **Website** | https://www.queenbeessd.com/ |
-| **Google Rating** | 4.5/5 (538 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=3649369803803417532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Independent 250-capacity cultural venue in North Park, San Diego, established in 2008. Hosts diverse ticketed events including live music, comedy, poetry slams, burlesque, and professional wrestling. Active event calendar with regular programming. Main room features bamboo hardwood dance floor, custom ceiling fans, crystal chandeliers, and professional concert sound system capable of supporting up to 300 guests at full volume.
 
 ## History
-
-_Research pending_
+Founded in 2008 by Alma (Puerto Rico native) as a community arts hub. Celebrated 5th anniversary in 2013, having hosted over 100 non-profit fundraisers and community events. Originally built to support local musicians and artists while providing a versatile event space. Evolved into one of San Diego's premier independent cultural centers.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Alma | Founder/Owner/Operator | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Live music, comedy, poetry, burlesque, wrestling, dance showcases
+- **Notable Events**:
+  - San Diego Poetry Slam (monthly, 2nd Monday) - one of nation's largest poetry slams
+  - DANGER! Pro Wrestling (twice monthly) - family-friendly live wrestling
+  - Flaunt Student Dance Showcase - burlesque, bump & grind, heels
+  - Salsa/Bachata/Rueda nights (Sundays, 6 PM)
+  - Beatles Fair 2026 (April 4-5) - outdoor camping festival
+- **Dance Classes**: Line dancing, swing, salsa, pole fitness
+- **Ticket prices**: $25-$100 (VIP tables at $100, GA $25-30)
+- **Frequency**: Multiple ticketed events per week
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Eventbrite |
+| **Ticket Range** | $25-$100 |
+| **Online Sales** | Yes, via Eventbrite |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 619-255-5147 |
-| **Website** | https://www.queenbeessd.com/ |
+| **Address** | 3925 Ohio St, San Diego, CA 92104 |
+| **Phone** | (619) 255-5147 |
+| **Email** | sdqbevents@gmail.com |
+| **Booking Email** | almaqb@yahoo.com |
+| **Hours** | Mon-Fri 12-6pm, Sat 12-5pm, Sun 12-4pm |
+| **Instagram** | @queenbeessd |
+| **Facebook** | /queenbeessd |
 
 ## Opendate Fit
+**Score: 85/100 — Strong Lead**
 
-_Assessment pending_
+Strong candidate for Opendate. Active ticketed venue currently using Eventbrite (easily switchable). Diverse programming with consistent event schedule. Independent operation with founder/owner making decisions. Would benefit from Opendate's integrated platform for their regular ticketed shows, dance classes, and special events. Established venue with 18+ years of community presence and strong local following.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Recommendation**: High priority contact. Owner Alma is accessible and has history of supporting local arts/tech. Eventbrite switch-out is straightforward for this use case.

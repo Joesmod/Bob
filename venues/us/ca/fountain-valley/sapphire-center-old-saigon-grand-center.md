@@ -1,56 +1,29 @@
-# Sapphire Center (old Saigon Grand Center)
+# Sapphire Center (formerly Saigon Grand Center)
 
 ## Overview
+**NOT A TICKETED VENUE** - Event rental facility in Fountain Valley offering three customizable spaces for private and corporate events. Does not host regular public ticketed shows; instead rents spaces by the hour/day for weddings, corporate meetings, community events, and private functions.
 
-| | |
-|---|---|
-| **Address** | 16149 Brookhurst St, Fountain Valley, CA 92708, USA |
-| **Phone** | (714) 705-6705 |
-| **Website** | http://sapphire-center.com/ |
-| **Google Rating** | 4.9/5 (14 reviews) |
-| **Type** | Event Venue, Live Music Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=13231588707824011651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Facilities
+- **Ballroom**: 3,900 sq ft - for live music, panel discussions, family occasions
+- **Theater**: 4,600 sq ft - professional space with state-of-the-art facilities
+- **Lobby**: 1,800 sq ft - for art/music performances and receptions
+- Custom LED screens available
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 714-705-6705 |
-| **Website** | http://sapphire-center.com/ |
+| **Address** | 16149 Brookhurst St, Fountain Valley, CA 92708 |
+| **Phone** | (714) 705-6705 |
+| **Email** | contact@sapphire-center.com |
+| **Website** | sapphire-center.com |
+| **Facebook** | /sapphirecenter |
+| **Instagram** | @sapphire.center.oc |
 
 ## Opendate Fit
+**Score: 10/100 — Not Applicable**
 
-_Assessment pending_
+Event rental space, not a ticketed entertainment venue. They rent their spaces to clients who host their own events. No regular public programming or ticket sales. While clients might occasionally sell tickets to events held here, Sapphire Center itself is not in the ticketing business - they're in the venue rental business.
 
----
+**Recommendation**: Remove from primary lead pipeline. Possibly relevant for "venue partners" category if Opendate ever builds B2B venue rental marketplace features, but not a fit for current ticketing platform.
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Date**: February 28, 2026

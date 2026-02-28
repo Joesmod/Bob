@@ -1,56 +1,25 @@
 # Shoreline Village
 
 ## Overview
+**NOT A TICKETED VENUE** - Shoreline Village is a waterfront retail and dining complex in Long Beach, styled after a Cape Cod fishing village. While they host free community events (Mardi Gras parties, summer concerts, holiday celebrations), they do not sell tickets or operate as a traditional entertainment venue. This is a public shopping/dining destination similar to a shopping center or boardwalk.
 
-| | |
-|---|---|
-| **Address** | 429 Shoreline Village Drive, Long Beach, CA 90802, USA |
-| **Phone** | (562) 435-2668 |
-| **Website** | http://www.shorelinevillage.com/ |
-| **Google Rating** | 4.6/5 (12170 reviews) |
-| **Type** | Tourist Attraction, Shopping Mall, Restaurant, Food, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=13383575395580622352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## What They Do
+- Waterfront shops and restaurants
+- Free community events (Mardi Gras, summer concerts, boat parades, photos with Santa)
+- Family-friendly public plaza overlooking Rainbow Harbor
+- Hours: Shops 10am-9pm daily (10am-10pm Fri-Sat in summer)
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 562-435-2668 |
-| **Website** | http://www.shorelinevillage.com/ |
+| **Address** | 401-435 Shoreline Village Drive, Long Beach, CA 90802 |
+| **Phone** | (562) 435-2668 |
+| **Email** | info@shorelinevillage.com |
+| **Website** | shorelinevillage.com |
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
+Not a ticketing venue. This is a retail/dining complex that hosts free public events, not a performance space selling tickets. No ticketing platform needed or used. Should be removed from lead pipeline or recategorized as "Retail/Dining - Not Venue."
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Date**: February 28, 2026
