@@ -13,44 +13,53 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Historic live music venue in San Francisco's Tenderloin district. Great American Music Hall (GAMH) is one of the oldest nightclubs in the United States and a cornerstone of SF's music scene. The ornate venue features balconies, marble columns, and a capacity of around 470-600. Part of the Another Planet Entertainment/Goldenvoice family of venues.
 
 ## History
 
-_Research pending_
+GAMH has been operating as a music venue since the 1970s, though the building dates back much further. Over the decades it has hosted legendary performances across every genre. The venue is known for its beautiful historic architecture and intimate setting despite its size.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Talent Buyer/GM | _TBD_ |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Rock, indie, post-punk, jazz, electronic, singer-songwriter, world music
+- **Frequency**: 5-7 shows per week
+- **Ticket prices**: $14-$70 typical range
+- **Notable recent bookings**: Tortoise, Black Marble, Natalie Jane, Tigran Hamasyan, Florist, Porches, bassvictim
+- **Event types**: Concerts, album release shows, comedy (Misfit Cabaret), special events
+- **Capacity**: ~470-600 depending on configuration
+- Partners with Noise Pop Festival, Goldenvoice
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | SeeTickets |
+| **Box Office** | Yes |
+| **Online Sales** | Yes, via wl.seetickets.us |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 415-885-0750 |
-| **Website** | https://gamh.com/ |
+| **Phone** | (415) 885-0750 |
+| **Website** | gamh.com |
+| **Facebook** | facebook.com (visible in nav) |
+| **Twitter** | @gamhsf (presumed) |
+| **Instagram** | @gamhsf (presumed) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 58/100 — Good Prospect**
+
+Well-established historic venue with very active calendar. Currently using SeeTickets for online ticketing. High volume of shows across diverse genres. The venue's connection to larger promoters (Another Planet/Goldenvoice) may complicate decision-making, but the venue itself would benefit from a more modern, integrated platform. Strong tourist and local draw in SF music scene.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-28*
+*Source: Opendate Lead Pipeline + Web Research*
