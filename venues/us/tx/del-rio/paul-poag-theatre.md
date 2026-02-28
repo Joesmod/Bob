@@ -4,53 +4,27 @@
 
 | | |
 |---|---|
-| **Address** | 746 S Main St, Del Rio, TX 78840, USA |
-| **Phone** | (830) 774-3277 |
-| **Website** | http://paul-poag-theatre.edan.io/ |
-| **Google Rating** | 4.4/5 (86 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7264913872759004274&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **City** | Del Rio |
+| **State** | TX |
+| **Country** | US |
+| **Category** | Venue |
+| **Website** | paul-poag-theatre.edan.io |
 
-## About
+## Research Notes
 
-_Research pending — web scrape needed_
+**Status: Generic Template Site**
 
-## History
+The website (paul-poag-theatre.edan.io) appears to be a generic template/placeholder site with no actual venue information, event calendar, or ticketing details. The content consists only of generic marketing copy about "exceptional artistry" and "state-of-the-art facilities" with fake testimonials.
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 830-774-3277 |
-| **Website** | http://paul-poag-theatre.edan.io/ |
+No contact information, actual programming, or verifiable operational details were found. This may be a defunct venue, a planned project that never launched, or simply incorrect data in the source list.
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not Viable**
+
+No evidence of actual venue operations or ticketing activity. Generic placeholder website only.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-02-28*
+*Source: Opendate Lead Pipeline / Web Research*

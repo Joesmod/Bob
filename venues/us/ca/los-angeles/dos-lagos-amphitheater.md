@@ -10,43 +10,21 @@
 | **Category** | Venue |
 | **Website** | promenadeshopsatdoslagos.com |
 
-## About
+## Research Notes
 
-_Research pending — web scrape needed_
+**Status: Website Not Found**
 
-## History
+The listed website (promenadeshopsatdoslagos.com) does not resolve. DNS lookup failed during research attempt on 2026-02-28.
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | promenadeshopsatdoslagos.com |
+This appears to be associated with Promenades Shops at Dos Lagos (a shopping center in Corona, CA), but the amphitheater may no longer be operational or the website information is outdated.
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not Viable**
+
+Cannot verify venue exists or is operational. No functional website found.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-02-28*
+*Source: Opendate Lead Pipeline / Web Research*
