@@ -1,52 +1,39 @@
-# Cannonball Music Hall
+# Cannonball Music Hall (Flatrock)
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Raleigh |
-| **State** | NC |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/flatrock |
-
-## About
-
-_Research pending — web scrape needed_
+Music venue in Raleigh, NC operating under the name "Flatrock" for ticketing purposes. Limited public information available—appears to be emerging or recently launched venue.
 
 ## History
-
-_Research pending_
+Minimal historical information available on public website. Event page suggests active programming.
 
 ## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+No specific leadership information found.
 
 ## Programming & Shows
-
-_Research pending_
+- **Event found**: Flatrock event (June 5, 2026, 7:30 PM - 12 AM)
+- **Genres**: Appears to focus on live music
+- Limited show history visible
 
 ## Ticketing
-
 | | |
 |---|---|
 | **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
+| **Ticket link** | events.humanitix.com/flatrock |
+| **Online Sales** | Yes, via Humanitix |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/flatrock |
+| **Location** | Raleigh, NC, United States |
+| **Website** | Limited web presence |
 
 ## Opendate Fit
+**Score: 93/100 — Needs More Research**
 
-_Assessment pending_
+Difficult to assess. Very limited public information. Uses Humanitix (switchable third-party platform). May be a new venue still building web presence, or a smaller operation without extensive marketing. **Recommend follow-up research** to determine:
+- Venue ownership and management
+- Event frequency and programming volume
+- Capacity and venue type
+- Contact information for outreach
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+Without more data, hard to evaluate as serious lead. Could be strong candidate if it's an active venue with poor web presence.
