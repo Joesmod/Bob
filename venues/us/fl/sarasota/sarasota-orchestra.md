@@ -6,51 +6,59 @@
 |---|---|
 | **Address** | 709 N Tamiami Trl, Sarasota, FL 34236, USA |
 | **Phone** | (941) 953-4252 |
-| **Website** | https://www.sarasotaorchestra.org/ |
+| **Website** | https://www.sarasotaorchestra.org |
 | **Google Rating** | 4.7/5 (161 reviews) |
-| **Type** | Concert Hall, Auditorium, Live Music Venue, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11708228969175628063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Type** | Symphony Orchestra / Concert Presenter |
+| **Music Director** | Giancarlo Guerrero |
 
 ## About
 
-_Research pending — web scrape needed_
+Professional symphony orchestra presenting classical and pops concerts in Sarasota. The orchestra is planning the region's first dedicated Concert Hall to expand the area's cultural capacity. Active subscription series and special events throughout the season.
 
 ## History
 
-_Research pending_
+Established symphony orchestra serving the Sarasota-Manatee region. Currently planning a major new Music Center concert hall project to enhance the Gulf Coast's performing arts infrastructure.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Giancarlo Guerrero | Music Director | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Classical, pops, film scores
+- **Recent programming**: Stravinsky's Rite of Spring, Beach Boys/Jimmy Buffett tribute concerts, symphonic pops
+- **Special events**: Outdoor concerts (e.g., Orioles' Ed Smith Stadium with fireworks)
+- **Venues**: Multiple venues including Ed Smith Stadium for outdoor events
+- **Community programs**: Sarasota Orchestra Friends membership program, education outreach
+- **Annual Fund**: Active fundraising for operations and education programs
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Custom system (buy.sarasotaorchestra.org) |
+| **Box Office** | Yes |
+| **Online Sales** | Yes, via buy.sarasotaorchestra.org |
+| **Youth pricing** | Available for students under 18 or post-secondary with ID |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
+| **General Email** | Via contact form on website |
 | **Phone** | +1 941-953-4252 |
-| **Website** | https://www.sarasotaorchestra.org/ |
+| **Website** | https://www.sarasotaorchestra.org |
+| **Address** | 709 N Tamiami Trl, Sarasota, FL 34236 |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 25/100 — Low Priority**
+
+Established symphony orchestra with existing ticketing infrastructure (buy.sarasotaorchestra.org subdomain). Non-profit arts organization with board governance and development programs. Orchestra subscription model differs from typical venue operations. Planning major capital campaign for new concert hall, so ticketing platform changes unlikely during that critical period. Better fit for specialized arts organization platforms than general venue ticketing.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Source: Website research*

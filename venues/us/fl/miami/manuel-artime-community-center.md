@@ -6,36 +6,35 @@
 |---|---|
 | **Address** | 900 SW 1st St, Miami, FL 33130, USA |
 | **Phone** | (305) 960-4680 |
-| **Website** | http://www.manuelartimetheater.com/ |
+| **Website** | http://www.manuelartimetheater.com |
 | **Google Rating** | 4.4/5 (13 reviews) |
 | **Type** | Auditorium, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=3770594570056608345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
 
 ## About
 
-_Research pending — web scrape needed_
+Community center and theater in Miami. Website currently inaccessible (403 error), preventing detailed research. Appears to be a municipal or community-operated facility based on the "Community Center" designation.
 
 ## History
 
-_Research pending_
+Named after Manuel Artime, a Cuban exile leader and anti-Castro activist. The center serves Miami's Cuban-American community.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Director | City of Miami |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+Unable to research due to website access restrictions. Likely community events, cultural programming, theater performances.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Box Office** | Likely on-site |
+| **Online Sales** | Unknown |
 
 ## Contact
 
@@ -44,13 +43,15 @@ _Research pending — what genres, typical acts, event types_
 | **Booking Email** | _TBD_ |
 | **General Email** | _TBD_ |
 | **Phone** | +1 305-960-4680 |
-| **Website** | http://www.manuelartimetheater.com/ |
+| **Website** | http://www.manuelartimetheater.com (currently inaccessible) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 15/100 — Not a Good Fit**
+
+Municipal/community center, likely operated by City of Miami. Website inaccessible for research. Government-operated facilities typically use established procurement processes and ticketing contracts, making them difficult prospects for new platforms. Would require engaging with city government bureaucracy.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Source: Website research attempt (site blocked)*

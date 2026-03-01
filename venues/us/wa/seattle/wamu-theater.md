@@ -6,36 +6,39 @@
 |---|---|
 | **Address** | 800 Occidental Ave S, Seattle, WA 98134, USA |
 | **Phone** | (206) 381-7848 |
-| **Website** | http://www.wamutheater.com/ |
+| **Website** | https://www.wamutheater.com |
 | **Google Rating** | 4.2/5 (3188 reviews) |
-| **Type** | Performing Arts Theater, Concert Hall, Live Music Venue, Auditorium, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=510667120255567728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Type** | Large Concert Hall / Arena Theater |
+| **Capacity** | ~7,000 |
 
 ## About
 
-_Research pending — web scrape needed_
+Large indoor concert venue located at the Climate Pledge Arena campus in Seattle. Features multiple lounge spaces, bars throughout the venue, and dedicated photo opportunity areas. Part of the Seattle Center / Climate Pledge Arena entertainment complex operated by Oak View Group.
 
 ## History
 
-_Research pending_
+Formerly known as Washington Music Theater (WaMu Center), located at the Seattle Center campus adjacent to Climate Pledge Arena. Major touring venue for national acts.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Venue Director | Oak View Group |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Major touring acts — rock, pop, hip-hop, electronic
+- **Capacity**: Approximately 7,000
+- **Amenities**: WAMU Bar, multiple lounge spaces, photo ops
+- **Typical shows**: National and international touring artists
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Likely AEG/Live Nation/Ticketmaster |
+| **Parent Organization** | Oak View Group |
+| **Online Sales** | Yes, via major ticketing platforms |
 
 ## Contact
 
@@ -44,13 +47,15 @@ _Research pending — what genres, typical acts, event types_
 | **Booking Email** | _TBD_ |
 | **General Email** | _TBD_ |
 | **Phone** | +1 206-381-7848 |
-| **Website** | http://www.wamutheater.com/ |
+| **Website** | https://www.wamutheater.com |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 10/100 — Not a Good Fit**
+
+Large corporate-operated arena theater managed by Oak View Group as part of the Climate Pledge Arena complex. Major venue using established national ticketing platforms (likely Ticketmaster/AEG). Far too large and corporate for Opendate's independent venue focus. Ticketing decisions made at corporate level by Oak View Group, not locally. Not a viable prospect.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Source: Website research + public information*

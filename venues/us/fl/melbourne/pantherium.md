@@ -1,56 +1,61 @@
-# Pantherium
+# Panthereum Outdoor Amphitheatre
 
 ## Overview
 
 | | |
 |---|---|
-| **Address** | 162 Florida Tech Dr, Melbourne, FL 32901, USA |
+| **Address** | 162 Florida Tech Dr (Denius Student Center), Melbourne, FL 32901, USA |
 | **Phone** | (321) 674-8000 |
-| **Website** | https://www.fit.edu/university-events-and-protocol/venues-and-campus-facilities/panthereum-outdoor-amphitheatre/ |
+| **Website** | https://www.fit.edu/university-events-and-protocol/venues-and-campus-facilities/panthereum-outdoor-amphitheatre |
 | **Google Rating** | 4/5 (2 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=15596179788655344358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Type** | College Campus Outdoor Amphitheatre |
+| **Institution** | Florida Institute of Technology |
 
 ## About
 
-_Research pending — web scrape needed_
+Small outdoor amphitheater located just outside the Denius Student Center at Florida Tech's Melbourne campus. Features a small stage overlooking an open lawn area. Designed for campus concerts and performances. The name "Panthereum" comes from Florida Tech's Panthers mascot.
 
 ## History
 
-_Research pending_
+Part of Florida Tech's campus facilities managed by the University Events and Protocol office.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Director, University Events | Florida Tech |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Campus events, student concerts, performances
+- **Capacity**: Small lawn amphitheater
+- **Usage**: Student activities, orientation events, campus performances
+- **Booking**: Through Florida Tech University Events and Protocol office
+- **Primary audience**: Florida Tech students, faculty, staff
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | University events system (likely free/campus-only events) |
+| **Box Office** | N/A — campus facility |
+| **Online Sales** | Campus events system if applicable |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 321-674-8000 |
-| **Website** | https://www.fit.edu/university-events-and-protocol/venues-and-campus-facilities/panthereum-outdoor-amphitheatre/ |
+| **General Email** | Via University Events office |
+| **Phone** | +1 321-674-8000 (main university number) |
+| **Website** | https://www.fit.edu/university-events-and-protocol/venues-and-campus-facilities/panthereum-outdoor-amphitheatre |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 5/100 — Not a Good Fit**
+
+College campus amphitheater for student events, not a commercial ticketed venue. University-managed facility primarily used for free campus programming. No commercial ticketing operation. Not a viable prospect for a commercial ticketing platform. Would fall under university procurement if they ever needed ticketing, which is unlikely for this type of facility.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Source: Website research*
