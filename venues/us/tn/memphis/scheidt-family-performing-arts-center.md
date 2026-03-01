@@ -1,56 +1,63 @@
 # Scheidt Family Performing Arts Center
 
 ## Overview
+Performing arts venue in Memphis, Tennessee hosting concerts, classical music, and cultural performances. Limited information available from the venue's primary website.
 
-| | |
-|---|---|
-| **Address** | 3800 Central Ave, Memphis, TN 38117, USA |
-| **Phone** | (901) 678-2541 |
-| **Website** | https://www.memphis.edu/scheidtcenter |
-| **Google Rating** | 4.9/5 (12 reviews) |
-| **Type** | University, Educational Institution |
-| **Google Maps** | [View](https://maps.google.com/?cid=8302776249467601172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Research Notes
+**Data Limitations:** The URL provided in the lead database (https://events.humanitix.com/yamandu-costa-the-brazilian-guitar-memphis) is a ticketing page for a single event (Yamandu Costa guitar concert), not the venue's main website.
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+**Event Details Found:**
+- Hosted Grammy-winning guitarist Yamandu Costa (Brazilian 7-string virtuoso)
+- Described as "all venues are wheelchair accessible"
+- General admission, first-come first-served seating
+- Ages 8+ with under-16 requiring parent/guardian
+- 75-minute concerts with no interval
+- Doors open 60 minutes before showtime
+- Uses Humanitix for ticketing
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Humanitix (for at least some events) |
+| **Ticket Range** | Not specified for single event found |
+| **Online Sales** | Yes, required ("No sales at the door") |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 901-678-2541 |
-| **Website** | https://www.memphis.edu/scheidtcenter |
+| **City** | Memphis, TN |
+| **Website** | Venue website not identified |
 
 ## Opendate Fit
+**Score: 30/100 — Insufficient Data**
 
-_Assessment pending_
+**Cannot properly assess** this venue without access to:
+- Venue's primary website
+- Ownership/management structure
+- Full event calendar and programming frequency
+- Capacity and facility details
+- Key personnel information
+- Current ticketing volume
 
----
+**What We Know:**
+- Uses Humanitix (third-party ticketing platform)
+- Hosts classical/world music concerts
+- Professional presentation standards (no door sales, advance purchase required)
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Needed:**
+Search for "Scheidt Family Performing Arts Center Memphis" to find the venue's actual website and gather:
+1. Is this university-affiliated, municipal, or independent?
+2. What's their annual event volume?
+3. Who manages booking and operations?
+4. What other ticketing platforms do they use?
+5. Capacity and facility type?
+
+**Recommendation:**
+**Incomplete lead - requires additional research** before outreach. The Humanitix platform indicates they're open to modern ticketing solutions, which is positive, but without knowing the venue's structure and scale, it's impossible to craft a meaningful pitch.
+
+**Next Steps:**
+1. Google search for venue's official website
+2. Check if affiliated with a university or arts organization
+3. Review full events calendar
+4. Identify decision-makers
+5. Assess venue size and programming scope
