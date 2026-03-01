@@ -1,56 +1,49 @@
 # The Goss Opera House
 
 ## Overview
+Performing arts venue in downtown Watertown, SD featuring concerts, theatrical productions, orchestra performances, and dinner-and-movie events. Accommodates groups from 5 to 300 people. Active event calendar with Celtic, classical, and tribute performances plus special film screenings.
 
-| | |
-|---|---|
-| **Address** | 100 E Kemp Ave Suite A, Watertown, SD 57201, USA |
-| **Phone** | (605) 753-0200 |
-| **Website** | https://www.thegossoperahouse.com/ |
-| **Google Rating** | 4.6/5 (199 reviews) |
-| **Type** | Event Venue, Historical Landmark, Wedding Venue, Live Music Venue, Historical Place |
-| **Google Maps** | [View](https://maps.google.com/?cid=12663616514158699028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Facilities
+**Capacity**: 5-300 people (flexible seating)
+- Floor seating available for dinner events
+- Balcony seating for movie/performance-only tickets
+- Event space rental available for meetings and performances
 
 ## Programming & Shows
+- **Music**: Gaelic Storm (Celtic), Come Fly With Me (Frank Sinatra tribute)
+- **Orchestra**: South Dakota Symphony Orchestra performances (e.g., "New Babylon" with live film score)
+- **Film + Dinner**: The Godfather, The Lion King with dinner service
+- **Frequency**: Regular ticketed events throughout season
 
-_Research pending — what genres, typical acts, event types_
+**Upcoming shows** (March-April 2026):
+- Gaelic Storm (March 7, sponsored by ReliaBank)
+- SDSO "New Babylon" (March 14, sponsored by Watertown Community Foundation)
+- The Godfather dinner + movie (March 19)
+- The Lion King dinner + movie (April 9)
+- Come Fly With Me (April 18, sponsored by Johnson Appraisal Inc)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | SecuTix |
+| **Online Sales** | Yes |
+| **Policy** | All sales final, non-refundable |
+| **Doors** | Open 30 minutes before events |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 605-753-0200 |
-| **Website** | https://www.thegossoperahouse.com/ |
+| **Website** | https://www.thegossoperahouse.com |
+| **Location** | Downtown Watertown, SD |
+
+## Partnerships
+- **Hotel partner**: Holiday Inn Express (10% discount for Goss attendees)
+- **Sponsor model**: Events sponsored by local businesses (ReliaBank, Watertown Community Foundation, Johnson Appraisal Inc)
+- Free downtown public parking available
 
 ## Opendate Fit
+**Score: 90/100 — Moderate Lead**
+Currently using SecuTix (European enterprise platform). Well-established operation with sponsor relationships and professional presentation. Likely locked into current platform contract. Could be candidate if SecuTix pricing is high or if they want more local/US-based support. May be satisfied with current provider but worth monitoring for contract renewal timing.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+Professional venue with strong local business relationships. Dinner + movie model shows creative programming. Active promotion of downtown Watertown as destination.
