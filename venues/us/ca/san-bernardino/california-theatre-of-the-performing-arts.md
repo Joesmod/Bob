@@ -13,29 +13,43 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Historic 1,718-seat auditorium serving the Inland Empire (26 million people in a 30-mile radius). The California Theatre hosts a wide range of performances including legitimate theatre, musicals, plays, symphony, celebrity headliners, concerts, children's theatre, ballet, and recitals. Voted best live theatre in the Inland Empire by multiple local publications.
 
 ## History
 
-_Research pending_
+Built in 1928 as a vaudeville movie palace. Still houses the original Mighty Wurlitzer Organ, one of the very few in Southern California to remain in its original theater home. The organ is still played today during silent film programs. The theatre has undergone numerous renovations to upgrade patron comfort and production capabilities.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Research needed_ | _Research needed_ | _Research needed_ |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Genres & Event Types:**
+- Broadway musicals (Once, Sound of Music, In the Heights, Matilda, Grease, Harry Potter and the Cursed Child)
+- San Bernardino Symphony concerts
+- Silent films with Mighty Wurlitzer Organ
+- Theatre productions, ballet, children's theatre
+- Corporate events, graduation ceremonies, naturalization ceremonies
+
+**2025-2026 Season includes:**
+- Once (March 13-15, 2026)
+- Sound of Music (April 17-19, 2026)
+- Matilda (May 15-17, 2026)
+- Grease (July 17-18, 2026)
+- Harry Potter and the Cursed Child (Oct 16-18, 2026)
+- Lion King, Witch & Wardrobe (Nov 13-15, 2026)
+- Woman in Black (Feb 26-28, 2027)
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown - likely box office or third-party |
+| **Box Office** | (909) 885-8263 |
+| **Online Sales** | Website shows individual show pages; provider TBD |
 
 ## Contact
 
@@ -43,14 +57,16 @@ _Research pending — what genres, typical acts, event types_
 |---|---|
 | **Booking Email** | _TBD_ |
 | **General Email** | _TBD_ |
-| **Phone** | +1 909-885-8263 |
+| **Phone** | (909) 885-8263 |
 | **Website** | http://www.californiatheatre.net/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 75/100 — Strong Potential**
+
+Large historic venue with active programming of ticketed shows. Serves major metro area. Strong reputation as region's premier theatre. Would benefit from integrated ticketing platform for their diverse event types. Need to confirm current ticketing provider and decision-maker contacts.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Research: Website visit - active Broadway/theatre season*

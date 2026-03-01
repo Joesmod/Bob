@@ -13,29 +13,39 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Part of the national City Winery chain (12+ locations nationwide). Full-service restaurant, winery, and intimate live music venue. Combines world-class wine, great food, and ticketed shows in an upscale environment. Also hosts private events.
 
 ## History
 
-_Research pending_
+City Winery was founded by Michael Dorf and has expanded to become a multi-city winery and entertainment brand. The Nashville location at 609 Lafayette Street is one of their flagship venues, offering the brand's signature combination of urban winery, restaurant, and music venue.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Michael Dorf | Founder/CEO (Corporate) | Website |
+| _TBD_ | General Manager (Nashville) | _TBD_ |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Event Types:**
+- Intimate ticketed concerts (various genres)
+- Comedy shows
+- Private events and weddings
+- Wine tastings and dinners
+
+**Notes:**
+- Upscale ticketed venue model
+- Mix of music and comedy programming
+- Dinner + show packages common
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Likely proprietary/corporate system across all City Winery locations |
+| **Box Office** | (615) 324-1033 |
+| **Online Sales** | Via citywinery.com |
 
 ## Contact
 
@@ -43,14 +53,16 @@ _Research pending — what genres, typical acts, event types_
 |---|---|
 | **Booking Email** | _TBD_ |
 | **General Email** | _TBD_ |
-| **Phone** | +1 615-324-1033 |
+| **Phone** | (615) 324-1033 |
 | **Website** | https://citywinery.com/pages/locations/nashville |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 40/100 — Challenging**
+
+Part of national chain with 12+ locations. Likely uses centralized/corporate ticketing system managed at headquarters level. Local GM may not have authority to switch platforms independently. Strong brand with active ticketed shows, but corporate structure makes it difficult to approach at individual venue level. Better to pursue at corporate/HQ level if targeting City Winery.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Research: Website visit - national chain, corporate ticketing likely*
