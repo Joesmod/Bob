@@ -13,42 +13,48 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Multi-purpose entertainment venue in the industrial park area of General Escobedo, Nuevo León (Monterrey metro area). Functions as a concert hall, live music venue, wedding venue, and event space. The venue actively books musical acts and hosts both ticketed public shows and private events.
 
 ## History
 
-_Research pending_
+Operating since 2011. Well-established venue in the Monterrey region with over 3,000 Google reviews. Featured testimonial client of Boletero ticketing platform.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| TBD | Management | Unknown |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Concerts, live music, weddings, private events
+- **Genres**: Regional Mexican, banda, norteño, variety
+- **Frequency**: Active event calendar
+- **Capacity**: Unknown (multi-room facility)
+- Offers food/catering service via Frevo.mx
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Boletero (boletero.com / boletero.mx) |
+| **Box Office** | Yes |
+| **Online Sales** | Yes, via Boletero platform |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
 | **Phone** | +52 81 3248 4248 |
-| **Website** | https://generalshowcenter.com/ |
+| **Website** | generalshowcenter.com |
+| **Event Booking** | Via online form (app.startinfinity.com) |
+| **Artist Booking** | Online form for hiring groups/bands |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 65/100 — Moderate Prospect**
+
+Active ticketed venue using Boletero (regional Mexican platform). Good volume of business based on reviews. However, Mexico market presents challenges: language barrier, different payment infrastructure, and Opendate would need Spanish support. Venue appears independent and actively books talent, which is positive. Would require market expansion strategy for Mexico.
 
 ---
 

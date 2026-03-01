@@ -13,42 +13,45 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Municipal convention center operated by the City of South Padre Island. Multipurpose facility hosting conferences, trade shows, community events, and occasional entertainment. The website listed (visitsouthpadreisland.com) is the tourism board, not the convention center itself.
 
 ## History
 
-_Research pending_
+City-owned facility serving South Padre Island's convention and event needs.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| City of South Padre Island | Operator | Research |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Conventions, trade shows, community events
+- **Entertainment**: Occasional concerts/events (not primary focus)
+- **Capacity**: Multi-room facility
+- Not a dedicated entertainment venue
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — Primarily rental facility |
+| **Box Office** | No dedicated box office |
+| **Online Sales** | Varies by event organizer |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
 | **Phone** | +1 956-761-3000 |
-| **Website** | http://www.visitsouthpadreisland.com/ |
+| **Website** | http://www.visitsouthpadreisland.com/ (tourism board) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 15/100 — Poor Fit**
+
+Not a ticketed entertainment venue. This is a municipal convention center that primarily hosts conferences, trade shows, and community events. Occasional entertainment happens but it's not a music/arts venue with regular ticketed programming. Not an appropriate prospect for Opendate.
 
 ---
 

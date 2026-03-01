@@ -13,42 +13,46 @@
 
 ## About
 
-_Research pending — web scrape needed_
+State-owned performing arts theater in downtown Culiacán, Sinaloa. Operated by the Sinaloa State Culture Department (Instituto Sinaloense de Cultura), same as Teatro Socorro Astol. Well-rated venue with over 1,300 Google reviews (4.7/5). Website (culturasinaloa.gob.mx) was experiencing server errors during research.
 
 ## History
 
-_Research pending_
+Named after Pablo de Villavicencio, likely a significant cultural or historical figure in Sinaloa. Part of the state's cultural infrastructure network.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Instituto Sinaloense de Cultura | Operator | Website domain |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Performing arts, cultural events
+- **Operator**: State government cultural department
+- **Programming**: Unknown (website inaccessible)
+- High Google rating suggests active programming and public engagement
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Box Office** | Likely |
+| **Online Sales** | Unknown (website down) |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
 | **Phone** | +52 667 715 9419 |
-| **Website** | http://www.culturasinaloa.gob.mx/index.php?option=com_content&view=article&id=6&Itemid=120 |
+| **Website** | culturasinaloa.gob.mx (experiencing errors) |
+| **Address** | P.º Niños Heroes S/N, Primer Cuadro, Culiacán Rosales |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 20/100 — Poor Fit**
+
+Government-operated venue (Instituto Sinaloense de Cultura). Same operator as Teatro Socorro Astol. State-run theaters have bureaucratic procurement, inflexible vendor relationships, and administrative decision-making. Website infrastructure issues indicate tech challenges. Not a viable independent prospect for Opendate.
 
 ---
 

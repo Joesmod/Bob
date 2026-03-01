@@ -13,42 +13,51 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Performing arts theater in downtown Torreón, Coahuila. Dedicated to presenting quality cultural events and shows — regional, national, and international programming. Mission is to promote cultural and artistic development in the Laguna region. Highly rated venue with over 3,600 Google reviews.
 
 ## History
 
-_Research pending_
+Historic theater in Torreón serving the Laguna region (Torreón-Gómez Palacio-Lerdo metro area).
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| TBD | Management | Unknown |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Live music, theater, symphonic concerts, cultural events
+- **Recent events**: 
+  - Titanic Sinfónico (movie with live orchestra)
+  - Los Caballeros del Zodiaco Sinfónico
+  - Interstellar Sinfónico
+  - Juan Gabriel Sinfónico (regional music tribute)
+  - Contemporary artists (Majo y Dan)
+- **Frequency**: Active calendar with multiple events per month
+- Mix of popular culture and classical performances
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Own website / Unknown platform |
+| **Box Office** | Yes |
+| **Online Sales** | Via website (teatronazas.com/cartelera) |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
 | **Phone** | +52 871 712 4756 |
-| **Website** | http://www.teatronazas.com/ |
+| **Website** | teatronazas.com |
+| **Address** | Calle Cepeda 155, Primitivo Centro, Torreón |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 60/100 — Moderate Prospect**
+
+Active performing arts theater with regular ticketed programming. Good reputation (4.7/5 stars). Mix of symphonic concerts, tribute shows, and contemporary acts. However, Mexico market challenges apply: language, payments, need for Spanish platform. Appears to be independent operation, which is positive. Would need regional market expansion strategy.
 
 ---
 

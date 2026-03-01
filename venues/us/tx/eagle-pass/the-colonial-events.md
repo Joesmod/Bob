@@ -4,53 +4,57 @@
 
 | | |
 |---|---|
-| **Address** | 2150 Del Rio Blvd, Eagle Pass, TX 78852, USA |
-| **Phone** | (210) 788-8842 |
-| **Website** | https://www.thecolonialevents.com/ |
-| **Google Rating** | 5/5 (8 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=9316415316035447724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **City** | Eagle Pass |
+| **State** | TX |
+| **Country** | US |
+| **Category** | Venue |
+| **Website** | thecolonialevents.com |
 
 ## About
 
-_Research pending — web scrape needed_
+Private event venue and banquet hall in Eagle Pass, Texas. Focuses on weddings, quinceañeras, corporate events, and private celebrations. Not a ticketed entertainment venue - operates as a rental space for private functions.
 
 ## History
 
-_Research pending_
+Event venue focused on creating special moments for private celebrations.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Jackie | Contact | Website (jackie@thecolonial.com) |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Private events only
+- **Events**: Weddings, quinceañeras, corporate meetings, private parties
+- **Capacity**: Unknown
+- No public ticketed shows
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — Private rental venue |
+| **Box Office** | No |
+| **Online Sales** | No |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 210-788-8842 |
-| **Website** | https://www.thecolonialevents.com/ |
+| **General Email** | jackie@thecolonial.com |
+| **Phone** | (210) 788-8842 |
+| **Address** | 2150 Del Rio Blvd, Eagle Pass, TX |
+| **Website** | thecolonialevents.com |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 10/100 — Not Applicable**
+
+This is not a ticketed entertainment venue. The Colonial Events is a private event space/banquet hall for weddings, quinceañeras, and corporate events. They do not sell tickets to the public or host regular entertainment programming. Not a viable Opendate prospect.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Source: Opendate Lead Pipeline*
