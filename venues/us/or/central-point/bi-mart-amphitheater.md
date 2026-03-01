@@ -4,53 +4,61 @@
 
 | | |
 |---|---|
-| **Address** | 21 Peninger Rd #9, Central Point, OR 97502, USA |
-| **Phone** | (541) 774-8270 |
-| **Website** | http://attheexpo.com/ |
-| **Google Rating** | 4.5/5 (182 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=13197342570947037986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Location** | 21 Peninger Rd, Central Point, OR 97502 |
+| **Website** | http://attheexpo.com |
+| **Actual Facility** | Jackson County Expo |
+| **Type** | Fairgrounds / Expo Center |
 
 ## About
 
-_Research pending — web scrape needed_
+**Important:** The listing for "Bi-Mart Amphitheater" actually refers to the **Jackson County Expo**, a fairgrounds and event center in Central Point, Oregon. The website (attheexpo.com) shows this is a multi-purpose expo facility, not a dedicated music amphitheater.
 
-## History
+## What They Host
 
-_Research pending_
+**Event Types:**
+- Trade shows (Home & Garden Show, Hot Tub & Swim Spa Sale)
+- Community events (Crab dinner fundraisers)
+- Expos (Reptile Expo, RV shows)
+- Auctions and fundraisers
+- County fair events
+- Weddings and private rentals
 
-## Key People
+**Current Events (March 2026):**
+- 3rd Annual Community Crab Crack (Rotary Club)
+- Southern Oregon Home & Garden Show
+- Medford Metro Reptile Expo
+- OHSET Southern District Dinner & Auction
+- Hot Tub and Swim Spa Sale
 
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Facilities
 
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+The expo likely includes multiple buildings:
+- Padgham Pavilion (mentioned for dinners/auctions)
+- Various expo halls
+- Possibly outdoor amphitheater space (hence the "Bi-Mart Amphitheater" name)
 
 ## Ticketing
 
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 541-774-8270 |
-| **Website** | http://attheexpo.com/ |
+Events are ticketed individually by event organizers (not by the venue). The expo provides the space; third parties run the events and handle their own ticketing.
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not a Suitable Venue Type**
+
+This is a **fairgrounds/expo center**, not a music venue or performing arts theater. 
+
+**Not a target for Opendate** because:
+- Multi-purpose expo/fairgrounds facility
+- Hosts trade shows, expos, community events (not concerts/performances)
+- Individual event organizers handle their own ticketing
+- Venue doesn't operate as a ticketed performance space
+- Business model is facility rental, not box office operation
+
+**Correct categorization:** Expo Center / Fairgrounds / Event Facility
+
+If there is an actual amphitheater component used for concerts, that would need separate investigation, but the website shows no evidence of a regular concert series or music programming.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Research: Web scrape + analysis*
