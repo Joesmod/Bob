@@ -4,53 +4,49 @@
 
 | | |
 |---|---|
-| **Address** | 2100 N Interstate 35, Denton, TX 76201, USA |
-| **Phone** | (940) 369-7802 |
-| **Website** | http://thempac.music.unt.edu/ |
-| **Google Rating** | 4.8/5 (396 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=238234015951507846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Location** | Denton, Texas |
+| **Website** | https://music.unt.edu/mpac/ |
+| **Type** | University Performing Arts Center |
+| **Affiliation** | University of North Texas College of Music |
 
 ## About
 
-_Research pending — web scrape needed_
+The Murchison Performing Arts Center is home to the renowned University of North Texas College of Music. The facility hosts world-class performances by students, faculty, guest artists, and community members.
 
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+The center features two premiere venues:
+- **Margot and Bill Winspear Performance Hall**
+- **Lyric Theater**
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- University recitals and concerts
+- Faculty performances
+- Guest artist appearances
+- Community events
+- Student showcases
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 940-369-7802 |
-| **Website** | http://thempac.music.unt.edu/ |
+| **Current Provider** | University of North Texas system |
+| **Note** | Integrated with university ticketing/events infrastructure |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 30/100 — Poor Fit**
+
+Not a viable candidate for Opendate:
+- **University-operated**: Ticketing handled through UNT's centralized systems
+- **Institutional procurement**: Changing vendors requires university purchasing approvals
+- **Limited autonomy**: Venue management doesn't control ticketing platform decisions
+- **Existing infrastructure**: Likely tied to university-wide systems (Blackboard, Banner, etc.)
+
+**Why initially scored high**: High-quality venue with strong programming, but business model incompatible with independent ticketing platform adoption.
+
+**Recommendation**: Not a target for Opendate. University venues require institutional sales approach, not venue-by-venue outreach.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Research: Basic web scrape of music.unt.edu/mpac/*

@@ -4,53 +4,39 @@
 
 | | |
 |---|---|
-| **Address** | 5622 US-231, Dothan, AL 36301, USA |
-| **Phone** | (334) 793-4323 |
-| **Website** | http://www.nationalpeanutfestival.com/ |
-| **Google Rating** | 4.5/5 (1751 reviews) |
-| **Type** | Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=8286645415272388641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Location** | Dothan, Alabama |
+| **Website** | https://www.nationalpeanutfestival.com/ |
+| **Type** | Annual Festival |
+| **Category** | Festival (not a permanent venue) |
 
 ## About
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+The National Peanut Festival is an annual event in Dothan, Alabama. During the March 2026 research visit, the website showed minimal content beyond a copyright notice and "Powered by Saffire" footer.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 334-793-4323 |
-| **Website** | http://www.nationalpeanutfestival.com/ |
+| **Current Provider** | Likely Saffire (event management platform) |
+| **Note** | Seasonal/annual event, not year-round ticketing operation |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 25/100 — Very Poor Fit**
+
+Not a viable candidate for Opendate:
+- **Annual event, not venue**: Festival operates once per year, not ongoing programming
+- **Temporary infrastructure**: Ticketing needs are seasonal, not year-round
+- **Festival model**: Different business structure than venues with regular programming
+- **Limited website content**: Suggests either off-season or limited digital presence
+
+**Why initially scored high**: Festival has strong brand recognition and likely sells many tickets, but business model doesn't match Opendate's venue-focused platform.
+
+**Recommendation**: Not a target. Opendate is built for venues with regular programming, not annual festivals. Festival ticketing has different needs (advance sales cycles, group sales, sponsorship integration) than venue operations.
+
+**Note**: If Opendate eventually pursues festival market, this could be revisited. For now, focus on year-round venues.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Research: Website showed minimal content during scrape*
