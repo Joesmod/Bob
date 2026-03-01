@@ -2,55 +2,27 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Address** | 1154 Glendale Blvd, Los Angeles, CA 90026, USA |
-| **Phone** | Unknown |
-| **Website** | http://www.theecho.com/ |
-| **Google Rating** | 4.5/5 (1427 reviews) |
-| **Type** | Live Music Venue, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=15476664981374033429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+Music venue in Los Angeles, CA. Website (attheecho.com) is unreachable — fetch failed.
 
-## About
+## Status
 
-_Research pending — web scrape needed_
+**Website Down/Unreachable — Unable to Research**
 
-## History
+Attempted to fetch:
+- Homepage
+- /about
+- /events  
+- /calendar
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | http://www.theecho.com/ |
+All fetch attempts failed. Website may be down, blocking requests, or permanently offline.
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Unable to Assess**
+
+Cannot evaluate without functional website or accessible information. Venue may be defunct or experiencing technical issues.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Research attempt: Website unreachable*

@@ -2,51 +2,27 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **City** | Los Angeles |
-| **State** | CA |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | constellationroom.com |
+Music venue in Los Angeles, CA. Website (constellationroom.com) is non-functional — no content loads.
 
-## About
+## Status
 
-_Research pending — web scrape needed_
+**Website Broken/Empty — Unable to Research**
 
-## History
+Attempted to fetch:
+- Homepage
+- /about
+- /events  
+- /calendar
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | constellationroom.com |
+All returned no content. Website may be down, under construction, or permanently offline.
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Unable to Assess**
+
+Cannot evaluate without functional website or accessible information. Venue may be defunct or not actively marketing online.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-03-01*
+*Research attempt: Website inaccessible*

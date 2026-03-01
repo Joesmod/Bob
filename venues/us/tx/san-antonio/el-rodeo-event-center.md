@@ -2,55 +2,27 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Address** | 1305 SW Loop 410 Suite 100, San Antonio, TX 78227, USA |
-| **Phone** | (818) 912-2035 |
-| **Website** | http://elrodeoeventscenter.com/ |
-| **Google Rating** | 4.3/5 (26 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=14310811881184791917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+Event center in San Antonio, TX. Website (http://elrodeoeventscenter.com) is non-functional — no content loads.
 
-## About
+## Status
 
-_Research pending — web scrape needed_
+**Website Broken/Empty — Unable to Research**
 
-## History
+Attempted to fetch:
+- Homepage
+- /about
+- /events
+- /contact
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 818-912-2035 |
-| **Website** | http://elrodeoeventscenter.com/ |
+All returned no content. Website may be down, under construction, or permanently offline.
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Unable to Assess**
+
+Cannot evaluate without functional website or accessible information. Venue may be defunct or not actively marketing online.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-01*
+*Research attempt: Website inaccessible*
