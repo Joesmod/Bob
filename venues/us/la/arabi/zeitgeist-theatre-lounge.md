@@ -1,56 +1,50 @@
-# Zeitgeist Theatre & Lounge
+# Zeitgeist Theatre + Lounge
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 6621 St Claude Ave, Arabi, LA 70032, USA |
-| **Phone** | (504) 352-1150 |
-| **Website** | https://www.zeitgeistnola.org/ |
-| **Google Rating** | 4.8/5 (143 reviews) |
-| **Type** | Movie Theater |
-| **Google Maps** | [View](https://maps.google.com/?cid=12645519914976751380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Independent art house cinema and multi-disciplinary arts center in Arabi, LA (just east of New Orleans). Founded November 1986 as nonprofit 501(c)(3). 75-seat theater + 60-seat lounge. Specializes in experimental films, live music, performance art, and cultural programming. Part of St. Claude Arts Park campus.
 
 ## History
-
-_Research pending_
+Founded November 1986 in New Orleans. Relocated to Arabi, LA (currently 6th fastest growing neighborhood in America). 39 years in operation as of 2025. Survived and thrived as independent arthouse cinema through decades of change. Recently upgraded with Dolby sound system and UV air-scrubbers.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Rene | Director/Contact | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Film**: Arthouse, independent, foreign, documentary films
+- **Live Music**: Byron Asher, Palindromes, James Singleton's Malabar, experimental/creative music
+- **Special Series**: 
+  - Silent Films with Live Scores by David Bradley (monthly Sundays)
+  - Beuys and Beyond: Contemporary Artists on Film
+  - Canada Is Bigger Than The U.S. film series
+- **Dance**: Louisiana Dance Roots with Nat & Kat Cajun String Band
+- **Multi-disciplinary**: Performances, lectures, parties
+- **Ticket prices**: $10 general / $9 students/seniors / $8 members/children
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Veezi |
+| **Online sales** | Yes, via Veezi platform |
+| **Ticket range** | $8-$10 |
+| **Box office** | (504) 352-1150 |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 504-352-1150 |
-| **Website** | https://www.zeitgeistnola.org/ |
+| **General Email** | [email protected] |
+| **Phone** | (504) 352-1150 |
+| **Address** | 6621 St. Claude Ave, Arabi, LA 70032 |
+| **Instagram** | @zeitgeistnola |
+| **Venmo** | @zeitgeistnola |
+| **PayPal** | [email protected] |
 
 ## Opendate Fit
-
-_Assessment pending_
+**Score: 75/100 — Good Fit**
+Strong independent arts venue with consistent ticketed programming. Currently using Veezi (indie cinema platform). Active schedule of films, music, and performances. Nonprofit structure and community focus align with Opendate values. Lower ticket prices and niche programming mean moderate revenue but loyal audience. Good cultural programming diversity. Worth pursuing as thoughtful arts-focused prospect.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-02*
+*Research: Full website analysis*
