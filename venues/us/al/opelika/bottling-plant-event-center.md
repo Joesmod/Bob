@@ -1,56 +1,30 @@
 # Bottling Plant Event Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 614 N Railroad Ave, Opelika, AL 36801, USA |
-| **Phone** | (334) 705-5466 |
-| **Website** | https://www.bottlingplanteventcenter.com/ |
-| **Google Rating** | 4.6/5 (154 reviews) |
-| **Type** | Event Venue, Wedding Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=6145490071620741387&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Private event rental venue in downtown Opelika, Alabama, near Auburn University. Capacity up to 1,500 guests across multiple spaces. Converted from a 1938 Coca-Cola bottling facility. On-site kitchen, full ABC license (beer/wine/liquor), multiple event spaces. Primarily hosts private functions: weddings, receptions, corporate events, Auburn University sorority events, birthday parties, conferences.
 
 ## History
-
-_Research pending_
+Built in 1938 as a Coca-Cola bottling facility. Full-scale operation producing syrup, filling bottles, and managing distribution. Syrup production ended in the 1970s, transitioned to distribution-only before closing in 2007. Renovated and reopened in 2010 as The Bottling Plant Event Center. Current owners Scott and Julie Brown purchased the venue in June 2025.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Scott Brown | Owner (Operations & Business) | Website, retired U.S. Coast Guard officer |
+| Julie Brown | Owner/CEO (Creative Director & Styling) | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+- **Model**: Private event rentals only
+- **Event Types**: Weddings, corporate functions, university events, birthday parties, conferences
+- **Public Events**: Wine Down Wednesday upstairs lounge (weekly, 5-8 PM, half-price wine, $1 off beer/liquor, complimentary appetizers)
+- **No ticketed shows**: No concert or performance calendar
+- **Concerts mentioned historically** but no current ticketed programming found
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 334-705-5466 |
-| **Website** | https://www.bottlingplanteventcenter.com/ |
+| **Website** | bottlingplanteventcenter.com |
+| **Location** | Downtown Opelika, AL (minutes from Auburn University) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 10/100 — Not Applicable**
+This is a private event rental venue, not a ticketed performance venue. No evidence of public ticketed shows or concerts. The business model is venue rental for private functions (weddings, corporate events, etc.), not ticket sales for public performances. While the history mentions "concerts," the current operation shows no ticketed event calendar. Not a fit for Opendate's ticketing platform. Would need event booking/rental management software instead.
