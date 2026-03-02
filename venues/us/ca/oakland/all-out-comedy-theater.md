@@ -31,8 +31,10 @@ No specific leadership information found on public website.
 ## Contact
 | | |
 |---|---|
-| **Address** | Oakland, CA (specific address on website) |
+| **Address** | 2335 Broadway Ave, Oakland, CA (near 24th St) |
 | **Website** | https://www.alloutcomedytheater.com |
+| **Instagram** | @alloutcomedytheater |
+| **Facebook** | facebook.com/alloutcomedytheater |
 
 ## Opendate Fit
 **Score: 95/100 — Hot Lead**
