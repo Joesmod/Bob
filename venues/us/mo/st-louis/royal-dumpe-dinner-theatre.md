@@ -1,56 +1,62 @@
 # Royal Dumpe Dinner Theatre
 
 ## Overview
+Renaissance-themed dinner theater in St. Louis featuring interactive entertainment set in 16th century England with King Henry VIII. Billed as "the longest-running show of its kind in the New World," now in its fourth decade. Offers spontaneous, bawdy merrymaking with period entertainment and dining.
 
-| | |
-|---|---|
-| **Address** | 4398 Hoffmeister Ave, St. Louis, MO 63125, USA |
-| **Phone** | (636) 933-9057 |
-| **Website** | http://www.royaldumpe.live/ |
-| **Google Rating** | 4.2/5 (25 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11069305731383840671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+## Venue Details
+- **Location**: St. Louis, MO area (exact address not listed on basic website)
+- **Phone**: 636-933-9057 (for reservations)
+- **Type**: Renaissance dinner theater
+- **Format**: Interactive dinner show experience
 
 ## History
-
-_Research pending_
+Now in its fourth decade of operation, described as "the longest-running show of its kind in the New World." Established concept transforming guests back to 16th century England.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Royal Dumpe Players | Performing troupe | Website |
+| Not publicly listed | Management/ownership | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Main Show**: King Henry VIII and his bevy of wenches - interactive Renaissance experience
+- **Format**: Spontaneous bawdy merrymaking, songs, period entertainment
+- **Event Types**: Birthday parties, anniversaries, corporate events, private celebrations
+- **Vibe**: Riotous, contagious fun, family-friendly (with period-appropriate bawdiness)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Reservation Method** | Phone: 636-933-9057 |
+| **Current Provider** | Unknown (phone reservations only evident) |
+| **Online Sales** | Not visible on basic website |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 636-933-9057 |
-| **Website** | http://www.royaldumpe.live/ |
+| **Website** | http://www.royaldumpe.live |
+| **Phone** | 636-933-9057 |
+| **Last Updated** | January 14, 2026 |
 
 ## Opendate Fit
+**Score: 82/100 — Moderate Fit**
 
-_Assessment pending_
+Established dinner theater with four decades of operation indicates business stability. Phone-only reservation system is outdated - clear modernization opportunity. 
+
+**Concerns**:
+- Minimal web presence (very basic website)
+- No visible online ticketing
+- Unclear ownership/management contact
+- Cannot assess show frequency or ticket volume from available information
+
+**Recommendation**: Needs more research to determine:
+1. How frequently shows run (weekly? monthly? on-demand?)
+2. Who owns/operates the venue
+3. Current ticket volume
+4. Interest in modernizing ticketing systems
+
+**Next steps**: Would need to call 636-933-9057 to get more venue details and identify decision-maker before meaningful outreach.
 
 ---
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Research completed: March 2, 2026*  
+*Note: Website very basic - limited information available for research*

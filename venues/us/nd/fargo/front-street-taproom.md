@@ -1,56 +1,62 @@
-# Front Street Taproom
+# Front Street Taproom & Cellar Comedy Club
 
 ## Overview
+Bar and comedy club in downtown Fargo with two distinct spaces: main taproom and Cellar Comedy Club. Features comedy shows, trivia, music, and private event rentals. "Bring Your Own Food" policy allows guests to bring outside food.
 
-| | |
-|---|---|
-| **Address** | 614 Main Ave, Fargo, ND 58103, USA |
-| **Phone** | (701) 566-7226 |
-| **Website** | http://www.frontstreettaproom.com/ |
-| **Google Rating** | 4.7/5 (446 reviews) |
-| **Type** | Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=5528486063890272721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+## Venue Details
+- **Address**: 614 Main Avenue, Fargo, ND 58103
+- **Phone**: 701-566-7226
+- **Capacity**: 
+  - Mezzanine: up to 35 people
+  - Cellar: up to 100 people
+- **Type**: Bar/Comedy club
 
 ## History
-
-_Research pending_
+Established as Fargo's premier comedy venue with Comedy in the Cellar operating below the main taproom.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Marquay Belcher | Open Mic Host | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Comedy Shows**: Touring comedians Thursday-Friday-Saturday nights (2 shows per weekend)
+- **Open Mic Comedy**: Every Wednesday night at 8pm (free, 21+)
+- **Weekly Events**: Trivia, karaoke, and other bar programming
+- **Frequency**: 2-4 comedy shows per weekend, plus weekly open mic
+- **Ticket prices**: Varies by comedian; sold via Ticket Leap platform
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Ticket Leap (buytickets.at/frontstreettaproom) |
+| **Ticket Range** | Varies by show |
+| **Online Sales** | Yes |
+
+## Amenities
+- Unique craft beverage selection
+- Private rental spaces available (Mezzanine and Cellar)
+- BYOF (Bring Your Own Food) policy
+- Plentiful street parking (free during business hours; check signs for overnight)
+- Depot parking across the street (enter from Broadway)
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 701-566-7226 |
-| **Website** | http://www.frontstreettaproom.com/ |
+| **Website** | http://www.frontstreettaproom.com |
+| **Phone** | 701-566-7226 |
+| **Booking Email** | frontstreettaproom@gmail.com |
+| **Instagram** | @frontstreettaproom |
+| **Facebook** | @FrontStreetTaproom / @cellarcomedyclub |
 
 ## Opendate Fit
+**Score: 82/100 — Strong Comedy Lead**
 
-_Assessment pending_
+Active ticketed comedy venue using Ticket Leap (switchable). Consistent programming (2-4 shows/weekend) indicates reliable ticket sales. Located in mid-sized market (Fargo metro ~250k). Independent operation.
+
+**Strengths**: Comedy venues often have strong built-in audiences and repeat customers. Active booking calendar through 2026.
+
+**Considerations**: Focus is comedy rather than music. Bar/nightlife setting may have different ticketing needs than traditional performing arts venues. Would need to assess ticket volume to determine platform fit.
 
 ---
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Research completed: March 2, 2026*
