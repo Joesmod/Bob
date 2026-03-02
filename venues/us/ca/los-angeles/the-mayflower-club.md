@@ -1,52 +1,30 @@
 # The Mayflower Club
 
-## Overview
+## Data Error
+**Sheet Location**: Los Angeles, CA  
+**Actual Location**: Washington, DC  
+**Website**: https://www.themayflowerdc.com (note: "dc" in URL)
 
-| | |
-|---|---|
-| **City** | Los Angeles |
-| **State** | CA |
-| **Country** | USA |
-| **Category** |  |
-| **Website** | Unknown |
+The venue listed in the sheet as "The Mayflower Club" in Los Angeles with URL `http://www.mayflowerclubdc.com/` actually redirects to a Washington, DC venue. The sheet data appears to be incorrect.
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
+## Overview (DC Venue)
+Private event venue and lounge in Washington, DC. Focuses on private bookings for birthday parties, corporate gatherings, and group events with catering available.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **Website** | https://www.themayflowerdc.com |
+| **Event Inquiries** | events@mayflowerclubdc.com |
+| **Employment** | info@mayflowerclubdc.com |
 
 ## Opendate Fit
+**Score: 20/100 — Not Suitable**
 
-_Assessment pending_
+**Not a ticketed venue.** Private event rental business focused on birthday parties and corporate events. No public ticketed programming mentioned on website.
 
----
+**Data Issue**: This venue is in **Washington, DC**, not Los Angeles, CA as listed in the sheet. The URL clearly indicates "dc" and the website confirms DC location.
 
-*Last updated: 2026-02-27*
-*Source: Opendate Lead Pipeline*
+**Recommendation**: 
+1. Remove from LA leads
+2. If pursuing DC market, add to DC leads but note it's private events, not ticketed shows
+3. Verify there isn't a separate "Mayflower Club" in Los Angeles that was intended
