@@ -1,56 +1,40 @@
 # Phoenix Center for the Arts
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1202 N 3rd St, Phoenix, AZ 85004, USA |
-| **Phone** | (602) 254-3100 |
-| **Website** | https://phoenixcenterforthearts.org/ |
-| **Google Rating** | 4.7/5 (329 reviews) |
-| **Type** | Educational Institution, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17618429864244485861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community arts center with a 210-seat Third Street Theater, located in Phoenix, AZ. Operated by the City of Phoenix Parks and Recreation Department. Offers 300+ classes and hosts performances including theater productions and special events.
 
 ## History
-
-_Research pending_
+45+ years serving the Phoenix community. Supported in part by the Arizona Commission on the Arts and Phoenix Office of Arts and Culture through city council appropriations. Operated as a facility of the City of Phoenix Parks and Recreation Department.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| City of Phoenix Parks & Recreation | Operator | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Theater performances, special events, classes
+- **Frequency**: Varies — recent productions include "Poe Speakeasy" (immersive theater experience with cocktails)
+- **Capacity**: 210-seat Third Street Theater
+- **Notable**: 40+ teaching artists, versatile rooms for performances, rehearsals, classes, meetings
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown — likely direct sales or third-party for select events |
+| **Ticket Range** | Varies by event |
+| **Online Sales** | Limited information available |
+
+Events page was not accessible during research. Appears to be primarily a community arts education center with some ticketed performances.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 602-254-3100 |
-| **Website** | https://phoenixcenterforthearts.org/ |
+| **Address** | Margaret T. Hance Park area, accessible from 3rd Street |
+| **Website** | phoenixcenterforthearts.org |
+| **Transit** | Light Rail stops: McDowell/Central Ave, Roosevelt/Central Ave; Bus routes 0, 10, 17 |
+
+Contact form available on website. Parking available at Margaret T. Hance Park lot and street parking on Moreland & 3rd.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 40/100 — Low Priority**
+City-operated community arts center focused primarily on education and classes. Limited ticketed event schedule. Not a typical commercial venue. Low ticketing volume makes this a poor fit for Opendate's platform.
