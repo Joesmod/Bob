@@ -1,0 +1,52 @@
+# Kelly's Restaurant & Lounge
+
+## Overview
+
+| | |
+|---|---|
+| **City** | Enumclaw |
+| **State** | WA |
+| **Country** | US |
+| **Category** | Venue |
+| **Website** | http://kellysrl.com/ |
+
+## About
+
+_Research pending — web scrape needed_
+
+## History
+
+_Research pending_
+
+## Key People
+
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
+
+## Programming & Shows
+
+_Research pending_
+
+## Ticketing
+
+| | |
+|---|---|
+| **Current Provider** | _TBD_ |
+| **Box Office** | _TBD_ |
+
+## Contact
+
+| | |
+|---|---|
+| **Booking Email** | _TBD_ |
+| **Website** | http://kellysrl.com/ |
+
+## Opendate Fit
+
+_Assessment pending_
+
+---
+
+*Last updated: 2026-03-03*
+*Source: Opendate Lead Pipeline*
