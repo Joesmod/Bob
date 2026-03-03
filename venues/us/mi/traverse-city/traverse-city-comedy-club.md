@@ -1,56 +1,61 @@
 # Traverse City Comedy Club
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 738 S Garfield Ave, Traverse City, MI 49686, USA |
-| **Phone** | (231) 421-1880 |
-| **Website** | http://traversecitycomedyclub.com/ |
-| **Google Rating** | 4.6/5 (80 reviews) |
-| **Type** | Comedy Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=5082298872322393474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Stand-up comedy club located at 738 South Garfield Avenue in Traverse City, Michigan. Dedicated comedy venue serving food and drinks with both reserved and general admission seating. Age restrictions: 21+ for alcohol, 18+ general admission, 16-17 with parent.
 
 ## History
-
-_Research pending_
+Information not readily available on website. Appears to be independently operated comedy venue that has established itself in the Traverse City entertainment scene.
 
 ## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Information not publicly listed on website.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Format**: Professional stand-up comedy shows
+- **Seating**: Reserved and general admission options
+- **Frequency**: Regular weekend shows
+- **Performance length**: 75-105 minutes typical
+- **Age restrictions**: 21+ for alcohol, 18+ general, 16-17 with parent
+- **Doors open**: 60 minutes before showtime
+- **Notable policy**: Strict no heckling/talking during performances
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Own website (traversecitycomedyclub.com) |
+| **Ticket Range** | Varies by show |
+| **Online Sales** | Yes, pre-purchase available online |
+| **Box Office Phone** | 231-421-1880 |
+| **Refund Policy** | All sales final, no refunds or exchanges |
+
+## Venue Details
+- **Address**: 738 South Garfield Avenue, Traverse City, MI
+- **Location**: West side of S. Garfield between Comfort Center and Express Auto Wash
+- **Parking**: On-site lot holds 40 vehicles, leased additional parking at Garfield Courts (806 S. Garfield) for ~157 cars
+- **Food & Drink**: Full menu and bar service available
+- **Minimum**: Currently no food/drink minimum
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 231-421-1880 |
-| **Website** | http://traversecitycomedyclub.com/ |
+| **Box Office** | 231-421-1880 (sporadically staffed, leave message) |
+| **Website** | http://traversecitycomedyclub.com |
+| **Gift Cards** | Available via Clover online ordering |
+
+## Venue Policies
+- No cameras/videotaping during shows without written consent
+- Cell phones must be on silent
+- No heckling or talking during performances (immediate ejection)
+- Intoxicated patrons may be refused entry
+- No smoking indoors
+- Dress code: Shoes and shirt required
 
 ## Opendate Fit
+**Score: 78/100 — Good Potential**
 
-_Assessment pending_
+Independent comedy club with online ticketing already in place. Appears to use basic website-based system. Active programming with regular shows and established policies indicate professional operation.
 
----
+**Opportunity**: Currently using simple online system that could benefit from more robust ticketing platform. Food/beverage service provides additional revenue stream. Strict venue policies suggest experienced management.
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Challenges**: Limited publicly available information about ownership/management. Box office only sporadically staffed. Need more details on current ticketing backend (appears custom/basic setup).
+
+**Research Note**: Website has basic event listing but limited about/history information. Would benefit from follow-up contact to learn more about operations and current ticketing pain points.

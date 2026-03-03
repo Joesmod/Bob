@@ -1,56 +1,72 @@
-# Super Funny Comedy Club
+# Nate Jackson's Super Funny Comedy Club
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1530 Pacific Ave, Tacoma, WA 98402, USA |
-| **Phone** | (253) 878-4898 |
-| **Website** | https://superfunnycomedyclub.com/ |
-| **Google Rating** | 4.7/5 (886 reviews) |
-| **Type** | Comedy Club, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7832185969047865201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
+Professional stand-up comedy club in Tacoma, Washington, owned/operated by comedian Nate Jackson. Active venue with regular programming featuring national touring comedians. Strong ticketing stance requiring direct purchases only through official website.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Nate Jackson | Owner/Operator | Venue name/website |
 
 ## Programming & Shows
+Based on visible March 2026 calendar:
 
-_Research pending — what genres, typical acts, event types_
+**Regular Programming**:
+- **Tight Five Tuesdays**: Weekly open mic/showcase (March 3 - December 29, 2026)
+- **Trash Talk with Chris Crayzie**: Regular series (March 18 - July 15)
+
+**Headlining Acts** (March 2026 sample):
+- Tacarra Williams (March 6-8)
+- Maddi Mays (March 12)
+- Ron Taylor (March 13)
+- Lance Woods (March 14-15)
+- Lil Duval (March 19-21) - Major headliner
+- Tee Sanders (March 22)
+
+**Frequency**: Multiple shows per week, mix of weekend headliners and weekly programming
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Own website (superfunnycomedyclub.com) - appears proprietary |
+| **Online Sales** | Yes, exclusive official sales |
+| **STRICT POLICY** | Only tickets from SuperFunnyComedyClub.com accepted |
+| **Denied Entry** | Tickets from Craigslist, Vivid Seats, SeatGeek, Cheap Tickets, TicketsOnSale, StubHub, or any unauthorized third-party site |
+
+**Anti-Scalper Stance**: Aggressive enforcement against third-party ticket resellers. Clear messaging that ONLY direct purchases guarantee entry.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 253-878-4898 |
-| **Website** | https://superfunnycomedyclub.com/ |
+| **Website** | https://www.superfunnycomedyclub.com |
+| **Location** | Tacoma, WA |
 
 ## Opendate Fit
+**Score: 78/100 — Strong Potential**
 
-_Assessment pending_
+Independent comedy club with active programming and strong ticketing policies. Owner-operated by working comedian (Nate Jackson) suggests hands-on management and industry connections.
 
----
+**Opportunities**:
+- Currently using own ticketing system (likely custom or basic platform)
+- Strong anti-scalper stance shows they value ticket control
+- Regular weekly programming + national headliners = steady volume
+- Owner-operator model means direct decision-making
+- Active calendar with mix of recurring shows and touring acts
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Challenges**:
+- Already has a ticketing system in place (switching costs)
+- Strong opinions about ticket distribution (would need to trust new platform)
+- Limited information about venue capacity, food/beverage service
+
+**Key Insight**: The prominent warning about third-party tickets suggests they've had issues with scalpers/resellers. This indicates:
+1. Popular shows that sell out
+2. Strong desire for ticket control
+3. Potential pain points with current platform's secondary market prevention
+
+**Next Steps**: Direct outreach to discuss:
+- Current ticketing platform and pain points
+- Volume of shows and ticket sales
+- Interest in better fraud prevention/verified resale
+- Venue capacity and additional details
+
+**Research Note**: Website shows active calendar but limited about/contact information. Focus appears to be on show listings and ticket sales. The aggressive anti-scalper language is notable - suggests they've been burned before and would value a platform with strong ticket verification.

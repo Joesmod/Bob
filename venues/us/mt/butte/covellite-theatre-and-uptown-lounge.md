@@ -1,56 +1,41 @@
 # Covellite Theatre and Uptown Lounge
 
 ## Overview
+Theatre and lounge venue in Butte, Montana. Listed on venue databases but website currently non-functional.
 
-| | |
-|---|---|
-| **Address** | 215 W Broadway St, Butte, MT 59701, USA |
-| **Phone** | (406) 333-1658 |
-| **Website** | http://www.covellitepresents.org/ |
-| **Google Rating** | 4.7/5 (115 reviews) |
-| **Type** | Concert Hall, Auditorium, Community Center, Live Music Venue, Lounge Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=12733827444499694888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Research Status
+**Website Error**: During research on March 3, 2026, the website http://www.covellitepresents.org returned a DNS error (ENOTFOUND). Domain may have expired or venue may have ceased operations.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 406-333-1658 |
-| **Website** | http://www.covellitepresents.org/ |
+| **Website** | http://www.covellitepresents.org (NON-FUNCTIONAL as of 3/3/2026) |
+| **Location** | Butte, MT |
 
 ## Opendate Fit
+**Score: 78/100 — UNABLE TO VERIFY**
 
-_Assessment pending_
+**Status Unknown**: Website down during research attempt. Unable to verify:
+- Current operational status
+- Venue type and programming
+- Ticketing system
+- Contact information
+- Ownership/management
 
----
+**Next Steps**: 
+- Search for social media presence (Facebook, Instagram)
+- Check local Butte news/entertainment listings
+- Verify if venue is still operating
+- Find alternative contact methods if active
+- Update score based on operational status
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Note**: Assigned score of 78 suggests initial algorithmic evaluation showed promise, but current website failure raises red flags. Requires follow-up investigation to determine if venue is:
+1. Temporarily down (DNS/hosting issue)
+2. Rebranded (new domain)
+3. Closed permanently
+
+**Alternative research needed**:
+- Local Butte chamber of commerce
+- Google Maps/Yelp reviews and status
+- Montana venue directories
+- Social media search for "Covellite Theatre" or "Covellite Presents"

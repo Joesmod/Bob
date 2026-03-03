@@ -1,56 +1,85 @@
 # Armory Music Hall
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 24 W Mendenhall St, Bozeman, MT 59715, USA |
-| **Phone** | (406) 551-6511 |
-| **Website** | http://www.armorymusichall.com/ |
-| **Google Rating** | 4.6/5 (7 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1817369770477789737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Live music venue located within the Armory Hotel Bozeman in Montana. Part of a four-venue complex that includes a luxury hotel, restaurant, rooftop bar, and basement music venue. Offers unparalleled live music experiences in a fully restored historic venue with Montana hospitality.
 
 ## History
+Historic building repurposed as part of the Armory Hotel Bozeman complex. The basement formerly served as the Army band practice space. Restored to create a modern live music venue while preserving historic character.
 
-_Research pending_
+## Venue Complex
+The Armory Hotel Bozeman features four distinct offerings:
 
-## Key People
+**1. Armory Music Hall**
+- Live music venue
+- Located in former Army band practice space
+- "Steeped in history. Inspired by a new era of iconic live music."
 
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+**2. Tune Up Bar & Lounge**
+- Basement bar in former Army band practice space
+- Live bands and entertainment
+- Local distillery tastings
+- Wide-ranging whiskey list
+- Casual bar snacks
+- Rock & roll atmosphere
+
+**3. Fieldings Restaurant**
+- Street-level all-day dining
+- Elevated local cuisine
+- Open to hotel guests and locals
+- Sanctuary and satisfaction focus
+
+**4. Sky Shed Rooftop Bar**
+- Year-round Rocky Mountain panoramas
+- Fire pit and cozy communal furnishings
+- Original cocktails
+- Stylish vibe
 
 ## Programming & Shows
+- **Genres**: Live music (variety)
+- **Venue type**: Full music hall for concerts
+- **Additional programming**: Live bands at Tune Up basement bar
+- **Focus**: Creating "tomorrow's legendary memories"
 
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Venue Details
+- **Location**: Within Armory Hotel Bozeman
+- **Atmosphere**: Historic restoration with modern amenities
+- **Accommodations**: Luxury hotel suites available
+- **Dining**: Fieldings restaurant (all-day)
+- **Bars**: Tune Up (basement), Sky Shed (rooftop)
+- **Views**: Breathtaking mountain views, Rocky Mountain panoramas
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 406-551-6511 |
-| **Website** | http://www.armorymusichall.com/ |
+| **Main Website** | https://www.armorymusichall.com |
+| **Hotel Website** | https://www.armoryhotelbzn.com |
+| **Restaurant** | https://fieldingsbozeman.com |
+| **Basement Bar** | https://tuneupbarandlounge.com |
+| **Rooftop Bar** | https://skyshedbar.com |
 
 ## Opendate Fit
+**Score: 78/100 — Good Potential with Questions**
 
-_Assessment pending_
+Upscale music venue within boutique hotel complex. Strong positioning as destination venue with integrated hospitality (hotel, multiple dining/drinking venues). Mountain town location appeals to tourists and locals.
 
----
+**Opportunities**: 
+- Part of larger hospitality ecosystem (hotel guests are built-in audience)
+- Multiple revenue streams (hotel, food, beverage, tickets)
+- High-end positioning suggests higher ticket prices
+- Destination venue can attract touring acts
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Challenges**: 
+- No events calendar found on website during research
+- No ticketing information visible
+- Unclear how frequently music events occur
+- May primarily serve hotel guests/private events
+- Limited information about capacity, booking, current programming
+
+**Research Note**: Beautiful website with strong brand positioning, but lacks concrete information about event schedule, ticketing system, or booking process. Would need direct outreach to learn about:
+- Event frequency and types
+- Current ticketing platform
+- Booking calendar and availability
+- Capacity of music hall
+- Who handles bookings (hotel vs. independent promoter)
+
+Appears to be more of a boutique destination venue than a traditional ticketed music hall. May do occasional concerts rather than regular programming.
