@@ -1,56 +1,38 @@
 # Event Center on the Beach
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 29392 Ellensburg Ave, Gold Beach, OR 97444, USA |
-| **Phone** | (541) 247-4541 |
-| **Website** | http://eventcenteronthebeach.com/ |
-| **Google Rating** | 4.5/5 (25 reviews) |
-| **Type** | Event Venue, Banquet Hall |
-| **Google Maps** | [View](https://maps.google.com/?cid=15193465161550388440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+County-operated fairgrounds and event center in Gold Beach, OR. Located off Highway 101 on the southern Oregon coast. Primarily serves as venue for Curry County Fair and event space rentals.
 
 ## History
-
-_Research pending_
+Operated by Curry County government. Home to the annual Curry County Fair. Walking distance from Oregon coast beaches.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Curry County | Operator | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Curry County Fair**: Annual fair event
+- **Space Rentals**: Trade shows, conventions, board meetings, training sessions, celebrations, banquets
+- **Not a ticketed entertainment venue**: Functions primarily as event space for rent, not as a concert/show venue
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Event space rental model, not ticketed shows |
+| **Business Model** | Space rental for private events |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 541-247-4541 |
-| **Website** | http://eventcenteronthebeach.com/ |
+| **Phone** | (541) 247-4541 |
+| **Email** | CurryFair@currycountyor.gov |
+| **Office Hours** | Monday-Friday 9am-5pm |
+| **Location** | Gold Beach, OR (off Highway 101) |
+| **Website** | http://eventcenteronthebeach.com |
 
 ## Opendate Fit
+**Score: 25/100 — Poor Fit**
+This is a county-operated fairgrounds and event rental facility, not a ticketed entertainment venue. They rent space for private events, trade shows, and host the county fair. No regular ticketed programming. Not appropriate for Opendate's ticketing platform.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Note**: May have been miscategorized in lead generation. This is a government-run event space, not a commercial venue with ticketed shows.
