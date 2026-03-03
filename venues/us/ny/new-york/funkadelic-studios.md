@@ -1,52 +1,30 @@
 # Funkadelic Studios
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | New York |
-| **State** | NY |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | http://www.funkadelicstudios.com |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Music rehearsal studio in Times Square, New York City. 10 rehearsal rooms available for rent by the hour. 30+ years in operation. Serves drummers, bassists, guitarists, keyboardists, pianists, horn players, singer-songwriters for solo, duo, or band rehearsals. Also offers recording sessions and hosts Saturday night Open Jam and Drum Club.
 
 ## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Eventbrite |
-| **Box Office** | _TBD_ |
+- **Primary service**: Hourly rehearsal room rentals
+- **Rooms**: 10 rehearsal spaces
+- **Equipment**: Premium backline gear provided
+- **Hours**: Open daily 11am-11pm
+- **Special events**: Saturday night Open Jam, Drum Club
+- **Recording**: Recording sessions available
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | funkadelicstudios@gmail.com |
-| **Website** | http://www.funkadelicstudios.com |
+| **Website** | funkadelicstudios.com |
+| **Phone** | (212) 696-2513 |
+| **Email** | funkadelicstudios@gmail.com |
+| **Location** | Times Square, New York, NY |
+| **Calendar** | funkadelicstudios.com/events |
 
 ## Opendate Fit
+**Score: 0/100 — NOT A VENUE**
 
-_Assessment pending_
+**This is a rehearsal studio, not a performance venue.** They rent practice rooms by the hour to musicians. No ticketed public shows, no audience, no ticket sales. Not applicable for Opendate.
 
----
+**Misclassification**: Should be marked as "Rehearsal Studio" not "Venue" in the database.
 
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Research Date**: 2026-03-03

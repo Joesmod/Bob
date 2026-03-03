@@ -1,56 +1,44 @@
-# The Matthews (Opera House & Arts Center)
+# The Matthews Opera House & Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 614 N Main St, Spearfish, SD 57783, USA |
-| **Phone** | (605) 642-7973 |
-| **Website** | http://www.matthewsopera.com/ |
-| **Google Rating** | 4.7/5 (113 reviews) |
-| **Type** | Art Studio, Art Gallery, Non Profit Organization, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=66303102404121938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic arts center in Spearfish, SD serving the Black Hills region. Multi-discipline venue hosting music, theater, film, visual arts gallery, and educational programs. Community-focused nonprofit with active programming calendar. Operates theater, gallery, and educational spaces.
 
 ## History
-
-_Research pending_
+Historic building with century-long legacy. Named after founding Matthews family. Serves as cultural anchor for Black Hills region. Recent capital campaign to "reimagine the arts in the Black Hills for another century."
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _(Hiring Marketing & Events Coordinator)_ | Staff position | Website jobs page |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Music (country, folk, classical), theater productions, film screenings, art workshops
+- **Current calendar**: The Inquisitor screening (3/5), Bellman Presentation (3/11), Japanese Culture Workshop (3/12), Philip Daniel concert, Dancing at Lughnasa (theater, 3/26)
+- **Frequency**: Multiple events per week across disciplines
+- **Ticket prices**: Vary by show
+- **Special programs**: The Big Screen Film Showcase, Matthews Artist Collective, Children's Theater, Festival in the Park (community festival with vendor applications)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Internal box office + Eventbrite (some shows) |
+| **Online Sales** | Yes, website + third-party platforms |
+| **Box Office Info** | Theater Flex Pass available, advance sales |
+| **Gallery** | Abbott/Pinkoff Art Gallery on site |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 605-642-7973 |
-| **Website** | http://www.matthewsopera.com/ |
+| **Address** | 10th & Pacific, Spearfish, SD (Black Hills) |
+| **Website** | matthewsopera.com |
+| **Contact Page** | /contact on website |
 
 ## Opendate Fit
+**Score: 75/100 — Good Lead**
 
-_Assessment pending_
+Active community arts center with diverse programming (music, theater, film, gallery). Multi-venue operation suggests need for integrated platform. Mix of ticketed shows and free community events. Already using some external ticketing (Eventbrite for certain shows) indicates openness to third-party platforms.
 
----
+**Pros**: Active diverse calendar, community-focused, already using external ticketing for some shows, hiring staff (growth signal), flex passes show subscription model  
+**Cons**: Small market (Spearfish, SD), nonprofit arts center may have limited budget, multiple disciplines may have complex needs
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Research Date**: 2026-03-03
