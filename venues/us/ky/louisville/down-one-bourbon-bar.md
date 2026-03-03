@@ -1,56 +1,41 @@
 # Down One Bourbon Bar
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 321 W Main St, Louisville, KY 40202, USA |
-| **Phone** | (502) 566-3259 |
-| **Website** | http://www.downonebourbonbar.com/ |
-| **Google Rating** | 4.1/5 (867 reviews) |
-| **Type** | Bar, Sports Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=5212176918923314908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Downtown Louisville bourbon bar and restaurant located at 321 W Main St, next to KFC YUM Center. Part of the Urban Bourbon Trail. Features extensive bourbon/whiskey selection, modern fast-casual menu (tacos are a specialty), and cocktails. Full-service restaurant and bar, not primarily a ticketed event venue.
 
 ## History
-
-_Research pending_
+Established as part of Louisville's Urban Bourbon Trail. Owned/operated by AJ's Hotels & Restaurants group (part of Galt House portfolio). Focus on fast service for pre-game crowds heading to KFC YUM Center events.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| J. Pike | Contact/Manager | Website (jpike@galthotel.com) |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Restaurant/bar with occasional group events and meetups
+- **Events**: Website mentions "Group Meetup Night" and "Pool Ball Night" but appears to be placeholder content
+- **Not a ticketed venue**: Operates as a full-service restaurant/bar
+- **Hours**: Mon-Thu 11am-10pm, Fri 11am-11pm, Sat 4pm-11pm
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — Not a ticketed venue |
+| **Reservations** | Standard restaurant reservations/groups |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 502-566-3259 |
-| **Website** | http://www.downonebourbonbar.com/ |
+| **Phone** | (502) 566-3259 |
+| **Email** | jpike@galthotel.com |
+| **Address** | 321 W Main St, Louisville, KY 40202 |
+| **Website** | https://downonebourbonbar.com |
+| **Instagram** | @downonebourbonbar |
+| **Facebook** | /DownOneBourbonBar |
 
 ## Opendate Fit
+**Score: 10/100 — Not a Fit**
 
-_Assessment pending_
+This is a restaurant/bar, not an event venue. While they host group events and may have occasional entertainment, they don't sell tickets to shows or concerts. The venue operates in the hospitality/dining category rather than live entertainment/ticketing.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Not relevant for Opendate** — Focus on venues that regularly sell tickets to concerts, shows, or performances.

@@ -1,56 +1,22 @@
 # Shawnee Cave Amphitheater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 3747 IL-127, Murphysboro, IL 62966, USA |
-| **Phone** | (618) 751-0838 |
-| **Website** | https://www.shawneecave.fun/ |
-| **Google Rating** | 4.5/5 (79 reviews) |
-| **Type** | Event Venue, Tourist Attraction |
-| **Google Maps** | [View](https://maps.google.com/?cid=12408393064809774058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+**VENUE CLOSED** — Outdoor amphitheater in southern Illinois. Website announces closure as of August 2024.
 
 ## History
+Hosted the annual "Weekend At The Cave" festival and other live music events. Served the southern Illinois music community for several years before closing in 2024.
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Status Update (2024)
+Per website message (accessed March 2026):
+> "Weekend At The Cave 2024 (8/30-9/1/24) is cancelled. We apologize for any inconveniences, and we have already begun issuing ticket and vendor refunds... We are eternally grateful for our staff, volunteers, musicians, production crew, vendors, attendees, fans near and far, sponsors, friends and family we have made along the way, and most importantly – the community we have built here in southern Illinois since reopening this venue. We will forever cherish the memories made here."
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 618-751-0838 |
-| **Website** | https://www.shawneecave.fun/ |
+| **Website** | https://www.shawneecave.fun (closure notice only) |
+| **Status** | Closed/Inactive as of 2024 |
 
 ## Opendate Fit
+**Score: 0/100 — Dead Lead**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Venue has closed operations. Not a viable prospect.
