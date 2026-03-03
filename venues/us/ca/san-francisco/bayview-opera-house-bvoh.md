@@ -1,56 +1,39 @@
 # Bayview Opera House (BVOH)
 
 ## Overview
+**Website currently down/inaccessible** — Unable to research this venue. The listed website (rwoh.org) failed to load during research. The name suggests a historic opera house, likely in San Francisco's Bayview neighborhood.
 
-| | |
-|---|---|
-| **Address** | 4705 3rd St, San Francisco, CA 94124, USA |
-| **Phone** | (415) 824-0386 |
-| **Website** | https://rwoh.org/ |
-| **Google Rating** | 4.4/5 (352 reviews) |
-| **Type** | Performing Arts Theater, Tourist Attraction, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17746165876661025437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Research Status
+**⚠️ INCOMPLETE RESEARCH**
 
-## About
+The venue's website (rwoh.org) was inaccessible during the research window (multiple fetch attempts failed). Without access to their website, I cannot provide verified information about:
+- Current operations and programming
+- Ticketing practices
+- Contact information
+- Key personnel
+- Event types and frequency
+- Capacity and facilities
 
-_Research pending — web scrape needed_
+## Next Steps
+To complete this profile, the research team should:
+1. Verify the correct website URL (rwoh.org may be outdated or incorrect)
+2. Search for alternative online presence (social media, Google My Business)
+3. Direct contact via phone if available
+4. Check local San Francisco arts/culture listings
 
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 415-824-0386 |
-| **Website** | https://rwoh.org/ |
+## Preliminary Notes
+- Listed in lead database as a venue in San Francisco, CA
+- Name "Bayview Opera House" suggests historic theater/performance space
+- "BVOH" appears to be the common acronym
+- Likely serves Bayview-Hunters Point neighborhood
 
 ## Opendate Fit
+**Score: ??/100 — Cannot Assess**
 
-_Assessment pending_
+Unable to evaluate fit without access to basic venue information. Opera houses and historic theaters can be excellent candidates for ticketing platforms, but assessment requires data on:
+- Current ticketing provider
+- Event frequency and types
+- Capacity and business model
+- Management structure
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Status**: Requires follow-up research before evaluation.
