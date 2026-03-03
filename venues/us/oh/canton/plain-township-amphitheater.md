@@ -1,56 +1,31 @@
 # Plain Township Amphitheater
 
 ## Overview
+Outdoor amphitheater in Oakwood Square, Plain Township (Canton, OH). Opened in late July 2023. Municipal venue hosting free summer concert series and community programming.
 
+## Key Details
 | | |
 |---|---|
-| **Address** | 2616 Easton St NE, Canton, OH 44721, USA |
-| **Phone** | Unknown |
-| **Website** | https://plaintownshipamphitheater.com/ |
-| **Google Rating** | 4.8/5 (66 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=6577846527685349028&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Opened** | July 2023 |
+| **Capacity** | Lawn seating (capacity not specified) |
+| **Features** | Large covered stage, first-class audio system |
+| **Website** | plaintownshipamphitheater.com |
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+## Programming
+- **Summer Concert Series**: June - August, variety of genres
+- **Other Events**:
+  - Kids' programs
+  - Health & wellness programs
+  - High school events
+  - Christmas program
+  - Partner events with Oakwood Square merchants
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | https://plaintownshipamphitheater.com/ |
+| **Admission** | FREE |
 
 ## Opendate Fit
+**Score: 0/100 — Not a Fit**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Municipal amphitheater with free programming. No ticketing revenue model. Not a commercial venue.

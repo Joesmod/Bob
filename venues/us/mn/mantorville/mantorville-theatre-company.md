@@ -1,56 +1,46 @@
 # Mantorville Theatre Company
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 5 5th St W, Mantorville, MN 55955, USA |
-| **Phone** | (507) 635-5420 |
-| **Website** | https://www.mantorvilletheatrecompany.com/ |
-| **Google Rating** | 4.7/5 (86 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12018167350338808002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community theater in Mantorville, MN, producing six shows annually in the Historic Opera House. Known for its popular Summer Melodrama series plus year-round comedies, dramas, and musicals.
 
 ## History
+Nonprofit community theater with a long-standing tradition. Performs in the Historic Opera House owned by the Mantorville Restoration Association. Supported by grants from the Southeastern Minnesota Arts Council through the state's arts & cultural heritage fund.
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
+## Venue Details
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Location** | Historic Opera House, Mantorville, MN |
+| **Ownership** | Mantorville Restoration Association (building) |
+| **Organization Type** | Nonprofit community theater |
+| **Box Office** | (507) 635-5420 |
+
+## Programming
+- **Annual Productions**: 6 shows per year
+  - 3 Summer Melodramas (signature series)
+  - 3 additional shows: comedies, dramas, musicals
+- **Current/Upcoming**: *The Outsider* (April 10-26, 2026)
+- **Schedule**: Fri & Sat at 7pm, Sun at 2pm
+- **Accessibility**: Handicap accessible via east side entrance
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 507-635-5420 |
-| **Website** | https://www.mantorvilletheatrecompany.com/ |
+| **Box Office** | (507) 635-5420 (leave message) |
+| **Email** | info@mantorvilletheatre.com |
+| **Website** | mantorvilletheatrecompany.com |
+
+## Ticketing
+| | |
+|---|---|
+| **Current System** | Online ticketing available via website |
+| **Sales Channels** | Online + phone reservations |
+
+## Volunteers & Community
+- Volunteer usher program (free show admission in exchange)
+- Actively seeking: pianists, costumers, set designers/builders, technicians
+- Newsletter subscription available
 
 ## Opendate Fit
+**Score: 65/100 — Solid Community Theater Lead**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Well-established community theater with regular productions and online ticketing. As a nonprofit, they likely value cost-effective solutions and community-focused features. Six annual productions provide consistent ticketing needs. Decision-making may involve board approval. Good candidate if Opendate offers competitive pricing for nonprofit arts organizations.

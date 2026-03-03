@@ -1,56 +1,29 @@
 # Warren Cultural Center
 
 ## Overview
+Cultural center and event venue in Greenfield, IA. Appears to focus on room rentals, weddings, and community events. Historic building with restoration project.
 
+## Key Details
 | | |
 |---|---|
-| **Address** | 154 Public Square, Greenfield, IA 50849, USA |
+| **Location** | Greenfield, IA 50849 |
 | **Phone** | (641) 343-7337 |
-| **Website** | http://www.warrenculturalcenter.com/ |
-| **Google Rating** | 4.9/5 (42 reviews) |
-| **Type** | Concert Hall, Auditorium, Art Gallery, Live Music Venue, Performing Arts Theater |
-| **Google Maps** | [View](https://maps.google.com/?cid=3666736432270644209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Email** | director@warrenculturalcenter.com |
+| **Website** | warrenculturalcenter.com |
 
-## About
-
-_Research pending — web scrape needed_
+## Services
+- Event space rentals
+- Weddings
+- Room rentals
+- "Ed & Eva's" (unclear, possibly café or specific space)
+- Occasional events (calendar on website)
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 641-343-7337 |
-| **Website** | http://www.warrenculturalcenter.com/ |
+- Historic building
+- Ongoing restoration project
+- Has received articles and awards
 
 ## Opendate Fit
+**Score: 20/100 — Minimal Fit**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Primarily a rental/wedding venue rather than a ticketed performance space. Website structure suggests occasional events but focus is on space rental, not regular programmed entertainment. Not a strong ticketing platform candidate.

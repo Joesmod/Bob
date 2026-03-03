@@ -1,56 +1,37 @@
 # ComedySportz Quad Cities
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1800 7th Ave, Moline, IL 61265, USA |
-| **Phone** | (309) 220-8687 |
-| **Website** | http://comedysportzqc.com/ |
-| **Google Rating** | 4.8/5 (156 reviews) |
-| **Type** | Comedy Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=12054672762766569184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Improv comedy theater located in The Spotlight Studio (downstairs from The Spotlight Theatre) in Moline, IL. Part of the national ComedySportz franchise offering competitive improv comedy matches, workshops, and events.
 
 ## History
+Relocated to The Spotlight Studio in November 2022 through a partnership with The Spotlight Theatre. The new space hosts weekly matches, workshops for kids and adults, and special events.
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
+## Venue Details
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Location** | The Spotlight Studio, 1800 7th Avenue, Moline, IL 61265 |
+| **Parent Organization** | The Spotlight Theatre |
+| **Franchise** | ComedySportz (national chain) |
+
+## Programming
+- **Weekly Matches**: Competitive improv comedy shows
+- **Workshops**: Improv training for kids and adults
+- **Special Events**: Private shows, corporate events
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 309-220-8687 |
-| **Website** | http://comedysportzqc.com/ |
+| **Phone** | (563) 650-2168 |
+| **Website** | comedysportzqc.com |
+| **Note** | No box office hours; tickets available online and at door |
+
+## Ticketing
+| | |
+|---|---|
+| **Sales Channels** | Online + at door |
+| **Current Provider** | Unknown (likely Spotlight Theatre's system) |
 
 ## Opendate Fit
+**Score: 60/100 — Moderate Lead**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Active comedy venue with regular ticketed shows. Part of a franchise, which may limit decision-making autonomy on ticketing systems. Shares space/infrastructure with The Spotlight Theatre, so ticketing decisions may be made at the parent organization level. Worth further research if parent theater is interested.

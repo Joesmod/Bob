@@ -1,56 +1,27 @@
 # The Root Note
 
 ## Overview
+Coffee shop, bar, and music venue in historic downtown La Crosse, WI. Offers specialty coffee, craft cocktails, and seasonal food. Appears to host live music but website has minimal performance calendar information.
 
+## Key Details
 | | |
 |---|---|
-| **Address** | 115 4th St S, La Crosse, WI 54601, USA |
-| **Phone** | (608) 782-7668 |
-| **Website** | http://therootnotewi.com/ |
-| **Google Rating** | 4.7/5 (779 reviews) |
-| **Type** | Cafe, Cocktail Bar, Coffee Shop, Food Store, Live Music Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=8183871605560314828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Type** | Coffee shop / Bar / Music venue |
+| **Website** | therootnotewi.com |
+| **Location** | Downtown La Crosse, WI |
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Programming
+- Live music venue (details sparse on website)
+- Coffee service
+- Craft cocktails
+- Seasonal food menu
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 608-782-7668 |
-| **Website** | http://therootnotewi.com/ |
+| **Website** | therootnotewi.com |
 
 ## Opendate Fit
+**Score: 40/100 — Minimal Research**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Website provides very little information about music programming or ticketing. Appears to be primarily a café/bar with occasional live music. Unable to determine if they sell tickets or have regular programmed shows. Would need more research to assess fit.
