@@ -2,55 +2,33 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Address** | 14690 US-60, Milton, WV 25541, USA |
-| **Phone** | (304) 390-4575 |
-| **Website** | https://venetianestate.com/ |
-| **Google Rating** | 4.1/5 (356 reviews) |
-| **Type** | Event Venue, Pub, Wedding Venue, Restaurant, Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=14538172526228647029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+Historic estate and wedding venue in Milton, WV. Nearly 100 years old, offers indoor and outdoor event spaces for weddings, receptions, rehearsals, and private events. NOT a ticketed public events venue.
 
 ## About
 
-_Research pending — web scrape needed_
+The Venetian Estate is a landmark property in Milton, WV with:
+- Historic home
+- Stable
+- Formal reception hall  
+- Extensively landscaped grounds
 
-## History
+Operates as a private event rental facility for weddings and special occasions. No public ticketed performances or shows.
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+Mission: "To serve people with great intention, delivering impeccable quality and fostering unforgettable moments."
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 304-390-4575 |
-| **Website** | https://venetianestate.com/ |
+| **Website** | https://venetianestate.com |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not a Fit**
+
+Private wedding and event venue, not a ticketed public venue. They rent space for private functions, not sell tickets to public performances. Misclassified in lead pipeline.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-03*
+*Research: Bob via web_fetch*

@@ -2,55 +2,35 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Address** | 1602 Runnymede Rd, Norfolk, VA 23505, USA |
-| **Phone** | Unknown |
-| **Website** | http://www.northshorepoint.com/ |
-| **Google Rating** | 5/5 (6 reviews) |
-| **Type** | Concert Hall, Live Music Venue, Auditorium, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12807593211939792995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+Private house concert series in Norfolk, VA. Nonprofit presenting singer-songwriters in intimate home setting. NOT a public ticketed venue — invitation-only events.
 
 ## About
 
-_Research pending — web scrape needed_
+North Shore Point House Concerts is a private nonprofit house concert series that has featured Grammy-nominated artists including Kim Richey, Courtney Marie Andrews, Chuck Prophet, Todd Snider, and many others over the years.
 
-## History
+**House concerts** are private performances in someone's home, typically by invitation or limited advance RSVP. They are not open public venues with regular ticketing.
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+Notable past performers include:
+- Jim Lauderdale
+- Chris Smither  
+- Mary Gauthier
+- Alejandro Escovedo
+- Lloyd Cole
+- Marshall Crenshaw
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | http://www.northshorepoint.com/ |
+| **Website** | http://www.northshorepoint.com |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not a Fit**
+
+House concerts are private events, not public ticketed venues. While they may handle RSVPs or suggested donations, they don't operate as commercial ticketing venues. Misclassified in lead pipeline.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-03*
+*Research: Bob via web_fetch*
