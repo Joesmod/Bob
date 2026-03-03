@@ -1,52 +1,29 @@
 # Mecca Wine Distributors
 
 ## Overview
+**NOT A TICKETING VENUE** - Wine distribution company offering wine tastings and events in Raleigh/Durham, NC area. Private tastings and corporate events, not ticketed public shows.
 
-| | |
-|---|---|
-| **City** | Raleigh |
-| **State** | NC |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/sweet-wine-lovers-wine-tasting-raleigh-nc |
+## What They Do
+- Wine distribution and sales
+- Private wine tastings (in-home, corporate)
+- Wine education classes
+- Wine gifting and delivery services
+- Curated wine selection
 
-## About
+## Services
+- In-home wine tastings
+- Corporate wine events
+- Wine delivery services
+- Sommelier-led experiences
+- Private and small group events
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/sweet-wine-lovers-wine-tasting-raleigh-nc |
+## Website
+https://mecca.wine
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
+This is a wine distributor offering private tasting services, not a public entertainment venue with ticketed events. Does not operate a venue or sell public show tickets. Incorrectly categorized in lead pipeline.
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Category:** Wine Distribution / Private Events  
+**Recommendation:** Remove from venue pipeline

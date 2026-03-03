@@ -1,52 +1,24 @@
-# SCRAP RVA
+# SCRAP RVA (SCRAP Creative Reuse)
 
 ## Overview
+**NOT A TICKETING VENUE** - Creative reuse nonprofit retail store selling donated art, craft, and office materials at low cost. Located in Richmond, VA.
 
-| | |
-|---|---|
-| **City** | Richmond |
-| **State** | VA |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/macrame-test-tube-garlands-3-28 |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
+## What They Do
+- Retail store selling donated craft/art supplies
+- Educational programming about sustainability
+- Volunteer-run nonprofit operation
+- Open Tuesday-Sunday, 11am-6pm
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/macrame-test-tube-garlands-3-28 |
+| **Phone** | (804) 525-9060 |
+| **Website** | https://richmond.scrapcreativereuse.org |
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
+This is a nonprofit retail store, not an entertainment venue. While they mention "Upcoming Events," these are educational workshops and volunteer opportunities, not ticketed shows. Incorrectly categorized in lead pipeline.
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Category:** Nonprofit Retail / Education  
+**Recommendation:** Remove from venue pipeline

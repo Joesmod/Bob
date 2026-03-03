@@ -1,52 +1,22 @@
 # Housing Families First
 
 ## Overview
+**NOT A TICKETING VENUE** - This is a nonprofit organization dedicated to helping families transition from homelessness to stable housing. Located in Richmond, VA.
 
-| | |
-|---|---|
-| **City** | Richmond |
-| **State** | VA |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/cps-training |
+## What They Do
+Housing Families First provides:
+- Emergency shelter services
+- Transitional housing programs
+- Support services for homeless families
+- Case management and resources
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/cps-training |
+## Website
+https://housingfamiliesfirst.org
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
+This is a social services nonprofit, not an entertainment venue. Does not host ticketed events or shows. Incorrectly categorized in lead pipeline.
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Category:** Nonprofit / Social Services  
+**Recommendation:** Remove from venue pipeline

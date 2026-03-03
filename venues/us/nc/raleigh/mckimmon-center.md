@@ -1,52 +1,28 @@
-# McKimmon Center
+# McKimmon Center (NC State)
 
 ## Overview
+**NOT A TICKETING VENUE** - Conference and training center operated by NC State University's Continuing and Lifelong Education division. Corporate/educational events only.
 
-| | |
-|---|---|
-| **City** | Raleigh |
-| **State** | NC |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/logo-2026-job-seeker |
+## What They Do
+- Conference and meeting space rental
+- Corporate training facilities
+- Educational seminars and workshops
+- University-affiliated continuing education programs
+- Full-service event support (catering, printing, parking)
 
-## About
+## Programming
+- Professional development courses (AI, career development)
+- Corporate conferences and meetings
+- Educational seminars
+- No public entertainment or ticketed shows
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/logo-2026-job-seeker |
+## Website
+https://lifelonglearning.ncsu.edu
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
+This is a university conference center for corporate and educational events, not an entertainment venue. Does not sell tickets to public shows or concerts. Incorrectly categorized in lead pipeline.
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Category:** Conference Center / Corporate Events  
+**Recommendation:** Remove from venue pipeline

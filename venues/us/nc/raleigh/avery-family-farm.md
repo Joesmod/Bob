@@ -1,52 +1,21 @@
 # Avery Family Farm
 
 ## Overview
+**INCOMPLETE DATA** - Listed website (linktr.ee) is incomplete and does not lead to actual venue information. Unable to research.
 
-| | |
-|---|---|
-| **City** | Raleigh |
-| **State** | NC |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/therapeutic-goat-yoga |
+## Website Issue
+Listed website is "https://linktr.ee" without the specific Linktree path (e.g., linktr.ee/averyfamilyfarm). This is just the Linktree homepage, not the actual farm's page.
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | averyfamilyfarm@gmail.com |
-| **Website** | https://events.humanitix.com/therapeutic-goat-yoga |
+## Research Status
+Cannot complete research without proper website URL. Need either:
+- Full Linktree URL with path
+- Actual website URL
+- Social media handles to locate correct information
 
 ## Opendate Fit
+**Score: 0/100 — Unable to Assess**
 
-_Assessment pending_
+Cannot determine if this is a ticketing venue without valid website information. 
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Category:** Unknown  
+**Recommendation:** Update sheet with correct website URL before re-researching

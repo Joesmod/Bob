@@ -1,52 +1,27 @@
-# Sweet Peas Community Garden
+# Sweet Peas Urban Gardens
 
 ## Overview
+**NOT A TICKETING VENUE** - Urban agriculture business growing microgreens and promoting local food systems in Raleigh, NC.
 
-| | |
-|---|---|
-| **City** | Raleigh |
-| **State** | NC |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/third-saturday-volunteering-and-potluck |
+## What They Do
+- Microgreens farming
+- Community garden education
+- Local food system advocacy
+- Organic farming practices
+- Farm-to-table produce sales
 
-## About
+## Mission
+"We care about building a food system that fosters good health for people, nature, and the local economy."
 
-_Research pending — web scrape needed_
+Focus on hyperlocal, organic, nutrient-dense food production with community education component.
 
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/third-saturday-volunteering-and-potluck |
+## Website
+https://www.sweetpeasurbangardens.com
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
+This is an urban farm/agricultural business, not an entertainment venue. Does not host ticketed events or shows. Incorrectly categorized in lead pipeline.
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Category:** Agriculture / Urban Farming  
+**Recommendation:** Remove from venue pipeline

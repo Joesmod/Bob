@@ -1,52 +1,32 @@
 # The B&B Team
 
 ## Overview
+**NOT A TICKETING VENUE** - Real estate brokerage and consulting firm specializing in bed & breakfast properties, inns, and boutique hotels. Based in Asheville, NC area with offices in multiple states.
 
-| | |
-|---|---|
-| **City** | Asheville |
-| **State** | NC |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/two-day-aspiring-innkeeper-intensive-asheville-north-carolina |
+## What They Do
+- Bed & breakfast real estate brokerage
+- Inn buying and selling services
+- Innkeeping consulting and education
+- Industry seminars for aspiring innkeepers
+- Property listings nationwide
 
-## About
+## Leadership
+- **Owner:** Eben Viens
 
-_Research pending — web scrape needed_
+## Services
+- B&B and inn sales
+- Innkeeping seminars and education
+- Industry consulting
+- Real estate transactions for lodging properties
+- Market analysis and guidance
 
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/two-day-aspiring-innkeeper-intensive-asheville-north-carolina |
+## Website
+https://bbteam.com
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
+This is a real estate brokerage firm, not an entertainment venue. While they work with hospitality properties, they do not operate venues or host ticketed events. Incorrectly categorized in lead pipeline.
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Category:** Real Estate / Hospitality Consulting  
+**Recommendation:** Remove from venue pipeline

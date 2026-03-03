@@ -1,52 +1,22 @@
 # Cosmic Access
 
 ## Overview
+**NOT A TICKETING VENUE** - E-commerce retail store selling various products including sound therapy items. Online-only operation.
 
-| | |
-|---|---|
-| **City** | Raleigh |
-| **State** | NC |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/burnout-stress-and-hormones |
+## What They Do
+Online retail store offering:
+- Sound therapy products
+- Various consumer goods
+- Fast delivery and customer support
+- Multiple payment options (credit/debit, Shop Pay, Google Pay)
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/burnout-stress-and-hormones |
+## Website
+https://www.thecosmicaccess.com
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
+This is an online retail store, not a physical entertainment venue. Does not host events or sell tickets. Incorrectly categorized in lead pipeline.
 
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Category:** E-commerce / Online Retail  
+**Recommendation:** Remove from venue pipeline
