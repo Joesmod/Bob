@@ -1,56 +1,40 @@
 # Westside Theater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1200 Shakespeare St Ste. #2, Missoula, MT 59802, USA |
-| **Phone** | (406) 209-9778 |
-| **Website** | https://thewestsidetheater.com/ |
-| **Google Rating** | 4.8/5 (54 reviews) |
-| **Type** | Performing Arts Theater, Association Or Organization, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7241797973156457401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Westside Theater is a contemporary dance and performing arts venue in Missoula, Montana, serving as the home of Bare Bait Dance. The theater presents professional dance performances, community shows, youth programming, and specialized workshops focused on contemporary and experimental movement.
 
 ## History
-
-_Research pending_
+Information about founding not prominent on website. The venue has established itself as a hub for contemporary dance and movement arts in Western Montana.
 
 ## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Information not specified on website - operated by/in partnership with Bare Bait Dance.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Contemporary dance, modern dance, experimental performance, community theater
+- **Current season (2025/26)**: 
+  - 40 over 40 (community dance performance, March 24-29)
+  - An Exquisite Corpse (Bare Bait Dance season finale, April 17-26)
+  - Youth Audience Series performance (April 18, 3pm)
+  - REVEAL Workshop: Low-Fly and Vertical Exploration (May 18-21, with Bandaloop dancers)
+- **Format**: Professional dance company productions, community performances, youth shows, movement workshops
+- **Frequency**: 4-6 major productions per season, plus workshops and special events
+- **Audience**: Contemporary dance enthusiasts, families, movement artists
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (likely managed through website or simple platform) |
+| **Ticket Range** | Not specified |
+| **Online Sales** | Yes, appears to have online ticketing |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 406-209-9778 |
-| **Website** | https://thewestsidetheater.com/ |
+| **Website** | thewestsidetheater.com |
+| **Location** | Missoula, MT |
+| **Programming Partner** | Bare Bait Dance (resident company) |
 
 ## Opendate Fit
+**Score: 75/100 — Niche Arts Venue with Active Programming**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Westside Theater is an active contemporary dance venue with consistent programming throughout the year. Their focus on dance and experimental movement makes them unique in the Montana market. They present professional productions, community performances, and educational workshops - indicating diverse revenue streams and audience types. Contemporary dance venues typically attract dedicated arts patrons willing to buy tickets in advance and support the arts. The presence of a resident company (Bare Bait Dance) suggests stable operations and consistent programming needs. Good candidate for integrated ticketing, particularly if they're currently using basic solutions and looking to professionalize their patron management and sales. Their emphasis on community engagement and diverse programming (professional, youth, workshops) aligns well with platforms that support multiple event types and pricing structures.

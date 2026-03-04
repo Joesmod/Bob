@@ -1,56 +1,37 @@
 # NorShor Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 211 E Superior St, Duluth, MN 55802, USA |
-| **Phone** | (218) 733-7555 |
-| **Website** | http://norshortheatre.com/ |
-| **Google Rating** | 4.8/5 (453 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7787007669878437991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+The NorShor Theatre is a beautifully restored 1910 historic theater in downtown Duluth, serving as the permanent home of Duluth Playhouse. Originally built in 1910, the theater underwent extensive restoration completed in 2019. The venue features a grand balcony, traditional theater seating, and modern amenities while maintaining its historic character.
 
 ## History
-
-_Research pending_
+Built in 1910 as a vaudeville and movie palace, the NorShor was a downtown entertainment anchor for decades. After years of decline, the City of Duluth acquired the theater in 2010 with a vision to restore it as a cultural hub. Through partnership with Sherman Associates and Duluth Playhouse, a comprehensive restoration was completed in 2019, bringing the theater back to its former glory while adding modern technical capabilities.
 
 ## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+*(Duluth Playhouse operates the venue - contact information flows through the playhouse)*
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Musical theater, drama, youth productions, comedy, opera
+- **Current season**: Little Shop of Horrors (Mar), The Comedy of Errors (May-Jun), Legally Blonde (Jul), Hadestown Teen Edition (Aug), Honk! Jr. (Aug)
+- **Frequency**: 6-8 mainstage productions per year, plus special events and youth shows
+- **Ticket prices**: Estimated $20-$50 depending on show and seating
+- **Audience**: Family-friendly programming, regional theater audiences
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Duluth Playhouse box office system (platform unknown) |
+| **Ticket Range** | $20-$50 estimated |
+| **Online Sales** | Yes, via duluthplayhouse.org |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 218-733-7555 |
-| **Website** | http://norshortheatre.com/ |
+| **General Email** | BoxOffice@DuluthPlayhouse.org |
+| **Phone** | 218-733-7555 |
+| **Address** | Downtown Duluth Historic Arts and Theatre (HART) District |
+| **Website** | norshortheatre.com (redirects to Duluth Playhouse) |
 
 ## Opendate Fit
+**Score: 75/100 — Solid Prospect**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+The NorShor Theatre is a professionally managed, restored historic venue with consistent year-round programming. As the home of Duluth Playhouse (founded 1914, one of the nation's oldest non-profit theaters), they have established operations, an active patron base, and commitment to community engagement. The venue sells tickets for all productions and offers subscriptions. A good candidate for modernized ticketing infrastructure, particularly given their emphasis on accessibility and reaching diverse audiences. Their restored venue and professional operations suggest readiness for integrated platform solutions.

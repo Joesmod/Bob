@@ -1,56 +1,34 @@
 # Lyric Opera of the North
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 506 W Michigan St, Duluth, MN 55802, USA |
-| **Phone** | (218) 464-0922 |
-| **Website** | https://loonopera.org/ |
-| **Google Rating** | 4/5 (4 reviews) |
-| **Type** |  |
-| **Google Maps** | [View](https://maps.google.com/?cid=12919991559123299290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Lyric Opera of the North is an opera company based in Duluth, Minnesota, presenting professional opera productions with full orchestra and staged performances. They perform at various venues including The Depot Theatre in Duluth.
 
 ## History
-
-_Research pending_
+Information about founding date not available on current website. The organization focuses on bringing high-quality opera to the Northland region of Minnesota.
 
 ## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Information not available on current website.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Opera, classical vocal performance
+- **Current production**: The Elixir of Love (Little LOON Public Performance at The Depot Theatre, March 5, 2026, 6:00pm)
+- **Format**: Full productions with orchestra, some scaled "Little LOON" performances for accessibility
+- **Frequency**: Limited information available, appears to produce 1-2 major productions per season
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Arts People (app.arts-people.com) |
+| **Ticket Range** | Not specified on website |
+| **Online Sales** | Yes, via Arts People platform |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 218-464-0922 |
-| **Website** | https://loonopera.org/ |
+| **Website** | loonopera.org |
+| **Performance Venue** | The Depot Theatre, Duluth |
 
 ## Opendate Fit
+**Score: 75/100 — Niche but Established**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Lyric Opera of the North is a professional opera company serving the Duluth region. They currently use Arts People for ticketing (a common arts-focused ticketing platform). Opera companies typically have dedicated patron bases and subscription models, making them good candidates for integrated ticketing solutions. Limited website information suggests they may be operating with constrained resources, which could make them receptive to better platform solutions. Worth contacting to understand their scale, production frequency, and ticketing needs. The use of Arts People suggests they're already paying for ticketing services and might be interested in alternatives.
