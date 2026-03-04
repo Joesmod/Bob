@@ -7,12 +7,14 @@
 | **City** | Phoenix |
 | **State** | AZ |
 | **Country** | USA |
-| **Category** |  |
-| **Website** | Unknown |
+| **Category** | Amphitheatre |
+| **Website** | https://scottsdalearts.org |
 
 ## About
 
-_Research pending — web scrape needed_
+**Website Issue:** The Scottsdale Arts website (scottsdalearts.org) uses heavy JavaScript and does not load properly with basic web scraping. Requires browser-based research to access event listings and venue information.
+
+From limited access: Part of Scottsdale Arts organization. Appears to host performances and events
 
 ## History
 
