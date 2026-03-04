@@ -1,56 +1,47 @@
 # Cabarrus Brewing Company
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 329 McGill Ave NW, Concord, NC 28027, USA |
-| **Phone** | (704) 490-4487 |
-| **Website** | http://www.cabarrusbrewing.com/ |
-| **Google Rating** | 4.6/5 (800 reviews) |
-| **Type** | Brewery, Beer Garden, Bar, Event Venue, Wholesaler |
-| **Google Maps** | [View](https://maps.google.com/?cid=11885064815298070648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community-focused craft brewery in Concord, NC. One of the first breweries established in the area, positioning itself as deeply invested in community partnership and local events. Features brewpub with full food service and dedicated events calendar infrastructure.
 
 ## History
-
-_Research pending_
+Established as one of the first breweries in Concord, NC. Despite being early to market, maintains a startup mentality focused on putting customers and community first. Active in hosting community benefit events and partnering with local venues.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Unknown | Founders/Management | Not listed on public pages |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Community events, live music, private events
+- **Frequency**: Has dedicated events calendar page (https://cabarrusbrewing.com/events/)
+- **Current Status**: No events listed for March 2026 (calendar checked 3/4/26)
+- **Historical Pattern**: Calendar structure suggests regular event programming
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown - no active events to check |
+| **Online Sales** | Events calendar exists but currently empty |
+
+## Venue Features
+- **Brewpub**: Full food and beverage service
+- **Private Events**: Available for booking
+- **Community Focus**: "Partnering Within Our Community" - hosts benefit events
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 704-490-4487 |
-| **Website** | http://www.cabarrusbrewing.com/ |
+| **Website** | https://cabarrusbrewing.com |
+| **Location** | Concord, NC |
+| **Events**: https://cabarrusbrewing.com/events/ |
 
 ## Opendate Fit
+**Score: 60/100 — Warm Lead**
 
-_Assessment pending_
+Moderate potential. Established brewery with community focus and events infrastructure (dedicated calendar page), but currently showing no active events. Could be seasonal lull, between programming cycles, or transitioning. The existence of a structured events calendar suggests historical event activity. Strong community engagement messaging indicates willingness to host/produce events.
 
----
+**Concerns**: Empty calendar raises questions about current activity level. No visible ticketing system or recent event examples. No price points or event types to assess.
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Follow-up needed**: Contact to understand event programming status. Are they between seasons? Rebuilding post-COVID? Looking for better event management tools? The infrastructure suggests they *should* be doing events, but current inactivity is a yellow flag.
+
+**Potential**: If they're looking to ramp up events or return to active programming, Opendate could be the platform to help them restart with modern ticketing/management tools.
