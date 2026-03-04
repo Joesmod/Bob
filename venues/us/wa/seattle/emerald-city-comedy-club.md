@@ -1,56 +1,55 @@
 # Emerald City Comedy Club
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 210 Broadway E, Seattle, WA 98102, USA |
-| **Phone** | (206) 390-9152 |
-| **Website** | https://www.emeraldcitycomedy.com/ |
-| **Google Rating** | 4.3/5 (130 reviews) |
-| **Type** | Comedy Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=14568572425469247891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Seattle's dedicated stand-up comedy venue. Intimate, cabaret-style setting featuring national touring comedians and Pacific Northwest rising stars. Full-service venue with food and drink menu.
 
 ## History
-
-_Research pending_
+Seattle's home for live stand-up comedy. Established as a dedicated comedy venue serving the Seattle market.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Owner/Operator | _Research needed_ |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Stand-up comedy
+- **Frequency**: Multiple shows weekly
+- **Acts**: National touring comedians + Pacific Northwest rising stars
+- **Setting**: Intimate, cabaret-style with close audience proximity
+- Very active calendar with shows scheduled through December 2026
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Self-managed / Unknown (integrated system) |
+| **Ticket Sales** | Yes - "Reserve your tickets now" messaging on site |
+| **Online Sales** | Yes, via website |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 206-390-9152 |
 | **Website** | https://www.emeraldcitycomedy.com/ |
+| **Social Media** | _TBD_ |
+
+## Venue Details
+- **Food & Beverage**: Full menu of shareable appetizers, entrees, desserts; craft cocktails and local beers
+- **Setting**: Intimate, cabaret-style
+- **Target Audience**: Date nights, friend groups, comedy fans
 
 ## Opendate Fit
+**Score: 68/100 — Solid Prospect**
 
-_Assessment pending_
+Active comedy club with strong show schedule. Website shows integrated ticketing system. Seattle market has good demographics for Opendate. Venue positions itself as "Seattle's home for live stand-up comedy" suggesting strong local brand.
+
+Would benefit from:
+- Modern ticketing platform with better UX
+- Marketing automation and email campaigns
+- Customer data insights
+- Mobile-first ticket purchasing
+
+**Next Steps**: Need to identify ownership/management contacts and current ticketing provider details.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-04*
+*Source: Opendate Lead Pipeline + Website Research*
