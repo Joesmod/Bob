@@ -1,56 +1,26 @@
 # Theatre At Meydenbauer Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 11100 NE 6th St, Bellevue, WA 98004, USA |
-| **Phone** | (425) 450-3810 |
-| **Website** | http://meydenbauer.com/ |
-| **Google Rating** | 4.5/5 (287 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=15877318525977150887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Performing arts theatre within Meydenbauer Center, Bellevue's premier convention center. Opened in 1993. Offers professional theatre rental for productions alongside convention center operations. IATSE union crew available. Focus on serving both performing arts productions and convention/event needs.
 
 ## History
+Meydenbauer Center opened in 1993 and has served the Bellevue community for over 30 years. Combines convention center operations (54,000 sq ft of meeting space) with dedicated performing arts theatre. Part of broader facility serving business, community, and cultural needs.
 
-_Research pending_
+## Facility
+- **Theatre**: Professional performance space with IATSE union crew
+- **Convention Center**: 54,000 sq ft of flexible meeting/event space
+- **Philosophy**: "Make all clients and guests feel like family"
+- **Rental Available**: Theatre bookings for productions, shows, events
 
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Programming
+Theatre rental model - hosts various productions, performances, and events from outside organizations. Available for rental by production companies, presenters, and performers.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 425-450-3810 |
-| **Website** | http://meydenbauer.com/ |
+| **Website** | https://meydenbauer.com |
+| **Theatre Info** | https://meydenbauer.com/theatre |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Moderate Prospect**
+Professional theatre rental facility with union crew. Dual-purpose venue (convention + theatre) may have complex ticketing needs or prefer existing systems integrated with convention center operations. Strong community presence since 1993. Would need to understand current ticketing arrangement and whether theatre operates independently or as part of broader convention center systems. Good prospect if they handle significant performance bookings with ticket sales.

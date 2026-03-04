@@ -1,56 +1,46 @@
 # Briggs Opera House
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 5 S Main St, White River Junction, VT 05001, USA |
-| **Phone** | (800) 622-1124 |
-| **Website** | http://uvjam.org/briggs |
-| **Google Rating** | 4.7/5 (23 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=9216274466839887920&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic 240-seat theatre in downtown White River Junction, VT. Built in the 1890s as Gates Opera House during White River Junction's railroad boom. Closed after WWII, became retail (JJ Newberry department store), reopened as performance venue in 1985. Now managed by Shaker Bridge Theater as primary leaseholder, with ~25 weeks annually available for community group rentals.
 
 ## History
+**Original Era**: Built 1890s as Gates Opera House when White River Junction was a booming railroad hub. Thrived as vaudeville and performance venue.
 
-_Research pending_
+**Retail Era**: Fell into disuse after World War II. Became JJ Newberry department store in 1950s.
 
-## Key People
+**Restoration**: Reopened as opera house in 1985 after Newberry closing.
 
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+**Current**: Shaker Bridge Theater is resident company and primary leaseholder. Junction Arts & Media (JAM) previously managed venue reservations (2020-2024). Now managed directly by Shaker Bridge Theater.
 
 ## Programming & Shows
+**Resident Company**: Shaker Bridge Theater produces regular season
 
-_Research pending — what genres, typical acts, event types_
+**Community Rentals** (~25 weeks available between SBT productions):
+- Junction Dance Festival
+- Upper Valley 24-Hour Play Festival
+- We The People Theater
+- White River Indie Film Festival
+- Rio Blanco Social Club
+- Revolution Fashion Show
+- Local graduations, workshops, candidate forums, music jams, burlesque
 
-## Ticketing
+## Facility
+- **Capacity**: 240 seats
+- **Accessibility**: Wheelchair accessible
+- **Location**: Historic downtown White River Junction, VT
+- **Vibe**: Larger than most area venues but intimate enough to feel personal
+- **Versatility**: Highly flexible performance space for various uses
 
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Rental Information
+Reservations managed by Shaker Bridge Theater. Community groups can rent during available weeks between SBT's productions.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 800-622-1124 |
-| **Website** | http://uvjam.org/briggs |
+| **Management** | Shaker Bridge Theater |
+| **Website** | https://uvjam.org/briggs (redirects to SBT) |
+| **SBT Website** | https://www.shakerbridgetheatre.org |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Good Community Venue Prospect**
+Historic venue with dual-use model (resident company + community rentals). 240-seat capacity good for small-to-mid productions. Very active with diverse programming. Currently managed by Shaker Bridge Theater - would need to understand their ticketing needs for both resident productions and rental events. Community-focused mission. Good fit if SBT handles significant ticket volume and wants integrated solution for resident + rental events.

@@ -1,56 +1,41 @@
 # Charlene Larsen Center for the Performing Arts
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 588 16th St, Astoria, OR 97103, USA |
-| **Phone** | (503) 338-9132 |
-| **Website** | http://larsencenter.org/ |
-| **Google Rating** | 4.7/5 (42 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=8410463403664597538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community performing arts center at 588 16th St., Astoria, OR. Formerly operated by Clatsop Community College, sold in 2020 and now independently managed by Partners for the PAC, a non-profit organization. Hosts variety of performances, community events, and serves as home to multiple partner organizations.
 
 ## History
-
-_Research pending_
+Originally operated by Clatsop Community College. In 2020, during COVID-19 pandemic, ownership transferred to Partners for the PAC non-profit organization, saving the venue from closure. Named after Charlene Larsen. Historic building with significant community value.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Charlene Larsen | Namesake/Founder | Website |
+| Bereniece Jones-Centeno | Leadership | Website photos |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Event Types**: High school performances, concerts, vaudeville, community fundraisers, partner organization events
+- **Recent Events**: Ilwaco High School performances, Chehalem Valley Vaudeville, "Love the Larsen Center" fundraiser
+- **Facility Rental**: Available for community use, bookings via email/phone
+- **Special Features**: Mini-concert series (including virtual via YouTube during COVID)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Arts People |
+| **Purchase** | Online via Arts People or call (503) 338-9132 |
+| **Website** | https://partnersforthepac.org |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 503-338-9132 |
-| **Website** | http://larsencenter.org/ |
+| **Address** | 588 16th St. (NE corner 16th & Franklin), Astoria, OR 97103 |
+| **Phone** | (503) 338-9132 |
+| **Email** | info@partnersforthepac.org |
+| **Facebook** | facebook.com/PartnersForThePAC |
+
+## Supporters
+Oregon Cultural Trust supporter. Fundraising through events, raffles, and community donations.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Good Prospect**
+Community-saved venue with strong local support. Uses Arts People (switchable platform). Non-profit with civic mission. Active programming with multiple partner organizations. Successfully navigated ownership transition during pandemic shows resilience. Would need to demonstrate value for community-focused non-profit model. Good fit if pricing works for their mission-driven approach.

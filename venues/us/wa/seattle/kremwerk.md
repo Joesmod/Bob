@@ -1,56 +1,35 @@
 # Kremwerk
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1809 Minor Ave #10, Seattle, WA 98101, USA |
-| **Phone** | (206) 682-2935 |
-| **Website** | http://kremwerk.com/ |
-| **Google Rating** | 3.9/5 (262 reviews) |
-| **Type** | Night Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=1381190854168717198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Queer-owned nightclub and live music venue complex in Seattle's Denny Triangle neighborhood. Three distinct spaces (Kremwerk, Timbre Room, Cherry) each with stage, DJ booth, and bar. Specializes in underground electronic music, drag shows, and LGBTQ+ events. "The undisputed monarch of Seattle nightlife" - The Stranger.
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Kremwerk opened in 2014 as Seattle's hub for alternative drag programming and progressive electronic music. Expanded with Timbre Room in 2016 and Cherry in 2022. All three spaces are upstairs/downstairs in the same building and can be used independently or together for events.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Underground electronic music, techno, house, experimental
+- **Drag Shows**: Regular programming featuring alternative and experimental drag
+- **Frequency**: Multiple events per week, most starting at 9-10 PM
+- **Event Types**: DJ nights, live performances, drag shows, themed parties
+- **Capacity**: Multi-space complex allowing different simultaneous events
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Own system (website integrated) |
+| **Online Sales** | Yes, direct through website |
+| **ID Scanning** | Uses Patron Scan at all events for safety/tracking |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 206-682-2935 |
-| **Website** | http://kremwerk.com/ |
+| **Website** | https://www.kremwerk.com |
+| **Location** | Denny Triangle neighborhood, Seattle, WA |
+| **Safer Space Info** | https://www.kremwerk.com/safer-space |
+
+## Venue Policy
+Strong emphasis on consent and safety. ADA compliant stages, areas, bathrooms, and entrances. No tolerance policy for harassment. Staff available for support. Tiered ticket pricing with early presale discounts.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Moderate Prospect**
+Very active venue with high event frequency and strong ticket sales. Queer-owned with mission-driven culture. Currently uses integrated ticketing system. Would need platform that supports their specific community values, safety features, and nightlife operations. High volume of events makes them valuable, but cultural fit and feature requirements need careful consideration. May prefer maintaining their own system for control and community trust.
