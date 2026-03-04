@@ -21,8 +21,11 @@ Current focus appears to be on completing accessibility upgrades (elevator insta
 ## Ticketing
 | | |
 |---|---|
-| **Current Provider** | Unknown - venue in restoration phase |
-| **Status** | Not clear if currently programming regular events |
+| **Current Provider** | Stripe (direct payment processing) |
+| **Current Events** | Limited programming during capital campaign |
+| **Examples** | Dungeons & Dragons night ($25 w/ food, $15 without), Curious Conversations (RSVP), Jeff & Kathy Iverson's River Rats (June 2026) |
+
+The venue is selling tickets to select events via Stripe payment links while in capital campaign phase. Programming appears limited but active.
 
 ## Contact
 | | |
