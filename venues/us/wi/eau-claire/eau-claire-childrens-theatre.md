@@ -1,56 +1,41 @@
-# Eau Claire Children's Theatre
+# Eau Claire Children's Theatre (ECCT)
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1814 N Oxford Ave, Eau Claire, WI 54703, USA |
-| **Phone** | (715) 839-8877 |
-| **Website** | http://www.ecct.org/ |
-| **Google Rating** | 4.5/5 (173 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=6658005350993875863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Youth theater organization in Eau Claire, Wisconsin, providing theater education and producing family-friendly musicals. Performs at multiple venues including Pablo Center RCU Theatre, The Oxford, and Florian Gardens.
 
 ## History
-
-_Research pending_
+Established theater education organization focused on inspiring children and families through theatrical performances and classes.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| (Not specified) | | |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Family musicals, youth theater, theater education
+- **2026 Productions**:
+  - Scooby-Doo (auditions March 8-9, 2026)
+  - Frozen (March 20-22, Pablo Center RCU Theatre)
+  - The Lion, The Witch and The Wardrobe (March 21, Pablo Center)
+  - Jesus Christ Superstar (March 26-29, April 2-4, The Oxford)
+  - Alice in Wonderland Dinner Theatre (April 10-11, 17-18, The Oxford)
+  - Newsies (April 24-26, Pablo Center RCU Theatre)
+- **Education**: Summer classes, 8-week programs, year-round theater classes
+- **Special Events**: Handbags & Hors d'oeuvres fundraiser (April 30, Florian Gardens)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Pablo Center box office (for Pablo shows) |
+| **Ticket Range** | Varies by production |
+| **Online Sales** | Yes, via Pablo Center website |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 715-839-8877 |
-| **Website** | http://www.ecct.org/ |
+| **Website** | https://ecct.org |
+| **Note** | Uses multiple performance venues, not venue owner |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Moderate Fit**
+Active youth theater producer with strong programming volume (6+ shows annually). However, ECCT is a **production company**, not a venue operator. They rent space at Pablo Center, The Oxford, and other venues for performances. Better fit would be the venues themselves (Pablo Center RCU Theatre, The Oxford). ECCT could benefit from ticketing platform but doesn't control venue infrastructure. Consider targeting their performance venues instead.
