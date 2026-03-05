@@ -29,15 +29,16 @@ Established comedy brand that has expanded to two Tacoma locations: Downtown (93
 ## Programming & Shows
 
 - **Format**: Stand-up comedy showcases
-- **Frequency**: Very high volume - multiple shows per week at both locations
+- **Frequency**: Very high volume - 3-5 shows per week at both locations
 - **Locations**: Shows run simultaneously at Downtown and 6th & Proctor venues
 - **Talent**: National touring comedians and Pacific Northwest rising stars
 - **Show Types**: 
-  - Special Events (ticketed headliner shows)
-  - Free Shows (likely open mic nights)
-  - "Support Local" series
-- **Event calendar**: Extremely active with shows scheduled through late 2026
+  - Special Events (ticketed headliner shows - majority of programming)
+  - Free Shows (open mic nights)
+  - "Support Local" series featuring regional talent
+- **Event calendar**: Extremely active with shows scheduled through December 2026
 - **Atmosphere**: Intimate setting close to the action
+- **Notable**: Offers open mic nights for local talent development
 
 ## Ticketing
 
