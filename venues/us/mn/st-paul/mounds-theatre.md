@@ -1,56 +1,44 @@
 # Mounds Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1029 Hudson Rd, St Paul, MN 55106, USA |
-| **Phone** | (651) 772-2253 |
-| **Website** | http://www.moundstheatre.org/ |
-| **Google Rating** | 4.5/5 (261 reviews) |
-| **Type** | Performing Arts Theater, Live Music Venue, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=13631524098260807432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic theatre built in 1922 in St. Paul's Dayton's Bluff neighborhood. Originally a silent movie palace and live entertainment venue, now hosts theatre productions, musical performances, dance, and special events. Known as Minnesota's 2nd most paranormally active location.
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Built in 1922 as a venue for silent movies and live entertainment. Nearly 100 years later, continues bringing the same spirit of community entertainment to the Dayton's Bluff area. Volunteer-operated 501(c)(3) non-profit organization.
 
 ## Programming & Shows
+### Theater Productions
+Featured production: "It's An Honorable Life" - Original Star Trek/Klingon-themed adaptation performed in both Klingon and English with supertitles. Multiple December performances.
 
-_Research pending — what genres, typical acts, event types_
+### Special Events
+- **Annual Haunted Tours** (October)
+  - 1-hour guided tours ($25, ages 18+ or 16+ with guardian)
+  - 3-hour tours with basement access ($25, same age restrictions)
+  - Kid-friendly tours ($15 kids, $25 adults)
+- Musical performances
+- Dance events
+- Private event rentals available
 
 ## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+Sells tickets for productions and special events. Haunted tours regularly offered with tiered pricing. Theater productions have multi-night runs.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 651-772-2253 |
-| **Website** | http://www.moundstheatre.org/ |
+| **Address** | 1029 Hudson Road, St. Paul, MN 55106 |
+| **Phone** | (651) 772-2253 |
+| **Email (Haunted Tours)** | RHTMounds@gmail.com |
+| **Website** | https://moundstheatre.org |
+| **Facebook** | /MoundsTheatre |
+| **Instagram** | @moundstheatre |
+
+## Special Features
+- Historic 100-year-old theatre
+- Known for paranormal activity (marketed as part of haunted tour experience)
+- Available for private event rentals
+- Volunteer-run non-profit organization
+- Community-focused programming
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Good Prospect**
+Active historic theatre with multiple revenue streams (productions, special events, rentals). Regular ticketed programming including multi-night theatre runs and seasonal special events (haunted tours are popular draw). Non-profit operation focused on community engagement. Would benefit from integrated ticketing platform. Need to identify current ticketing provider and key decision-makers.

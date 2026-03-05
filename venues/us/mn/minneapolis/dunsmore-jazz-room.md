@@ -1,52 +1,24 @@
 # Dunsmore Jazz Room
 
 ## Overview
+Jazz venue in Minneapolis. Limited information available during research.
 
-| | |
-|---|---|
-| **City** | Minneapolis |
-| **State** | MN |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
+## Research Notes
+**Website Issue**: The listed website (jazznearyou.com) is a general jazz venue directory, not the venue's actual website. This appears to be an incorrect URL in the source data.
 
-## About
+## Status
+Unable to complete full research due to incorrect website URL. Need to:
+1. Identify correct website or contact information
+2. Verify venue still operates
+3. Determine if they host ticketed shows
+4. Find key personnel and ticketing details
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+## Next Steps
+- Google search for "Dunsmore Jazz Room Minneapolis" to find correct website
+- Check social media (Facebook, Instagram) for venue presence
+- Verify venue exists and is active
+- Update sheet with correct URL once found
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+**Score: TBD — Research Incomplete**
+Cannot assess fit without valid venue information. Recommend updating data source with correct URL or removing if venue no longer operates.

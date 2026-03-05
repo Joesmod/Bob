@@ -1,56 +1,33 @@
 # FINNEGANS Residency at Fulton Taproom
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 414 N 6th Ave, Minneapolis, MN 55401, USA |
-| **Phone** | (612) 208-3273 |
-| **Website** | https://finnegans.org/ |
-| **Google Rating** | 4.7/5 (352 reviews) |
-| **Type** | Brewery, Event Venue, Manufacturer, Food |
-| **Google Maps** | [View](https://maps.google.com/?cid=6004633064024078414&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Charitable brewery taproom in Minneapolis focused on "barstool philanthropy" — turning beer sales into food donations. FINNEGANS beer is now brewed at Fulton Brewing. Taproom serves as a gathering space with social mission focus.
 
 ## History
-
-_Research pending_
+FINNEGANS Brew Co. founded by Jacquie Berglund, CEO & "Rambunctious Social Entrepreneur." Recently moved brewing operations to Fulton Beer in a collaboration focused on shared values and cultural fit. Core mission is creating healthy communities and supporting local food systems.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Jacquie Berglund | Founder & CEO | Website |
 
 ## Programming & Shows
+Primarily a taproom/brewery rather than live event venue. Focus is on community gatherings and charitable initiatives. Limited ticketed event programming visible on website.
 
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Barstool Philanthropy Model
+- Beer sales turn into food donations
+- Annual "Drink Like You Care" campaign (November-December)
+- Distributors match beer-sales donations during holiday season
+- Supports fresh produce from local growers
+- Creates awareness about food insecurity
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 612-208-3273 |
-| **Website** | https://finnegans.org/ |
+| **Address** | 414 N 6th Ave, Minneapolis MN 55401 (Fulton Taproom) |
+| **Hours** | M-Th 3-10pm, F 3-11pm, Sa 12-11pm, Su 12-8pm |
+| **Website** | https://finnegans.org |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 30/100 — Not a Good Fit**
+This is primarily a charitable brewery/taproom, not a ticketed event venue. No visible ticketing operation or regular programmed shows. Mission is social impact through beer sales rather than live entertainment. Not a candidate for ticketing platform.

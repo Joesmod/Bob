@@ -1,56 +1,43 @@
 # Dubh Linn Brew Pub
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 109 W Superior St, Duluth, MN 55802, USA |
-| **Phone** | (218) 727-1559 |
-| **Website** | http://www.dubhlinnpub.com/ |
-| **Google Rating** | 4.2/5 (372 reviews) |
-| **Type** | Restaurant, Comedy Club, Brewery, Brewpub, Irish Pub |
-| **Google Maps** | [View](https://maps.google.com/?cid=3428276468793182904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Family-owned Irish pub and restaurant in downtown Duluth hosting regular comedy shows. Known for Minnesota's largest whiskey collection and weekly stand-up comedy events. Open Monday-Saturday, 4pm-2am.
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Family-owned establishment offering Irish pub atmosphere with homemade meals using fresh, local ingredients. Supports local suppliers including Farmer's Market, Green Acres Farm, and Sivertsons Fisheries.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Comedy Shows**: Saturdays at 6:00pm & 8:30pm featuring top 200 touring comedians
+- **Open Mic**: Thursday nights at 8pm (FREE)
+- **Live Music**: During happy hour, dinner, and late night
+- **Genres**: Stand-up comedy (touring professionals)
+- **Frequency**: Weekly comedy shows + open mic
+- **Ticket prices**: Comedy shows sold via Eventbrite; shows regularly sell out
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Eventbrite |
+| **Ticket Range** | Varies by show (comedy shows paid, open mic free) |
+| **Online Sales** | Yes, via Eventbrite |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 218-727-1559 |
-| **Website** | http://www.dubhlinnpub.com/ |
+| **Phone** | (218) 727-1559 |
+| **Address** | 109 W Superior St, Duluth, MN 55802 |
+| **Hours** | Monday-Saturday 4pm-2am, Sunday Closed |
+| **Facebook** | /DubhLinnIrishPub |
+| **Twitter** | @dubhlinnirish |
+| **Website** | https://dubhlinnpub.com |
+
+## Special Features
+- Minnesota's Largest Whiskey Collection
+- Tuesday: 1/2 price whiskey
+- Thursday: Half price wine bottles, $5 glasses
+- Murphy Banquet Room for private events
+- Free pool, darts & shuffleboard
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Solid Prospect**
+Comedy venue using Eventbrite for ticketing (switchable). Regular weekly shows with professional touring acts. Restaurant/pub hybrid with strong local following. Would benefit from integrated ticketing for their comedy series and private events.
