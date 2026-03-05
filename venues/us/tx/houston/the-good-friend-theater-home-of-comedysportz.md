@@ -1,56 +1,47 @@
-# The Good Friend Theater - Home of ComedySportz
+# The Good Friend Theater (Home of ComedySportz)
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 8301 Jones Rd #160, Houston, TX 77065, USA |
-| **Phone** | (713) 868-1444 |
-| **Website** | http://www.cszhouston.com/ |
-| **Google Rating** | 4.7/5 (342 reviews) |
-| **Type** | Performing Arts Theater, Comedy Club, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=10011149308447014555&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Family-friendly improv comedy theater in Houston, TX. Home to ComedySportz Houston, the longest-running improv comedy show in Houston (35+ years). Offers weekly shows, improv classes, corporate team building, and event rental. 200+ shows per year.
 
 ## History
-
-_Research pending_
+Operating for 35+ years in Houston. Part of the CSz Worldwide network of improv comedy theaters. Established as a destination for all-ages, clean improvised comedy.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Not listed publicly_ | _Not listed_ | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Main Show**: ComedySportz - Interactive improv comedy (Friday & Saturday 7:30pm)
+- **Other Shows**: Improv! The Musical, The Bard's Bounty, Maestro, Good Friend Comedy Hour, The Great Game Show Mash-Up
+- **Format**: Two teams of improvisors compete using audience suggestions; referee calls fouls; clean, all-ages content (6+)
+- **Frequency**: 200+ shows per year
+- **Special Features**: Audience participation, "Out of Bounds" foul system for clean comedy
+- **Education**: Houston School of Improv (4 levels + high school league)
+- **Corporate**: Team building and corporate training (43 Fortune 500 companies hired them last year)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Likely Squarespace-integrated or custom (site powered by Squarespace) |
+| **Ticket Sales** | Via comedysportzhouston.com/tickets |
+| **Format** | Online sales, group packages, birthday club |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 713-868-1444 |
-| **Website** | http://www.cszhouston.com/ |
+| **Address** | 8301 Jones Road, Houston, TX 77065 |
+| **Phone** | (713) 868-1444 |
+| **Email** | info@cszhouston.com |
+| **Website** | comedysportzhouston.com |
 
 ## Opendate Fit
+**Score: 75/100 — Solid Candidate**
+Active venue with 200+ shows/year. Family-friendly improv comedy has strong repeat audience. Operates education programs, corporate events, and rentals. Likely using Squarespace or basic ticketing - could benefit from a more robust platform. Good volume, established brand, diverse revenue streams. Worth reaching out.
 
-_Assessment pending_
+**Considerations**: Part of CSz Worldwide franchise network - any ticketing decision might involve corporate/franchise requirements.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-05*
+*Source: Website research (comedysportzhouston.com)*

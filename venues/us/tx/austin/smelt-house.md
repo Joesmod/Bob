@@ -1,52 +1,37 @@
 # Smelt House
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Austin |
-| **State** | TX |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
-
-## About
-
-_Research pending — web scrape needed_
+**DATA ERROR** — The website listed in the sheet (do512.com) is an Austin events aggregator, NOT the venue's website. Unable to locate actual Smelt House venue website or verify if this venue exists/is operational.
 
 ## History
-
-_Research pending_
+Unknown - unable to research due to incorrect website data.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Unknown_ | _Unknown_ | Data error |
 
 ## Programming & Shows
-
-_Research pending_
+Unable to determine - no valid website found.
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | Unable to determine |
+| **Website** | do512.com (INCORRECT - this is an events aggregator, not venue site) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **Website** | No valid website found |
 
 ## Opendate Fit
+**Score: N/A — Cannot Assess**
+The website data in the sheet is incorrect (do512.com is an events aggregator serving all of Austin, not a venue website). Unable to locate Smelt House's actual website or verify operational status. Venue may not exist, may have closed, or name may be incorrect.
 
-_Assessment pending_
+**Recommendation**: Verify venue name and location. Find correct website. May need manual search on do512.com for "Smelt House" events to find actual venue website, or check Google Maps for venue existence.
 
 ---
 
-*Last updated: 2026-02-27*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-03-05*
+*Source: Data error - incorrect website in sheet*

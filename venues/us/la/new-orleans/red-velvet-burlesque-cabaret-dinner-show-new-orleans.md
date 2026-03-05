@@ -1,56 +1,43 @@
-# Red Velvet Burlesque & Cabaret Dinner Show New Orleans
+# Red Velvet Burlesque & Cabaret Show (New Orleans)
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 940 Elysian Fields Ave, New Orleans, LA 70117, USA |
-| **Phone** | (844) 283-5838 |
-| **Website** | https://www.redvelvetburlesqueshow.com/burlesque-show-new-orleans-la.html |
-| **Google Rating** | 4/5 (47 reviews) |
-| **Type** | Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=5393399033262725064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+**NOT A VENUE** — Red Velvet Entertainment is a touring burlesque production company based in NYC that produces shows in multiple cities nationwide. They are a show producer, not a venue operator.
 
 ## History
-
-_Research pending_
+Started as a NYC burlesque show, Red Velvet Entertainment now produces touring burlesque and cabaret performances across the country. They book shows into various venues in different cities including New Orleans, Birmingham, NYC, and others.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Red Velvet Entertainment | Production Company | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Format**: Interactive burlesque and cabaret dinner shows
+- **Style**: Theatrical, audience-interactive performances with "Hot Seat" VIP experience
+- **Frequency**: Weekly shows in various cities
+- **Special Features**: "Hot Seat" add-on where guests become part of the show
+- **Target Audience**: Bachelorette/bachelor parties, birthdays, date nights, celebrations
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Eventbrite |
+| **Ticket Sales** | Via eventbrite.com/o/red-velvet-burlesque-show-30055342926 |
+| **Model** | General admission + VIP "Hot Seat" add-ons |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 844-283-5838 |
-| **Website** | https://www.redvelvetburlesqueshow.com/burlesque-show-new-orleans-la.html |
+| **Website** | redvelvetburlesqueshow.com |
+| **Booking** | Via website contact form |
 
 ## Opendate Fit
+**Score: N/A — NOT A VENUE**
+This is a touring production company that books into venues, not a venue operator. They should not be in the venue lead pipeline. Red Velvet produces shows and sells tickets via Eventbrite, but they don't own or operate venues. 
 
-_Assessment pending_
+**Recommendation**: Remove from venue database. If pursuing as a lead, should be categorized as "Promoter/Producer" not "Venue."
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-05*
+*Source: Website research (redvelvetburlesqueshow.com)*
