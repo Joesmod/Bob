@@ -1,56 +1,42 @@
 # Grand Prairie Arts Council
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 116 E Main St, Grand Prairie, TX 75050, USA |
-| **Phone** | (972) 642-2787 |
-| **Website** | https://www.artsgp.org/ |
-| **Google Rating** | 4.7/5 (14 reviews) |
-| **Type** | Performing Arts Theater, Event Venue, Association Or Organization, Manufacturer |
-| **Google Maps** | [View](https://maps.google.com/?cid=8615491568714682778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Nonprofit cultural arts organization founded in 1979, operating the Uptown Theater in Grand Prairie, Texas. Produces musical theater and performing arts programming. This is a producing theater company that creates its own shows, not a venue booking external acts.
 
 ## History
-
-_Research pending_
+Incorporated in January 1979 to produce, promote and support visual and performing arts in Grand Prairie. Has operated the Uptown Theater for decades, presenting community theater productions and musicals. Supported by the City of Grand Prairie but operates independently as a 501(c)(3) nonprofit.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Chief Operations Officer | Management (name not listed) | Website |
+| Chief Financial Officer | Finance (name not listed) | Website |
+| Board of Directors | Volunteer governance | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Community/regional theater - producing company
+- **Venue**: Uptown Theater, Grand Prairie
+- **Programming**: Musical theater productions, typically 4-6 shows per season
+- **Recent productions**: Prince of Egypt (2026)
+- **Format**: Multi-week runs with Friday/Saturday evening and Sunday matinee performances
+- **Ticket prices**: Season tickets available, single tickets via Prekindle
+- **Funding**: 65% from production revenues, patron memberships, donations, and grants; 35% from City of Grand Prairie support
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Prekindle |
+| **Online Sales** | Yes, via prekindle.com |
+| **Season Tickets** | Available |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 972-642-2787 |
-| **Website** | https://www.artsgp.org/ |
+| **Website** | artsgp.org |
+| **Venue** | Uptown Theater, Grand Prairie, TX |
+| **Ticketing Platform** | Prekindle events page |
+| **Support** | City of Grand Prairie, Texas Commission on the Arts |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 25/100 — Poor Fit**
+Not a venue for Opendate. Grand Prairie Arts Council is a nonprofit community theater company that produces its own shows at the Uptown Theater. They ARE the content creators (casting, directing, and producing musicals), not a venue booking external professional acts. Similar to other community/regional theaters - they produce multi-week runs of shows with their own casts, not one-night concerts or touring acts. Already using Prekindle for ticketing, which handles their subscription season model. Wrong category for Opendate's target market.

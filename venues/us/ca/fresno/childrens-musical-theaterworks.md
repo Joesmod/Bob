@@ -1,56 +1,41 @@
 # Children's Musical Theaterworks
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | Sierra Vista Mall (Rehearsal Space, 2425 Fresno St, Fresno, CA 93721, USA |
-| **Phone** | (866) 973-9610 |
-| **Website** | http://www.cmtworks.org/ |
-| **Google Rating** | 5/5 (12 reviews) |
-| **Type** | Performing Arts Theater, Event Venue, Manufacturer, Association Or Organization, Educational Institution |
-| **Google Maps** | [View](https://maps.google.com/?cid=11258616037151030846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Nonprofit youth theater company dedicated to training young performers in musical theater. Founded in 2001, produces shows starring children ages 4-18. Operates two performance spaces: mainstage musicals at Fresno Memorial Auditorium and smaller shows at Sierra Vista Mall location. This is an educational theater organization producing shows with student performers, not a venue for external bookings.
 
 ## History
-
-_Research pending_
+Founded in 2001, taking over operations at Fresno Memorial Auditorium from Fresno Playhouse. Has produced 46+ shows at Memorial Auditorium. Recognized by Disney for premiering "The Little Mermaid Jr" in 2014 and presenting one of the first productions of "Hunchback of Notre Dame" in 2017. Featured on www.disneymusicals.com.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not listed | Executive/Artistic Director | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Youth theater - educational programs with student performers
+- **Productions**: Summer and winter musicals (mainstage), smaller plays/showcases (blackbox)
+- **Typical shows**: Disney musicals and other family-friendly titles performed by children
+- **Venues**: Fresno Memorial Auditorium (mainstage), Sierra Vista Mall (classes/camps/small shows)
+- **Classes & Camps**: Year-round theater education programs for ages 4-18
+- **Ticket prices**: Family-friendly pricing, school performances at deeply discounted rates
+- **Impact**: 113,000 audience members, 73,000 students served through school performances, 3,550 young performers trained
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | tickets.cmtworks.com (appears to be their own system or white-label) |
+| **Online Sales** | Yes |
+| **Phone Sales** | 866-973-9610 ($3 processing fee) |
+| **Box Office** | 2425 Fresno St. #101, Fresno, CA 93721 (opens 1 hour before shows) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 866-973-9610 |
-| **Website** | http://www.cmtworks.org/ |
+| **Main Office** | 2425 Fresno St. #101, Fresno, CA 93721 |
+| **Phone** | 866-973-9610 |
+| **Website** | www.cmtworks.org |
+| **Funding** | Leon S. Peters Foundation, City of Fresno Measure P Arts Fund (Fresno Arts Council) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 20/100 — Poor Fit**
+Not a venue for Opendate. This is a nonprofit youth theater education organization that produces shows with student performers. They ARE the content creators (casting and directing kids in musicals), not a venue booking external professional acts. Similar to a community theater or school program - they train children and produce family shows, not a commercial entertainment venue. Wrong category entirely for Opendate's ticketing platform.

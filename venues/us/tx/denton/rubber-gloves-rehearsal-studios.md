@@ -1,52 +1,52 @@
 # Rubber Gloves Rehearsal Studios
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Denton |
-| **State** | TX |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
-
-## About
-
-_Research pending — web scrape needed_
+Independent DIY music venue and rehearsal studio in Denton, Texas. Operating since the 1990s as a cornerstone of the North Texas indie/punk/alternative music scene. Features three performance spaces (Showroom, Rubber Room, and Patio) hosting live music almost every night. Books external acts across indie, punk, emo, techno, and alternative genres.
 
 ## History
-
-_Research pending_
+Legendary Denton venue that has been a staple of the North Texas indie music scene for decades. Known for supporting underground and DIY artists, hosting touring bands, and nurturing local talent. Has rehearsal studios on-site in addition to the performance spaces.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Chad | Accessibility contact (likely venue manager/owner) | Website FAQ |
+| Booking Team | Handles booking | rgrsbooking@gmail.com |
 
 ## Programming & Shows
-
-_Research pending_
+- **Genres**: Indie, punk, emo, hardcore, techno, alternative, experimental
+- **Frequency**: Almost nightly shows across multiple stages
+- **Typical acts**: Touring indie/punk bands, local Denton acts, experimental artists, DJ nights, drag shows
+- **Ticket prices**: $5-$20 sliding scale typical, some $10 covers
+- **Age policy**: 18+ or under 18 with guardian
+- **Capacity**: Small-to-mid size venue (exact capacity not specified)
+- **Stages**: Showroom (main stage), Rubber Room (smaller stage), Patio (outdoor stage)
+- **Example shows**: TAWAGOTOS, Memoria, Soft Leather (queer techno night), Emo Dance Night + Drag Show, Joan of Bark
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | Ticket links in event listings (platform not specified on main pages) |
+| **Ticket Range** | $5-$20 sliding scale, some $10 covers |
+| **Online Sales** | Yes, via links on event pages |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **Booking Email** | rgrsbooking@gmail.com |
+| **Accessibility Contact** | chad@rubberglovesdenton.com |
+| **Website** | rubberglovesdenton.com |
+| **Location** | Denton, Texas (specific address not listed publicly) |
+| **Food** | Two food trucks on site (@render @currytruck) |
+| **Parking** | Limited on-site, street parking nearby |
+
+## Additional Services
+- **Rehearsal studios**: Available for rental
+- **Accessibility**: Wheelchair accessible restrooms and parking, accessible ramp to Patio stage
+- **Safety**: Drink tests and Narcan available at bar
+- **Amenities**: Two on-site bars, water station, earplugs available
 
 ## Opendate Fit
+**Score: 85/100 — Strong Lead**
+Excellent candidate. Active independent music venue booking 5-7 external shows per week across multiple stages. DIY ethos means they're likely using basic ticketing (potentially Eventbrite or similar) and would benefit from a better integrated platform. Strong community presence in Denton music scene. Dedicated booking team. Sliding scale pricing suggests flexible approach to technology. Only concern is small DIY operation may have limited budget, but high volume of shows makes them valuable.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-27*
-*Source: Opendate Lead Pipeline*
+**Next steps**: Identify current ticketing provider by checking specific event ticket links. Reach out to rgrsbooking@gmail.com or chad@rubberglovesdenton.com.
