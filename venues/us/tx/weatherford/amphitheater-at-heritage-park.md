@@ -13,44 +13,50 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Municipal outdoor amphitheater operated by the City of Weatherford Parks, Recreation and Special Events Department. Part of Heritage Park, a 856-acre park system serving the Weatherford community. Public facility available for rental and community events.
 
 ## History
 
-_Research pending_
+Part of Weatherford's park system development. The Parks, Recreation and Special Events Department maintains 13 parks totaling 856 acres.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _City Staff_ | Parks & Recreation Dept | City of Weatherford |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Community events, rentals, special events
+- **Operator**: City of Weatherford Parks, Recreation & Special Events
+- **Services**: Park pavilion rentals, ballfield rentals, community events
+- **First Monday Trade Days**: Coordinated by the department
+- **Programming**: Varies by rental and community events
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Municipal facility |
+| **Facility Rentals** | (817) 598-4124 |
+| **Ticketing**: Event-specific (not a regular ticketed venue) |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 817-598-4124 |
-| **Website** | http://weatherfordparks.com/ |
+| **Parks & Recreation** | (817) 598-4124 |
+| **Address** | 303 Palo Pinto Street, Weatherford, TX 76086 |
+| **Website** | https://weatherfordtx.gov/25/Parks-Recreation-Special-Events |
+| **Hours** | Monday–Friday, 9am–5pm (office) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 15/100 — Not a Fit**
+
+Municipal facility operated by city parks department. Not a ticketed venue. Used for community events and private rentals. No regular programming or ticketing operations. Not suitable for Opendate's ticketing platform.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-05*
+*Research: Web scrape of weatherfordtx.gov*

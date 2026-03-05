@@ -13,44 +13,52 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Independent cinema and screening venue in downtown Tucson. Hosts film screenings, special events, director Q&As, film festivals. Currently featuring Tucson Terrorfest Horror Film Festival programming.
 
 ## History
 
-_Research pending_
+Downtown Tucson independent cinema. Active participant in local film culture and festival circuit.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Research needed_ | Owner/Operator | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Film screenings, special events, festivals
+- **Recent Programming**: Tucson Terrorfest Horror Film Festival (October 2026)
+  - "Destroy All Neighbors" with director Josh Forbes and writer Charles Pieper Q&A
+  - Horror shorts compilation
+  - "Night Shift" (slasher film based on Puppet Combo video game)
+  - "An Evening with Mick Garris" + "Sleepwalkers" screening
+- **Format**: Single-screen cinema with special events
+- **Ticket Prices**: Varies by event (recent horror fest events $15-35 range)
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Eventbrite |
+| **Box Office** | (520) 882-0204 |
+| **Online Sales** | Via Eventbrite links |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 520-882-0204 |
-| **Website** | http://www.scrtucson.com/ |
+| **Phone** | (520) 882-0204 |
+| **Address** | 127 E Congress St, Tucson, AZ 85701 |
+| **Website** | http://screeningroomdowntown.com |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 65/100 — Moderate Lead**
+
+Independent cinema using Eventbrite (switchable). Regular special events and festival partnerships. Single-screen operation with ticketed events. Would benefit from integrated ticketing platform designed for film venues. Moderate candidate - depends on event volume and willingness to switch from Eventbrite.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-05*
+*Research: Web scrape of screeningroomdowntown.com*

@@ -13,44 +13,57 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Outdoor amphitheater operated by Shakespeare Dallas, presenting "Shakespeare in the Park" productions. Lawn seating venue with VIP Pavilion option. BYOB allowed (beer/wine only). Part of Dallas's free and accessible outdoor theater tradition now in Season 54.
 
 ## History
 
-_Research pending_
+Historic outdoor venue operated by Shakespeare Dallas for their summer and fall Shakespeare in the Park seasons. Part of Dallas parks system, programmed by Shakespeare Dallas nonprofit.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Staff_ | Shakespeare Dallas | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Outdoor Shakespeare productions, classics, family shows
+- **Season 54 (2026)**: The Merry Wives of Windsor, Alice in Wonderland, Titus Andronicus
+- **Performance Times**: Summer 8:30pm (gates 7pm), Fall 8:00pm (gates 6:45pm)
+- **Duration**: ~2.5 hours
+- **Seating**: Lawn (BYOB blankets/chairs), VIP Pavilion
+- **Special Events**: Bark in the Park (dog-friendly Tuesdays/Wednesdays)
+- **Ticket Prices**: Value Packs, Memberships, single tickets
+- **Parking**: $7 gated/monitored, or free street parking; $20 annual pass
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | TicketSpice (shakespearedallas.ticketspice.com) |
+| **Also Uses**: Eventbrite (for pub crawl and some events), RegFox (memberships, sponsorships) |
+| **Subscriptions**: Flexible value packs available |
+| **Online Sales** | Yes, via TicketSpice and shakespearedallas.org |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 214-559-2778 |
-| **Website** | https://www.shakespearedallas.org/tickets/samuellgrand |
+| **Box Office** | (214) 559-2778 |
+| **General Email** | info@shakespearedallas.org |
+| **Group Sales** | groups@shakespearedallas.org |
+| **Education** | education@shakespearedallas.org |
+| **Development** | development@shakespearedallas.org |
+| **Website** | https://www.shakespearedallas.org |
+| **Social** | @shakespearedallas |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 70/100 — Good Lead**
+
+Independent nonprofit using TicketSpice (switchable). Strong community presence with year-round programming (3 main shows/season plus camps, education, Shakespeare on the Go tours). Multiple revenue streams (tickets, memberships, value packs, group sales). Would benefit from integrated ticketing + marketing platform. Good Opendate candidate.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-05*
+*Research: Web scrape of shakespearedallas.org*

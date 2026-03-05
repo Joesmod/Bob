@@ -13,44 +13,54 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Opera Leggera is the only professional musical theater based in the City of Houston presenting diverse programming to Northeast Houston communities. Small professional theater company performing vibrant musical-theatrical productions, compelling plays, and concerts at The Nathaniel Center in Kingwood.
 
 ## History
 
-_Research pending_
+Founded in 2005 by Chris Holloway and built to bring professional musical theater to the northeast Houston suburbs. Celebrated 20 years of operation in 2025.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Chris Holloway | Founding Director | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Musical theater, plays, concerts
+- **Genres**: Musical theater, opera, theatrical revues
+- **Recent/Upcoming**: "A Golden Voice: 50 Years on Stage with Chris Holloway & Friends" (March 21, 2026)
+- **Venue**: The Nathaniel Center
+- **Season**: 2025/26 season
+- **Ticket Prices**: Subscription packages and single tickets available; contact box office
+- **Family-Friendly**: Yes, recommended for ages 4+
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | OUR.SHOW (our.show/goldenvoice) |
+| **Payment Processor** | PayPal (credit cards accepted, no PayPal account required) |
+| **Box Office** | (713) 992-1696 |
+| **Online Sales** | Via website and our.show links |
+| **Refunds** | Non-refundable, but transferable to other shows |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 713-992-1696 |
-| **Website** | http://operaleggera.com/ |
+| **Box Office** | (713) 992-1696 |
+| **General Email** | info@operaleggera.com |
+| **Website** | http://operaleggera.com |
+| **Social** | @operaleggera |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 75/100 — Good Lead**
+
+Small independent professional theater using OUR.SHOW ticketing platform. Switchable ticketing provider. Year-round programming with multiple shows. Community-focused with subscription model. Would benefit from integrated platform with better features and lower fees. Good candidate for Opendate.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-05*
+*Research: Web scrape of operaleggera.com*
