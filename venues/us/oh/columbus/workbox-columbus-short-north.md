@@ -1,52 +1,20 @@
 # Workbox Columbus - Short North
 
 ## Overview
+Coworking and flexible office space provider in Columbus, Ohio (Short North district). Workbox offers office solutions, meeting rooms, and event spaces for rent to businesses and professionals. Their business model includes coworking memberships, private offices, and event space rental for corporate functions, meetings, and private events.
 
-| | |
-|---|---|
-| **City** | Columbus |
-| **State** | OH |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+## Services
+- Coworking memberships
+- Private offices
+- Meeting room rentals
+- Event space rentals (corporate events, presentations, networking functions)
+- Member support services (capital access, operational support, networking)
 
 ## Opendate Fit
+**Score: 0/100 — Not a Fit**
 
-_Assessment pending_
+Workbox is NOT a ticketing venue. This is a coworking space and event rental facility. They rent event spaces to clients for private corporate functions, meetings, and business events—NOT public ticketed entertainment.
 
----
+**Why it's not a fit**: No public ticketing. Business model is space rental and memberships. They host private events by clients who rent the space, not public performances that sell tickets.
 
-*Last updated: 2026-02-27*
-*Source: Opendate Lead Pipeline*
+**Recommendation**: Remove from lead list immediately. Wrong business type for Opendate's ticketing platform.

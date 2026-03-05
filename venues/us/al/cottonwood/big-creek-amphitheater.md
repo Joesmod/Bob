@@ -1,56 +1,46 @@
 # Big Creek Amphitheater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 300 Crossing Pkwy, Cottonwood, AL 36320, USA |
-| **Phone** | (334) 803-8138 |
-| **Website** | http://www.bigcreekamphitheater.com/ |
-| **Google Rating** | 3.8/5 (9 reviews) |
-| **Type** | Amphitheatre, Stadium, Sports Complex, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=799342953612813193&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
+Outdoor concert amphitheater in Cottonwood, Alabama (Houston County, South Alabama). Marketed as "South Alabama's premier concert destination" and "Houston County's Premier Outdoor Concert Venue." The venue promotes itself as offering unforgettable live performances, diverse lineup of artists and genres, exceptional sound in a stunning outdoor setting.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Will J. Butts | Events and Venue Manager | Website |
 
 ## Programming & Shows
+**Current Status**: No events scheduled as of March 2026. Website states "NO EVENTS AS OF NOW… STAY TUNED!"
 
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+The venue appears to be operational but currently without an active concert calendar. This could indicate:
+- Seasonal operation (no winter/early spring shows)
+- New venue still building programming
+- Between seasons or booking cycles
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 334-803-8138 |
-| **Website** | http://www.bigcreekamphitheater.com/ |
+| **Venue Manager** | Will J. Butts |
+| **Email** | wbutts@thecrossingbigcreek.com |
+| **Phone** | (334) 803-8138 ext. 303 |
+| **Address** | 300 Crossing Parkway, Cottonwood, AL 36320 |
+| **Website** | www.bigcreekamphitheater.com |
+| **Facebook** | @thecrossingbigcreek |
+| **Instagram** | @thecrossingal |
+| **Twitter/X** | @thecrossingal |
 
 ## Opendate Fit
+**Score: 40/100 — Watch List**
 
-_Assessment pending_
+Big Creek Amphitheater presents an uncertain opportunity. The venue has professional marketing (website, social media, venue manager), but currently shows NO scheduled events. This could mean:
 
----
+**Potential scenarios**:
+1. New venue still ramping up bookings
+2. Seasonal venue (spring/summer/fall concerts only)
+3. Between booking cycles
+4. Struggling to book acts
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Pros**: Outdoor amphitheater (good fit for Opendate), dedicated venue manager (Will J. Butts), professional web presence, clear positioning as regional concert destination.
+
+**Cons**: No current events scheduled (major red flag), unclear if venue is active or dormant, small market (Cottonwood/Houston County, AL), uncertain business status.
+
+**Recommendation**: FOLLOW UP IN 2-3 MONTHS. Contact Will J. Butts (wbutts@thecrossingbigcreek.com / 334-803-8138 ext 303) in late spring to see if they're booking summer concerts. If they're actively programming, could be a strong lead. If still dormant, remove from list.

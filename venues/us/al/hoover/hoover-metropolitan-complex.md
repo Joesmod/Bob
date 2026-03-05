@@ -1,56 +1,21 @@
 # Hoover Metropolitan Complex
 
 ## Overview
+Large multi-sport complex in Hoover, Alabama. Features 10,800-seat Met Stadium (home of SEC Baseball Tournament and Hoover High School Football), 5 regulation baseball fields, 8 softball/little league fields, 5 multipurpose fields, 16 tennis courts, Finley Center indoor facility, Hoover Heights Climbing Center (19 elements), RV Park with 170 sites, and fitness facilities including pickleball and walking track.
 
-| | |
-|---|---|
-| **Address** | 5508 Stadium Trace Pkwy, Hoover, AL 35244, USA |
-| **Phone** | (205) 739-7364 |
-| **Website** | https://hoovermetcomplex.com/ |
-| **Google Rating** | 4.6/5 (1060 reviews) |
-| **Type** | Sports Complex, Rv Park, Stadium, Tennis Court, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=15929063933891471758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Programming & Events
+- **Primary Use**: Youth sports tournaments (baseball, softball, soccer, basketball, volleyball, football)
+- **Major Events**: SEC Baseball Tournament, Perfect Game showcases, BUSA tournaments, AAU events
+- **Other Events**: Gun shows (AGCA), awards ceremonies (Finley Awards), blood drives, summer sports camps
+- **Facility Rentals**: Fields, courts, and Finley Center available for tournaments and events
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 205-739-7364 |
-| **Website** | https://hoovermetcomplex.com/ |
+This is a sports facility hosting tournaments, not a ticketing venue for entertainment/performances.
 
 ## Opendate Fit
+**Score: 10/100 — Not a Fit**
 
-_Assessment pending_
+Hoover Metropolitan Complex is NOT a ticketing venue. This is a sports complex that hosts youth tournaments, recreational activities, and community events. Business model is facility rental and tournament hosting, not ticket sales to public entertainment events.
 
----
+**Why it's not a fit**: No ticketed entertainment programming. Focus is youth sports tournaments, fitness memberships, RV park, and facility rentals. Events are either free community activities or tournament-entry-based (not public ticketing).
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Recommendation**: Remove from lead list. Wrong venue type for Opendate's platform.
