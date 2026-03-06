@@ -1,56 +1,36 @@
-# Prairie Village Opera House
+# Prairie Village Opera House (Lawrence Welk Opera House)
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | SD-34, Madison, SD 57042, USA |
-| **Phone** | (605) 256-3644 |
-| **Website** | http://www.prairievillage.org/opera-house/ |
-| **Google Rating** | None/5 (None reviews) |
-| **Type** | Historical Place |
-| **Google Maps** | [View](https://maps.google.com/?cid=10742554468676373401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic opera house located within Historic Prairie Village, an open-air museum in Madison, SD. Originally built in 1912 in Oldham, SD and moved to Prairie Village in 1970. Primarily a museum attraction within a heritage village rather than an active performance venue.
 
 ## History
-
-_Research pending_
+Constructed in 1912 in Oldham, SD (22 miles northwest of current location) as "Socialist Hall" to commemorate the Socialist Party, built through donations from area citizens and party locals. Later renamed "Social Hall" when "-ist" prefix was dropped. Famous bandleader Lawrence Welk had his very first stage performance in this building during the 1920s while still unknown. Building was moved to Prairie Village in 1970 and renamed "Lawrence Welk Opera House" with Welk's permission and enthusiasm. $200,000 renovation completed in 2014. Now over 120 years old.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Info not available | Prairie Village operates the venue | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Part of Historic Prairie Village attractions
+- **Usage**: Museum piece, occasional special events within the heritage village context
+- **History**: Has hosted thousands of programs, performances, dances, social gatherings, and meetings over its 120+ year lifetime
+- **Current**: "Many events continue to be featured" but specific programming not detailed on website
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not applicable - part of museum admission |
+| **Access** | Via Prairie Village admission |
+| **Business Model** | Museum/heritage village attraction |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 605-256-3644 |
-| **Website** | http://www.prairievillage.org/opera-house/ |
+| **Address** | Historic Prairie Village, Madison, SD |
+| **Website** | https://www.prairievillage.org/opera-house/ |
+| **Main Site** | https://www.prairievillage.org |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Not a Fit**
+This is not a suitable candidate for Opendate. The opera house is part of a heritage museum village, not an active performance venue with regular ticketed shows. It functions primarily as a historic attraction within Prairie Village's broader museum experience. Any events held there would be incidental to its role as a museum piece. No standalone ticketing operation exists — access is through Prairie Village admission.
