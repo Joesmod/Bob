@@ -1,56 +1,40 @@
 # Fredonia Opera House
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | The 1891 Fredonia Opera House, 9 Church St, Fredonia, NY 14063, USA |
-| **Phone** | (716) 679-0891 |
-| **Website** | https://fredopera.org/ |
-| **Google Rating** | 4.7/5 (112 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=489737017008408826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic 390-seat performing arts center in Fredonia, NY. Built in 1891, this restored opera house presents music, theatre, dance, cinema, and live satellite broadcasts from the Metropolitan Opera and National Theatre London.
 
 ## History
-
-_Research pending_
+Opened in 1891 as an exceptionally large and elegant community theatre. Operated for almost 100 years before restoration as a performing arts center. Now functions as a not-for-profit venue serving the northern Chautauqua County region.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Tom Loughlin | Host of "Notes from the Aisle Seat" podcast | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Folk in Fredonia Gilman Family Music Series**: Grassroots music featuring established and rising talent
+- **Spotlight Series**: Concerts from various genres, international touring artists (sponsored by DFT Communications)
+- **Arts in the Afternoon**: Broadway/West End theatre, Metropolitan Opera broadcasts, art exhibitions, concerts (Saturday afternoons)
+- **Cinema Series**: Current release feature films including independent, foreign, and documentary films (selected Saturdays and Tuesdays, sponsored by Lake Shore Bank)
+- **Live Broadcasts**: Metropolitan Opera (NYC), National Theatre (London), concerts from global venues
+- **Ticket prices**: Kept intentionally low per mission statement
+- **Notable upcoming**: US Navy Band Sea Chanters (March 13, 2026, FREE), Simon & Garfunkel tribute (April 17, 2026)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (embedded system on website) |
+| **Ticket Range** | Varies by event; mission includes keeping prices low |
+| **Online Sales** | Yes, via website event listings |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 716-679-0891 |
-| **Website** | https://fredopera.org/ |
+| **Address** | 9 Church Street, Fredonia, NY 14063 |
+| **Phone** | (716) 679-1891 |
+| **Website** | https://fredopera.org |
+| **Email** | Not publicly listed |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Good Lead**
+Non-profit performing arts center with active programming across multiple genres. Strong community focus with regular ticketed events (concerts, cinema, live broadcasts). Mission-driven pricing suggests they'd value cost-effective ticketing solutions. Unknown current provider means potential switching opportunity. Established venue (130+ years) with loyal audience base. Worth outreach to understand current ticketing setup and pain points.

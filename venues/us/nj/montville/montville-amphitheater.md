@@ -1,56 +1,26 @@
 # Montville Amphitheater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 100 Horseneck Rd, Montville, NJ 07045, USA |
-| **Phone** | Unknown |
-| **Website** | https://montvillenj.org/189/Parks-Facilities |
-| **Google Rating** | 5/5 (8 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7616561256646213605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Municipal amphitheater located at Montville Community Park (90/100 Horseneck Road), Montville Township, NJ. Outdoor venue used for township programs, educational classes, concerts, and movies with views overlooking Montville Township.
 
 ## Programming & Shows
+- Outdoor education classes
+- Community concerts
+- Movies
+- Township events
 
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Facility Details
+- **Type**: Open-air amphitheater
+- **Location**: Montville Community Park, enter from 90/100 Horseneck Road
+- **Availability**: Reservation required via Park Use Permit Application
+- **Management**: Montville Township Parks & Recreation Department
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
+| **Facility Contact** | Jackie Rondi, JRondi@montvillenj.org |
 | **Website** | https://montvillenj.org/189/Parks-Facilities |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 10/100 — Not a Fit**
+This is a municipal park facility, not a commercial ticketing venue. Used for free community events and township programs requiring permits. No indication of ticketed events or commercial concert operations. Not appropriate for Opendate outreach.

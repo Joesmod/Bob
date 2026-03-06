@@ -1,56 +1,20 @@
 # Temple Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1837 N Broad St, Philadelphia, PA 19122, USA |
-| **Phone** | (215) 204-9860 |
-| **Website** | http://templeperformingartscenter.org/ |
-| **Google Rating** | 4.8/5 (400 reviews) |
-| **Type** | Event Venue, Concert Hall, Auditorium, Live Music Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11169213336125437196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+Performing arts venue located at Temple University in Philadelphia (1837 N. Broad St., Philadelphia, PA 19122).
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 215-204-9860 |
-| **Website** | http://templeperformingartscenter.org/ |
+| **Address** | 1837 N. Broad St., Philadelphia, PA 19122 |
+| **Phone** | (215) 204-9860 |
+| **Website** | http://templeperformingartscenter.org |
+| **Facebook** | facebook.com/templecenter |
+| **Operator** | Temple University |
 
 ## Opendate Fit
+**Score: 20/100 — Not a Fit**
+University-operated venue. Website contains minimal information, suggesting limited public programming or the venue may be primarily for university use. University venues typically have institutional ticketing systems integrated with campus operations. Not enough public programming information to assess viability. Better targets exist among independent commercial venues.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+Website was largely empty during research - only contact information and copyright notice visible. No event calendar, show information, or ticketing details found. May be closed, under renovation, or used primarily for internal university events.

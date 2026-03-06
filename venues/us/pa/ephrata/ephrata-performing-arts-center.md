@@ -1,56 +1,46 @@
-# Ephrata Performing Arts Center
+# Ephrata Performing Arts Center (EPAC)
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 320 Cocalico St, Ephrata, PA 17522, USA |
-| **Phone** | (717) 733-7966 |
-| **Website** | https://epactheatre.org/ |
-| **Google Rating** | 4.7/5 (302 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11048311668728649872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Premier theatrical venue in Lancaster County, PA. Community theater that has grown into a vital cultural institution over 45+ years. Known for bold, cutting-edge productions with outstanding storytelling and top-tier production values.
 
 ## History
-
-_Research pending_
+Founded over 45 years ago as a modest community theater. Has evolved into Lancaster County's premier theatrical experience, presenting professional-quality productions while maintaining an inclusive environment.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Sydney Justice | Operations contact (215.985.1400 x110) | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **2026 Season includes**:
+  - Hadestown: Teen Edition
+  - Into the Woods
+  - Slave Play
+  - 1776
+  - The Thanksgiving Play
+  - Kiss of the Spider Woman
+  - Cinderella
+  - Special Events
+- **Genres**: Musical theater, contemporary drama, classic theater
+- **Production values**: Bold titles, professional-level staging
+- **Mission**: "Create exceptional theatre that engages and resonates with our audience"
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (embedded system) |
+| **Subscription Model** | Yes - subscribers save up to 25% |
+| **Online Sales** | Yes, via website |
+| **Phone**: | (717) 733-7966 |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 717-733-7966 |
-| **Website** | https://epactheatre.org/ |
+| **Physical Address** | 320 Cocalico Street, Ephrata, PA 17522 |
+| **Mailing Address** | PO Box 173, Ephrata, PA 17522 |
+| **Phone** | (717) 733-7966 |
+| **Website** | https://epactheatre.org |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Solid Lead**
+Active community theater with professional production values and year-round season. Subscription model suggests sophisticated patron management needs. Unknown current ticketing provider = switching opportunity. Lancaster County location means less competition from major urban ticketing platforms. Mission-driven organization (non-profit status) may value cost savings and integrated CRM. Strong season lineup shows commitment to quality programming. Worth outreach to understand current setup and pain points.

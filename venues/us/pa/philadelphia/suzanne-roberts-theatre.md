@@ -1,56 +1,29 @@
 # Suzanne Roberts Theatre
 
 ## Overview
+362-seat theater in Philadelphia's arts district, home to Philadelphia Theatre Company. State-of-the-art facility with mainstage auditorium, available for rentals and special events.
 
-| | |
-|---|---|
-| **Address** | 480 S Broad St, Philadelphia, PA 19146, USA |
-| **Phone** | (215) 985-0420 |
-| **Website** | https://philadelphiatheatrecompany.org/our-theatre |
-| **Google Rating** | 4.7/5 (378 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1871653309517725857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Facility Details
+- **Capacity**: 362 seats (orchestra, mezzanine, and box seating)
+- **Stage**: 2,800 sq ft with resilient floor, ample wing space, trap room
+- **Technical**: Professional lighting/sound, Digital Cinema Projection system with surround-sound
+- **Lobby**: Two-story, 3,000 sq ft glass-front lobby for receptions
+- **Amenities**: Public restrooms, full accessibility, on-site parking (Symphony House building)
+- **Concessions**: Licensed bar with RAMP-certified staff
+- **Catering**: Open caterer policy (no exclusives)
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+- Home to Philadelphia Theatre Company productions
+- Available for rentals: corporate events, film screenings, performances
+- [Technical specifications available](https://docs.google.com/document/d/1bsyXY0ypxm-WD-Bc-a5wtFWOmMuFoomvt0QVcL5Jfu0/edit?usp=sharing)
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 215-985-0420 |
+| **Rental Contact** | Sydney Justice, (215) 985-1400 x110 |
+| **Email** | sjustice@philatheatreco.org |
 | **Website** | https://philadelphiatheatrecompany.org/our-theatre |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 30/100 — Low Priority**
+This is primarily a rental venue and home theater for Philadelphia Theatre Company. While they do ticketed productions, the venue focus is on facility rentals for corporate and special events. Philadelphia Theatre Company likely has established ticketing relationship for their own productions. Rental model suggests different business priorities (event services vs. ticketing volume). Better targets exist among independent venues with regular public ticketing needs.
