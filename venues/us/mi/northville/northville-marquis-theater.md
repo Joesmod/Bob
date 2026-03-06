@@ -1,56 +1,42 @@
 # Northville Marquis Theater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 135 E Main St, Northville, MI 48167, USA |
-| **Phone** | (248) 349-8110 |
-| **Website** | http://www.northvillemarquis.com/ |
-| **Google Rating** | 4.6/5 (146 reviews) |
-| **Type** | Live Music Venue, Performing Arts Theater, Movie Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12614825951975683610&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic theater in downtown Northville, MI, celebrating its 100th year in 2026. Currently closed (January 2026) for interior renovations and repairs, reopening scheduled for 100th anniversary celebration later in 2026. Hosts live rock bands, classical orchestration, occasional films, and private events. Features full bar and dance floor in front of stage.
 
 ## History
-
-_Research pending_
+Founded in 1925 as the Penniman-Allen Theater, originally featuring vaudeville shows and movies, complete with a grand Wurlitzer pipe organ. Hosted visits from icons like Charlie Chaplin. In the 1970s, underwent restoration and rebranding as the Marquis, transitioning to live entertainment. Faced challenges including a 2003 fire but continued operations. Now serves as a dynamic performing arts center blending historic allure with modern performances.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Ana | Marketing Manager | Website Contact |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Live rock bands, classical orchestration, occasional films
+- **Private Events**: Community events, private functions, educational workshops available for rental
+- **Amenities**: Full bar (beer, seltzer, soda, liquor, wine), dance floor in front of stage
+- **Youth Theater**: Affiliated youth theater program at marquisyouththeater.com
+- **Current Status**: Closed for renovations (Jan 2026), 2026 season to be announced upon reopening
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not visible (venue closed for renovations) |
+| **Ticket Range** | TBD upon reopening |
+| **Online Sales** | Website present but no ticketing platform identified |
+| **Reopening** | Planned for 100th year celebration in 2026 |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 248-349-8110 |
-| **Website** | http://www.northvillemarquis.com/ |
+| **Phone** | (248) 349-8110 |
+| **General Email** | info@northvillemarquis.com |
+| **Marketing Manager** | Ana (ana@northvillemarquis.com) |
+| **Address** | 135 E Main St, Northville, MI 48167 |
+| **Facebook** | /NorthvilleMarquisTheater |
+| **Instagram** | @northvillemarquistheater |
+| **Website** | https://northvillemarquis.com |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Timing-Dependent Prospect**
+Historic venue with strong community ties celebrating 100 years. Currently undergoing renovations—perfect timing for Opendate outreach. As they prepare to relaunch with a "refreshed space" and new season, they'll be evaluating all systems including ticketing. No clear ticketing platform visible on current site. The renovation represents a reset moment when venues are most open to change. Key opportunity: position Opendate as part of their modernization alongside physical improvements. Follow up in Q2 2026 as reopening approaches.
