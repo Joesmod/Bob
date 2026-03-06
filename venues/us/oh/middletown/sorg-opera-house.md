@@ -13,42 +13,56 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Historic opera house currently in restoration phase under the Sorg Opera Revitalization Group (501(c)(3) nonprofit). The venue is being brought back to life by dedicated volunteers and board leadership but is NOT currently operating as an active performance venue.
 
 ## History
 
-_Research pending_
+Historic opera house on South Main Street in downtown Middletown. Led by co-founders Chuck Miller, Denise Brodsky, and Ken Bowman who initiated the revitalization efforts. Jeff Johnson led initial roof repairs and abatement projects. An audio history tour is available at youraudiotour.com/tours/1422.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Nancy Griffith | President, Executive Director | Website |
+| Andy Seibert | Vice President, Executive Director | Website |
+| Larry Mulligan | Secretary, Executive Director | Website |
+| Sue Wittman | Treasurer, Executive Director | Website |
+| Norman Moxley | Programming Committee Chair | Website |
+| Matt Kuntzman | Volunteer Committee Chair | Website |
+| Joel Brown | Ticketing and Guest Interactions Chair | Website |
+| Snyder Smith | Facilities & Marketing Committee Chair | Website |
+| Chris Pearce | Marketing Committee | Website |
+| Chuck Miller | Co-founder (with Denise Brodsky) | Website |
+| Ken Bowman | Co-founder | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**NOT CURRENTLY ACTIVE** — Venue is in restoration/fundraising phase. No events currently scheduled. The board has formed programming and ticketing committees in preparation for future operations.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | None (venue not operational) |
+| **Box Office** | Not open |
+| **Online Sales** | No events to sell |
+| **Future**: Board has Ticketing Chair (Joel Brown) positioned for eventual operations |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 513-428-5529 |
-| **Website** | http://www.sorgoperahouse.org/ |
+| **Address** | 63 South Main Street, Middletown, OH 45044 |
+| **Phone** | (513) 428-5529 |
+| **Website** | https://www.sorgoperahouse.org |
+| **Facebook** | facebook.com/SorgOperaHouse |
+| **Instagram** | @sorgoperahouse |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 30/100 — Future Prospect, Not Ready**
+
+This is a restoration project, not an operating venue. While they have strong nonprofit governance and have appointed a Ticketing & Guest Interactions Chair (showing forward thinking), they are NOT currently hosting shows or selling tickets. The venue needs to complete restoration and begin programming before Opendate would be relevant. Worth monitoring for future contact once they announce their opening season.
 
 ---
 

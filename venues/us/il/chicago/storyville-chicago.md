@@ -13,42 +13,38 @@
 
 ## About
 
-_Research pending — web scrape needed_
+**NOT A VENUE** — Storyville is a New Orleans-themed restaurant and cocktail lounge in River North, Chicago. It does NOT operate as a ticketing venue. Mis-categorized in the leads database.
 
-## History
+## Programming & Entertainment
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Primary Business**: Full-service restaurant with Creole/New Orleans cuisine
+- **Dining Areas**: Main dining room, patio (seasonal), Lulu's speakeasy basement bar
+- **Entertainment**: Occasional burlesque/vaudeville performances for ambiance (not ticketed shows)
+- **Events**: Saturday/Sunday brunch (11am-3pm), daily happy hour (4-6pm), private events
+- **Bottomless mimosas**: $25 with entree on weekends
+- Featured in TIME, Chicago Food Magazine, Thrillist
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — This is a restaurant, not a ticketing venue |
+| **Business Model** | Restaurant reservations + private event rentals |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 872-279-3331 |
-| **Website** | https://storyvillechicago.com/ |
+| **Address** | 712 N Clark Street, River North, Chicago, IL 60654 |
+| **Phone** | (872) 279-3331 |
+| **Website** | https://storyvillechicago.com |
+| **Private Events** | Available for private booking |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — NOT A TICKETING VENUE**
+
+Storyville is a restaurant/bar, not a performance venue. While they offer live entertainment ambiance (burlesque, vaudeville), these are atmospheric performances for diners, not ticketed shows. This entry should be removed from the venue leads database or recategorized as "Restaurant - Not Applicable."
 
 ---
 

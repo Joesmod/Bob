@@ -13,42 +13,34 @@
 
 ## About
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+**NOT A VENUE** — Haymarket Opera Company is a PERFORMING ARTS ORGANIZATION (opera company), not a physical venue. They are a traveling opera company that performs AT other venues in Chicago. Mis-categorized in the leads database.
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+Haymarket Opera Company produces historically-informed period opera performances. They perform at various partner venues around Chicago but do not own or operate their own ticketing venue.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Business Model** | Touring opera company - performs at partner venues |
+| **Not a venue** | This organization should not be in the venue leads database |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | http://www.haymarketopera.org/ |
+| **Address** | 1920 N Seminary Ave, 1F, Chicago, IL 60614 (office location) |
+| **Website** | http://www.haymarketopera.org |
+| **Facebook** | facebook.com/HaymarketOpera |
+| **Instagram** | @haymarketopera |
+| **YouTube** | youtube.com/user/HaymarketOpera |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — NOT A VENUE**
+
+This is a performing arts organization/opera company, not a venue. They perform AT venues but do not operate one themselves. Should be removed from venue leads database.
 
 ---
 
