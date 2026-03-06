@@ -1,56 +1,47 @@
 # Littleton Opera House
 
 ## Overview
+Historic event venue in downtown Littleton, NH on Main Street. Primary function is event rentals for parties, conferences, dances, concerts, and theatre productions. Two venue spaces: Grand Hall (large gatherings) and Tower Room (smaller events under 50 people, third floor with Main Street views).
 
 | | |
 |---|---|
-| **Address** | 2 Union St, Littleton, NH 03561, USA |
+| **Address** | 2 Union Street, Littleton, NH 03561 |
 | **Phone** | (603) 575-5324 |
-| **Website** | http://littletonoperahouse.com/ |
-| **Google Rating** | 4.6/5 (100 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=4944249702415975158&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+| **Website** | https://littletonoperahouse.com/ |
+| **Type** | Event Rental Venue, Performance Space |
 
 ## History
-
-_Research pending_
+Staple of award-winning Littleton Main Street. Historic opera house repurposed for community events.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Rilee Clark | Opera House Manager | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Primary use**: Event rentals (birthday parties, anniversaries, reunions, business conferences, municipal meetings, dances, concerts, theatre productions)
+- **Availability**: 7 days a week
+- **Format**: Rental facility, not a presenter/producing venue
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A (rental venue) |
+| **Business model** | Event space rental, not ticketed shows |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 603-575-5324 |
-| **Website** | http://littletonoperahouse.com/ |
+| **Manager** | Rilee Clark |
+| **Email** | Rclark@townoflittleton.org |
+| **Phone** | 603-575-5324 |
+| **Address** | 2 Union Street, Littleton, NH 03561 |
 
 ## Opendate Fit
-
-_Assessment pending_
+**Score: 70/100 — Rental Venue (Not Primary Target)**
+This is primarily an event rental facility, not a ticketed performance venue. They rent space to others who may produce events, but the Opera House itself doesn't appear to present ticketed shows or manage ticket sales directly. Wrong business model for a ticketing platform — they need facility management/booking software, not ticketing. Low priority unless they shift to presenting their own ticketed shows.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-06*
+*Source: Website research*

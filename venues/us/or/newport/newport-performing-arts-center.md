@@ -1,56 +1,39 @@
 # Newport Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 777 W Olive St, Newport, OR 97365, USA |
-| **Phone** | (541) 265-2787 |
-| **Website** | https://coastarts.org/venues/newport-performing-arts-center/ |
-| **Google Rating** | 4.8/5 (271 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=4930311339761543338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+The premiere performance venue on the Oregon coast, operated by the Oregon Coast Council for the Arts (OCCA). Features two performance spaces: the 371-seat Alice Silverman Theater (traditional proscenium with balcony, orchestra pit, HD projection, and Meyer Sound System) and the 80-seat David Ogden Stiers Studio Theatre (black box space for intimate concerts and experimental theatre). Hosts community events, professional entertainment, touring artists, festivals, and resident artist companies year-round.
 
 ## History
-
-_Research pending_
+Operated by Oregon Coast Council for the Arts, a 501(c)(3) non-profit organization. Named theaters honor Alice Silverman and actor/conductor David Ogden Stiers.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Oregon Coast Council for the Arts | Operator | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Theatre (musicals, plays), classical music, National Theatre Live HD screenings, Met Opera Live in HD, art classes, lectures
+- **Frequency**: Active year-round calendar with resident artist companies ("RAC RATs")
+- **Notable programming**: Disney's Frozen (Coastal Act Productions), National Theatre Live broadcasts, Oregon Coast Youth Symphony, Oregon Coast Jazz Party
+- **Ticket sales**: Box office open Tues-Fri 10am-3pm, plus 1 hour before performances
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown — box office phone-based |
+| **Box Office** | 541-265-ARTS (2787) |
+| **Online Sales** | Not clearly visible |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 541-265-2787 |
-| **Website** | https://coastarts.org/venues/newport-performing-arts-center/ |
+| **Physical Address** | 777 W. Olive Street, Newport, OR 97365 |
+| **Mailing Address** | P.O. Box 1315, Newport, OR 97365 |
+| **General Email** | occa@coastarts.org |
+| **Box Office Phone** | 541-265-2787 |
+| **Instagram** | @oregoncoastarts |
+| **Facebook** | /OregonCoastArts |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Moderate Lead**
+Non-profit arts council venue with active ticketing (box office hours, paid events). Unclear if they have modern online ticketing or still rely on phone/walk-up. Theatre programming + touring artists = good fit, but non-profit structure may mean conservative tech adoption. Worth outreach to understand current ticketing pain points.

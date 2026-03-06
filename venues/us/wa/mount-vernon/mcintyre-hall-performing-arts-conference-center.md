@@ -1,6 +1,7 @@
 # McIntyre Hall Performing Arts & Conference Center
 
 ## Overview
+Premier performing arts venue in Mount Vernon, WA, operated by Skagit Valley College and the Skagit Regional Public Facilities District. Features mainstage theater and studio space. Home to multiple community arts organizations including Skagit Symphony, Northwest Ballet Theater, Theater Arts Guild, Skagit Opera, and SVC Music/Theater departments. Diverse season of music, theater, dance, special events, and children's programs with the "McIntyre Hall Presents" series featuring internationally renowned artists.
 
 | | |
 |---|---|
@@ -9,48 +10,52 @@
 | **Website** | http://www.mcintyrehall.org/ |
 | **Google Rating** | 4.8/5 (280 reviews) |
 | **Type** | Performing Arts Theater, Live Music Venue, Wedding Venue, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11174720275932358588&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
 
 ## History
-
-_Research pending_
+Built through partnership of Skagit Regional Public Facilities District, Skagit County, Skagit Valley College, Jack and Shirley McIntyre Foundation, and Skagit Performing Arts Council. Named for the McIntyre Foundation donors.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Nida Tautvydas | Contact (360-416-7622) | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Classical music, theater (musicals, plays), dance, world music, blues, jazz, bluegrass, comedy, children's shows
+- **Frequency**: Active year-round calendar with subscription series
+- **Ticket prices**: $5-$58 range (varies by show)
+- **Notable programming**: 
+  - Skagit Symphony concerts
+  - Theater musicals (Oklahoma!, etc.)
+  - McIntyre Hall Presents touring artists (Changüí Majadero, Ladies of Laughter)
+  - Met Opera Live in HD
+  - National Theatre Live
+  - Community productions from resident organizations
+- **Recent shows**: Oklahoma! ($10-$35), Changüí Majadero ($37-$47), Skagit Symphony ($12-$58), Wind in the Willows children's show ($25-$30)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Custom online system (website-based) |
+| **Box Office Hours** | Tues-Thurs 10am-2pm |
+| **Phone** | 360-416-7727 |
+| **Online Sales** | Yes, 24/7 via website |
+| **Convenience Fee** | $5.00 per online order |
+| **Payment** | Visa, Mastercard, check, cash |
+| **Policy** | All sales final, no refunds/exchanges |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 360-416-7727 |
-| **Website** | http://www.mcintyrehall.org/ |
+| **General Email** | McIntyre.Hall@skagit.edu |
+| **Phone** | 360-416-7727 |
+| **Address** | 2501 E. College Way, Mount Vernon, WA 98273 |
+| **Sponsorship Contact** | nida.tautvydas@skagit.edu |
 
 ## Opendate Fit
-
-_Assessment pending_
+**Score: 70/100 — Good Lead**
+Active ticketing venue with online sales and strong programming. College-affiliated (Skagit Valley College) which can mean institutional decision-making but also budget for tech upgrades. Current online system is basic (custom website integration) which suggests room for platform improvement. High volume of events across diverse genres. Strong community partnerships. Established subscription model indicates sophisticated patron management needs. Good candidate for modern ticketing platform to replace aging custom system.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-06*
+*Source: Website research*

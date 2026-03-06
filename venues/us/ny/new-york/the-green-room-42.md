@@ -1,56 +1,33 @@
 # The Green Room 42
 
 ## Overview
+Supper club, cabaret, and rooftop venue in New York City. Table reservations and ticketed shows.
 
 | | |
 |---|---|
-| **Address** | 570 10th Ave, New York, NY 10036, USA |
-| **Phone** | (646) 707-2990 |
-| **Website** | https://www.thegreenroom42.venuetix.com/ |
-| **Google Rating** | 4.6/5 (100 reviews) |
-| **Type** | Performing Arts Theater, Night Club, Live Music Venue, Event Venue, Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=4026438695892937592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| **Website** | https://www.thegreenroom42.com/ |
+| **Type** | Supper Club, Cabaret, Rooftop Venue |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Format**: Cabaret shows, live performances, private events
+- **Business model**: Table reservations + ticketed shows
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | VenueTix |
+| **Online Sales** | Yes, via thegreenroom42.venuetix.com |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 646-707-2990 |
-| **Website** | https://www.thegreenroom42.venuetix.com/ |
+| **Website** | https://www.thegreenroom42.com/ |
 
 ## Opendate Fit
-
-_Assessment pending_
+**Score: 70/100 — Cabaret Venue Using VenueTix**
+NYC cabaret/supper club currently using VenueTix for ticketing. Business model combines table reservations with ticketed performances. VenueTix is established in the cabaret/theater space but Opendate could compete on features, pricing, or integration. Supper club model means ticketing is tied to food/beverage service. Moderate fit if Opendate can handle table management + ticketing seamlessly.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-06*
+*Source: Website research*
