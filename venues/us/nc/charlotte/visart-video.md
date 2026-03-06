@@ -1,56 +1,63 @@
 # VisArt Video
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 3104 Eastway Dr, Charlotte, NC 28205, USA |
-| **Phone** | (704) 343-3031 |
-| **Website** | https://visartvideo.org/ |
-| **Google Rating** | 4.7/5 (153 reviews) |
-| **Type** | Non Profit Organization, Museum, Association Or Organization, Event Venue, Educational Institution |
-| **Google Maps** | [View](https://maps.google.com/?cid=12109718987055656587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Multi-purpose arts and community space in Charlotte, NC combining a video rental library (50,000+ titles), theater, cafe, and event venue. Hosts ticketed film screenings, live music, comedy shows, educational programs, and community events. 501(c)(3) arts organization.
 
 ## History
-
-_Research pending_
+Operating as a living museum of movies and community gathering space. More than just a video rental haven, VisArt has evolved into a cultural center for film education, discussions, and diverse programming.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| TBD | Executive Director | TBD |
+| Lovell Bradford | Jazz Jam Host / Pianist | Website |
+| Heidi (eatdrinkzen) | Sound Bath Instructor | Website |
+| RC Therauilt | Improv Class Instructor (Queen City Comedy) | Website |
+| Grayson | Ghouls Night Out Host | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Film Programming**:
+  - Monthly thematic film series (e.g., Women's History Month - Films Directed by Women)
+  - Community film screenings with discussions
+  - $10 suggested donation at door
+- **Live Music**:
+  - **Wednesday Jazz Jam** (weekly) - Lovell Bradford Trio + special guests
+  - **Listening Room Tuesdays** - Film/documentary at 6pm featuring artists/musicians, live performance at 7pm, includes soup service
+- **Comedy**:
+  - **QC Comedy Longform Improv** - Chicago-style longform improv with teams like "Now Are the Foxes" and "Sunday Supper"
+- **Classes & Workshops**:
+  - Acting Class (winter sessions) - for adults, all levels
+  - Adult Improv Class with RC Therauilt (Queen City Comedy) - Saturdays
+  - Thursday Afternoon Zen - Sound Bath with Heidi (12:30-1:30pm, $15)
+- **Community Events**:
+  - Ghouls Night Out (2nd Monday each month, 7pm)
+  - Tuesday Morning Networking (job seekers, community builders)
+  - Garden Club Fridays (outdoor patio)
+  - Recovery Remix AA Meeting (Fridays 11am-12pm)
+- **Private Events**: Event space available for rental, corporate meetings, special events
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Multiple platforms: Eventbrite, Corsizio (for classes), plus direct/door sales |
+| **Ticket Range** | $10-$15 typical (suggested donations for films, $15 for sound baths, varies by event) |
+| **Online Sales** | Yes, via Eventbrite and other platforms depending on event type |
+
+Mixed ticketing approach - some events use online platforms, others are donation-based at the door.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 704-343-3031 |
-| **Website** | https://visartvideo.org/ |
+| **Booking Email** | programming@visartvideo.org |
+| **General Email** | programming@visartvideo.org |
+| **Phone** | TBD |
+| **Address** | Charlotte, NC (specific address TBD) |
+| **Social Media** | Facebook, Instagram, other platforms |
 
 ## Opendate Fit
+**Score: 70/100 — Good Lead**
+Multi-dimensional community arts space with diverse programming and multiple revenue streams (rentals, video library, cafe, ticketed events, classes). Currently using multiple ticketing platforms (Eventbrite, Corsizio) which creates friction - would benefit from unified platform. High event frequency (multiple weekly recurring events) provides stable ticket volume. 501(c)(3) status means donor management features would be valuable. Community-focused mission aligns with values-driven venues that appreciate integrated, transparent platforms.
 
-_Assessment pending_
+**Unique Strengths**: Video rental library with 50,000+ titles, on-site cafe, beautiful garden patio, versatile event space, strong community programming (AA meetings, networking, wellness), educational focus (film literacy workshops, acting classes). True community hub beyond just entertainment venue.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Revenue Streams**: Video rentals, cafe sales, event tickets, class registrations, private event rentals, space rentals, donations.

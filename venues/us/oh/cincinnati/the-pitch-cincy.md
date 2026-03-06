@@ -1,56 +1,16 @@
 # The Pitch Cincy
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1430 Central Pkwy, Cincinnati, OH 45202, USA |
-| **Phone** | Unknown |
-| **Website** | https://www.thepitchcincy.com/ |
-| **Google Rating** | 4.6/5 (399 reviews) |
-| **Type** | Sports Bar, Hamburger Restaurant, American Restaurant, Restaurant, Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=9894282072976545398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Sports bar and event space in Cincinnati, OH, located across from the West End Stadium. Features rooftop with stadium view, outdoor patio, food trucks, and video wall for sports viewing. Not a performance venue.
 
 ## Programming & Shows
+- Sports viewing parties
+- Private event rentals (via League Lobster scheduling)
+- Some Eventbrite-listed events (likely private bookings or viewing parties)
 
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | https://www.thepitchcincy.com/ |
+## Venue Type
+Sports bar and social venue focused on soccer/sports viewing. Looking for food truck operators to run on-site service.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 10/100 — Not a Fit**
+Sports bar, not a ticketed performance venue. Eventbrite/League Lobster links appear to be for private event bookings or sports viewing parties, not regular ticketed shows. Primary business is food/beverage service during sports broadcasts.

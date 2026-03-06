@@ -1,52 +1,19 @@
 # The River Arts District Brewing Company
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Asheville |
-| **State** | NC |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | https://events.humanitix.com/nerd-nite-asheville-march-2026 |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Brewery and taproom in Asheville, NC's River Arts District. Not a ticketed performance venue - offers free community events.
 
 ## Programming & Shows
+- **Free Events**: 
+  - Monday trivia nights
+  - Friday live music (free)
+- **Food**: Master BBQ food truck on most days, rotating trucks
+- **Beverages**: 16 rotating house-brewed beers, wine, cider, ginger beer, N/A beverages
 
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | Humanitix |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | order@humanitix.com |
-| **Website** | https://events.humanitix.com/nerd-nite-asheville-march-2026 |
+## Location
+13 Mystery Street, Asheville, NC 28801
+Century-old stonecutter's workshop in secluded glen at gateway to River Arts District
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Score: 20/100 — Not a Fit**
+This is a brewery with free entertainment, not a ticketed performance venue. No ticket sales = not a customer for Opendate. Community gathering space with taproom focus rather than event venue.
