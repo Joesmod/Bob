@@ -1,52 +1,28 @@
 # Tellers Austin
 
 ## Overview
+Venue in Austin, Texas.
 
-| | |
-|---|---|
-| **City** | Austin |
-| **State** | TX |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
+## Research Notes
+**Website Issue**: The provided website (https://do512.com) is NOT the venue's website. Do512 is an Austin events listing and discovery platform that aggregates events from hundreds of venues across Austin. This is equivalent to providing "Eventbrite.com" as a venue website.
 
-## About
+**Research Status**: Unable to complete research. The actual Tellers Austin venue website was not provided in the lead data. Do512 is a media/events platform, not a venue.
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+### About Do512 (not the venue)
+Do512 is an events discovery platform covering Austin music, art, food, and entertainment. It lists events from hundreds of venues but is not itself a venue or ticketing provider.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **Provided URL** | https://do512.com (incorrect - this is an events listing site) |
+| **Location** | Austin, TX |
 
 ## Opendate Fit
+**Score: N/A — Incorrect Venue Website**
 
-_Assessment pending_
+Cannot assess without the actual venue website. Need to find the real Tellers Austin website to complete research.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Opendate Lead Pipeline*
+**Recommendation**: 
+1. Search for "Tellers Austin venue" to find the actual venue website
+2. Verify this is an actual ticketed music venue
+3. If Tellers Austin exists, update the sheet with the correct website and re-research

@@ -1,56 +1,33 @@
 # Everett Civic Auditorium
 
 ## Overview
+Civic auditorium in Everett, Washington.
 
-| | |
-|---|---|
-| **Address** | 2415 Colby Ave, Everett, WA 98201, USA |
-| **Phone** | (425) 385-4000 |
-| **Website** | http://www.everettsd.org/ |
-| **Google Rating** | 4.5/5 (528 reviews) |
-| **Type** | Auditorium, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=11340718353278941789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Research Notes
+**Website Issue**: The provided website (http://www.everettsd.org) is the Everett Public Schools district website, not the venue website. The school district site contains information about K-12 education, enrollment, district news, and school events—but no information about the Civic Auditorium as a public performance venue.
 
-## About
+**Research Status**: Unable to complete research due to incorrect website. The Everett School District may operate or own the auditorium, but no specific venue information, event calendar, or ticketing system is visible on their main website.
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+### What We Found (School District Site)
+- MathFest events at schools
+- Kindergarten enrollment
+- Student programs and district announcements
+- No public performance venue calendar or ticketing
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 425-385-4000 |
-| **Website** | http://www.everettsd.org/ |
+| **Provided URL** | http://www.everettsd.org (incorrect - this is the school district) |
+| **Location** | Everett, WA |
 
 ## Opendate Fit
+**Score: N/A — Incorrect Venue Website**
 
-_Assessment pending_
+Cannot assess without actual venue information. If Everett Civic Auditorium exists as a public ticketed venue, it likely has its own website or operates under a different entity (city parks & recreation, separate nonprofit, etc.).
 
----
+**Recommendation**: 
+1. Search for "Everett Civic Auditorium" or "Everett Performing Arts" to find the actual venue
+2. Check if it's operated by Everett Parks & Recreation, the City of Everett, or an independent arts organization
+3. Update sheet with correct website and re-research
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Note**: School auditoriums sometimes host community events but rarely operate as commercial ticketed venues. Verify this is actually a public performance venue vs. school facility.

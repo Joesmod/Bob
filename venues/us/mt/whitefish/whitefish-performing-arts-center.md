@@ -1,56 +1,40 @@
 # Whitefish Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 127 Spokane Ave, Whitefish, MT 59937, USA |
-| **Phone** | (406) 862-3195 |
-| **Website** | http://www.whitefishpac.com/ |
-| **Google Rating** | 4.8/5 (122 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=14280490051207939614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+School-based performing arts facility located on the campus of Whitefish Middle School in Whitefish, Montana. Features professional-grade technical equipment including ETC lighting system, Yamaha digital mixing console, and Panasonic projector for theatrical and multimedia presentations.
 
 ## History
+Facility is part of Whitefish Middle School, serving as both an educational venue and community performing arts center.
 
-_Research pending_
+## Venue Specifications
+| | |
+|---|---|
+| **Location** | 127 Spokane Ave, Whitefish, MT 59937 |
+| **Setting** | On campus of Whitefish Middle School |
+| **Stage Features** | 8 motorized line-sets (ETC Vortek), stage elevator |
 
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+### Technical Specifications
+- **Lighting**: ETC Element console (500 channels), 192 dimmers, 124 lighting units including Source Four fixtures and Martin Mac 2000 moving lights
+- **Sound**: Yamaha M7CL 48-channel digital mixing console with iPad control
+- **Projections**: Panasonic PTDZ10KU projector with 20' × 10' screen
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Educational performances, community events
+- **Frequency**: School and community programming
+- No public ticketing calendar visible on website
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not applicable - school/community facility |
+| **Online Sales** | No public ticketing system |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 406-862-3195 |
-| **Website** | http://www.whitefishpac.com/ |
+| **Website** | http://www.whitefishpac.com |
+| **Address** | 127 Spokane Ave, Whitefish, MT 59937 |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 30/100 — Not a Fit**
+School-based facility without public ticketed events. Functions primarily as educational venue. No evidence of commercial ticketing operation. Not a viable lead for Opendate.

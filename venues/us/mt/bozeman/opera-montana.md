@@ -1,56 +1,68 @@
 # Opera Montana
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1807 W Dickerson St # C, Bozeman, MT 59715, USA |
-| **Phone** | (406) 587-2889 |
-| **Website** | https://www.operamontana.org/ |
-| **Google Rating** | 5/5 (12 reviews) |
-| **Type** | Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=18264983255122951750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Professional opera company based in Bozeman, Montana. Formerly known as Intermountain Opera Bozeman (rebranded in 2024), Opera Montana produces 2-3 full-scale opera productions per season plus community engagement programming and educational tours across the state.
 
 ## History
-
-_Research pending_
+- **Founded**: 1978 by MSU voice teacher Verity Bostick, NY opera producer Anthony Stivanello, and Metropolitan Opera baritone Pablo Elvira
+- **1978**: Inaugural production of Verdi's "La Traviata"
+- **1996**: Linda Curtis becomes Artistic Director, expanding to multiple productions per season
+- **2008**: Jackie Vick appointed Executive Director; introduced winter musicals and Sustaining Member Society
+- **2020**: Michael Sakir joins as Artistic Director (former Music Director of Opera Memphis)
+- **2022**: Susan Miller hired as first General Director; Genevieve Trygstad-Burke joins as Development Director
+- **2023**: Launched Wheels of Harmony school tour and Veterans Chorus
+- **2024**: Rebranded from Intermountain Opera Bozeman to Opera Montana
+- **2025**: Emerald Hart-Ullman hired as first Director of Community Engagement
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Michael Sakir | Artistic Director | Website |
+| Susan Miller | General Director | Website |
+| Genevieve Trygstad-Burke | Development Director | Website |
+| Emerald Hart-Ullman | Director of Community Engagement | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Opera (classic and contemporary), musical theater
+- **Season**: 2-3 full productions annually
+- **2026 Season**:
+  - Tosca (Puccini) — May 7-10, 2026
+  - A River Runs Through It (based on Norman Maclean novel) — Sept 18-20 & 25-27, 2026
+- **Community Programs**: Wheels of Harmony (school tours), Veterans Chorus, Indigenous music partnerships
+- **Ticket prices**: Varies by production
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Easy-Ware Ticketing |
+| **URL** | https://operamontana.easy-ware-ticketing.com/events |
+| **Online Sales** | Yes, full online ticketing platform |
+| **Donations** | Via Easy-Ware Forms |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 406-587-2889 |
-| **Website** | https://www.operamontana.org/ |
+| **Phone** | (406) 587-2889 |
+| **Email** | hello@operamontana.org |
+| **Office** | 1807 W. Dickerson, Suite C, Bozeman, MT 59715 |
+| **Mailing** | PO Box 37, Bozeman, MT 59771 |
+| **Facebook** | facebook.com/OperaMontana79 |
+| **Instagram** | @opera_montana |
+| **YouTube** | youtube.com/channel/UCXHtfNXVxj4QuTsHHaj4Xzw |
 
 ## Opendate Fit
+**Score: 75/100 — Strong Prospect**
 
-_Assessment pending_
+**Positives:**
+- Professional arts organization with ticketed productions
+- Currently using Easy-Ware (switchable platform)
+- Growing organization with recent staff expansion and state-wide ambitions
+- Multiple revenue streams (tickets, donations, memberships)
+- 2-3 major productions per year plus community events
 
----
+**Considerations:**
+- Opera/classical focus means lower event frequency than rock/pop venues
+- Nonprofit arts org may have budget constraints
+- Currently satisfied with Easy-Ware but could be interested in integrated solution
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Why Opendate:** Opera Montana's expansion from local to statewide operations and growing staff suggests they're ready for more sophisticated tools. Opendate could offer better donor integration, analytics, and multi-venue management as they bring productions to other Montana communities.
