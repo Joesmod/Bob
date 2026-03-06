@@ -2,55 +2,56 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Address** | Ridgefield Park, NJ 07660, USA |
-| **Phone** | (201) 336-6000 |
-| **Website** | https://www.ridgefieldpark.org/ |
-| **Google Rating** | 4.7/5 (512 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1223369406181323479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Outdoor amphitheater located in Overpeck County Park, Ridgefield Park, NJ. Managed by Bergen County Parks Department. Public park venue for community events and concerts.
 
 ## History
 
-_Research pending_
+Part of Overpeck County Park, a public recreation area in Bergen County. The amphitheater serves as a community gathering space for outdoor performances and events.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Bergen County Parks_ | Park Management | Context |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+Research of the Ridgefield Park website (https://www.ridgefieldpark.org) shows municipal programming focused on:
+- Mayor's Wellness Campaign programs (fitness classes)
+- Blood drives and health fairs
+- Community recreation programs
+
+The website does not feature any ticketed amphitheater events or concert programming. Appears to be primarily a public park venue for free community events.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Public park facility |
+| **Model** | Free community events |
+
+No evidence of ticketed programming. Appears to be a public amphitheater for free community events, similar to many county park bandshells.
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 201-336-6000 |
-| **Website** | https://www.ridgefieldpark.org/ |
+| **Municipality** | Ridgefield Park, NJ |
+| **Website** | https://www.ridgefieldpark.org |
+| **Park System** | Bergen County Parks |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 15/100 — Not a Fit**
+
+Overpeck County Park Amphitheater appears to be a public park venue for free community events, not a ticketed performance venue. The municipal website shows no concert calendar or ticketing operations. This is typical of county park amphitheaters - they host occasional free concerts and community gatherings but do not sell tickets.
+
+**Status**: Public park facility, free events only. Not a commercial venue. Not a candidate for Opendate.
+
+**Note**: Website research found only municipal wellness programs and community events. No evidence of concert programming or ticketed performances.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-06*
+*Source: Website research - https://www.ridgefieldpark.org*
+*Status: Public park venue - no ticketing operation*
