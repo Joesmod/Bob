@@ -1,56 +1,62 @@
 # Mission Valley Live
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 33585 N Finley Point Rd, Polson, MT 59860, USA |
-| **Phone** | (406) 471-5849 |
-| **Website** | http://missionvalleylive.com/about-us/ |
-| **Google Rating** | None/5 (None reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12104631997289756154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Nonprofit presenter of professional performing arts concerts in Polson, MT, founded in 2015. Brings touring artists to rural Montana for community concerts and educational outreach. Performs at Polson High School and Ronan Middle School venues to serve the broader Mission Valley geographic area.
 
 ## History
-
-_Research pending_
+Founded February 2015 by community volunteers after the dissolution of Big Productions. Continues a legacy that began in 1994 with Folkshop Concerts organized by Chas Cantlon. From 2001-2015, Big Productions supported youth projects including Big Brothers/Sisters and the Cantlon Family Youth Home. When Big Productions dissolved for financial reasons, dedicated community members formed Mission Valley Live to continue bringing performing arts to the region.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Trish Rodrique | Executive Director | Website |
+| Brian Campbell | President, MC, Artist Liaison | Website |
+| Shannon Nunlist | Vice President, Volunteer Coordinator | Website |
+| Tricia Campbell | Secretary, Outreach Program Coordinator | Website |
+| Eve Dixon | Treasurer, Social Media & Website | Website |
+
+Additional board members: Eric Hogenson, Mike Rodrique, Mason Niblack, Karen Swan, Mac Swan
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Professional touring artists - varied genres (folk, classical, world music, etc.)
+- **Frequency**: Seasonal concert series (October-April typically)
+- **Venues**: Polson High School and Ronan Middle School
+- **Ticket prices**: Kept affordable for rural community; youth 18 and under admitted free, children 12 and under free with adult
+- **Educational outreach**: Free programs to students in schools throughout Mission Valley
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Website has shopping cart system (custom/WooCommerce-style) |
+| **Online Sales** | Yes, via website at missionvalleylive.com/purchase |
+| **Box Office Contact** | Karen Swan manages ticket sales |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 406-471-5849 |
-| **Website** | http://missionvalleylive.com/about-us/ |
+| **Phone** | 406-471-5849 |
+| **Mailing Address** | 29368 Black Bear Trail, Polson, MT 59860 |
+| **Website** | missionvalleylive.com |
+| **Email** | Via contact form on website |
+| **Facebook** | @MissionValleyLive |
 
 ## Opendate Fit
+**Score: 65/100 — Moderate-Low Candidate**
 
-_Assessment pending_
+Nonprofit arts presenter serving rural Montana. Admirable mission bringing professional touring artists to underserved region. 
 
----
+Strengths:
+- Established organization with community support
+- Professional touring artist bookings
+- Educational outreach component
+- Online ticketing already in place
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Challenges:
+- **Very small market** (Lake County, MT pop ~30k; Polson ~5k)
+- **Low event frequency** (seasonal series, ~6-10 shows/year)
+- **Nonprofit pricing model** (affordable/subsidized tickets, youth free)
+- **Limited revenue potential** for ticketing platform ROI
+- Rural/remote location
+- Relies heavily on volunteers
+
+**Verdict**: Not a priority lead. Organization is doing important cultural work in an underserved region, but the combination of small market size, low event frequency, and nonprofit pricing model means ticketing platform fees may not make economic sense for either party. Better suited for simple, low-cost ticketing solutions designed for small nonprofits.

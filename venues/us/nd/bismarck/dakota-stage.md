@@ -1,56 +1,55 @@
 # Dakota Stage
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 412 E Main Ave, Bismarck, ND 58501, USA |
-| **Phone** | (701) 258-4998 |
-| **Website** | https://www.dakotastage.org/ |
-| **Google Rating** | 4.7/5 (79 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=4910877912930633340&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community theater company in Bismarck, ND, established in 1971. Produces 5-6 shows annually including musicals, dramas, and children's theater through their Shade Tree Players program. Performances held at 412 E Main Ave venue.
 
 ## History
-
-_Research pending_
+Founded in 1971 as a community-based theater organization. Over 50 years of bringing live theater to the Bismarck/Mandan area. Part of the broader North Dakota community theater scene, serving as a cultural anchor for the region.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Board of Directors | Governance | Website lists board in About section |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Musicals, dramas, comedies, children's theater
+- **Frequency**: 5-6 main stage productions per season (Sept-May) plus summer youth productions
+- **Current season shows**: "Making God Laugh" (March 19-29, 2026), "Bright Star" (May 7-17, 2026)
+- **Summer program**: Shade Tree Players youth productions ("Junie B. Jones Is Not a Crook!" - June 25-July 12, 2026)
+- **Ticket prices**: Varies by show; offers flex tickets (5 admissions) and premium season tickets
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | OvationTix |
+| **Platform URL** | ci.ovationtix.com/36534 |
+| **Ticket Types** | Single tickets, Flex packages (5 shows), Premium season tickets |
+| **Box Office** | 701-258-4998, info@dakotastage.org |
+| **Online Sales** | Yes, via OvationTix |
+
+**Note**: Website warns against purchasing from StubHub - they've seen invalid tickets. Buy directly from Dakota Stage.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 701-258-4998 |
-| **Website** | https://www.dakotastage.org/ |
+| **Venue Address** | 412 E Main Ave, Bismarck, ND 58501 |
+| **Box Office Phone** | 701-258-4998 |
+| **General Email** | info@dakotastage.org |
+| **Website** | dakotastage.org |
 
 ## Opendate Fit
+**Score: 72/100 — Moderate Candidate**
 
-_Assessment pending_
+Community theater with consistent season of productions. Currently using OvationTix (switchable platform). Good:
+- Established organization (50+ years)
+- Regular season schedule  
+- Active educational outreach
+- Ticketed productions
 
----
+Challenges:
+- Smaller market (Bismarck metro ~130k)
+- Community theater pricing model (affordable tickets, flex packages)
+- Volunteer-driven organization
+- Limited performance frequency (5-6 shows/year)
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Would benefit from Opendate's integrated platform but volume may be modest. Best approached as part of regional community theater group adoption.

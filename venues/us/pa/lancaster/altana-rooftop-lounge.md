@@ -1,56 +1,53 @@
 # Altana Rooftop Lounge
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 26 E King St, Lancaster, PA 17602, USA |
-| **Phone** | (717) 690-2347 |
-| **Website** | https://26eastlancaster.com/altana/?utm_source=gbp&utm_medium=profile&utm_content=20220722 |
-| **Google Rating** | 3.6/5 (427 reviews) |
-| **Type** | Restaurant, Lounge Bar, Night Club, Event Venue, Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=153729674800032667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Upscale rooftop bar and lounge in downtown Lancaster, PA, part of the 26 East (26eastlancaster.com) hospitality complex. Modern lounge focused on cocktails, conversation, and city views. NOT a live entertainment venue.
 
 ## History
-
-_Research pending_
+Part of the 26 East development in downtown Lancaster. Positioned as a luxury nightlife experience with focus on refined drinks and urban atmosphere.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not specified | Management | Part of 26 East hospitality group |
 
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+## Programming & Entertainment
+- **Type**: Rooftop bar/lounge - NOT ticketed entertainment
+- **Vibe**: "Relaxed & modern lounge," "comfortable conversation and refreshing libation"
+- **Focus**: Cocktails, rooftop views of Lancaster City, social atmosphere
+- **No indication of**: Live music, performances, ticketed events, or scheduled entertainment
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - No ticketing system |
+| **Business Model** | Bar/lounge - no admission, no ticketed events |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 717-690-2347 |
-| **Website** | https://26eastlancaster.com/altana/?utm_source=gbp&utm_medium=profile&utm_content=20220722 |
+| **Website** | 26eastlancaster.com/altana |
+| **Location** | Downtown Lancaster, PA |
 
 ## Opendate Fit
+**Score: 0/100 — NOT A FIT**
 
-_Assessment pending_
+**This is a rooftop bar/lounge, not a live entertainment venue.**
 
----
+Altana is an upscale cocktail lounge focused on:
+- Drinks and cocktails
+- Rooftop atmosphere
+- Social gatherings
+- Urban nightlife experience
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+They do NOT:
+- Host ticketed events
+- Present live performances
+- Sell admission tickets
+- Have scheduled entertainment programming
+
+**Why this was flagged**: The word "Lounge" likely triggered venue classification in database. However, "lounge" in hospitality context means bar/cocktail lounge, NOT performance venue.
+
+**Recommendation**: Remove from lead pipeline. This is a bar with no ticketing needs. May occasionally rent space for private events, but that's event rental/catering, not ticketing platform needs.
+
+**Venue Type**: Should be classified as "Bar/Restaurant" not "Venue" in the database.
