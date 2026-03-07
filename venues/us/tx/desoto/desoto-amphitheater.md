@@ -13,42 +13,54 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Municipal outdoor amphitheater located at DeSoto Town Center, operated by the DeSoto Parks and Recreation Department. Part of a larger complex including City Hall, Recreation Center, Corner Theatre, Public Library, and Civic Center. Used primarily for city-sponsored community events and festivals rather than ticketed concerts.
 
 ## History
 
-_Research pending_
+Part of the DeSoto Town Center development at 211 E. Pleasant Run Road. The Parks and Recreation Department received national accreditation from NRPA in October 2022.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Parks & Recreation Director | _TBD_ |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**City Events** (Free admission):
+- Best Southwest Juneteenth Festival
+- July 4th Fireworks Celebration
+- Best Southwest Hispanic Heritage Festival (Latin music, vendors)
+- Hometown Holiday Christmas Parade & Tree Lighting
+- Easter Eggstravaganza
+- Daddy & Daughter Dance
+- Mother & Son Dance
+
+**Vendor applications**: specialevents@desototexas.gov
+No evidence of ticketed concerts or commercial entertainment bookings.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — Free community events only |
+| **Box Office** | N/A |
+| **Online Sales** | N/A |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 972-230-9655 |
-| **Website** | http://www.desototexas.gov/parks |
+| **Booking Email** | specialevents@desototexas.gov |
+| **General Email** | specialevents@desototexas.gov |
+| **Phone** | (972) 230-9655 |
+| **Website** | https://desototexas.gov/departments/parks___recreation/special_events.php |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 10/100 — Not a Fit**
+
+Municipal facility for free community events only. No ticketed concerts or commercial entertainment. City-run venue with zero commercial ticketing needs. Not a viable lead for Opendate.
 
 ---
 

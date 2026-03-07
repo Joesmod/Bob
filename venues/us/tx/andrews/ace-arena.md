@@ -13,42 +13,59 @@
 
 ## About
 
-_Research pending — web scrape needed_
+County-owned equestrian and livestock facility operated by Andrews County. Features large indoor and outdoor arenas designed for horse shows, rodeos, and agricultural events. Not a concert or entertainment venue.
 
 ## History
 
-_Research pending_
+_Information not available_
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Facility Manager | Andrews County |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Facility Type**: Equestrian/livestock venue
+**Events**: Horse shows, rodeos, agricultural competitions
+**Facilities**:
+- Large indoor arena: 150' x 300'
+- Indoor warm-up arena
+- 28 indoor stalls with fans, lights, wash bays
+- 144 outdoor covered stalls
+- Outdoor arena with bullpens
+- RV spaces with hookups
+
+**Rates**:
+- Stalls: $30/night
+- Shavings: $10/bag
+- RV spaces: $35/night
+
+**Booking**: Must call before hauling livestock due to schedule changes
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — Facility rental only |
+| **Box Office** | N/A |
+| **Online Sales** | N/A |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 432-524-5730 |
-| **Website** | https://co.andrews.tx.us/158/ACE-Arena |
+| **Booking Email** | Via county website |
+| **General Email** | _Unknown_ |
+| **Phone** | (432) 524-5730 |
+| **Website** | https://co.andrews.tx.us/161/Booking |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 5/100 — Not a Fit**
+
+Equestrian/livestock facility with no ticketed entertainment events. Facility rental model only. Not applicable for concert/event ticketing platform.
 
 ---
 

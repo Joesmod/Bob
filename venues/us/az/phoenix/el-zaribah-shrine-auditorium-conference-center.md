@@ -13,42 +13,50 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Shriners fraternal organization facility with conference center and auditorium available for rentals. Primarily serves Shriners members and supports Shriners Children's charity. Not a public entertainment venue or ticketed concert space.
 
 ## History
 
-_Research pending_
+**Chartered**: 1896 (Charter year for El Zaribah Shriners in Phoenix)
+Affiliated with Qadesh Temple No. 35, Daughters of the Nile. Long-standing fraternal organization supporting Shriners Children's healthcare network.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | Potentate | _TBD_ |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Primary Use**: Shriners member events, meetings, parades, fundraisers
+**Facility Rental**: Conference center available for groups of 20-800
+**Fundraising**: Queen of Hearts Raffle (drawn live Tuesdays at 7 PM), 50/50 tickets
+**Calendar**: Member events, not public entertainment
+
+Not a ticketed entertainment venue. Focus is on fraternal activities and Shriners Children's support.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — Facility rental only |
+| **Box Office** | N/A |
+| **Online Sales** | N/A |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 602-231-0300 |
-| **Website** | https://el-zaribah.org/ |
+| **Booking/Rental** | https://rental.el-zaribah.org |
+| **General Email** | _Unknown_ |
+| **Phone** | (602) 231-0300 |
+| **Website** | https://el-zaribah.org |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 10/100 — Not a Fit**
+
+Fraternal organization facility for member events and private rentals. No public ticketed entertainment. Not a viable lead for event ticketing platform.
 
 ---
 
