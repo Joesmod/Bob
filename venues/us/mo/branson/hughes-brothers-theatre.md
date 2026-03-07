@@ -1,56 +1,36 @@
 # Hughes Brothers Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 3425 W 76 Country Blvd Ste A, Branson, MO 65616, USA |
-| **Phone** | (417) 334-0076 |
-| **Website** | https://hughesentertainmentinc.com/ |
-| **Google Rating** | 4.8/5 (3090 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=5917621602937485295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Theatre venue in Branson, Missouri associated with Hughes Entertainment Inc. **Currently shows no active programming - calendar displays 0 shows for multiple months.**
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Part of the Branson entertainment scene - the Hughes Brothers are a known family entertainment act in Branson. Theatre appears to be their performance venue, though current operational status is unclear.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Current Status**: Calendar checked February-April 2026 shows "0 shows" for all dates
+- **Typical Format**: Likely family variety show format common in Branson
+- **Type**: Branson-style entertainment (music, comedy, variety)
+- **Current Activity**: **Appears inactive or seasonal with no current programming**
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Status** | No active shows to ticket |
+| **Current Provider** | Unknown |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 417-334-0076 |
-| **Website** | https://hughesentertainmentinc.com/ |
+| **Website** | https://hughesentertainmentinc.com |
+| **Location** | Branson, MO |
 
 ## Opendate Fit
+**Score: 30/100 — Inactive**
 
-_Assessment pending_
+**Not currently a viable prospect.** Calendar shows zero activity for checked months in 2026. Could be:
+- Permanently closed
+- Seasonal with programming later in year
+- Transitioning/under renovation
+- Website not maintained
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Without active shows, there's no ticketing need. Branson venues also tend to use established tourism/entertainment ticketing systems deeply integrated with the Branson tourism ecosystem. **Do not pursue** unless future research shows return to active programming. Even then, Branson entertainment venues are typically locked into regional tourism ticketing networks.

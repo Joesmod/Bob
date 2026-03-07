@@ -1,56 +1,42 @@
 # The Studio Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 320 W 7th St, Little Rock, AR 72201, USA |
-| **Phone** | (501) 374-2615 |
-| **Website** | http://studiotheatrelr.com/ |
-| **Google Rating** | 4.8/5 (136 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17993840403554267828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community theatre in Little Rock, Arkansas founded in 2014. 501(c)(3) nonprofit bringing innovative theatrical productions to central Arkansas. **Currently on hiatus - searching for a new performance space as of early 2026.**
 
 ## History
+The Studio Theatre was founded in 2013 by a group of Little Rock theatre artists who wanted to bring a new brand of community theatre to central Arkansas. After extensive renovations to 320 W. 7th Street, they opened with "You're A Good Man, Charlie Brown" in May 2014. The venue hosted Community Theatre of Little Rock until 2017. TST became a 501(c)(3) nonprofit in 2016 and has hosted the Dark Night Awards, Arkansas Jazz Society events, and their own drag pageant, MX Studio Theatre.
 
-_Research pending_
+**Current Status**: All shows and events are postponed while searching for a new space. This includes previously scheduled shows like "Stranger Sings" and Jazz Nights.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Caleb Patton | Staff/Leadership | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Contemporary musicals, innovative reimaginings of classics, diverse new works
+- **Programming**: Typically mixed season of musicals and plays (when active)
+- **Notable**: Known for creative setting/scenery reimagining and bringing Broadway shows to Little Rock
+- **Events**: Hosted jazz nights, drag pageants, awards shows
+- **Current**: **Inactive - no shows scheduled until new venue secured**
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | OnTheStage (when active) |
+| **Ticket Range** | Community theatre pricing (typically $15-$30) |
+| **Online Sales** | Yes via onthestage.tickets/the-studio-theatre |
+| **Current Status** | No active ticket sales |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 501-374-2615 |
-| **Website** | http://studiotheatrelr.com/ |
+| **Email** | info@studiotheatrelr.com |
+| **Website** | https://www.studiotheatrelr.com |
+| **Previous Location** | 320 W. 7th Street, Little Rock, AR |
+| **Founded** | 2014 |
 
 ## Opendate Fit
+**Score: 45/100 — Monitor for Future**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Currently inactive due to venue search, making them a poor immediate prospect. However, historically they've been an active community theatre with regular programming using OnTheStage for ticketing (an easy-to-switch platform). If they secure a new space and resume operations, they would become a good mid-tier prospect. Their innovative programming approach and community engagement suggest they'd be open to modern solutions. **Follow up in 6-12 months** to check on new venue status.

@@ -1,56 +1,31 @@
 # Mitchell Hall Theatre
 
 ## Overview
+Theatre venue in Edmond, Oklahoma. **Website failed to load during research - unable to verify current operational status or programming.**
 
-| | |
-|---|---|
-| **Address** | 100 N University Dr, Edmond, OK 73034, USA |
-| **Phone** | (405) 974-3375 |
-| **Website** | http://www.mitchellhalltheatre.com/ |
-| **Google Rating** | 4.6/5 (119 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=14807437068299561540&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 405-974-3375 |
-| **Website** | http://www.mitchellhalltheatre.com/ |
+## Research Notes
+- Listed website: http://www.mitchellhalltheatre.com
+- **Website Status**: Failed to load (connection error)
+- **Location**: Edmond, OK
+- Unable to gather information about:
+  - Current programming
+  - Ticketing system
+  - Contact information
+  - Operational status
 
 ## Opendate Fit
+**Score: N/A — Unable to Research**
 
-_Assessment pending_
+Cannot evaluate this venue as a prospect without functional website or alternative information sources. The non-functional website could indicate:
+- Venue no longer operating
+- Website maintenance issues
+- Domain expired
+- Moved to new website/platform
 
----
+**Action needed**: 
+- Try alternative research (Google search for venue, social media presence, local news)
+- Check if venue has moved to different URL
+- If venue is operating, note the broken website as a potential pain point/opportunity
+- **Do not pursue** until operational status confirmed
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Follow-up**: Manual verification of venue status needed before any outreach.

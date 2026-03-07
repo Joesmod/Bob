@@ -1,56 +1,42 @@
 # John Goodman Amphitheatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 901 S National Ave, Springfield, MO 65807, USA |
-| **Phone** | Unknown |
-| **Website** | https://johngoodmanamphitheatre.com/ |
-| **Google Rating** | 5/5 (7 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=14356652018182780213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Outdoor amphitheatre on Missouri State University campus in Springfield. Hosts free community concerts (Brown Bag Music Series) and Missouri State's Tent Theatre summer productions. University-operated venue serving both campus and community.
 
 ## History
-
-_Research pending_
+Named after actor John Goodman (Missouri State alumnus). Serves as home to Tent Theatre, which has been enchanting audiences since 1963. The venue provides a beautiful outdoor setting for both casual lunchtime concerts and full theatrical productions.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| — | Operated by Missouri State University | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Brown Bag Music Series**: Free Wednesday noon concerts in April (bring your lunch, enjoy local musicians)
+- **Tent Theatre**: Missouri State's summer theatre program
+  - 2026: "Around the World in 80 Days" (June 18-20 & 22-26)
+  - 2026: "Beehive: The 60's Musical" (July 8-11 & 13-18)
+- **Type**: Mix of free community events and ticketed theatre productions
+- **Season**: Primarily spring/summer programming
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Brown Bag Series** | FREE |
+| **Tent Theatre** | Ticketed (pricing via Tent Theatre website) |
+| **Current Provider** | Missouri State University system (likely) |
+| **Website** | TentTheatre.MissouriState.edu |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | https://johngoodmanamphitheatre.com/ |
+| **Location** | Missouri State University campus, Springfield, MO |
+| **General Info** | Info@MissouriState.edu |
+| **Main Phone** | (417) 836-5000 |
+| **Website** | https://johngoodmanamphitheatre.com |
+| **Tent Theatre** | https://TentTheatre.MissouriState.edu |
 
 ## Opendate Fit
+**Score: 35/100 — Low Priority**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+University-operated venue with mixed programming (free community concerts + summer theatre). The free Brown Bag series doesn't need ticketing, and Tent Theatre is likely locked into university systems and procurement processes. Universities typically have centralized ticketing through their performing arts centers or student unions, making independent venue switches difficult. Low ticket volume (limited summer season) combined with institutional bureaucracy make this a poor prospect. Only pursue if Opendate develops a university/edu-focused product or partnership program.

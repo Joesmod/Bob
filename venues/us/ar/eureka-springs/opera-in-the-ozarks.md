@@ -1,56 +1,44 @@
 # Opera in the Ozarks
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 16311 US-62, Eureka Springs, AR 72632, USA |
-| **Phone** | (479) 253-8595 |
-| **Website** | http://www.opera.org/ |
-| **Google Rating** | 4.9/5 (59 reviews) |
-| **Type** |  |
-| **Google Maps** | [View](https://maps.google.com/?cid=4532079388229891948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+75-year-old intensive opera training program in Eureka Springs, Arkansas. Summer program where young and emerging opera singers perform in three professional productions during the training season. Public performances serve dual purpose: professional opera for patrons and performance opportunities for emerging artists.
 
 ## History
-
-_Research pending_
+Founded 75 years ago (circa 1951), Opera in the Ozarks has been "a forge for opera singers" for over seven decades. Located at 16311 Highway 62 W in Eureka Springs, the program provides comprehensive opera training while offering the public access to professional-level productions in the beautiful Ozark Mountains setting.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| — | Artistic staff listed on website | Website (contact: auditions@opera.org) |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Format**: Summer intensive opera training program
+- **Productions**: 3 full operas per season (each singer performs in all three)
+- **Target Audience**: Opera patrons supporting emerging artists
+- **Season**: Summer season (typically June-August based on training program format)
+- **Ticket Sales**: Public performances available for purchase
+- **Genre**: Classical opera repertoire
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (website has ticketing section but details not fully accessible) |
+| **Ticket Range** | Likely moderate pricing for regional opera |
+| **Online Sales** | Website indicates ticket sales available |
+| **Season Format** | Summer season only |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 479-253-8595 |
-| **Website** | http://www.opera.org/ |
+| **General Email** | info@opera.org |
+| **Artist Inquiries** | auditions@opera.org |
+| **Orchestra** | orchestra@opera.org |
+| **Phone** | (479) 253-8595 |
+| **Mailing** | PO Box 127, Eureka Springs, AR 72632 |
+| **Physical** | 16311 HWY 62 W, Eureka Springs, AR 72632 |
+| **Website** | https://operaintheozarks.com |
 
 ## Opendate Fit
+**Score: 55/100 — Niche Prospect**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+Opera training program with seasonal ticketed performances. Limited season (summer only) means lower ticket volume than year-round venues, but 75-year history suggests stable operation and loyal patron base. Opera audiences tend to be older and less price-sensitive. The educational mission combined with public performances creates interesting use case for integrated ticketing + donor management. Worth pursuing if Opendate wants presence in the opera/classical training space, but not a high-volume commercial venue. Would need to understand their current ticketing pain points and donor integration needs.
