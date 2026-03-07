@@ -1,56 +1,35 @@
 # Phoenix Opera
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 3120 W Carefree Hwy suite 1-106, Phoenix, AZ 85086, USA |
-| **Phone** | (866) 673-7248 |
-| **Website** | http://www.phoenixopera.org/ |
-| **Google Rating** | 4.2/5 (5 reviews) |
-| **Type** |  |
-| **Google Maps** | [View](https://maps.google.com/?cid=15517596587369958420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Traditional opera company performing at the Orpheum Theatre in Phoenix, AZ. Founded in 2005 by John Massaro and Gail Dubinbaum, PMO specializes in presenting traditional operatic productions from the late 18th through early 20th centuries.
 
 ## History
-
-_Research pending_
+Founded in 2005 with debut production of "Ceremonies in Dark Old Men." Successfully completed August Wilson's entire 10-play Pittsburgh Cycle. Performs at the historic Orpheum Theatre, a restored "jewel-box" palace theatre with excellent acoustics.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| John Massaro | Co-Founder | Website |
+| Gail Dubinbaum | Co-Founder | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Traditional opera (La Boheme, Aida, Tosca, Carmen, Madame Butterfly)
+- **Frequency**: Multiple productions per season
+- **Ticket prices**: Unknown
+- **Website status**: Outdated (showing 2020 events)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown - website references app.phoenixopera.org |
+| **Online Sales** | Appears inactive |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 866-673-7248 |
-| **Website** | http://www.phoenixopera.org/ |
+| **Website** | http://www.phoenixopera.org |
+| **Contact** | Via website form only |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Low Priority**
+Opera company with limited current activity. Website appears outdated with no current events listed. Likely seasonal operation with infrequent productions. Not ideal for Opendate platform focused on regular ticketed events.
