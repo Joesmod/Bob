@@ -2,55 +2,58 @@
 
 ## Overview
 
+Professional opera company in Winston-Salem, NC, producing two main-stage productions annually. As the second-largest opera company in North Carolina, Piedmont Opera operates with a $1 million budget and attracts patrons from 16 states and communities throughout the Piedmont, Upstate, and Virginia regions.
+
 | | |
 |---|---|
-| **Address** | 636 Holly Ave NW, Winston-Salem, NC 27101, USA |
-| **Phone** | (336) 725-7101 |
-| **Website** | http://www.piedmontopera.org/ |
-| **Google Rating** | 5/5 (12 reviews) |
-| **Type** | Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=997710636647037269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+| **Location** | Winston-Salem, NC |
+| **Website** | https://www.piedmontopera.org/ |
+| **Type** | Opera Company |
+| **Budget** | $1 million operating budget |
+| **Staff** | Five full-time administrative positions |
 
 ## History
 
-_Research pending_
+Piedmont Opera has established itself as one of the leading regional opera companies in the country. The company produces the highest quality opera productions using international, national, regional, and local professional singers and technicians.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Administrative Staff | Five full-time positions | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Season**: Two main-stage productions per year
+- **Productions**: High-quality professional opera
+- **Recent/Upcoming**: Carmen, Pagliacci, African Queens, Maria Stuarda (past)
+- **Caliber**: Praised by Voix des Arts for "superb quality" and "triumph for regional opera"
+- **Educational Programs**: Wide variety of educational and outreach programs
+- **Reach**: Attracts patrons from 16 states
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | AudienceView (OvationTix) |
+| **Box Office** | https://ci.ovationtix.com/36795 |
+| **Online Sales** | Yes, via AudienceView platform |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 336-725-7101 |
-| **Website** | http://www.piedmontopera.org/ |
+| **General Email** | Unknown |
+| **Phone** | Unknown |
+| **Website** | https://www.piedmontopera.org/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 30/100 — Poor Fit**
+
+Piedmont Opera is a professional arts organization, but as an opera company (not a venue), they are already using AudienceView/OvationTix — an enterprise-level arts management platform that handles ticketing, patron management, fundraising, and CRM. Opera companies have very specific needs around season subscriptions, donor management, and patron cultivation that AudienceView specializes in. Only two productions per year means low transaction volume. Switching costs would be extremely high with little upside. Wrong vertical for Opendate.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-06*
+*Source: Website research*
