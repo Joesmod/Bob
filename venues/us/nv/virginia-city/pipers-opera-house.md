@@ -13,44 +13,66 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Piper's Opera House is a historic performing arts venue and event space in Virginia City, Nevada. Dating back to the 1860s, this vintage theater serves as a venue for music, plays, weddings, reunions, and special events. Listed by the League of Historic Theaters, it's recognized as one of the most significant vintage theaters on the West Coast. The venue combines historical tours with active event hosting.
 
 ## History
 
-_Research pending_
+**Timeline:**
+- **1863**: Originally built as Maguire's Opera House by Thomas Maguire (known for San Francisco theater influences)
+- **Burned down twice** throughout its history
+- **1860s-Present**: Eventually renamed after John Piper
+- Attracted famous stars from the United States and internationally during its heyday
+- Now operates as both a historic site and active performing arts venue
+
+The venue has been a Virginia City and Storey County landmark for over 150 years, maintaining its historical character while hosting modern events.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Thomas Maguire | Original Builder (1863) | Website/History |
+| John Piper | Later Owner/Namesake | Website/History |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Current Use:**
+- **Performing Arts**: Music concerts and theatrical plays
+- **Weddings**: Popular wedding venue (books months to a year in advance)
+- **Private Events**: Family reunions, corporate events, special occasions
+- **Tours**: Historical tours available
+- **Calendar**: Check event directory for upcoming performances
+
+**Programming Notes:**
+- Mix of ticketed performances and private event rentals
+- Emphasis on historic atmosphere and unique setting
+- Popular for destination weddings due to Virginia City's Old West character
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (likely basic/manual for performances) |
+| **Box Office** | On-site for events |
+| **Online Sales** | Event calendar on website, unclear online ticketing capability |
+| **Private Events** | Rental bookings through venue contact |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 775-847-0433 |
+| **Booking Email** | _Not listed on website_ |
+| **General Email** | _Not listed_ |
+| **Phone** | (775) 847-0433 |
+| **Address** | 12 B Street, Virginia City, NV 89440 |
 | **Website** | http://pipersoperahouse.com/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 60/100 — Moderate Lead**
+
+Historic venue with dual revenue streams (performances + private events) that could benefit from modern ticketing and event management. As a smaller, independent operation, they likely lack sophisticated online ticketing infrastructure. The wedding/event booking aspect suggests potential for integrated ticketing and event management. However, low event frequency and small market size (Virginia City tourism) may limit revenue potential. Worth exploring as they might appreciate affordable, easy-to-use platform for both shows and event bookings.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-07*
+*Research: Web scraping completed*

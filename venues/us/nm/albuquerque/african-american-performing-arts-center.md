@@ -13,44 +13,52 @@
 
 ## About
 
-_Research pending — web scrape needed_
+The National Museum of African American Performing Arts & Culture (NMAAPAC) is a cultural institution focused on preserving, promoting, and celebrating African American visual and performing arts. Located at EXPO New Mexico in Albuquerque, the center provides educational programs, exhibitions, and digital preservation initiatives focused on African American heritage and artistic contributions.
 
 ## History
 
-_Research pending_
+The center serves as both a museum and cultural institution, supporting theater, dance, music, and live performances that reflect African American history and creativity. The facility includes an exhibition hall with rotating and permanent displays highlighting African American cultural achievements.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Not publicly listed_ | _N/A_ | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Focus Areas:**
+- **Performing Arts**: Theater, dance, music, and live performances
+- **Visual Arts**: Exhibitions and galleries featuring African American artists
+- **Education**: Scholastic programs, digital archives, curriculum development
+- **Type**: Cultural center and museum, not a traditional ticketed venue
+- **Events**: Educational programs and exhibitions rather than regular ticketed shows
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — Museum/Cultural Center |
+| **Box Office** | No traditional box office |
+| **Online Sales** | Not applicable |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 505-222-0785 |
+| **Booking Email** | _Not listed_ |
+| **General Email** | info@nmaapac.com |
+| **Phone** | (505) 222-0785 |
+| **Address** | 310 San Pedro Dr. N.E., EXPO New Mexico, Albuquerque, NM 87108 |
 | **Website** | http://nmaapac.com/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 20/100 — Not a Fit**
+
+This is a museum and cultural center focused on education and exhibitions, not a ticketed performance venue. No regular ticketed events or shows. Does not require traditional ticketing software.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-07*
+*Research: Web scraping completed*

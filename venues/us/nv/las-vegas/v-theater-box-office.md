@@ -13,44 +13,69 @@
 
 ## About
 
-_Research pending — web scrape needed_
+The V Theater is a multi-showroom entertainment complex located at the heart of the Las Vegas Strip inside the Miracle Mile Shops at Planet Hollywood Resort & Casino. The complex comprises four theaters, the Stripper 101 Studio, and two on-site bars, making it a comprehensive entertainment destination. The venue offers space for private events and parties alongside its regular show schedule.
 
 ## History
 
-_Research pending_
+Established as a major variety entertainment venue on the Strip, V Theater has become known for hosting multiple concurrent productions ranging from variety shows to magic, comedy, and tribute performances. The venue's strategic location and multi-theater setup allows for diverse programming throughout the week.
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Not publicly listed_ | V Theater Management | Website |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Current Productions:**
+- **V - The Ultimate Variety Show**
+- **Zombie Burlesque**
+- **Allstars of Magic**
+- **The Mentalist**
+- **Stripper 101**
+- **Lioz - Master of Delusion**
+- **Big Black Comedy Show**
+- **Purple Reign - The Prince Tribute Show**
+- **Popovich Comedy Pet Theater**
+- **The Jets 80's & 90's Experience**
+- **Piano Man**
+- **Carpenters Legacy**
+- **Las Vegas Live Comedy Club**
+- **An R-Rated Magic Show**
+
+**Venue Features:**
+- 4 separate theaters
+- Stripper 101 Studio
+- 2 on-site bars
+- Private event space available
+- Convenient parking at Miracle Mile Shops garage
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Centralized V Theater system (likely proprietary or major platform) |
+| **Box Office** | On-site box office |
+| **Online Sales** | Yes, via vtheater.com |
+| **Show Variety** | 12+ concurrent productions |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 702-260-7200 |
+| **Booking Email** | _Not listed_ |
+| **General Email** | _Not listed_ |
+| **Phone** | (702) 260-7200 |
+| **Address** | Miracle Mile Shops at Planet Hollywood, 3663 S Las Vegas Blvd Suite 360, Las Vegas, NV 89109 |
 | **Website** | https://www.vtheater.com/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 40/100 — Low Priority**
+
+High-volume multi-show venue with complex scheduling needs and likely sophisticated existing ticketing infrastructure. The scale of operation (12+ shows, 4 theaters) suggests significant investment in current systems. Tourist-focused Strip location means heavy reliance on established partnerships with concierge services and third-party sellers. While they clearly need robust ticketing, switching costs would be very high for an operation of this size. Not a realistic early-stage target for Opendate.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-07*
+*Research: Web scraping completed*
