@@ -32,12 +32,24 @@ Notable for surviving as a continuously operating theatre for over 150 years, ma
 - **Outdoor Theatre Space**: $1,700,000 ("The PATIO" - Pierce Anderson Theatre in the Outdoors, 600+ capacity)
 - **Education Expansion**: $1,000,000
 
+## Performance Spaces
+
+**Two Venues:**
+- **Emily Woodruff Hall** (Mainstage) - Main historic theatre space at 103 10th Street
+- **Dorothy McClure Theatre ("The Dot")** - Secondary venue at 1016 1st Avenue
+
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _Not listed publicly_ | Artistic Director | - |
-| _Not listed publicly_ | Executive Director | - |
+| Danielle Patterson Varner | CEO & Executive Producer | Website |
+| Keith Patrick McCoy | Artistic Director | Website |
+| Deb Faulk | Chief Financial Officer | Website |
+| Katie Underwood | Operations Director | Website |
+| Allie Kent | Director of Marketing & Audience Development | Website |
+| Jordan Beck | Director of Development | Website |
+| Machell Dooley | Box Office Manager | Website |
+| DB Woolbright | Director of Education | Website |
 
 ## Programming & Shows
 

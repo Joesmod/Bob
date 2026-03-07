@@ -1,56 +1,106 @@
-# Jefferson Performing Arts Society
+# Jefferson Performing Arts Society (JPAS)
 
 ## Overview
 
 | | |
 |---|---|
-| **Address** | 1118 Clearview Pkwy, Metairie, LA 70001, USA |
-| **Phone** | (504) 885-2000 |
-| **Website** | https://www.jpas.org/ |
-| **Google Rating** | 4.6/5 (12 reviews) |
-| **Type** | Performing Arts Theater, Event Venue, Association Or Organization, Manufacturer |
-| **Google Maps** | [View](https://maps.google.com/?cid=12502247375611610043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Website** | https://www.jpas.org |
+| **Type** | Community Theatre Nonprofit |
+| **Performance Venues** | Jefferson Performing Arts Center (JPAC) + Westwego Performing Arts Theatre (WPAT) |
+| **Location** | Metairie, LA (Greater New Orleans area) |
+| **Season** | Season 48 (2025-2026) |
+| **Social** | Facebook: /jpasnola | Instagram: @jpasnola | YouTube, LinkedIn |
 
-## About
+Community theatre nonprofit producing musicals and plays at Jefferson Performing Arts Center (JPAC) in Metairie and Westwego Performing Arts Theatre (WPAT).
 
-_Research pending — web scrape needed_
+## Performance Venues
 
-## History
+**Two locations:**
+1. **Jefferson Performing Arts Center (JPAC)** - Metairie (primary venue)
+2. **Westwego Performing Arts Theatre (WPAT)** - Westwego, LA
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Note: JPAC is a separate facility that also hosts touring shows (not exclusively JPAS).
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+### Season 48 (2025-2026):
 
-## Ticketing
+**At JPAC:**
+- Rudolph the Red-Nosed Reindeer
+- The Nutcracker
+- A Chorus Line Teen Edition
+- Disney's Frozen
+- Jagged Little Pill
 
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+**JPAC Touring Shows:**
+- The Black Jacket Symphony
+- Labyrinth: In Concert
+
+**At WPAT:**
+- I Love You, You're Perfect, Now Change
+- Murder Most MeeMaw (Feb 26 - Mar 1, 2026)
+
+**Education & Outreach:**
+- Youth Musical Theatre Intensives
+- Youth Programming
+- Outreach Programs
+- Arts Adventure Series
+
+## Organization
+
+**Volunteer Groups:**
+- Leading Ladies Guild
+- Parents of Performers (POP)
+- Bravi! Volunteers
+
+**Other Programs:**
+- Pensacola Opera Chorus
+- Auditions & Employment
+- Theater Rental (facility rentals available)
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 504-885-2000 |
-| **Website** | https://www.jpas.org/ |
+| **Website** | https://www.jpas.org |
+| **Facebook** | /jpasnola |
+| **Instagram** | @jpasnola |
+| **YouTube** | Jefferson Performing Arts Society |
+| **LinkedIn** | /company/jefferson-performing-arts-society |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 55/100 — Moderate Fit / Complex Organization**
+
+**Strengths:**
+- Community theatre nonprofit (not university or government)
+- Active production schedule across two venues
+- Ticketed events for general public
+- Youth programming and education (registration needs)
+
+**Considerations:**
+- **Dual venue operation**: Performs at JPAC + WPAT (may not control ticketing for JPAC)
+- **Shared facility**: JPAC also hosts touring shows (suggests facility may handle its own ticketing)
+- **Nonprofit complexity**: 48 seasons of history = established board, processes, donor management
+- **Education programs**: Youth intensives, outreach, classes require more than basic ticketing
+- **Volunteer coordination**: Multiple volunteer groups to manage
+- **Ticketing platform unknown**: Website didn't reveal current provider
+
+**Questions to investigate:**
+- Does JPAS control its own ticketing or does JPAC facility handle it?
+- What platform are they currently using?
+- How integrated are their education program registrations with ticket sales?
+- Are they frustrated with current provider?
+
+**Moderate fit** — established community theatre with enough scale to benefit from Opendate, but organizational complexity (dual venues, education programs, 48-year history) means platform changes require careful evaluation.
+
+**Worth exploring** if JPAS:
+- Controls their own ticketing (not facility-managed)
+- Has frustration with current provider
+- Wants to consolidate ticketing + education registration
+- Open to new platforms despite established processes
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-07*
+*Source: Website research (Note: Website had many 404 errors, limiting research depth)*
