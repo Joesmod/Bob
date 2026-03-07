@@ -1,56 +1,40 @@
-# Aura
+# AURA
 
 ## Overview
+Multi-purpose entertainment venue in downtown Portland, Maine featuring concerts, comedy shows, private events, and a sports grill. Main concert hall with balcony, VIP lounge, and downstairs dance venue. State-of-the-art event space with full in-house catering and A/V.
 
+## Venue Details
 | | |
 |---|---|
-| **Address** | 121 Center St, Portland, ME 04101, USA |
-| **Phone** | (207) 772-8274 |
-| **Website** | https://auramaine.com/ |
-| **Google Rating** | 4.2/5 (411 reviews) |
-| **Type** | Night Club, Bar, Restaurant, Food |
-| **Google Maps** | [View](https://maps.google.com/?cid=11755532968598644097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| **Address** | 121 Center Street, Portland, ME 04101 |
+| **Type** | Concert hall, event space, sports bar |
+| **Spaces** | Main room, VIP lounge, downstairs venue, sports grill |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Live music, comedy performances
+- **Events**: Concerts, private events, benefits, business gatherings, holiday parties, weekly dance nights
+- **Event Spaces**: Main concert hall with balcony seating, VIP lounge for private parties, downstairs dance venue
+- **Sports Grill**: Pre/post-show dining with 12 flat screens and two projector screens
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (has calendar/tickets section on website) |
+| **Online Sales** | Yes |
+| **Note** | Homepage shows upcoming events with ticket links |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 207-772-8274 |
-| **Website** | https://auramaine.com/ |
+| **Phone** | (207) 772-8274 |
+| **General Email** | info@auramaine.com |
+| **Website** | https://auramaine.com |
+| **Instagram** | @AuraMaine |
+| **Twitter** | @AuraMaine |
+| **Facebook** | /AuraMaine |
 
 ## Opendate Fit
+**Score: 70/100 — Solid Prospect**
+Active multi-purpose venue hosting concerts and events. Has event calendar and ticketing. Full-service venue with catering and A/V capabilities. Would benefit from integrated platform for event management across multiple spaces.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Note**: Sheet lists this venue as "Barbianca Restaurant and Bar" but website shows "AURA" as the actual venue name.

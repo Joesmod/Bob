@@ -1,56 +1,63 @@
-# Theatre Aspen (Offices)
+# Theatre Aspen
 
 ## Overview
+Professional theater company producing plays, musicals, and special performances in Aspen, Colorado. Presents ticketed productions featuring Broadway and television stars. Also offers extensive education programming including summer camps and youth productions.
 
+## Venue Details
 | | |
 |---|---|
-| **Address** | 110 E Hallam St STE 102, Aspen, CO 81611, USA |
-| **Phone** | (970) 925-9313 |
-| **Website** | http://theatreaspen.org/ |
+| **Administrative Office** | 110 East Hallam Street, Suite 126, Aspen, CO 81611 |
+| **Performance Venue** | Hurst Theatre, 470 Rio Grande Place, Aspen, CO 81611 |
+| **Office Hours** | Monday-Friday, 10am-6pm |
+| **Type** | Professional theater company |
 | **Google Rating** | 4.5/5 (13 reviews) |
-| **Type** | Summer Camp Organizer, Non Profit Organization, Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=14219273451515110727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Jed Bernstein | Producing Director | Website contact page |
+| Michael Rader | Executive Producer | Website |
+| Britt Marden | Director of Artistic Planning | Website |
+| Toni Case | Director of Marketing | Website |
+| Vanessa Strahan | Director of Education | Website |
+| Lexi Minchow | Director of Events and Rentals | Website |
+| Amiee Turner | Director of Development | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Production Type**: Professional theater — new plays, musicals, special performances
+- **Current Show**: *Pen Pals* by Michael Griffo (March 20-21, 2026) starring Kate Burton (3x Tony nominee, Grey's Anatomy, Scandal) and Patricia Kalember (Broadway, Sisters, thirtysomething)
+- **Additional Productions**: *Solo Flights* (on calendar)
+- **Education Programs**: 
+  - Summer camps and programs
+  - Youth productions: *Hadestown: Teen Edition*, *The SpongeBob Musical: Youth Edition*
+  - Early Release Broadway Adventures
+- **Event Rentals**: Hurst Theatre available for private events
+- **Ticket Sales**: Yes — ticketed productions sold through box office
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Box Office** | (970) 300-4474 |
+| **Box Office Email** | boxoffice@theatreaspen.org |
+| **Current Provider** | Unknown (appears to be in-house) |
+| **Online Sales** | Likely available |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 970-925-9313 |
-| **Website** | http://theatreaspen.org/ |
+| **Box Office** | (970) 300-4474 |
+| **Box Office Email** | boxoffice@theatreaspen.org |
+| **General Email** | info@theatreaspen.org |
+| **Administrative Phone** | (970) 925-9313 |
+| **Website** | https://theatreaspen.org |
 
 ## Opendate Fit
+**Score: 70/100 — Good Prospect**
+Professional theater company with ticketed productions and education programming. Produces multiple shows per season with Broadway-level talent. Has box office operation that could benefit from modern ticketing platform. Also has education program with ticketed youth productions and summer camps. Good fit for performing arts ticketing with education program management capabilities.
 
-_Assessment pending_
+**Key Needs**: Season ticketing, education program registration, donor/subscriber management, event rentals.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-07*
+*Source: Website research*
