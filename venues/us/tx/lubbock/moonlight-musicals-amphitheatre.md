@@ -1,56 +1,57 @@
 # Moonlight Musicals Amphitheatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 413 E Broadway, Lubbock, TX 79403, USA |
-| **Phone** | (806) 722-0556 |
-| **Website** | https://moonlightmusicals.com/ |
-| **Google Rating** | 4.7/5 (175 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=14154083886891983455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Outdoor summer musical theatre company and amphitheater in Lubbock's historic cultural arts district. Nearly 20-year-old organization presenting family-friendly Broadway-quality musicals outdoors. Provides musical theatre education and professional opportunities for South Plains region. Amphitheater located at 413 E. Broadway, Lubbock, TX.
 
 ## History
-
-_Research pending_
+Founded nearly 20 years ago by former Texas Tech University Professor Gerald Dolter. Built to provide families of the South Plains with live outdoor musical theatre experience. Became a cultural touchstone for summer entertainment in Lubbock. Currently elevated to new heights under leadership of Tom and Amy Laney.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Tom Laney | Executive Director | Website |
+| Gerald Dolter | Founder, Artistic Director | Website (former TTU professor) |
+| Amy Laney | Assistant Artistic Director | Website |
+| Deena O'Guinn | Accountant | Website |
+| Shane Ray | Scene Shop Supervisor | Website |
+| Dimitri Pappas | President, Board of Directors | Website |
+| Cassie Christopher | Vice President, Board | Website |
+| Betsy Bass | Treasurer, Board | Website |
+| Stacy Keith | Secretary, Board | Website |
+| Meredith McAlister | Fundraising Chair, Board | Website |
+| Mitchell Britton | Artistic Liaison, Board | Website |
 
 ## Programming & Shows
+- **Season**: Summer outdoor musicals
+- **Genre**: Family-friendly Broadway musicals
+- **Ticket Type**: Outdoor amphitheater seating (bring lawn chairs and blankets)
+- **Concessions**: Food trucks and concessions available on-site
+- **Policies**: Outside food and drink permitted
+- **Education**: Moonlight Academy classes and summer camps for youth
+- **Notable Past Productions**: Alice in Wonderland (mentioned in testimonials)
 
-_Research pending — what genres, typical acts, event types_
+## Staff Positions
+Currently hiring:
+- Administrative Coordinator
+- Social Media & Communications Intern
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (not visible on homepage) |
+| **Ticket Range** | Not displayed on site |
+| **Online Sales** | Yes (via website) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 806-722-0556 |
-| **Website** | https://moonlightmusicals.com/ |
+| **Website** | moonlightmusicals.com |
+| **Address** | 413 E. Broadway, Lubbock, TX 79403 |
+| **Location** | Lubbock's Cultural Arts District |
+
+## Community Impact
+Strong community support evidenced by multiple testimonials. Families describe Moonlight as "second home" and highlight confidence-building for young performers. Provides unique summer theater tradition for South Plains region. Education programs develop local talent and create opportunities for youth in musical theater.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 68/100 — Seasonal Candidate**
+Seasonal outdoor theater (summer musicals) with strong community ties and educational mission. Lower event frequency (summer season only) but high-value family-oriented audience. Likely uses ticketing platform suitable for outdoor/festival events. Would benefit from Opendate if platform offers lawn seating management, outside food/drink policies, and seasonal event scheduling. Nonprofit model may require pricing flexibility. Educational camps and classes add year-round revenue potential.

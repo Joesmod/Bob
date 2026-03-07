@@ -1,56 +1,43 @@
 # The Pear Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1110 La Avenida St suite a, Mountain View, CA 94043, USA |
-| **Phone** | (650) 254-1148 |
-| **Website** | https://www.thepear.org/ |
-| **Google Rating** | 4.7/5 (142 reviews) |
-| **Type** | Performing Arts Theater, Auditorium, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=16517499857808040467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Intimate theater company in Mountain View, California, founded in 2002. 99-seat venue presenting bold, contemporary plays and reimagined classics. Celebrating 24 years of "bold, intimate theatre that delights, ignites, and inspires." Currently running Season 24: "Hidden Truths" theme.
 
 ## History
-
-_Research pending_
+Founded in 2002 with mission to "offer theatre that challenges our community to see all aspects of our world fully, with intellectually stimulating, emotionally powerful, and professional productions." Known for award-winning intimate theater. Recently announced new Core Values emphasizing inclusion and diverse voices.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Sara K. Dean | Artistic Director | Website (directing My Fair Lady) |
+| Lysander Abadia | Choreographer | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Contemporary plays, classics, short plays by local playwrights, world premiere productions
+- **Frequency**: 5 productions per season
+- **Current Show**: "My Fair Lady" (reimagined pub setting, running through March 14, 2026)
+- **Upcoming Season**: Season 24 "Hidden Truths" - five productions exploring discovery, deception, identity
+- **Special Programs**: Musical Theatre Audition Workshop (4-week session, $200)
+- **Ticket prices**: Via VBO Tickets system
+- **Venue**: Intimate 99-seat theater at 1110 La Avenida St., Suite A
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | VBO Tickets (vbotickets.com) |
+| **Ticket Range** | Varies by production |
+| **Online Sales** | Yes, via thepear.vbotickets.com |
+| **Subscriptions** | 4-Pack Mini Season Subscriptions available |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 650-254-1148 |
-| **Website** | https://www.thepear.org/ |
+| **Website** | thepear.org |
+| **Email** | info@thepear.org |
+| **Phone** | (650) 254-1148 |
+| **Address** | 1110 La Avenida, Suite A, Mountain View, CA 94043 |
+| **Social** | Facebook (@peartheatre), Instagram (@thepeartheatre) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Potential Switcher**
+Independent theater using VBO Tickets (potentially switchable platform). 5 productions/season provides steady event volume. Subscription model shows sophisticated ticketing needs. Nonprofit community theater model means price sensitivity. Would benefit from integrated platform if cost-competitive with VBO. Strong community engagement indicates potential for audience growth tools.
