@@ -12,41 +12,38 @@
 
 ## About
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+**Note**: Website redirects to soulecoffee.com. Very minimal content — appears to be a coffee shop or cafe. No substantial information available.
 
 ## Programming & Shows
 
-_Research pending_
+No evidence of live music, events, or programming found.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | None |
+| **Box Office** | No |
+| **Online Sales** | No |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | info@soulecafe.com |
-| **Website** | http://soulecafe.com |
+| **General Email** | info@soulecafe.com |
+| **Website** | http://soulecafe.com (redirects to soulecoffee.com) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 5/100 — Not a Fit**
+
+Website redirects to a different URL (soulecoffee.com) with minimal content. Appears to be a coffee shop with no entertainment programming. No evidence of live events, shows, or ticketing.
+
+**Not suitable for Opendate** — no events infrastructure.
+
+**Recommendation**: Remove from lead pipeline immediately.
 
 ---
 
-*Last updated: 2026-03-01*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-03-08*
+*Research: Website scraped — minimal content, likely coffee shop only*
