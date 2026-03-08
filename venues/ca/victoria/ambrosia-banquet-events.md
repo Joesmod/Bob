@@ -1,56 +1,36 @@
 # Ambrosia Banquet & Events
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 638 Fisgard St, Victoria, BC V8W 1R6, Canada |
-| **Phone** | (250) 475-1948 |
-| **Website** | http://www.ambrosiabanquet.ca/ |
-| **Google Rating** | 4.4/5 (174 reviews) |
-| **Type** | Banquet Hall, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=2517623025678119733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Private banquet hall and event space in downtown Victoria, BC. Capacity ranges from 20-200+ guests across two event rooms. Independently owned, full-service conference and event catering facility located on Fisgard Street.
 
 ## History
-
-_Research pending_
+Established venue that has hosted 300+ events annually. Victoria's only independently owned, full-service conference and event catering facility.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not specified | Owner/Operator | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Event Types**: Weddings, corporate seminars, birthdays, community celebrations, wellness events, trade shows
+- **Frequency**: 300+ private events per year
+- **Ticket sales**: None - private rental venue only
+- **Notable**: Focuses on weddings, corporate meetings, and private celebrations
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - No public ticketed events |
+| **Business Model** | Private venue rental + catering |
+| **Online Sales** | Booking form for event inquiries |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 250-475-1948 |
-| **Website** | http://www.ambrosiabanquet.ca/ |
+| **Phone** | (250) 475-1948 |
+| **Address** | 638 Fisgard Street, Victoria BC V8W 1R6 |
+| **Website** | https://ambrosiabanquet.ca |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 10/100 — Poor Fit**
+Not a suitable candidate for Opendate. This is a private event rental venue (weddings, corporate events, banquets) with no public ticketed shows. They operate on a venue rental + catering model, not ticket sales. No events calendar or public performances.

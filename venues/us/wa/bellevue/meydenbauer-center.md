@@ -1,56 +1,37 @@
 # Meydenbauer Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 11100 NE 6th St, Bellevue, WA 98004, USA |
-| **Phone** | (425) 637-1020 |
-| **Website** | https://www.meydenbauer.com/ |
-| **Google Rating** | 4.4/5 (1084 reviews) |
-| **Type** | Convention Center, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=3893778936351170745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Convention center and performing arts theatre in Bellevue, WA. Operating since 1993, offering 54,000 sq ft of meeting space in the convention center plus a separate theatre venue. Positioned as a multi-purpose facility for both business and performing arts events.
 
 ## History
-
-_Research pending_
+Established in 1993 as part of the Bellevue community. Over 30 years of experience as a convention and event venue. Community-focused operation.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not specified | Management Team | Website |
+| Board of Directors | Governance | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Convention Center**: Corporate meetings, trade shows, banquets, galas, auctions, weddings, conferences
+- **Theatre**: Available for rental to production companies
+- **Frequency**: Active calendar with multiple events per week
+- **Event Types**: Recent calendar shows HR conferences, religious ceremonies, cheerleading competitions, brand shows, nonprofit galas
+- **Ticket prices**: Varies by event (e.g., Amrita-Seattle Gala: $140 general admission)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Primarily a venue rental facility |
+| **Business Model** | Theatre rental + convention space rental |
+| **Online Sales** | Events listed on calendar but ticketing handled by event organizers |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 425-637-1020 |
-| **Website** | https://www.meydenbauer.com/ |
+| **Website** | https://meydenbauer.com |
+| **Theatre** | IATSE union crew available |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 20/100 — Poor Fit**
+Not a suitable candidate for Opendate. Meydenbauer operates as a convention center and theatre rental facility. They don't produce or sell tickets to shows themselves - they rent the space to event organizers who handle their own ticketing. The theatre is available for rental to production companies. The convention center hosts corporate events, trade shows, and private functions. This is a B2B venue rental business, not a ticketed entertainment venue.

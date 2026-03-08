@@ -1,56 +1,24 @@
 # Wenatchee Convention Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 121 N Wenatchee Ave, Wenatchee, WA 98801, USA |
-| **Phone** | (509) 662-4411 |
-| **Website** | http://www.wenatcheeconventioncenter.com/ |
-| **Google Rating** | 4.5/5 (343 reviews) |
-| **Type** | Convention Center, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1402900995009144793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Convention center in downtown Wenatchee, WA. 50,000 square feet of flexible meeting space. Ballroom over 10,000 sq ft, 7,500 sq ft exhibition hall, and 14 additional breakout/meeting rooms (500-2,000 sq ft each). Full in-house catering and audio visual capabilities.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Event Types**: Conventions, meetings, special events
+- **Business Model**: Venue rental
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - No public ticketed events |
+| **Business Model** | Convention center rental |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 509-662-4411 |
-| **Website** | http://www.wenatcheeconventioncenter.com/ |
+| **Website** | https://wenatcheeconventioncenter.com |
+| **Location** | Downtown Wenatchee, WA |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 5/100 — Poor Fit**
+Not a suitable candidate for Opendate. This is a traditional convention center offering meeting and event space rental for conventions, conferences, and special events. No ticketed public performances or entertainment programming.

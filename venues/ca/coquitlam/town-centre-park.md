@@ -1,56 +1,29 @@
 # Town Centre Park
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1299 Pinetree Wy, Coquitlam, BC V3B 7S4, Canada |
-| **Phone** | (604) 927-6300 |
-| **Website** | https://www.coquitlam.ca/facilities/facility/details/towncentrepark-84 |
-| **Google Rating** | 4.7/5 (2428 reviews) |
-| **Type** | Park, Tourist Attraction, Stadium, Sports Complex, Sports Activity Location |
-| **Google Maps** | [View](https://maps.google.com/?cid=7975547570327843398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+100-acre municipal park in Coquitlam, BC. Features Percy Perry Stadium, sports facilities, Lafarge Lake, and the Town Centre Park Community Plaza (outdoor performance venue with seating for 1,300). City-owned public park space.
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Opened May 1989. Site was formerly a gravel plant and pit. Lafarge Lake was a man-made excavated lake donated by LaFarge company in mid-1980s. Developed to host 1991 BC Summer Games. Town Centre Park Community Plaza opened July 1, 2016 as legacy project for Coquitlam's 125th Anniversary. Named "Best Public Space" by Canadian Institute of Planners in 2017.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Community Plaza**: Outdoor performance and event venue, seating for 1,300
+- **Event Types**: Community festivals, outdoor concerts, cultural events
+- **Business Model**: City-operated public space, free/sponsored events
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Public park space |
+| **Business Model** | Free community events, city festivals |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 604-927-6300 |
-| **Website** | https://www.coquitlam.ca/facilities/facility/details/towncentrepark-84 |
+| **Events Email** | FestivalsAndEvents@coquitlam.ca |
+| **Website** | https://www.coquitlam.ca |
+| **Address** | Coquitlam, BC |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 0/100 — Not Applicable**
+Not a suitable candidate for Opendate. Town Centre Park is a municipal public park owned and operated by the City of Coquitlam. While it hosts outdoor performances and events at the Community Plaza, these are typically free community events or city-sponsored festivals. No ticketing infrastructure or commercial event operations. This is public parkland, not a commercial venue.

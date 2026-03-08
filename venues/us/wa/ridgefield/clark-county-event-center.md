@@ -1,56 +1,35 @@
 # Clark County Event Center
 
 ## Overview
+Fairgrounds and event center in Ridgefield, WA. Multi-purpose facility offering exhibition halls, equestrian arena, grandstand, and outdoor event spaces. Associated with Clark County Fair.
 
-| | |
-|---|---|
-| **Address** | 17402 NE Delfel Rd, Ridgefield, WA 98642, USA |
-| **Phone** | (564) 397-6180 |
-| **Website** | https://www.clarkcoeventcenter.com/ |
-| **Google Rating** | 4.4/5 (127 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=258895137887388921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Facilities
+- Exhibition Hall
+- South Halls
+- Dr. Jack Giesy Equestrian Arena
+- Grandstand & Outdoor Event Spaces
+- RV Camping available
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Event Types**: County fair, exhibitions, trade shows, equestrian events, rentals
+- **Business Model**: Venue rental + annual county fair
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (likely tickets for county fair events) |
+| **Business Model** | Primarily venue rental + seasonal fair |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 564-397-6180 |
-| **Website** | https://www.clarkcoeventcenter.com/ |
+| **Phone** | (564) 397-6180 |
+| **Email** | info@clarkcoeventcenter.com |
+| **Address** | 17402 NE Delfel Road, Ridgefield, WA 98642 |
+| **Website** | https://www.clarkcoeventcenter.com |
+| **Fair Website** | https://www.clarkcofair.com |
+| **Social** | Facebook, Instagram, YouTube |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 15/100 — Poor Fit**
+Not a strong candidate for Opendate. Clark County Event Center is a fairgrounds facility primarily used for venue rentals, exhibitions, and the annual county fair. While they may sell tickets to fair events, this is a multi-use fairgrounds rather than a dedicated performing arts or concert venue. Business model focuses on space rental for exhibitions, livestock shows, and community events.
