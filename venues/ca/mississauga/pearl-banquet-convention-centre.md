@@ -1,56 +1,39 @@
 # Pearl Banquet & Convention Centre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1638 Aimco Blvd, Mississauga, ON L4W 1V1, Canada |
-| **Phone** | (905) 238-8585 |
-| **Website** | http://www.pearlbanquethall.com/ |
-| **Google Rating** | 4.3/5 (684 reviews) |
-| **Type** | Banquet Hall, Convention Center, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12561274532304660781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Private event banquet hall in Mississauga, Ontario specializing in South Asian weddings, corporate functions, and social gatherings. 10,500 sq ft hall accommodating up to 700 guests. Well-located near 401 & 403 highways.
 
 ## History
-
-_Research pending_
+Details not provided on website. Established banquet hall with strong reputation in Mississauga's South Asian community for traditional ceremonies and events.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not listed | Owner/Management | No staff information on website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Private event banquet hall / convention center
+- **Events**: Weddings, corporate functions, private social gatherings
+- **Capacity**: Up to 700 guests depending on event type
+- **Specialization**: South Asian traditional ceremonies (weddings, engagements, etc.)
+- **Catering**: In-house South East Asian cuisine (Continental, Indian, Halal menus)
+- **Public ticketed events**: None - private bookings only
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - reservation/booking system for private events only |
+| **Ticket Range** | N/A |
+| **Online Sales** | Booking inquiry form only (not ticketing) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 905-238-8585 |
-| **Website** | http://www.pearlbanquethall.com/ |
+| **General Email** | info@pearlbanquethall.com |
+| **Phone** | (905) 238-8585 |
+| **Address** | 1638 Aimco Blvd, Mississauga, ON L4W 1V1 |
+| **Website** | pearlbanquethall.com |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 0/100 — Not a Fit**
+Private event banquet hall, not a public ticketed venue. Operates on private booking/reservation model for weddings, corporate events, and social gatherings. Does not host public ticketed shows or performances. No need for ticketing infrastructure.

@@ -1,56 +1,37 @@
 # Overpeck County Park
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 40 Fort Lee Rd, Leonia, NJ 07605, USA |
-| **Phone** | (201) 336-7275 |
-| **Website** | https://bergencountynj.gov/bergen-county-department-of-parks/overpeck-county-park/ |
-| **Google Rating** | 4.6/5 (5787 reviews) |
-| **Type** | Park, Tourist Attraction |
-| **Google Maps** | [View](https://maps.google.com/?cid=14179620968348711811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+805-acre Bergen County public park spanning multiple municipalities (Englewood, Leonia, Palisades Park, Ridgefield Park, and Teaneck). Created over 50 years ago from donated municipal land, including former landfill. Features athletic facilities, trails, picnic areas, and a grass amphitheater.
 
 ## History
-
-_Research pending_
+Created over 50 years ago when five Bergen County municipalities donated hundreds of acres surrounding Overpeck Creek to the county. The land included areas previously used as landfill. Now spans more than 805 acres and serves as Bergen County's premier recreational destination.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Bergen County Parks Department | Management | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Public county park with recreational facilities
+- **Amphitheater**: Grass amphitheater on site (capacity and usage details not listed)
+- **Events**: Government website lists no event calendar for the park
+- **Primary use**: Recreation (walking/biking trails, athletic fields, fishing, kayaking, picnicking)
+- **Ticketed events**: No evidence of ticketed programming
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - public park |
+| **Ticket Range** | N/A |
+| **Online Sales** | No |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 201-336-7275 |
-| **Website** | https://bergencountynj.gov/bergen-county-department-of-parks/overpeck-county-park/ |
+| **Bergen County Parks** | 201-336-7275 (general parks department) |
+| **Address** | Overpeck Creek area, Leonia/Ridgefield Park/Teaneck, NJ |
+| **Website** | bergencountynj.gov/bergen-county-department-of-parks/overpeck-county-park |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 10/100 — Not a Fit**
+Public county park, not a ticketed venue. While it has a grass amphitheater that could theoretically host events, there's no evidence of ticketed programming or active event calendar. County parks typically host free community events. Not a commercial venue requiring ticketing infrastructure.

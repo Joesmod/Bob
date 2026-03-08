@@ -1,52 +1,38 @@
 # Mock Crest Tavern
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Portland |
-| **State** | OR |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | http://www.mockcrest.com |
-
-## About
-
-_Research pending — web scrape needed_
+Neighborhood bar and tavern in North Portland's Mocks Crest area. Historic cigar-shaped building that has served the community for over 70 years as a pharmacy, butcher shop, and now a tavern. Named after John Mock, early Portland pioneer who settled the area in 1852.
 
 ## History
-
-_Research pending_
+The building is one of the earliest still-in-use structures in North Portland, with over 70 years of history. Originally served as a pharmacy, then a butcher shop, before becoming Mock Crest Tavern. Named in honor of John Mock, who arrived via Oregon Trail in 1852 and developed much of the University Park/Mocks Crest area.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Not listed | Owner/Operator | Website provides no staff information |
 
 ## Programming & Shows
-
-_Research pending_
+- **Type**: Neighborhood bar/tavern
+- **Events**: No ticketed events or entertainment calendar visible
+- **Primary function**: Bar with food service
+- **Hours**: Daily service (9am-midnight Sun/Mon-Wed; 11am-1:30am Thu-Fri; 9am-1:30am Sat)
+- Happy hour daily 3-6pm and 11pm-midnight
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | N/A - not an event venue |
+| **Ticket Range** | N/A |
+| **Online Sales** | No |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | info@mockcrest.com |
-| **Website** | http://www.mockcrest.com |
+| **General Email** | info@mockcrest.com |
+| **Phone** | (503) 283-5014 |
+| **Address** | 3435 N Lombard St, Portland, OR 97217 |
+| **Website** | mockcrest.com |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+**Score: 0/100 — Not a Fit**
+Not an event venue. This is a neighborhood tavern/bar with no ticketed shows, performances, or events. No need for ticketing platform. Misclassified in database as "Venue" when it's actually just a bar.

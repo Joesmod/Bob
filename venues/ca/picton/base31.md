@@ -1,56 +1,40 @@
 # Base31
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 31, 343 County Rd 22 Building 26, Picton, ON K0K 2T0, Canada |
-| **Phone** | (613) 476-3064 |
-| **Website** | http://base31.ca/ |
-| **Google Rating** | 4.3/5 (152 reviews) |
-| **Type** | Tourist Attraction, Concert Hall, Art Gallery, Historical Landmark, Historical Place |
-| **Google Maps** | [View](https://maps.google.com/?cid=15691527338809456500&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Prince Edward County's newest cultural destination on a 70-acre former WWII air training base in Picton, Ontario. Multiple heritage buildings converted into event venues, galleries, and cultural spaces. Hosts over 100 annual events including concerts, intimate performances, food/drink markets, and family programming. Box office and ticketing infrastructure in place.
 
 ## History
-
-_Research pending_
+Built in 1940 as No. 31 Bombing and Gunnery School – RAF Station Picton under the British Commonwealth Air Training Plan. Operated by RAF, then RCAF, renamed Camp Picton (1946) and CFB Picton (1962). Decommissioned in 1969, became Loch-Sloy Business Park. Purchased by PEC Community Partners Inc. in December 2021 and transformed into Base31 cultural destination. Museum celebrating the site's military heritage opening 2025.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| PEC Community Partners Inc. | Owner/Operator | Website (ownership group includes CaraCo, DECO Communities, Fieldgate Homes, Paradise Developments, Rockport Group) |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Wide range - concerts (Canada's top musicians), intimate performances, family programming, historic tours, public art
+- **Frequency**: Over 100 events per year
+- **Venue spaces**: Drill Hall, Sergeants Mess Hall, Exhibition Hall, The Commissary (open-air food/drink market), The Pilot's Lounge, Sensory Garden
+- **Event types**: Nighttime concerts, daytime experiences, kids/family programs, galleries, escape room, pickleball
+- **Ticket sales**: Active box office (Tue-Sat 12pm-5pm) with dedicated ticket hotline
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not identified - has box office and ticket hotline infrastructure |
+| **Ticket Range** | Not specified on website |
+| **Online Sales** | Yes (box office hours suggest online + phone ticketing) |
+| **Box Office** | Tue-Sat, 12pm-5pm |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 613-476-3064 |
-| **Website** | http://base31.ca/ |
+| **Ticket Hotline** | (613) 695-2851 |
+| **General Office** | (613) 476-3064 |
+| **Address** | 26-343 County Road 22, PO Box 9, Picton, ON K0K 2T0 |
+| **Website** | base31.ca |
+| **Email** | Contact form on website |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 80/100 — Strong Lead**
+Excellent candidate. Active ticketed venue with box office, multiple event spaces, and 100+ annual events. Cultural destination model with diverse programming (concerts, performances, family events). Already has ticketing infrastructure - likely using a platform that could be switched to Opendate. Community-focused nonprofit/cultural model with major sponsors (RBC, Ontario government) suggests stable operations. Only concern: unclear current ticketing provider - need to identify for competitive positioning.
