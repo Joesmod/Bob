@@ -1,56 +1,60 @@
 # Power Center for the Performing Arts
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 121 Fletcher St, Ann Arbor, MI 48109, USA |
-| **Phone** | (734) 763-3333 |
-| **Website** | https://ums.org/venue/power-center/ |
-| **Google Rating** | 4.7/5 (341 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7882943186828140102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+1,400+ seat proscenium theater operated by University Musical Society (UMS) at the University of Michigan in Ann Arbor. Major performing arts venue hosting world-class professional productions, dance, theater, and music performances.
 
 ## History
+**Opening**: 1971 with world premiere of "The Grass Harp" (based on Truman Capote novel)
 
-_Research pending_
+**Origins**: Built to fill a gap in University of Michigan's performing arts venues — Hill Auditorium was too massive and technically limited, while Lydia Mendelssohn Theatre was too small.
 
-## Key People
+**Benefactors**: Eugene and Sadye Power, along with their son Philip, funded the construction in 1963 when they realized state and federal government were unlikely to provide support for a theater.
 
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+**Architecture**:
+- Combines soaring interior space with unique intimacy
+- No seat more than 72 feet from stage
+- Two large spiral staircases from orchestra to balcony
+- Mirrored glass panels on exterior
+- Lobby features hand-woven tapestries: "Modern Tapestry" by Roy Lichtenstein and "Volutes" by Pablo Picasso
+
+**Seating**: Approximately 1,400+ seats (wheelchair seating on rear of main floor)
 
 ## Programming & Shows
+Operated by University Musical Society (UMS), presenting professional performances across multiple genres:
+- Dance
+- Theater
+- Classical music
+- World music
+- Contemporary performances
 
-_Research pending — what genres, typical acts, event types_
+## Accessibility
+- Wheelchair seating available on rear of main floor
+- Assistive listening devices with earphones available
+- Elevator from Fletcher Street parking structure to lobby and seating
+- No elevator to balcony
+- Two main entrances: Fletcher Street (next to parking) and East Huron Street
 
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Parking
+Multiple options with university and public structures:
+- Fletcher St Structure: $10 event parking (card only)
+- S Thayer St Structure: $10 event parking (card only)
+- Thompson St Structure: FREE after 6pm Mon-Sat and all day Sunday
+- Liberty Square and Maynard St structures also available
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 734-763-3333 |
-| **Website** | https://ums.org/venue/power-center/ |
+| **Phone** | 734-764-2538 |
+| **Address** | 121 Fletcher Street, Ann Arbor, MI 48109 |
+| **Ticket Office** | Opens 60 min before performance, Fletcher Street entrance |
+
+## Governance
+Owned and operated by University of Michigan, programmed by University Musical Society (UMS).
 
 ## Opendate Fit
+**Score: 65/100 — Challenging Lead**
+Major university-owned performing arts venue with professional operations. Likely has existing institutional ticketing systems integrated with UMS and University of Michigan infrastructure. High-profile venue with sophisticated technical needs. Decision-making would involve university administration and UMS. 
 
-_Assessment pending_
+**Challenge**: Large institutions typically have complex procurement processes and existing vendor relationships. 
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Opportunity**: If UMS is looking to modernize ticketing across their venues or improve patron experience, could be valuable high-profile client. Would require enterprise-level solution and willingness to navigate university bureaucracy.

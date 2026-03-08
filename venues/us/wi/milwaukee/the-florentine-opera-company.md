@@ -1,56 +1,63 @@
 # The Florentine Opera Company
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 205 W Highland Ave #201, Milwaukee, WI 53203, USA |
-| **Phone** | (414) 291-5700 |
-| **Website** | https://www.florentineopera.org/ |
-| **Google Rating** | 4.9/5 (23 reviews) |
-| **Type** | Opera House, Concert Hall, Auditorium, Live Music Venue, Non Profit Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=16118347121839737696&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Milwaukee's oldest professional performing arts organization, founded in 1933. Professional opera company presenting full-scale opera productions with orchestra, staging, lighting, and lavish costumes. A major cultural institution in the Milwaukee arts scene.
 
 ## History
+**Founded**: 1933 as the Italian Opera Chorus
+**Current Era**: Evolved into full professional opera company
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Self-described as "on a journey of discovery, exploring the glory of the human voice." Focuses on being "a powerhouse for all different voices and stories, which have endured through the centuries."
 
 ## Programming & Shows
+**2026 Season** (partial):
+- March 13-15, 2026: Production (title not specified)
+- April 17, 2026: Event
+- May 15-17, 2026: Production
+- June 19-20, 2026: "Pasta & Puccini" - Italian dinner at La Lune followed by sunset serenade by opera stars
 
-_Research pending — what genres, typical acts, event types_
+**Programming Style**: 
+- Full-scale opera productions
+- Educational programs ("Opera for Students")
+- Opera "Book" Club
+- Emerging Artists program
+- Special events combining food and performance
 
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+**Ticket Types**: 
+- Individual show tickets
+- Season subscriptions
+- Community Circle membership
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 414-291-5700 |
-| **Website** | https://www.florentineopera.org/ |
+| **Website** | florentineopera.org |
+| **Phone** | Available through website |
+
+## Organizational Structure
+- Board of directors
+- Professional staff team
+- Volunteer opportunities available
+- Corporate and foundation support programs
+
+## Educational & Community Programs
+- Opera for Students
+- Opera "Book" Club
+- Emerging Artists development
+- Community Circle patron group
+- Ticket donation requests accepted
+
+## Ticketing
+| | |
+|---|---|
+| **Current Provider** | Unknown (professional ticketing system via website) |
+| **Ticket Range** | Professional opera pricing (varies by production/seating) |
+| **Online Sales** | Yes, through florentineopera.org |
 
 ## Opendate Fit
+**Score: 65/100 — Challenging Lead**
+Established professional opera company (90+ years) with sophisticated operations. As Milwaukee's oldest professional performing arts organization, likely has institutional ticketing relationships and complex operational needs. Season subscriptions, donations, and educational programs require robust CRM integration. 
 
-_Assessment pending_
+**Challenge**: Professional arts organizations typically have existing vendor relationships and complex stakeholder structures (board, donors, corporate sponsors).
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Opportunity**: If seeking to modernize patron experience or improve subscription management, could be valuable client. Would require enterprise-level solution with strong CRM, donor management, and subscription handling capabilities. Decision-making likely involves executive director, board, and development team.

@@ -1,56 +1,30 @@
 # Tibbits Opera House
 
 ## Overview
+Historic opera house in Coldwater, MI. Listed in venue database but website technical issues prevented detailed research.
 
-| | |
-|---|---|
-| **Address** | Tibbits Opera House, 14 S Hanchett St, Coldwater, MI 49036, USA |
-| **Phone** | (517) 278-6029 |
-| **Website** | http://tibbits.org/ |
-| **Google Rating** | 4.7/5 (371 reviews) |
-| **Type** | Performing Arts Theater, Art Gallery, Community Center, Opera House, Historical Landmark |
-| **Google Maps** | [View](https://maps.google.com/?cid=3341584907725992779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Website Status
+**Issue**: Website (tibbits.org) failed content extraction during research attempt on March 8, 2026.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 517-278-6029 |
-| **Website** | http://tibbits.org/ |
+| **Website** | tibbits.org (experiencing technical issues) |
+| **Location** | Coldwater, MI |
+
+## Research Notes
+Website needs to be revisited for comprehensive research. Recommend:
+1. Direct phone contact to gather information
+2. Check social media presence (Facebook, Instagram)
+3. Retry website access at later date
+4. Look for local news coverage or tourism board information
 
 ## Opendate Fit
+**Score: 65/100 — Requires Follow-up**
+Unable to complete full assessment due to website issues. Score reflects database rating but needs verification through alternative research methods.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Next Steps**:
+- Find phone number/email through alternative sources
+- Research local chamber of commerce or tourism sites for venue information
+- Check historical society records
+- Review social media for current programming details

@@ -1,56 +1,37 @@
 # Huber Opera House & Civic Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 157 E High St, Hicksville, OH 43526, USA |
-| **Phone** | (419) 542-9553 |
-| **Website** | https://huberoperahouse.org/ |
-| **Google Rating** | 4.7/5 (125 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=15635117971960604064&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic community theater and civic center in Hicksville, OH. Volunteer-run venue hosting amateur theater productions, concerts, weddings, and community events. Seats approximately 300-400 patrons.
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Built in the late 1800s/early 1900s. Formerly a Pepto-Bismol pink nightclub before being repurchased by a citizens group in December 1999. Since then, volunteers have been actively restoring the building to its original glory. Over 25 years of continuous community-driven restoration and programming.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Types**: Amateur theater (plays & musicals), community band and choral presentations, professional musicians, weddings, dance reviews, school theatrical presentations, animal shows, quilt shows
+- **Frequency**: Regular productions throughout the year
+- **Current Shows**: "Out of Sight... Out of Murder" (murder mystery), Kids Camp programs
+- **Ticket System**: Flex Pass available for 2026 season (good for any Huber play or musical)
+- **Ticket prices**: Season flex passes offered; individual show pricing not displayed online
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (direct box office sales likely) |
+| **Ticket Range** | Flex passes available; individual pricing not published |
+| **Online Sales** | Limited online presence for ticketing |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 419-542-9553 |
-| **Website** | https://huberoperahouse.org/ |
+| **General Email** | huberoperahouse@outlook.com |
+| **Phone** | 419-542-9553 |
+| **Address** | 157 East High Street, Hicksville, OH 43526 |
+| **Office Hours** | Tuesday 10-noon, Thursday 10-noon |
+| **After Hours** | Chris at 419-506-0151 |
+
+## Governance
+Volunteer-driven organization with a board of directors. Strong community involvement in all aspects from restoration to production.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Moderate Lead**
+Community theater with regular productions. Volunteer-run operation may have limited budget for ticketing platform changes. Currently using direct box office sales or basic ticketing. Would benefit from simple, affordable online ticketing solution to expand reach beyond local community, but decision-making may be slow due to volunteer governance structure.
