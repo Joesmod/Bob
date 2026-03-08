@@ -2,6 +2,8 @@
 
 ## Overview
 
+Home theater for Albert Lea Community Theatre, a volunteer-based community theater organization producing live stage plays and musicals.
+
 | | |
 |---|---|
 | **Address** | 147 N Broadway Ave, Albert Lea, MN 56007, USA |
@@ -13,44 +15,46 @@
 
 ## About
 
-_Research pending — web scrape needed_
+The Marion Ross Performing Arts Center serves as the performance venue for Albert Lea Community Theatre (ALCT). Named after actress Marion Ross (Happy Days), the theater is a historic Broadway venue in downtown Albert Lea.
 
 ## History
 
-_Research pending_
+Named in honor of Marion Ross, an Albert Lea native and Emmy-nominated actress best known for her role as Marion Cunningham on the TV series Happy Days.
 
 ## Key People
 
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+The venue hosts Albert Lea Community Theatre, a volunteer-run organization.
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Type**: Community theater productions (plays, musicals)
+- **Operator**: Albert Lea Community Theatre (volunteer-based)
+- **Season**: Multiple productions per year
+- **Genres**: Broadway musicals, classic plays, contemporary theater
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (likely basic box office) |
+| **Ticket Sales** | Through Albert Lea Community Theatre |
+| **Box Office** | Community theater volunteer-run |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
+| **Mailing Address** | Albert Lea Community Theatre, P.O. Box 115, Albert Lea, MN 56007 |
 | **Phone** | +1 507-377-4371 |
 | **Website** | http://actonbroadway.com/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 45/100 — Low Priority**
+
+This is a community theater operation, not a commercial venue. Volunteer-run with limited budget for ticketing infrastructure. Unlikely to have resources for switching platforms or the event volume to justify integrated ticketing software. Better suited for simple box office solutions.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-08*
+*Research: Web scrape + organization info*

@@ -2,55 +2,67 @@
 
 ## Overview
 
+**NOTE: This venue DOES NOT YET EXIST — it's under development.**
+
+Planned 12,000-seat outdoor amphitheater to be built on Grand Rapids' riverfront as part of a major downtown redevelopment project.
+
 | | |
 |---|---|
-| **Address** | 201 Market Ave SW, Grand Rapids, MI 49503, USA |
-| **Phone** | Unknown |
+| **Planned Address** | 201 Market Ave SW, Grand Rapids, MI 49503, USA |
 | **Website** | https://www.grandaction.org/current-projects/acrisure-amphitheater |
-| **Google Rating** | 4.5/5 (8 reviews) |
-| **Type** | Amphitheatre, Performing Arts Theater, Event Venue |
+| **Status** | Under development / Planning phase |
+| **Type** | Future Amphitheatre |
 | **Google Maps** | [View](https://maps.google.com/?cid=13045562090520140290&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
 
-## About
+## Project Overview
 
-_Research pending — web scrape needed_
+State-of-the-art outdoor amphitheater planned for Grand Rapids' downtown riverfront. Part of Grand Action 2.0, the largest active riverfront development in the nation.
 
-## History
+### Planned Specifications:
+- **Capacity**: 12,000 seats
+- **Site**: 31-acre riverfront development
+- **Seating types**: Upper/lower concourse, fixed seating, lawn seating, suites, terrace, VIP pavilion
+- **Green space**: Part of 4-acre "Green Ribbon" along the river
+- **Parking**: 190 additional spaces
 
-_Research pending_
+## Projected Impact
 
-## Key People
+### Economic:
+- **300,000 visitors per season** (projected)
+- $876M net economic impact to Grand Rapids over 30 years
+- $563M impact to State of Michigan
+- 620+ new FTE jobs for city
 
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+### Community Benefits:
+- Catalyst for 1,500-1,700 housing units
+- 10 acres of new riverfront recreation/trails
+- New restaurants, shops, and retail development
 
-## Programming & Shows
+## Ownership & Operation
 
-_Research pending — what genres, typical acts, event types_
+Will be owned and operated by the Grand Rapids-Kent County Convention Arena Authority.
 
-## Ticketing
+## Timeline
 
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+Development in progress. No opening date confirmed.
 
-## Contact
+## Social Media
 
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | https://www.grandaction.org/current-projects/acrisure-amphitheater |
+Instagram: @acrisureamphitheater
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: N/A — Future Prospect**
+
+Cannot be pursued as a lead until venue is built and operational. However, this would be an excellent prospect once open:
+- Large capacity (12,000)
+- Professional management (Convention Arena Authority)
+- High projected event volume (300,000 visitors/season)
+- Strong funding and community support
+
+**Action**: Monitor construction progress. Add to follow-up list for outreach 6-12 months before projected opening.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-08*
+*Research: Grand Action 2.0 project website*
