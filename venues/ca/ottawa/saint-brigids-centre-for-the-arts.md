@@ -1,56 +1,36 @@
 # Saint Brigid's Centre for the Arts
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 310 St. Patrick St, Ottawa, ON K1N 5K4, Canada |
-| **Phone** | (613) 800-9004 |
-| **Website** | http://www.saintbrigidscentre.ca/ |
-| **Google Rating** | 4.5/5 (144 reviews) |
-| **Type** | Cultural Center, Pub, Wedding Venue, Event Venue, Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=17625278974037016078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Heritage arts venue and home of the Irish Cultural Centre in Ottawa. Housed in a former church purchased in 2007 by members of Ottawa's Irish community to preserve the building's rich Irish history. The space hosts musical concerts, art exhibitions, fundraisers, conferences, private functions, and Irish cultural programming.
 
 ## History
-
-_Research pending_
+Originally a church with deep Irish heritage connections. Purchased by Ottawa's Irish community in 2007 to establish Saint Brigid's Centre for the Arts and the Irish Cultural Centre, preserving the historic building while creating a cultural hub.
 
 ## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Contact information not publicly detailed on website.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Musical concerts (Irish cultural focus), art exhibitions, cultural events
+- **Programming**: Variety of social and cultural events including concerts, exhibitions, fundraisers, conferences, private functions
+- **Capacity**: Heritage church building (specific capacity not listed)
+- **Ticket prices**: Not specified on main site
+- **Notable**: Irish Cultural Centre programming, St. Patrick's Day events
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Ticket Range** | Unknown |
+| **Online Sales** | Likely (standard for cultural venues) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 613-800-9004 |
-| **Website** | http://www.saintbrigidscentre.ca/ |
+| **Website** | saintbrigidscentre.com |
+| **Email List** | Available via website signup |
 
 ## Opendate Fit
+**Score: 65/100 — Qualified Lead**
+Heritage cultural venue with community-focused programming and ticketed concerts. As a community-owned nonprofit arts space, would benefit from accessible ticketing platform with reasonable fees. Irish cultural programming suggests regular events and community engagement. Limited online presence suggests potential for improved digital ticketing infrastructure. Good fit if they're seeking better tools for community event management and online ticket sales.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Note**: Website has limited ticketing/events information publicly visible. May require direct outreach to understand current ticketing setup and event frequency.

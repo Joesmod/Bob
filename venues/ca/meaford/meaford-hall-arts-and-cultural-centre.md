@@ -1,56 +1,48 @@
-# Meaford Hall Arts And Cultural Centre
+# Meaford Hall Arts and Cultural Centre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 12 Nelson St E, Meaford, ON N4L 1N5, Canada |
-| **Phone** | (519) 538-0463 |
-| **Website** | https://www.meaford.ca/en/meaford-hall/meaford-hall.aspx |
-| **Google Rating** | 4.7/5 (195 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12995471292358537216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Beautifully restored century-old landmark theatre in historic downtown Meaford, Ontario. Formerly known as the Opera House, the venue is located near Georgian Bay and offers year-round programming including concerts, theatre, and cultural events. Fully accessible facility with elevator access and licensed bar service.
 
 ## History
-
-_Research pending_
+Century-old heritage building, originally the Opera House. Restored and renovated to serve as Meaford's premier arts and cultural venue. Ongoing capital upgrades funded through a $2.25 Capital Improvement Fee included in all ticket prices.
 
 ## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Management information not publicly listed.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Programming**: Year-round performances including theatre, concerts, cultural events
+- **Frequency**: Regular programming calendar
+- **Ticket prices**: All prices include HST + $2.25 Capital Improvement Fee
+- **Service fee**: $1.50 per ticket to support ticketing system
+- **Capacity**: Multi-level theatre with main floor and balcony
+- **Bar**: Fully licensed (AGCO), service begins 1 hour before show, house opens 30 min before curtain
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Custom/white-label ticketing system (based on purchase.meafordhall.ca domain) |
+| **Ticket Range** | Varies by show |
+| **Online Sales** | Yes (purchase.meafordhall.ca) |
+| **Service Fee** | $1.50 per ticket |
+| **Box Office** | 877-538-0463 |
+| **Email** | ticket@meaford.ca |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 519-538-0463 |
-| **Website** | https://www.meaford.ca/en/meaford-hall/meaford-hall.aspx |
+| **Box Office Phone** | 877-538-0463 |
+| **Email** | ticket@meaford.ca |
+| **Website** | meaford.ca/en/meaford-hall |
+| **Social Media** | Active (encourages following for show updates) |
+
+## Accessibility
+- Fully accessible via elevator (street level to stage level)
+- Wheelchair seating on main floor
+- Barrier-free washrooms
+- Accessible box office counter and bar
+- Honours Access 2 cards
+- **Note**: Balcony accessible by stairs only
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Qualified Lead**
+Municipal arts venue with active year-round programming and established ticketing infrastructure. Currently using custom/white-label system with $1.50 service fee, suggesting openness to ticketing partnerships. Heritage building with ongoing capital needs (Capital Improvement Fee built into tickets) may appreciate platform with transparent fee structure. Accessible venue with community focus aligns with Opendate values. Would benefit from modern ticketing platform if current system lacks features or has integration limitations.
