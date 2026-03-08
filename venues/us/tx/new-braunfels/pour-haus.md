@@ -1,52 +1,30 @@
 # Pour Haus
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | New Braunfels |
-| **State** | TX |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | http://www.pourhausnb.com |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Voted best bar in New Braunfels. Indoor and outdoor bar in historic downtown with **free live music** seven nights a week. No ticketed events.
 
 ## Programming & Shows
-
-_Research pending_
+- **Frequency**: Live music 7 nights/week
+- **Entry**: Free — no cover charge
+- **Genres**: Country, rock, singer-songwriter, open mic
+- **Events**: Daily live music schedule on website, all free entry
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | None — all events free entry |
+| **Ticket Sales** | No |
+| **Business Model** | Bar/drink revenue |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | info@pourhausnb.com |
-| **Website** | http://www.pourhausnb.com |
+| **Address** | 386 W San Antonio St, New Braunfels, TX 78130 |
+| **Phone** | (830) 214-6033 |
+| **Website** | pourhausnb.com |
+| **Social** | @pourhausnb (Instagram), facebook.com/pourhaus |
 
 ## Opendate Fit
+**Score: 15/100 — Not Applicable**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-03-01*
-*Source: Opendate Lead Pipeline*
+Bar with free entertainment. No ticketing infrastructure or paid events.

@@ -1,52 +1,27 @@
 # Plymouth Coffee Bean Company
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Plymouth |
-| **State** | MI |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | http://www.plymouthcoffeebean.com |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Michigan's longest-running independent coffee shop (since 1913 at 884 Penniman Avenue). Coffee shop with crepes and locally roasted coffee. Not a ticketed event venue.
 
 ## Programming & Shows
-
-_Research pending_
+- **Type**: Coffee shop
+- **Events**: No ticketed events found
+- **Venue Use**: Café/coffeehouse
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | None |
+| **Ticket Sales** | No |
+| **Business Model** | Coffee/food sales |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | info@plymouthcoffeebean.com |
-| **Website** | http://www.plymouthcoffeebean.com |
+| **Address** | 884 Penniman Avenue, Plymouth, MI |
+| **Website** | plymouthcoffeebean.com |
 
 ## Opendate Fit
+**Score: 5/100 — Not Applicable**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-03-01*
-*Source: Opendate Lead Pipeline*
+Coffee shop, not an event venue.

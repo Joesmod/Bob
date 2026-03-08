@@ -1,52 +1,29 @@
-# Porter's Pub
+# Porter's Pub & Restaurant
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Easton |
-| **State** | PA |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | http://www.porterspubeaston.com/ |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Cozy 1850s Old World style pub in Easton with over 150 imported and craft microbrews. Live entertainment with no ticketed events.
 
 ## Programming & Shows
-
-_Research pending_
+- **Type**: Casual pub with live entertainment
+- **Entry**: Free
+- **Events**: Listed as "live entertainment" but no ticketing found
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | None |
+| **Ticket Sales** | No |
+| **Business Model** | Pub/restaurant revenue |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | info@porterspubeaston.com |
-| **Website** | http://www.porterspubeaston.com/ |
+| **Address** | 700 Northampton Street, Easton, PA 18042 |
+| **Phone** | (610) 250-6561 |
+| **Website** | porterspubeaston.com |
+| **Email** | info@porterspubeaston.com |
 
 ## Opendate Fit
+**Score: 10/100 — Not Applicable**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-03-01*
-*Source: Opendate Lead Pipeline*
+Traditional pub with occasional live entertainment. No ticketing model.
