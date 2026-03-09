@@ -1,56 +1,19 @@
 # Liberty Performing Arts Theatre
 
 ## Overview
+Performing arts theater in Liberty, Missouri. Unable to complete research due to website redirect issues.
 
-| | |
-|---|---|
-| **Address** | 1600 S Withers Rd, Liberty, MO 64068, USA |
-| **Phone** | (816) 439-4373 |
-| **Website** | http://www.lpat.org/ |
-| **Google Rating** | 4.6/5 (480 reviews) |
-| **Type** | Performing Arts Theater, Concert Hall, Auditorium, Live Music Venue, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=8225238435405099875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Research Notes
+**Website Status**: www.lpat.org has redirect loop issues (too many redirects). Unable to access homepage, about, events, or any other pages on the domain.
 
-## About
+**Research Date**: March 9, 2026
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 816-439-4373 |
-| **Website** | http://www.lpat.org/ |
+## Next Steps
+- Attempt to contact venue directly via phone if available
+- Search for social media presence (Facebook, Instagram)
+- Check if venue has alternative website or booking platform
+- Website technical issues may indicate maintenance or migration
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: N/A — Unable to Assess**
+Cannot evaluate fit without access to venue information. Website redirect issues prevent gathering any information about the venue's operations, programming, or ticketing. Not a viable lead until website is accessible.

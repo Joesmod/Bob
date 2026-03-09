@@ -1,56 +1,39 @@
 # Mitchell Opera House
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 217 N 7th St, Mitchell, IN 47446, USA |
-| **Phone** | (812) 849-4447 |
-| **Website** | http://www.mitchelloperahouse.com/ |
-| **Google Rating** | 4.8/5 (166 reviews) |
-| **Type** | Opera House, Performing Arts Theater, Concert Hall, Auditorium, Live Music Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12755062126805072923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic 1906 opera house in Mitchell, Indiana, completely restored in 2015. Hosts live music, tribute acts, and community events. The venue serves as a permanent hub for the arts in Southern Indiana.
 
 ## History
-
-_Research pending_
+Originally built in 1906, the Mitchell Opera House enjoyed a rich tradition of entertainment when the Monon Line connected with the B&O Railroad. The venue once hosted Broadway's biggest stars, leading films and their producers, and even the President of the United States. After decades of use, it was completely restored and reopened in 2015 as a modern performing arts venue.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| (Not listed) | Director | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Country, bluegrass, classic rock tributes, Elvis tribute, Beach Boys tribute, Big Band
+- **Frequency**: 1-2 shows per week during season
+- **Ticket prices**: $13-$25 typical
+- **Notable acts**: Backwoods Bluegrass (17M+ YouTube views), ThunderBeard (ZZ Top tribute), Sweet Baby James (James Taylor tribute), Twitty & Lynn tribute, Tyler Christopher (Elvis)
+- Active calendar through 2026 with diverse programming
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Eventbrite + Humanitix (testing) |
+| **Ticket Range** | $13-$25 |
+| **Online Sales** | Yes, via Eventbrite widget on site |
+| **At Door** | Yes |
+| **Local Sales** | ACE/Ben Franklin in Mitchell |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 812-849-4447 |
-| **Website** | http://www.mitchelloperahouse.com/ |
+| **Address** | 217 N 7th St, Mitchell, IN 47446 |
+| **Website** | https://www.mitchelloperahouse.com |
+| **Email** | (See website contact form) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Good Lead**
+Strong candidate. Active ticketed venue with consistent programming. Currently using Eventbrite (switchable platform). Small-town venue with good community engagement. Ticket prices are accessible ($13-$25 range). Independent operation should make decision-making straightforward. Would benefit from Opendate's integrated platform and lower fees.

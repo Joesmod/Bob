@@ -1,56 +1,38 @@
 # Kentucky Opera
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 708 Magazine St, Louisville, KY 40203, USA |
-| **Phone** | (502) 584-4500 |
-| **Website** | http://www.kyopera.org/ |
-| **Google Rating** | 4.6/5 (32 reviews) |
-| **Type** | Live Music Venue, Event Venue, Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=5737437553879272936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Kentucky Opera is the official State Opera of Kentucky, serving the Louisville region and extending throughout the entire Commonwealth and Southern Indiana. Operating for 70 years, this leading regional opera company performs at the Brown Theatre and is developing a new Opera Center to expand programming and community engagement.
 
 ## History
-
-_Research pending_
+Founded in the 1950s, Kentucky Opera has been enriching the cultural ecosystem of Kentucky for over seven decades. Designated as the State Opera of Kentucky in 1982. The company is building a new Opera Center in downtown Louisville to serve as a hub for arts education, performances, and community programs.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| (Not listed on website) | Artistic Director | - |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Opera, contemporary opera, spoken word, concerts
+- **Frequency**: Multiple productions per season
+- **Ticket prices**: $45 typical for mainstage shows, some free events
+- **Notable productions**: Scalia/Ginsburg, La traviata, Amplify Songs of Justice (annual Juneteenth event), Holocaust remembrance concerts
+- Performs at the Brown Theatre in downtown Louisville
+- Offers youth programs, school programs, community outreach
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Box office direct / website |
+| **Ticket Range** | Free - $45+ |
+| **Online Sales** | Yes, via website |
+| **Box Office** | (502) 584-4500 |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 502-584-4500 |
-| **Website** | http://www.kyopera.org/ |
+| **Box Office** | (502) 584-4500 |
+| **Website** | https://kyopera.org |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Medium Interest**
+Established opera company with consistent ticketed performances. As a major regional arts organization, they likely have existing ticketing infrastructure. May have partnerships or contracts that make switching more complex. Worth investigating their current ticketing setup and pain points.

@@ -1,56 +1,38 @@
 # Heartland Opera Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 114 N Main St Rd Unit 1B, Webb City, MO 64870, USA |
-| **Phone** | (417) 385-1454 |
-| **Website** | http://heartlandoperatheatre.com/ |
-| **Google Rating** | 4.6/5 (7 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=16842004654931333020&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Professional opera and musical theater company serving the Four-State Area (Missouri, Kansas, Oklahoma, Arkansas) since 1998. Based in Webb City, Missouri, performing primarily at the Cornell Complex for the Performing Arts in Joplin, MO. HOT is a 501(c)(3) nonprofit organization bringing professional opera to the Midwest.
 
 ## History
-
-_Research pending_
+Founded in 1998 by Terrence O'Brien. Since its creation, Heartland Opera Theatre has provided professional performances of opera and musical theatre to the Four-State Area, hosting performers from around the globe and touring full productions through Missouri, Kansas, and Oklahoma. Won 3rd place in The American Prize in Opera Performance (professional division 2019-20) for their production of La Bohème by Giacomo Puccini.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Terrence O'Brien | Founder | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Opera, musical theatre
+- **Frequency**: Season runs with 3-4 major productions per year
+- **Current production**: Rigoletto in Concert (2025-26 season)
+- **Notable past works**: La Bohème (3rd place American Prize winner)
+- Works in collaboration with Missouri Southern State University, Pittsburg State University, Tulsa Opera, Opera Louisiane, Landlocked Opera
+- Affiliated with OPERA America
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Ovation Tix (ci.ovationtix.com) |
+| **Online Sales** | Yes |
+| **Venue** | Cornell Complex for the Performing Arts, Joplin MO |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 417-385-1454 |
-| **Website** | http://heartlandoperatheatre.com/ |
+| **Email** | heartlandopera@gmail.com |
+| **Website** | https://www.heartlandoperatheatre.com |
+| **Performance Venue** | Cornell Complex for the Performing Arts, Joplin MO |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Good Lead**
+Active professional opera company with consistent programming. Currently using Ovation Tix (niche platform, switchable). Nonprofit operation with strong regional presence and national recognition (American Prize winner). Good community partnerships with universities and other opera companies. Would benefit from a more modern, cost-effective ticketing solution. The touring nature of productions means they may value flexibility.

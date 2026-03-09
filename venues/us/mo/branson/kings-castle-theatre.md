@@ -1,56 +1,45 @@
 # King's Castle Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 2701 W 76 Country Blvd, Branson, MO 65616, USA |
-| **Phone** | (417) 334-2500 |
-| **Website** | http://www.kingscastletheatre.com/ |
-| **Google Rating** | 4.6/5 (2154 reviews) |
-| **Type** | Live Music Venue, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=9452814008807786503&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Broadway-style theater in Branson, Missouri presenting variety shows and theatrical productions. Originally built by legendary entertainer Bobby Vinton, rebuilt after a devastating 2012 tornado. Now owned and operated by British theatrical producer David King.
 
 ## History
-
-_Research pending_
+Originally built by Bobby Vinton, who made it his home theater for many years. When Vinton went on world tours, the venue became the "Branson Variety Theatre" and presented Broadway-style shows. On February 29, 2012, a tornado hit Branson head-on, destroying most of the theater. It took nearly a year to rebuild the venue from the ground up into the landmark property it is today. The theater transitioned to "King's Castle Theatre" under ownership of British show producer David King.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| David King | Owner/Producer | Website |
+| Bobby Vinton | Original Builder/Owner | Website (historical) |
 
 ## Programming & Shows
+- **Type**: Broadway-style variety shows, theatrical productions
+- **Frequency**: Regular season programming
+- **Capacity**: Full theater with accessible seating
+- **Notable history**: Hosted performances by Bobby Vinton and major variety acts
 
-_Research pending — what genres, typical acts, event types_
+## Accessibility
+- No stairs anywhere in building (flat entrance, ramped auditorium)
+- Wheelchair rentals available with advance reservation
+- Parking lot assistance for people with disabilities
+- Accessible restrooms in lobby
+- Amplified hearing devices available
+- Sight-impaired seating available
+- Sign language interpretation can be arranged
+- Free parking for buses and cars at rear
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown - website didn't load ticket pages |
+| **Website** | http://www.kingscastletheatre.com |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 417-334-2500 |
-| **Website** | http://www.kingscastletheatre.com/ |
+| **Website** | http://www.kingscastletheatre.com |
+| **Location** | Branson, MO |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Medium Interest**
+Established Branson theater with Broadway-style shows. Branson is a major tourist destination with many theaters, creating potential for market penetration if one venue switches. Independent ownership (David King) should facilitate decision-making. Limited information available about current ticketing setup - would need direct contact to assess fit and pain points. The venue's commitment to accessibility is notable.
