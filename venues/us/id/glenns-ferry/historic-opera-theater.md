@@ -13,44 +13,51 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Historic performing arts theater and event venue in Glenns Ferry, Idaho. Strong Google rating (4.8/5 with 77 reviews) suggests active community engagement.
+
+**Note**: Website (glennsferrytheatre.org) failed to load during research (March 2026). Unable to extract programming, ticketing, or contact details. Manual follow-up needed.
 
 ## History
 
-_Research pending_
+_Research pending — website inaccessible_
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _TBD_ | _TBD_ | Website inaccessible |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+_Research pending — website inaccessible_
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (website inaccessible) |
+| **Box Office** | Unknown |
+| **Online Sales** | Unknown |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 208-580-4202 |
-| **Website** | https://glennsferrytheatre.org/ |
+| **Booking Email** | Unknown |
+| **General Email** | Unknown |
+| **Phone** | (208) 580-4202 |
+| **Website** | https://glennsferrytheatre.org/ (not loading as of March 2026) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: TBD — Research Incomplete**
+
+Unable to assess fit due to website accessibility issues. High Google rating suggests an active venue. Recommend manual phone outreach to (208) 580-4202 to determine:
+- Current ticketing system
+- Event volume and types
+- Interest in platform migration
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-09*
+*Research: Website inaccessible — manual follow-up required*
