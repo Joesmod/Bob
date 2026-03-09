@@ -1,56 +1,42 @@
 # Angelus Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 165 N Main St, Spanish Fork, UT 84660, USA |
-| **Phone** | (801) 358-8134 |
-| **Website** | http://www.angelustheatre.com/ |
-| **Google Rating** | 4.6/5 (284 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=9747600343038624129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic community theater in Spanish Fork, UT. Hosts family-friendly musicals and theatrical productions. Known for recurring shows like "The Lady of Sherwood" musical.
 
 ## History
-
-_Research pending_
+Historic theater building in Spanish Fork that has been converted into a community performance space.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Stephen Gashler | Playwright/Composer | Website (Lady of Sherwood creator) |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Musicals, family theater, original works
+- **Frequency**: Multiple shows per year with multi-week runs
+- **Recent Shows**: The Lady of Sherwood (4th year return, March 2026 - 6-show run)
+- **Ticket prices**: TBD (family-friendly pricing expected)
+- **Notable**: Recurring productions of successful shows
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (online ticketing available) |
+| **Ticket Range** | $10-$30 estimated |
+| **Online Sales** | Yes, via angelustheatre.com |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 801-358-8134 |
-| **Website** | http://www.angelustheatre.com/ |
+| **Website** | https://angelustheatre.com |
+| **Location** | Spanish Fork, UT |
 
 ## Opendate Fit
+**Score: 65/100 — Moderate Prospect**
+Small community theater with consistent programming. Runs successful shows for multiple years (Lady of Sherwood is in 4th year). Limited online information about current ticketing provider suggests they may be using a basic system. Family-friendly content means reliable local audience. Would benefit from better ticketing and promotion tools.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+- Active events calendar with advance booking
+- Multi-week production runs
+- Family-oriented programming
+- Historic venue adds character appeal

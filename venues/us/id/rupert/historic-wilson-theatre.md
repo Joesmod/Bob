@@ -1,56 +1,44 @@
 # Historic Wilson Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 610 Fremont Ave, Rupert, ID 83350, USA |
-| **Phone** | (208) 436-2787 |
-| **Website** | https://www.historicwilsontheatre.com/ |
-| **Google Rating** | 4.8/5 (302 reviews) |
-| **Type** | Performing Arts Theater, Tourist Attraction, Auditorium, Community Center, Historical Landmark |
-| **Google Maps** | [View](https://maps.google.com/?cid=3195219370153852794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic theater in Rupert, ID. Hosts community events and occasional ticketed programs. Limited online presence with minimal programming information.
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Historic theater building in downtown Rupert, Idaho.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Recent Events**: Mental health seminars, community gatherings
+- **Frequency**: Occasional events (limited programming visible)
+- **Ticket prices**: Varies by event
+- **Notable**: "All ticket sales are final" policy in place
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Basic online ticketing |
+| **Online Sales** | Yes, via historicwilsontheatre.com/tickets |
+| **Notes** | Non-refundable, no exchanges |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 208-436-2787 |
-| **Website** | https://www.historicwilsontheatre.com/ |
+| **Website** | https://www.historicwilsontheatre.com |
+| **Location** | Rupert, ID |
 
 ## Opendate Fit
+**Score: 40/100 — Low Priority**
+Very limited programming information available. Website shows minimal events (primarily community seminars, not performing arts). May be underutilized historic venue or rental space more than active theater. Low priority until more programming activity is confirmed.
 
-_Assessment pending_
+**Concerns:**
+- Very limited visible programming
+- Minimal online presence
+- No clear artistic director or regular season
+- May be primarily rental venue
+- Small market (Rupert, ID)
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+- Website has tickets page but very few events listed
+- Homepage promoted mental health seminar (not traditional theater)
+- Historic building status suggests potential but underutilized
+- Needs more research to determine if this is active theater venue
+- May want to revisit once programming schedule becomes clearer

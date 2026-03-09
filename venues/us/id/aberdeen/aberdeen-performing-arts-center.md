@@ -1,56 +1,61 @@
 # Aberdeen Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 204 S Fifth W, Aberdeen, ID 83210, USA |
-| **Phone** | Unknown |
-| **Website** | https://aberdeenartscouncil.org/ |
-| **Google Rating** | 5/5 (2 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=4327125195261150799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community theater operated by Aberdeen Arts Council in Aberdeen, ID. Produces family-friendly shows, drama camps, and community events. Small-town theater serving eastern Idaho.
 
 ## History
-
-_Research pending_
+Run by Aberdeen Arts Council, Inc., a nonprofit arts organization serving the Aberdeen, Idaho community.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| TBD | Executive Director | TBD |
 
 ## Programming & Shows
+- **Genres**: Family musicals, youth theater, community productions
+- **Recent Shows**: The Little Mermaid (2026)
+- **Summer Programs**: Drama Camp (June, includes performances)
+- **Ticket prices**: $10-$20 estimated (community theater pricing)
+- **Special Events**: Under the Sea and Tea Party, Princess Party events
 
-_Research pending — what genres, typical acts, event types_
+## Education Programs
+- **Summer Drama Camp**
+  - 2-week program (June)
+  - Includes: Personalized instruction in dance, acting, voice
+  - Guaranteed role in 2 performances
+  - T-shirt, parade float ride, daily treats
+  - Tuition: $50 (early bird) / $100 (regular)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Simple online ticketing |
+| **Ticket Range** | $10-$20 estimated |
+| **Online Sales** | Yes, closes 5pm day of show |
+| **Walk-ins** | Accepted, pay at door (cash/Venmo) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | https://aberdeenartscouncil.org/ |
+| **Website** | https://aberdeenartscouncil.org |
+| **Location** | Aberdeen Performing Arts Center, Aberdeen, ID |
 
 ## Opendate Fit
+**Score: 55/100 — Lower Priority**
+Small community theater in rural Idaho. Limited programming volume (2-3 shows/year plus camps). Basic ticketing needs. Walk-in friendly with cash/Venmo at door suggests informal operations. However, as a nonprofit arts council, they would benefit from professional platform with low/no fees. Good for Opendate's community theater segment but not high volume.
 
-_Assessment pending_
+**Considerations:**
+- Very small market (Aberdeen, ID population ~2,000)
+- Limited annual events
+- Basic ticketing needs
+- Nonprofit would like low fees
+- Youth programming focus
+- Community-oriented
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+- Online box office closes 5pm before shows
+- Walk-ins welcome (cash/Venmo accepted)
+- Active summer drama camp program
+- Special events (tea parties, princess events)
+- Aberdeen Daze parade participation
+- Family-friendly focus

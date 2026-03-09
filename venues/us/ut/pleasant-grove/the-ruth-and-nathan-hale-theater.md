@@ -1,56 +1,45 @@
 # The Ruth and Nathan Hale Theater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 401 S Pleasant Grove Blvd, Pleasant Grove, UT 84062, USA |
-| **Phone** | (801) 226-8600 |
-| **Website** | https://www.theruth.org/ |
-| **Google Rating** | 4.7/5 (582 reviews) |
-| **Type** | Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=13403777463434527082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Professional-caliber community theater in Pleasant Grove, UT. Produces family-friendly musicals and plays including Disney shows, classic theater, and contemporary works. Modern facility with mainstage theater, youth programming, and theater academy.
 
 ## History
-
-_Research pending_
+Named after Ruth and Nathan Hale, the theater serves as Pleasant Grove's premier performing arts venue. Part of the larger Hale Center Theater family of venues.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| TBD | Artistic Director | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Broadway musicals, family shows, Disney productions, contemporary theater
+- **Frequency**: Year-round season with multiple productions
+- **Recent Shows**: Finding Nemo Jr. (Feb-Mar 2026), Hadestown Teen, Beetlejuice Jr. (Oct 2026)
+- **Ticket prices**: Tiered pricing, youth programs available
+- **Notable**: Strong youth theater program (Ruth Academy) with classes and summer camps
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | In-house ticketing system |
+| **Ticket Range** | $15-$40 estimated |
+| **Online Sales** | Yes, via theruth.org |
+| **Box Office Hours** | Mon-Sat 12:00pm-6:30pm |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 801-226-8600 |
-| **Website** | https://www.theruth.org/ |
+| **Address** | 401 S. Pleasant Grove Boulevard, Pleasant Grove, UT 84062 |
+| **Phone** | (801) 226-8600 |
+| **Website** | https://www.theruth.org |
 
 ## Opendate Fit
+**Score: 70/100 — Good Prospect**
+Active community theater with consistent programming and ticketed shows. Uses in-house ticketing which suggests they may be open to a better platform. Strong youth academy component. Family-friendly focus means reliable audience. However, as part of Hale Center Theater family, may have centralized systems.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+- Has event rental arm (Club Ballroom, equipment rentals)
+- ADA compliant
+- Active audition process for community participants
+- Season ticket program available
+- Digital playbills

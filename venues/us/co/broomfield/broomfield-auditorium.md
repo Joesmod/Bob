@@ -1,56 +1,47 @@
 # Broomfield Auditorium
 
 ## Overview
+**VENUE TYPE: Municipal Rental Facility (NOT a ticketed show venue)**
 
-| | |
-|---|---|
-| **Address** | 3 Community Park Rd, Broomfield, CO 80020, USA |
-| **Phone** | (720) 887-2310 |
-| **Website** | https://www.broomfield.org/243/Rent-the-Auditorium |
-| **Google Rating** | 4.7/5 (212 reviews) |
-| **Type** | Auditorium, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7388835845367974640&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+286-seat auditorium owned and operated by City and County of Broomfield for community rentals. Available for performances, recitals, and special events. Modern equipment with technical support.
 
-## About
+## Facility Details
+- **Capacity**: 286 seats + 6 accessible seating spaces
+- **Space**: 6,800 sq ft total
+- **Seating**: Main floor + balcony
+- **Location**: 3 Community Park Road, Broomfield, CO (adjacent to library)
+- **Parking**: Free parking, accessible entrances
 
-_Research pending — web scrape needed_
+## Equipment & Amenities
+- Theatrical lighting system
+- Custom sound system
+- Video system for live streaming and recording
+- Sauter Concert Piano
 
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Rental Information
+- Operated by City and County of Broomfield
+- Knowledgeable technical support team
+- Affordable rental rates
+- [Rental Guidelines](https://docs.google.com/document/d/1Doh0Hvukse_d0NGHSBOp0_ZS58XOBh6yMrKfh3AkJ5E/edit?usp=sharing)
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 720-887-2310 |
 | **Website** | https://www.broomfield.org/243/Rent-the-Auditorium |
+| **Location** | 3 Community Park Road, Broomfield, CO |
+| **Operated By** | City and County of Broomfield |
 
 ## Opendate Fit
+**Score: N/A — Not Applicable**
+This is a municipal rental facility, not a venue that produces or tickets its own shows. While renters might use ticketing for their events, the venue itself doesn't sell tickets. Not a fit for Opendate's core ticketing platform unless pursuing facility rental management tools.
 
-_Assessment pending_
+**Venue Type**: Rental facility for community groups, schools, performers
+**Ticketing**: Individual renters handle their own ticketing (if needed)
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+- City-owned and operated
+- Primarily serves community organizations
+- Technical support included with rentals
+- Modern A/V capabilities (streaming, recording)
+- Well-maintained municipal facility
+- Adjacent to library in community complex
