@@ -1,56 +1,46 @@
 # Shakespeare Theatre Company: Harman Hall
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 610 F St NW, Washington, DC 20004, USA |
-| **Phone** | (202) 547-1122 |
-| **Website** | http://www.shakespearetheatre.org/ |
-| **Google Rating** | 4.8/5 (824 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=2237239901733506677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Shakespeare Theatre Company (STC) is one of the nation's leading classical theater companies, operating two venues in Washington, DC: Harman Hall and the Klein Theatre. Celebrating 40th anniversary in 2026. Presents Shakespeare and classical theater with world-class productions, education programs, and community engagement.
 
 ## History
-
-_Research pending_
+Founded in 1978 (as of 2026, celebrating 40th anniversary). Grew to become DC's premier classical theater. Operates two performance spaces: the larger Harman Hall and the intimate Klein Theatre. Now part of a major DC cultural institution with significant education programs including STC Academy, youth/teen classes, and school programs.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| (Staff not listed on homepage) | | |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **2025-2026 Season**:
+  - On Beckett (extended)
+  - Hamnet (Mar 17-Apr 12, 2026) - Harman Hall
+  - Eddie Izzard performs The Tragedy of Hamlet (EXTENDED Mar 27-Apr 11) - Klein Theatre
+  - Othello (May 19-Jun 21, 2026) - Harman Hall
+  - Plus: Giselle (Washington Ballet), Not Beckett (Solas Nua), Morphos (STC Academy)
+- **Venues**: Harman Hall (main theater), Klein Theatre (smaller), Harman Hall Forum
+- **Special Events**: STC's 40th Anniversary Gala (Apr 13, 2026, Mellon Auditorium)
+- **Education**: Camp Shakespeare (Jun-Aug), Youth & Teen Classes, Adult Classes, STC Salon
+- **Discounts**: 35 and Under program
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Own box office system |
+| **Ticket Sales** | Yes, direct sales via website |
+| **Gift Certificates** | Available for tickets, camp, classes |
+| **Subscriptions** | Season subscriptions (26/27 coming soon) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 202-547-1122 |
-| **Website** | http://www.shakespearetheatre.org/ |
+| **Website** | https://www.shakespearetheatre.org |
+| **Box Office** | Online booking system |
+| **Phone** | Not listed on main page |
 
 ## Opendate Fit
+**Score: 60/100 — Moderate Lead**
+Major established theater company with strong brand and 40-year history. Own ticketing infrastructure for two venues plus education programs. Moderate frequency (4-5 main stage shows per year). Large nonprofit institution may have complex procurement processes and existing vendor relationships. Education programs (camps, classes) add ticketing complexity. Gift certificates and subscriptions suggest sophisticated ticketing needs.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+Major DC cultural institution. Celebrating 40th anniversary in 2026. New book: "Shakespeare Theatre Company: The History of a Classical Theatre" by Alexis Greene. Strong education arm with youth/adult programming year-round.

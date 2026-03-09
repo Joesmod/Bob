@@ -1,56 +1,51 @@
 # Knoxville Opera
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 612 E Depot Ave, Knoxville, TN 37917, USA |
-| **Phone** | (865) 524-0795 |
-| **Website** | http://www.knoxvilleopera.org/ |
-| **Google Rating** | 4.5/5 (42 reviews) |
-| **Type** |  |
-| **Google Maps** | [View](https://maps.google.com/?cid=14571310147275564326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Knoxville Opera is the leading producer of professional opera in East Tennessee. Founded in 1978, their mission is to create vocal and theatrical experiences that entertain, provoke, and console. Reached record-breaking audiences of more than 51,000 people in the 2024-2025 season through mainstage productions and community performances.
 
 ## History
-
-_Research pending_
+Founded in 1978. Celebrating 45+ years of opera in East Tennessee as of 2025. Has seen numerous incredible talents on stage over its history. Recently completed a highly successful 2024-2025 season with record-breaking attendance.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| (Staff not listed on about page) | | |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Professional opera productions
+- **Repertoire**: Classic and contemporary opera
+- **Reach**: 51,000+ audience members in 2024-2025 season
+- **Performance Types**: 
+  - Main stage productions
+  - Community performances
+  - Neighborhood shows
+- **Frequency**: Multiple productions per season
+- **Programming**: "Giving Voice to Stories that Connect Us" - mix of classic works and bold contemporary pieces
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Salesforce-based system |
+| **Ticket Sales** | Yes - BUY TICKETS button links to Salesforce site |
+| **Season Tickets** | ON SALE NOW |
+| **Platform URL** | knoxvilleopera.my.salesforce-sites.com/ticket |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 865-524-0795 |
-| **Website** | http://www.knoxvilleopera.org/ |
+| **Website** | https://www.knoxvilleopera.org |
+| **Ticketing** | https://knoxvilleopera.my.salesforce-sites.com/ticket |
+
+## Affiliations
+- Opera America (member)
+- Alliance for Better Nonprofits
+- Arts & Culture Alliance
+- Knoxville Chamber
+- Opera Volunteers International
 
 ## Opendate Fit
+**Score: 80/100 — Hot Lead**
+Active, growing professional opera company with impressive reach (51,000+ attendees). Currently using Salesforce for ticketing (not a specialized performing arts platform). Strong season ticket program indicates subscription management needs. Regional opera company with both mainstage and community programming = diverse ticketing needs. 45+ year history shows stability. Nonprofit structure with independent operations. Membership in Opera America and other arts orgs shows professional network. Likely looking for better arts-specific ticketing solutions than generic Salesforce.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+Completed very successful 2024-2025 season with record audiences. Using Salesforce ticketing system currently (knoxvilleopera.my.salesforce-sites.com/ticket) - this is not an arts-specialized platform and likely has limitations. Strong candidate for platform switch to integrated arts ticketing solution.

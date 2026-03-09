@@ -1,56 +1,50 @@
 # Hylton Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 10960 George Mason Cir, Manassas, VA 20110, USA |
-| **Phone** | (703) 993-7759 |
-| **Website** | http://hyltoncenter.org/ |
-| **Google Rating** | 4.7/5 (1115 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1943246846568155931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+The Hylton Performing Arts Center is a 102,000 square foot performing arts venue in Manassas, Virginia, operated by George Mason University's College of Visual and Performing Arts. The main hall, Merchant Hall, is a 1,123-seat elegantly styled opera house with a 100-foot stage and orchestra pit. Opened in 2010, celebrating 16th anniversary in 2026.
 
 ## History
-
-_Research pending_
+Community partnership venue that opened in 2010. Managed by George Mason University's College of Visual and Performing Arts (CVPA) as a Mason Arts venue. Part of university's commitment to "arts for all" and serving as the creative commons of the region. Includes Education and Rehearsal Wing.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Eileen Kennedy | Assoc VP of Development, GMU | Website quote |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Capacity**: 1,123 seats (Merchant Hall)
+- **Programming Series**:
+  - Hylton Presents (classical, Broadway, world music)
+  - Hylton Family Series
+  - Matinee Idylls Series (lunchtime performances)
+  - American Roots Series
+  - Hylton on the Hill (outdoor performances)
+  - Veterans and the Arts Initiative
+- **Event Types**: Ballet, theater, orchestra, chamber music, comedy, family shows
+- **Sample Shows (2026 calendar)**: Les Sylphides, Head Over Heels, Swan Lake, Keyboard Conversations, Click Clack Moo, Drum Tao
+- **Frequency**: Multiple events weekly, year-round programming
+- **Arts Partners & Affiliates**: Hosts resident companies including Manassas Ballet Theatre, Prince William Little Theatre, Manassas Symphony Orchestra, Old Bridge Chamber Orchestra, Virginia National Ballet, Manassas Chorale, ARTfactory Actors Theatre
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | University system (GMU calendar) |
+| **Ticket Sales** | Yes, hylton.calendar.gmu.edu |
+| **Online Sales** | Yes |
+| **Ticket Office** | Hours vary |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 703-993-7759 |
-| **Website** | http://hyltoncenter.org/ |
+| **Address** | George Mason University, Manassas, VA |
+| **Website** | https://hyltoncenter.org |
+| **Calendar** | https://hylton.calendar.gmu.edu |
+| **Phone** | Not listed on main page |
+| **Box Office** | Closes early for university network outages |
 
 ## Opendate Fit
+**Score: 45/100 — Lower Priority**
+University-operated venue tied to George Mason University infrastructure. Likely required to use university ticketing system (GMU calendar platform). Strong programming with multiple resident companies, but institutional constraints make platform switching unlikely. Not an independent operator with procurement flexibility.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Research Notes
+Part of George Mason University's College of Visual and Performing Arts. Mission-driven to serve community and provide arts access. 16th anniversary gala April 2026. Venue rental available for customized events.
