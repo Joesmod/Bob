@@ -2,55 +2,37 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Address** | 11987 Main St, Adelphi, OH 43101, USA |
-| **Phone** | (740) 655-3443 |
-| **Website** | http://adelphiohio.com/ |
-| **Google Rating** | 4.7/5 (10 reviews) |
-| **Type** | Opera House, Concert Hall, Live Music Venue, Performing Arts Theater, Auditorium |
-| **Google Maps** | [View](https://maps.google.com/?cid=5321607313312114999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
+Historic opera house in Adelphi, OH.
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **City** | Adelphi, OH |
+| **Website** | http://adelphiohio.com |
+| **Status** | Website non-functional |
+| **Type** | Opera House |
 
-## Contact
+## Research Notes
 
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 740-655-3443 |
-| **Website** | http://adelphiohio.com/ |
+**Website Status:** The venue website (adelphiohio.com) failed to load during research (March 9, 2026). No content could be extracted.
+
+**Next Steps:**
+- Attempt direct outreach via phone or mail
+- Check local historical society records
+- Search for social media presence
+- Verify if venue is still operational
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: N/A — Insufficient Information**
+
+Cannot assess fit without functional website or operational details. Website failure may indicate:
+- Inactive/closed venue
+- Outdated web infrastructure
+- Domain lapsed
+
+Further investigation needed to determine if this is an active performance venue.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-09*
+*Research: Website failed to load (adelphiohio.com)*

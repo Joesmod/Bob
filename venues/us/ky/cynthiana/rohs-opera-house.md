@@ -2,55 +2,47 @@
 
 ## Overview
 
+Historic movie theater and event venue in downtown Cynthiana, KY. Hosts movies, live performances (illusionists, comedians, music), seminars, and special events like lantern-led ghost tours.
+
 | | |
 |---|---|
 | **Address** | 133 E Pike St, Cynthiana, KY 41031, USA |
 | **Phone** | (859) 298-2203 |
 | **Website** | https://www.rohsoperahouse.com/ |
 | **Google Rating** | 4.8/5 (204 reviews) |
-| **Type** | Movie Theater |
-| **Google Maps** | [View](https://maps.google.com/?cid=12713426703141405466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| **Type** | Movie Theater & Event Venue |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+- **Primary Use**: First-run movies on state-of-the-art digital projector
+- **Live Events**: Illusionists, comedians, musicians (various genres), speakers
+- **Special Events**: "Haunted Cynthiana" lantern-led ghost tours
+- **Frequency**: Multiple events per week including movies and live shows
+- **Theatre Company**: Rohs Theatre Company produces shows
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Agile Ticketing (agileticketing.net) |
+| **Online Sales** | Yes, via Agile widget on site |
+| **Box Office** | On-site |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 859-298-2203 |
+| **Phone** | (859) 298-2203 |
 | **Website** | https://www.rohsoperahouse.com/ |
+| **Walking Tours** | https://www.rohsoperahouse.com/events |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 60/100 — Moderate Fit**
+
+Primarily a movie theater with occasional live events. Uses Agile Ticketing (switchable). Mixed-use venue makes it a lower priority than pure live performance spaces, but the live event component and existing online ticketing show readiness for a modern platform.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-09*
+*Research: Website reviewed*
