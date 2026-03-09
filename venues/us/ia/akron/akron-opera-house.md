@@ -11,46 +11,49 @@
 | **Type** | Performing Arts Theater, Event Venue |
 | **Google Maps** | [View](https://maps.google.com/?cid=15229784894149298083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
 
+Historic opera house in small-town Iowa.
+
 ## About
 
-_Research pending — web scrape needed_
+**Website Issue**: The website (akronoperahouse.org) returned no content during research attempt on 2026-03-08. The site exists but content could not be scraped. Manual review or alternative research methods needed.
 
 ## History
 
-_Research pending_
+Historic opera house building in Akron, Iowa (population ~1,500).
 
 ## Key People
 
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Research needed_ | _TBD_ | Website inaccessible |
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+Information not available from website scrape.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown - website inaccessible |
+| **Box Office** | (712) 568-2614 |
+| **Online Sales** | Unknown |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 712-568-2614 |
+| **Phone** | (712) 568-2614 |
+| **Address** | 151 Reed St, Akron, IA 51001 |
 | **Website** | https://www.akronoperahouse.org/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 65/100 — Needs More Research**
+
+Cannot assess fit without accessible website content. Small-town opera house in rural Iowa (pop. ~1,500) suggests limited event volume. Google rating is decent (4.5/5, 8 reviews). Phone contact available but need to verify active ticketed programming before pursuing. Recommend: manual phone research or social media lookup to verify operations.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-08*
+*Research: Website inaccessible, basic info from Google Places*
