@@ -1,56 +1,43 @@
-# Dallas Comedy Club
+# Dallas Comedy Club | Club Theater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 3036 Elm St, Dallas, TX 75226, USA |
-| **Phone** | (214) 814-5009 |
-| **Website** | https://dallas-comedyclub.com/ |
-| **Google Rating** | 4.5/5 (957 reviews) |
-| **Type** | Comedy Club, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=14831765417242506452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Multi-use comedy entertainment and training venue located in Deep Ellum, Dallas. The venue hosts stand-up, improv, sketch comedy, and storytelling performances five nights per week. Also operates the largest comedy training center in Texas.
 
 ## History
-
-_Research pending_
+Located at 3036 Elm Street in the heart of Deep Ellum, Dallas Comedy Club has established itself as a premier comedy destination in Texas, combining live performances with comprehensive comedy education.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Rosie Caruth | Business Development | Website contact page |
+| Sarah Tullos | Marketing & Partnerships | Website contact page |
+| Kenny Tracy | Bar & Kitchen Manager | Website contact page |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Stand-up comedy, improv, sketch comedy, storytelling
+- **Frequency**: 5 nights per week
+- **Specialty Shows**: IMPROV CLUB, SKETCH CLUB, PRIMETIME, Queer Factor, The Brown Out, This Just Happened!, The Dark Nights, Is This a Date?, Improv Power Hour, Roast Battle League DFW, Girls' Night Out, I Told You So!
+- **Training**: Offers full curriculum in improv, sketch, stand-up, and storytelling with youth camps and workshops
+- **Venue Policy**: Two-item minimum per person, First Come First Served seating begins 30 minutes prior to showtime
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (self-hosted possible) |
+| **Ticket Policy** | Non-transferable, no refunds if 30+ minutes late |
+| **Pre-authorization** | $100 credit card hold upon purchase |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 214-814-5009 |
+| **General Email** | info@dallas-comedyclub.com |
+| **Training Center** | tc@dallas-comedyclub.com |
+| **Address** | 3036 Elm Street, Dallas, TX 75226 |
 | **Website** | https://dallas-comedyclub.com/ |
 
 ## Opendate Fit
+**Score: 100/100 — Hot Lead**
 
-_Assessment pending_
+Excellent candidate. Active venue with 5 shows per week, diverse comedy programming, and strong community presence. Ticketing system unclear but venue has consistent events requiring ticketing infrastructure. Independent operation with clear business contacts. Would benefit significantly from integrated ticketing platform that handles their high volume of weekly shows, training showcases, and special events.
 
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Next Steps**: Contact Rosie Caruth or Sarah Tullos to discuss ticketing needs and current system limitations.
