@@ -1,56 +1,43 @@
 # Cape May Stage
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 405 Lafayette St, Cape May, NJ 08204, USA |
-| **Phone** | (609) 770-8311 |
-| **Website** | http://www.capemaystage.org/ |
-| **Google Rating** | 4.7/5 (277 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=17535476609977739147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+South Jersey's premier professional theater company, producing Broadway-quality productions in Cape May, NJ. Founded in 1988, celebrating 37th season in 2026 with a mix of contemporary plays, musicals, and special events.
 
 ## History
-
-_Research pending_
+Cape May Stage was established in 1988 (celebrating 37th season in 2026) and has grown into South Jersey's leading professional theater. Winner of Play of the Decade award for "Lend Me a Tenor" and the 50/50 Applause Award for support of Women Playwrights. Has staged plays from 13 Pulitzer Prize-winning playwrights and hosted more than 30 Broadway artists on its stage.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Roy Steinberg | Producing Artistic Director | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Professional theater productions
+- **2026 Season Includes**:
+  - "What the Constitution Means to Me" - Contemporary drama
+  - "Together"
+  - "Kalamazoo"
+  - "Your Name Means Dream"
+  - "The American Soldier"
+  - "Murder for Two" - Musical
+  - Tap into Soul (Solomon Jaye) - May 23
+- **Frequency**: Seasonal (typically May-October)
+- **Ticket prices**: Not specified on main pages
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (likely TBD or in-house) |
+| **Ticket Range** | TBD |
+| **Online Sales** | Likely via website |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 609-770-8311 |
-| **Website** | http://www.capemaystage.org/ |
+| **Website** | https://capemaystage.org |
+| **Location** | Cape May, NJ |
+| **Instagram** | Active (per website) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 63/100 — Medium Prospect**
+Professional regional theater with quality productions and Broadway talent. Seasonal operation suggests moderate but consistent ticketing volume. Tourist destination (Cape May) brings potential for strong ticket sales during summer season. Independent theater is more likely to consider ticketing alternatives than large institutional venues. Need to determine current ticketing provider and decision-making structure. Strong community engagement and awards suggest well-managed organization open to partnerships.

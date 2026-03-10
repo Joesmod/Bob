@@ -1,56 +1,21 @@
 # Black Sheep Social Club
 
 ## Overview
+Restaurant and brewpub in Cedar Rapids, Iowa, featuring "Iowa Soul Food" and Clock House craft ales. Social gathering space with dining focus, no ticketed entertainment programming.
 
-| | |
-|---|---|
-| **Address** | 600 1st St SE, Cedar Rapids, IA 52401, USA |
-| **Phone** | (319) 200-7070 |
-| **Website** | http://www.iamtheblacksheep.com/ |
-| **Google Rating** | 4.5/5 (1881 reviews) |
-| **Type** | Restaurant, Bar, Food |
-| **Google Maps** | [View](https://maps.google.com/?cid=11089435225182069126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## Venue Type
+Restaurant/brewpub with retail merchandise
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+## Concept
+"Iowa Soul Food" - Midwest favorites with international influences. Features Clock House ales (ranked 5th out of 114 Iowa breweries). Merchandise includes pottery, glassware, and Black Sheep-branded apparel.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 319-200-7070 |
-| **Website** | http://www.iamtheblacksheep.com/ |
+| **Website** | https://www.iamtheblacksheep.com |
+| **Location** | Cedar Rapids, IA |
+| **Brewery Partner** | Clock House Brewing (clockhousebrewing.com) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 10/100 — Not a Fit**
+Restaurant and brewpub with no ticketed events. Focus is on dining and craft beer, not live entertainment or ticket sales. Not applicable for Opendate's ticketing platform.
