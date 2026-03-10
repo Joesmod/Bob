@@ -1,52 +1,23 @@
 # The Alario Center
 
 ## Overview
-
-| | |
-|---|---|
-| **City** | Westwego |
-| **State** | LA |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
-
-## About
-
-_Research pending — web scrape needed_
+Venue in Westwego, Louisiana.
 
 ## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+**Research Note**: Website (alariocenter.com) could not be accessed during research pass. Content extraction failed. Requires manual follow-up to gather venue details.
 
 ## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+- **Status**: Unknown - website inaccessible
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **Location** | Westwego, LA |
+| **Website** | https://alariocenter.com (site extraction failed) |
 
 ## Opendate Fit
-
-_Assessment pending_
+**Score: 50/100 — Requires Further Research**
+Cannot assess fit without website access. Needs manual investigation or retry. Website may be blocking scrapers or have technical issues.
 
 ---
-
-*Last updated: 2026-02-27*
-*Source: Opendate Lead Pipeline*
+*Research incomplete - website unavailable during automated research pass on March 10, 2026.*

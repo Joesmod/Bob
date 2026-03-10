@@ -1,56 +1,48 @@
 # Santa Fe Playhouse
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 142 E De Vargas St, Santa Fe, NM 87501, USA |
-| **Phone** | (505) 988-4262 |
-| **Website** | https://santafeplayhouse.org/ |
-| **Google Rating** | 4.8/5 (115 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=12228630804590173727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Community theater at 142 East De Vargas Street in Santa Fe. Presents mainstage productions including musicals, comedies, dramas, and original works. Active year-round programming with 2026 season themed "Power Plays."
 
 ## History
-
-_Research pending_
+Historic theater in Santa Fe. Continues tradition of community theater and local theatrical productions. Presents mix of contemporary works, classic musicals, and original local productions including their annual Melodrama (104th edition in 2026).
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| - | Artistic Director | TBD |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Musicals, comedy, drama, horror-comedy, world premieres, melodrama
+- **Frequency**: 6 mainstage productions per season + education programs
+- **Ticket prices**: Individual tickets, FlexPass subscriptions available
+- **Accessibility**: Pay-What-You-Will previews, $10 Rush Tickets after opening
+- **2026 Season**:
+  - POTUS (March 19 - April 12)
+  - At the Wake of a Dead Drag Queen (May 7-31)
+  - Cabaret (July 2-19)
+  - Bad Medicine - World Premiere (Aug 6-30)
+  - 104th Annual Melodrama (Oct 8-25)
+  - Company (Nov 19 - Dec 20)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown (site mentions online tickets) |
+| **Ticket Options** | Individual tickets, FlexPass (6-ticket packages) |
+| **Online Sales** | Yes |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 505-988-4262 |
-| **Website** | https://santafeplayhouse.org/ |
+| **Address** | 142 East De Vargas Street, Santa Fe, NM 87501 |
+| **Phone** | (505) 988-4262 |
+| **Email** | boxoffice@santafeplayhouse.org |
+| **Hours** | Wed 12-3pm (phone), Thu-Sun 1hr before showtime |
+| **Website** | https://santafeplayhouse.org |
+| **Facebook** | facebook.com/santafeplayhouse |
+| **Instagram** | instagram.com/santafeplayhouse |
+| **Twitter** | twitter.com/santafeplayhous |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Strong Prospect**
+Active community theater with consistent 6-show season plus education programs. Independent nonprofit with accessible ticket pricing strategy. Currently using unknown ticketing provider — likely switchable. Good volume of shows year-round. Small staff (mentions limited phone availability) would benefit from streamlined ticketing platform. Strong candidate for Opendate's integrated solution.

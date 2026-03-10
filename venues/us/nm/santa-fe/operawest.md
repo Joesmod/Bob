@@ -1,56 +1,38 @@
 # OperaWest
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 111 Ricardo Rd, Santa Fe, NM 87501, USA |
-| **Phone** | (773) 720-9354 |
-| **Website** | https://www.operawest.org/contact |
-| **Google Rating** | 5/5 (5 reviews) |
-| **Type** | Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=1404023249163257597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Opera company based in Santa Fe, New Mexico. Dedicated to providing opera performances in the region.
 
 ## History
-
-_Research pending_
+Opera company serving Santa Fe area with classical and contemporary opera productions.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| J. Pantazelos | Contact / Director | Website (jpantazelos@operawest.org) |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Opera performances
+- **Frequency**: Unknown
+- **Venue**: Not owned (likely rents performance spaces)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Venue Ownership** | No (opera company, not venue operator) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 773-720-9354 |
-| **Website** | https://www.operawest.org/contact |
+| **Address** | 111 Ricardo Road, Santa Fe, NM 87501 |
+| **Phone** | 1-505-490-5995 |
+| **Email** | jpantazelos@operawest.org |
+| **Website** | https://www.operawest.org |
+| **YouTube** | youtube.com/@operawest |
+| **Instagram** | instagram.com/opera_west |
+| **Facebook** | facebook.com/operawest |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 30/100 — Poor Fit**
+Opera company, not a venue operator. Likely rents spaces for performances. Without venue ownership/control, not an ideal ticketing platform prospect. Would need to understand their ticketing volume and current provider to assess further, but generally opera companies are lower priority vs. venue operators.

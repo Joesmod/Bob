@@ -1,56 +1,46 @@
 # Millibo Art Theatre
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1626 S Tejon St, Colorado Springs, CO 80905, USA |
-| **Phone** | (719) 465-6321 |
-| **Website** | http://www.themat.org/ |
-| **Google Rating** | 4.9/5 (248 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=10032884699513523931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Intimate community theater specializing in new and original works. Small venue at 1626 S. Tejon St. in Colorado Springs. Founded in 2001, presents adventurous theater productions, children's programming, improv, and circus arts.
 
 ## History
-
-_Research pending_
+Founded in 2001 by Jim Jackson and Birgitta De Pree (originally as Manitou Art Theatre). Recognized as an arts leader in the Pikes Peak region with numerous award-winning shows. Fills a unique niche exploring new avenues for empowering artists and engaging the community in creation and appreciation of new theater. Celebrated 23rd season in 2024.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Jim Jackson | Co-Founder / Artistic Director | Website |
+| Birgitta De Pree | Co-Founder / Artistic Director | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: New theater, original works, children's theater, improv, circus arts, musicals, comedy
+- **Frequency**: Year-round programming, multiple productions
+- **Ticket prices**: Variable, includes Pay-What-You-Will previews and $10 Rush Tickets
+- **Recent shows**: 
+  - A Moment in Time (Oct 2024)
+  - The Bluebird (Sept 2024)
+  - Jellofish (Nov 2024)
+  - Élégie with Cellista (March 2025)
+- Season subscriptions available via FlexPass
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | PrintTix (boxoffice.printtixusa.com/themat) |
+| **Ticket Range** | Pay-What-You-Will to standard pricing |
+| **Online Sales** | Yes, via PrintTix / Easy-Ware Ticketing |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 719-465-6321 |
-| **Website** | http://www.themat.org/ |
+| **Address** | 1626 S. Tejon St, Colorado Springs, CO 80905 |
+| **Phone** | (719) 465-6321 |
+| **Email** | boxoffice@santafeplayhouse.org (appears to be incorrect on site) |
+| **Hours** | Tue 1-6:30p, Wed-Fri 1-5p, +90min before shows |
+| **Website** | https://themat.org |
+| **Facebook** | facebook.com/millibo (implied) |
+| **Instagram** | instagram.com/millibo (implied) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 70/100 — Good Prospect**
+Independent community theater with consistent programming. Currently using PrintTix/Easy-Ware ticketing — switchable third-party provider. Active year-round schedule with diverse programming. Small intimate venue (likely under 200 seats). Good candidate for integrated platform that could streamline operations and reduce fees. Nonprofit arts organization that would benefit from better margins.

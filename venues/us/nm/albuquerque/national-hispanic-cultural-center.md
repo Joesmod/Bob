@@ -1,56 +1,42 @@
 # National Hispanic Cultural Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1701 4th St SW, Albuquerque, NM 87102, USA |
-| **Phone** | (505) 246-2261 |
-| **Website** | http://www.nhccnm.org/ |
-| **Google Rating** | 4.6/5 (369 reviews) |
-| **Type** | Cultural Center, History Museum, Tourist Attraction, Wedding Venue, Performing Arts Theater |
-| **Google Maps** | [View](https://maps.google.com/?cid=6953386007062267769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Major cultural center in Albuquerque dedicated to preservation, promotion, and advancement of Hispanic culture, arts, and humanities. Complex includes multiple performance spaces (Journal Theatre, Bank of America Theatre), art museum, galleries, library/archives, and educational facilities.
 
 ## History
-
-_Research pending_
+Established as a cultural home for diverse Hispanic, Chicano, Latinx, and Latin American identities. State-run cultural institution presenting exhibitions, lectures, performances, and educational programming.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| - | Executive Director | TBD |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Theater, bilingual opera, flamenco, ballet, Latin music, film
+- **Programming**: Exhibitions, performing arts, educational programs, lectures, book readings
+- **Frequency**: Year-round programming
+- **Facilities**:
+  - Journal Theatre
+  - Bank of America Theatre
+  - Art Museum (Tue-Sat 10am-4pm)
+  - Torreón gallery space
+  - Library and genealogy center
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Box Office** | Located in Welcome Center |
+| **Hours** | Box office open 1 hour pre-show |
+| **Online Sales** | TBD |
+| **Current Provider** | Unknown |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 505-246-2261 |
-| **Website** | http://www.nhccnm.org/ |
+| **Hours** | Tue-Sat: 10am - 4pm |
+| **Website** | https://nhccnm.org |
+| **Dining** | La Fonda del Bosque (Tue-Fri 11:30am-2pm, Fri 5-8pm) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 40/100 — Unlikely Prospect**
+State-run cultural institution, likely has government procurement requirements and existing contracts. Multiple venues within complex. Not independent operator — would require institutional approval and state contracting processes. Large bureaucracy. Lower priority for Opendate outreach.

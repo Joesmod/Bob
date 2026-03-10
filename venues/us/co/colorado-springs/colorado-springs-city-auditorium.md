@@ -1,56 +1,37 @@
 # Colorado Springs City Auditorium
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 221 E Kiowa St, Colorado Springs, CO 80903, USA |
-| **Phone** | (719) 385-5969 |
-| **Website** | https://coloradosprings.gov/city-auditorium/page/historic-city-auditorium |
-| **Google Rating** | 4.3/5 (306 reviews) |
-| **Type** | Auditorium, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=6217837118132428187&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic 1923 municipal auditorium in downtown Colorado Springs. National Register of Historic Places (1995). Currently uncertain operational status — most recent management agreement terminated in 2023.
 
 ## History
+Built in 1923 after ballot approval by Colorado Springs residents. Features two murals added in 1934 under FDR's Public Works of Art project. Survived multiple attempts at conversion or sale over the decades due to strong public opposition. Placed on National Register of Historic Places in 1995.
 
-_Research pending_
+Most recent operational attempt: Colorado Springs Cultural Community Collective (CSCCC) signed MOU in 2021 to renovate and operate with $53M construction budget. Agreement terminated November 2023 due to inadequate fundraising. City convened Solutions Team in 2023 to determine future.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Mayor Yemi | Current Mayor | Website |
+| - | Facility Manager | TBD |
 
 ## Programming & Shows
+- **Status**: Uncertain / Limited Operations
+- **Historical Use**: Concerts, performances, civic events
+- **Current Programming**: Unknown
 
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
+## Facility Details
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Ownership** | City of Colorado Springs (municipal) |
+| **Status** | Historic building, seeking viable operational model |
+| **Needs** | Estimated $15M+ in renovations (2006 study) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 719-385-5969 |
-| **Website** | https://coloradosprings.gov/city-auditorium/page/historic-city-auditorium |
+| **Location** | Downtown Colorado Springs, CO |
+| **Website** | https://coloradosprings.gov/project/city-auditorium |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 20/100 — Not a Prospect**
+Government-owned historic facility with no active ticketing operations. Currently in planning/fundraising phase for major renovations. Not an operating venue. Would need to establish viable management model before considering ticketing platform. Not a near-term prospect for Opendate.
