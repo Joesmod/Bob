@@ -1,56 +1,39 @@
 # SAFE Credit Union Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 1301 L St, Sacramento, CA 95814, USA |
-| **Phone** | (916) 808-5181 |
-| **Website** | http://safecreditunionperformingartscenter.com/ |
-| **Google Rating** | 4.7/5 (910 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=6959086708685699296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Major performing arts venue in downtown Sacramento, part of the SAFE Credit Union Convention Center complex. Year-round programming featuring touring shows, concerts, theater, and performances. Professional venue with full amenities including concessions, parking, and accessible seating.
 
 ## History
-
-_Research pending_
+Part of the SAFE Credit Union Convention Center campus. Serves as Sacramento's downtown destination for performing arts, hosting national and regional touring productions throughout the year.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Convention Center Staff | Management | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Performing arts, concerts, theater, touring shows
+- **Season**: Year-round programming
+- **Amenities**: Concessions, accessible seating, professional sound/lighting
+- **Rentals**: Available for private events and productions
+- **Location**: Downtown Sacramento
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Ticketmaster |
+| **Website** | safecreditunionconventioncenter.com/facilities/performing-arts-center |
+| **Ticket Link** | ticketmaster.com/safe-credit-union-performing-arts-center-tickets-sacramento/venue/230102 |
+| **Online Sales** | Yes, via Ticketmaster |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 916-808-5181 |
-| **Website** | http://safecreditunionperformingartscenter.com/ |
+| **Booking** | Via safecreditunionconventioncenter.com/planners/booking |
+| **Location** | Downtown Sacramento, CA |
+| **Parking** | Information available on website |
+| **Website** | safecreditunionconventioncenter.com |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Medium Lead**
+Major venue using Ticketmaster - entrenched relationship with national ticketing platform. Part of larger convention center complex, likely has institutional contracts and municipal oversight. Ticketmaster's dominance in this market segment makes switching unlikely. Not a priority target.

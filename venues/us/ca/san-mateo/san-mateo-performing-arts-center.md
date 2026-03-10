@@ -1,56 +1,54 @@
 # San Mateo Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 600 N Delaware St, San Mateo, CA 94401, USA |
-| **Phone** | (650) 558-2379 |
-| **Website** | http://smuhsd.theater/ |
-| **Google Rating** | 4.5/5 (113 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=18236567268535269117&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Part of the San Mateo Union High School District (SMUHSD) theater system. One of two performing arts centers and six theaters operated by the district for rentals, student performances, and community events. Capacity range from 100 to 1,500 seats depending on specific venue. State-of-the-art theatrical lighting, professional sound, and video projection.
 
 ## History
+Part of SMUHSD's network of performance venues serving San Mateo and surrounding communities. The district maintains multiple theaters across its campuses for educational and rental purposes.
 
-_Research pending_
+## SMUHSD Theater Network
+**Performing Arts Centers (2):**
+- San Mateo Performing Arts Center
+- Samuel Johnson, Jr. Performing Arts Center
+
+**High School Theaters (6):**
+- Hillsdale High School Main Theater
+- Mills High School Theater
+- Aragon High School Theater
+- Burlingame High School Theater
+- Hillsdale High School Little Theater
+- Capuchino High School Little Theater
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| SMUHSD Facilities Staff | Management | Website |
 
 ## Programming & Shows
+- **Types**: Dance shows, musicals, graduations, corporate meetings, conferences
+- **Capacity**: 100-1,500 people depending on venue
+- **Audience**: Student performances, community rentals, corporate events
+- **Usage**: Educational priority, rental availability
 
-_Research pending — what genres, typical acts, event types_
+## Technical Capabilities
+- **Sound**: Yamaha digital mixers, L-Acoustics amplifiers and line arrays
+- **Lighting**: Professional consoles, LED fixtures, Source Fours, Fresnels, Pars
+- **Video**: High-powered projector, full stage screen, digital/analog connections, Blu-ray players
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not specified |
+| **Booking Method** | Contact for rentals |
+| **Primary Use** | School district productions + rentals |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 650-558-2379 |
-| **Website** | http://smuhsd.theater/ |
+| **Website** | smuhsd.theater |
+| **Rental Info** | Available on website (rates vary) |
+| **Email** | Available via website contact form |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Medium Lead**
+School district venue system primarily for educational use with rental availability. School district procurement processes and public entity constraints make platform switching complex. Limited commercial ticketing needs due to educational focus. Not a priority lead.

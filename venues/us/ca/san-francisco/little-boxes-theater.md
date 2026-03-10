@@ -1,56 +1,43 @@
 # Little Boxes Theater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 94107 1661 Tennessee St, San Francisco, CA 94107, USA |
-| **Phone** | (415) 603-0061 |
-| **Website** | https://littleboxestheater.com/ |
-| **Google Rating** | 4.7/5 (74 reviews) |
-| **Type** | Performing Arts Theater, Dance Hall, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=1704271334283112121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+2,600 sqft experimental black box theater in the Dogpatch district of San Francisco. Artist-driven, queer feminist organization focused on radical creativity and multidisciplinary performance. Founded 2013. Currently transitioning out of current space, seeking new location for 2026.
 
 ## History
+Since opening in 2013, Little Boxes Theater has been a sanctuary for experimental and underground performance art. Operates on a shoestring budget while maintaining ADA accessibility and affordable pricing for artists. Affiliated with Intersection for the Arts (IAM) for over a decade. Supported by GFTA (Grants for the Arts), CAC (California Arts Council), and SFAC (San Francisco Arts Commission).
 
-_Research pending_
+Major transition point in 2026: preparing to move out of current brick-and-mortar location.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| _Not specified_ | Collective/Artist-driven | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Experimental theater, dance, drag, performance art, circus, opera, film, photography
+- **Programming**: Artist residencies, monthly open house performances, developed concept work
+- **Audience**: Queer, feminist, intersectional focus
+- **Frequency**: Variable, event-based programming
+- **Recent Shows**: "Clown Down!" (Feb 2026), "MANISACRIFESTRIXX" (Sep 2024), "FLOAT" (Aug-Sep 2024)
+- **Additional Events**: "Doodles & Noodles" figure drawing + ramen nights
+- Space maintained as crossover black box dance theater and production studio
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Email reservations + likely online (site has event pages) |
+| **Ticket Range** | $20-$75 sliding scale/PWYC |
+| **Booking Method** | Email (various show emails: coventryandkaluza@gmail.com for recent shows) |
+| **Philosophy** | "No one turned away" - sliding scale, pay-what-you-can |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 415-603-0061 |
-| **Website** | https://littleboxestheater.com/ |
+| **General Email** | littleboxestheater@gmail.com |
+| **Location** | Dogpatch district, San Francisco, CA |
+| **Donations** | via Mazlo Web (donate.mazloweb.com/donate/S7GrzvDHYhSMMpRb2Z7iZq) |
+| **Website** | littleboxestheater.com |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Medium Lead**
+Strong artistic mission and active programming, but currently in transition (moving venues in 2026). Artist-driven collective with sliding scale pricing model. Limited budget and non-commercial focus may not align with traditional ticketing platform needs. Better fit after they secure new permanent space. Monitor for future opportunities post-move.

@@ -1,56 +1,43 @@
 # Heritage Center Theater
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 105 N 100 E, Cedar City, UT 84720, USA |
-| **Phone** | (435) 865-2882 |
-| **Website** | https://www.cedarcityut.gov/1088/Festival-Hall-Heritage-Theater |
-| **Google Rating** | 4.7/5 (517 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=7053887442146483474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Nearly 1,000-seat municipal theater in downtown Cedar City, UT. Part of the Festival Hall complex at 105 North 100 East. Multi-purpose facility hosting theater productions, concerts, and conferences. Operated by Cedar City government.
 
 ## History
-
-_Research pending_
+The Heritage Theater and Festival Hall complex serves as Cedar City's premier performing arts venue, housing the theater plus over 15,000 square feet of flexible meeting space.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Jason Clark | Contact | Website (cjason@cedarcityut.gov) |
+| Lisa Cox | Contact | Website (clisa@cedarcityut.gov) |
+| Carrington Bonner | Contact | Website (bcarrington@cedarcityut.gov) |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Theater, opera, concerts, community events
+- **Season Tickets**: OSU (Oklahoma State University) 25-26 season and CCMA season available via Ovation Tix
+- **Facility Rentals**: Available for meetings, conferences, performances
+- **Parking**: Free covered parking structure adjacent to facility
+- Box office opens 60 minutes before performances and Monday-Friday 9am-5pm
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Ovation Tix |
+| **Box Office** | 435-865-2882 |
+| **Online Sales** | Yes, via myosu.org and ci.ovationtix.com |
+| **Discounts** | Non-profit 501c-3 discount on rentals Sunday-Thursday |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 435-865-2882 |
-| **Website** | https://www.cedarcityut.gov/1088/Festival-Hall-Heritage-Theater |
+| **Phone** | 435-865-2882 |
+| **Email (Jason Clark)** | cjason@cedarcityut.gov |
+| **Email (Lisa Cox)** | clisa@cedarcityut.gov |
+| **Email (Carrington Bonner)** | bcarrington@cedarcityut.gov |
+| **Address** | 105 North 100 East, Cedar City, UT |
+| **Website** | cedarcityut.gov/1088/Festival-Hall-Heritage-Theater |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Medium Lead**
+Municipal venue using Ovation Tix for ticketing. Government-operated facility primarily for rentals and community events. May have limited autonomy for platform switching. Worth monitoring for larger community events that need better ticketing.

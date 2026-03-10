@@ -1,56 +1,35 @@
 # Faith Lutheran Chapel & Performing Arts Center
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 2015 S Hualapai Wy, Las Vegas, NV 89117, USA |
-| **Phone** | (702) 804-4400 |
-| **Website** | http://www.faithlutheranlv.org/ |
-| **Google Rating** | 4.8/5 (24 reviews) |
-| **Type** | Performing Arts Theater, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=631505342694678800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Performing arts center at Faith Lutheran Middle School & High School in Las Vegas, NV. Educational facility primarily serving student performances and school programs.
 
 ## History
-
-_Research pending_
+Part of Faith Lutheran educational campus. The school maintains an active Instagram presence (@FL_Crusaders) and hosts various school events throughout the year.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| School Administration | Management | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Primary Use**: Student performances, school musicals, graduations, assemblies
+- **Types**: Theater, music, dance, school events
+- **Audience**: Students, families, school community
+- **Access**: Limited public programming - primarily educational use
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not specified |
+| **Primary Use** | School events (limited public ticketing) |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 702-804-4400 |
-| **Website** | http://www.faithlutheranlv.org/ |
+| **Website** | faithlutheranlv.org |
+| **Instagram** | @FL_Crusaders |
+| **Location** | Las Vegas, NV |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Low Lead**
+Educational venue primarily for school use. Limited public programming and ticketing needs. Website provides minimal information about performing arts center operations or public events. Not suitable for commercial ticketing platform - educational focus means very limited external event ticketing. Not a priority lead.

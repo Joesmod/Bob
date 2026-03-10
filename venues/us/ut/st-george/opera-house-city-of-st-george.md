@@ -1,56 +1,37 @@
 # Opera House City of St George
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 212 N Main St, St. George, UT 84770, USA |
-| **Phone** | (435) 634-5942 |
-| **Website** | http://www.sgcity.org/ |
-| **Google Rating** | 4.8/5 (32 reviews) |
-| **Type** | Opera House, Tourist Attraction, Concert Hall, Historical Place, Auditorium |
-| **Google Maps** | [View](https://maps.google.com/?cid=15068386468266470448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Municipal performing arts facility in St. George, UT. Operated by the City of St. George. Limited public information available on the city website.
 
 ## History
-
-_Research pending_
+Part of St. George's cultural infrastructure. The city maintains various arts and cultural programs including the St. George Museum of Art and other community facilities.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| City of St. George | Operator | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Information Limited**: Specific programming details not readily available on main city website
+- **Context**: City operates multiple cultural facilities and supports arts programs
+- **Resources**: City produces "Inside St. George" quarterly publication and newsletter
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Not specified |
+| **Information** | Limited details available |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 435-634-5942 |
-| **Website** | http://www.sgcity.org/ |
+| **City Website** | sgcityutah.gov |
+| **Main Phone** | Via city contact |
+| **Location** | St. George, UT |
+
+## Research Notes
+Website provided (sgcity.org → sgcityutah.gov) is the main city portal. Specific opera house details, programming, and ticketing information not readily accessible through main website navigation. May require direct contact with city arts/cultural department or separate facility website.
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Research Incomplete**
+Unable to gather substantive information from city website. No visible programming, ticketing provider, or operational details. Requires follow-up research or direct contact to assess fit. Municipal operation suggests potential procurement barriers. Low priority until more information available.
