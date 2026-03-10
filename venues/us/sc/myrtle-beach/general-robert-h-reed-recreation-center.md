@@ -2,55 +2,47 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Address** | 800 Gabreski Ln, Myrtle Beach, SC 29577, USA |
-| **Phone** | (843) 918-2380 |
-| **Website** | https://www.cityofmyrtlebeach.com/i_want_to/find/general_robert_h_reed_recreation_center.php |
-| **Google Rating** | 4.6/5 (25 reviews) |
-| **Type** | Sports Activity Location |
-| **Google Maps** | [View](https://maps.google.com/?cid=16174796424806992468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+Municipal recreation center operated by the City of Myrtle Beach. Features a large ballroom with wooden stage, kitchen, meeting rooms, and recreational facilities (billiards, shuffleboard, ping pong, etc.). Available for private event rentals.
 
-## About
+**Website**: https://www.cityofmyrtlebeach.com/i_want_to/find/general_robert_h_reed_recreation_center.php
 
-_Research pending — web scrape needed_
+**Hours**: Monday-Friday 8:30 AM - 7:00 PM; Saturday-Sunday by reservation only
 
-## History
+## Facilities
 
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+- Large ballroom with wooden stage
+- Kitchen
+- Meeting rooms
+- Billiard tables
+- Shuffleboard table
+- Ping pong table
+- Dart board
+- Chess/dominoes
+- Free Wi-Fi (M-F during business hours)
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+Not a performance venue. This is a city recreation center available for:
+- Private event rentals
+- Community recreation programs
+- Classes and workshops
+- Meeting space
 
 ## Ticketing
 
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+**N/A** — Not a ticketed entertainment venue. Facility rental only.
 
 ## Contact
 
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 843-918-2380 |
-| **Website** | https://www.cityofmyrtlebeach.com/i_want_to/find/general_robert_h_reed_recreation_center.php |
+**Recreation Center Supervisor**: (843) 918-2381
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not Applicable**
+
+Municipal recreation center, not an entertainment venue. No ticketing needs. Not a prospect for Opendate.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-10*
+*Source: City of Myrtle Beach website*

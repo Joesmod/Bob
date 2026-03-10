@@ -2,55 +2,25 @@
 
 ## Overview
 
-| | |
-|---|---|
-| **Address** | 3205 N Oak St, Myrtle Beach, SC 29577, USA |
-| **Phone** | (843) 918-2280 |
-| **Website** | https://www.cityofmyrtlebeach.com/i_want_to/find/pepper_geddings_recreation_center.php |
-| **Google Rating** | 4.7/5 (346 reviews) |
-| **Type** | Sports Activity Location |
-| **Google Maps** | [View](https://maps.google.com/?cid=17069035576756933006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+Municipal recreation center operated by the City of Myrtle Beach. Similar to other city recreation facilities, available for private rentals and community programs.
 
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+**Website**: https://www.cityofmyrtlebeach.com/i_want_to/find/pepper_geddings_recreation_center.php
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+Not a performance venue. City recreation center for private events, community programs, and recreation activities.
 
 ## Ticketing
 
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 843-918-2280 |
-| **Website** | https://www.cityofmyrtlebeach.com/i_want_to/find/pepper_geddings_recreation_center.php |
+**N/A** — Not a ticketed entertainment venue. Facility rental only.
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 0/100 — Not Applicable**
+
+Municipal recreation center, not an entertainment venue. No ticketing needs. Not a prospect for Opendate.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-10*
+*Source: City of Myrtle Beach website*
