@@ -1,56 +1,42 @@
-# The Lounge House of Comedy
+# The Lounge House of Comedy (Rick Bronson's House of Comedy)
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 408 E Broadway, Bloomington, MN 55425, USA |
-| **Phone** | (952) 858-8558 |
-| **Website** | https://moa.houseofcomedy.net/ |
-| **Google Rating** | 4/5 (30 reviews) |
-| **Type** |  |
-| **Google Maps** | [View](https://maps.google.com/?cid=14867654235279285022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Premier stand-up comedy club located in Mall of America, Bloomington, MN. One of the best comedy venues in the industry, showcasing nationally touring headliners from major comedy platforms and networks.
 
 ## History
-
-_Research pending_
+Part of Rick Bronson's House of Comedy brand, which has earned industry praise as one of the best comedy venues on the globe. Located in the world-famous Mall of America, providing a sophisticated "Drink Dine Laugh" experience.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Rick Bronson | Owner/Founder | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Stand-up comedy (national touring acts)
+- **Frequency**: Multiple shows weekly (Thu-Sun primarily)
+- **Ticket prices**: $15-$45 typical
+- **Notable acts**: TJ Miller, Arsenio Hall, Nikki Glaser, Preacher Lawson, Brendan Schaub, Sarah Tiana, Bryan Callen, Jeremy Piven, Doug Stanhope, and more
+- Performers from: Just for Laughs Festival, The Tonight Show, The Late Show, The Daily Show, America's Got Talent, Last Comic Standing, Comedy Central, HBO, Showtime
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | House of Comedy (proprietary system) |
+| **Ticket Range** | $15-$45 |
+| **Online Sales** | Yes, via houseofcomedy.net |
+| **Notes** | "Tickets only available through houseofcomedy.net - avoid third-party resellers" |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 952-858-8558 |
-| **Website** | https://moa.houseofcomedy.net/ |
+| **Address** | 408 East Broadway, Bloomington, MN 55425 |
+| **Phone** | (952) 858-8558 |
+| **Email** | moa@houseofcomedy.net |
+| **Website** | https://moa.houseofcomedy.net |
+| **Instagram** | @houseofcomedymn |
+| **Facebook** | /houseofcomedymn |
+| **Twitter/X** | @HouseOfComedyMN |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 65/100 — Medium Lead**
+Established comedy club with strong brand and national acts. Uses proprietary ticketing system which may make switching harder, but high event volume and premium positioning make them an attractive long-term target. Located in high-traffic Mall of America location.

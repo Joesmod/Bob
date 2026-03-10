@@ -1,66 +1,40 @@
-# SPOKANE COMEDY CLUB
+# Spokane Comedy Club
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 315 W Sprague Ave, Spokane, WA 99201, USA |
-| **Phone** | (509) 318-9998 |
-| **Website** | http://www.spokanecomedyclub.com/ |
-| **Google Rating** | 4.5/5 (2133 reviews) |
-| **Type** | Comedy Club, Night Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=13405462294623269470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-Spokane Comedy Club is Spokane's home for live stand-up comedy, located in downtown Spokane. The venue showcases the best comedians from across the country alongside the Pacific Northwest's rising stars in an intimate, cabaret-style setting. Full food and beverage service available with appetizers, entrees, desserts, craft cocktails, and local beers.
+Spokane's premier stand-up comedy venue featuring national touring comedians and Pacific Northwest rising stars. Intimate cabaret-style setting with full food and beverage service in downtown Spokane.
 
 ## History
-
-Established comedy club serving the Spokane community. The venue has built a reputation as the premier destination for stand-up comedy in Eastern Washington.
+Established as Spokane's home for live stand-up comedy. Built reputation showcasing the best comedians from across the country in an intimate, professional setting. Downtown location at 315 W. Sprague.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | Owner/Management | Website |
+| TBD | Owner/Operator | Not listed on website |
 
 ## Programming & Shows
-
-- **Format**: Stand-up comedy showcases
-- **Frequency**: Multiple shows per week (weeknights and weekends)
-- **Talent**: National touring comedians and Pacific Northwest rising stars
-- **Show Types**: Special Events, Free Shows (open mic nights)
-- **Event calendar**: Very active with shows scheduled months in advance through 2026
-- **Atmosphere**: Intimate cabaret-style seating
+- **Genres**: Stand-up comedy (national touring + Pacific NW comedians)
+- **Frequency**: Multiple shows weekly (Thu-Sun typical)
+- **Ticket prices**: $15-$40 typical
+- **Special shows**: Mix of ticketed shows and free open mic nights
+- Described as "one of the best comedy venues" with intimate, cabaret-style seating
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | Proprietary system (integrated into website) |
-| **Box Office** | On-site |
-| **Online Sales** | Yes, via website |
-| **Ticket Range** | Varies by show (free open mics to ticketed specials) |
+| **Current Provider** | SeatEngine |
+| **Ticket Range** | $15-$40 |
+| **Online Sales** | Yes, via SeatEngine |
+| **Website** | https://www.spokanecomedyclub.com |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | tickets@spokanecomedyclub.com |
+| **Address** | 315 W. Sprague, Spokane, WA 99201 |
 | **Phone** | (509) 318-9998 |
-| **Website** | http://www.spokanecomedyclub.com/ |
+| **Email** | tickets@spokanecomedyclub.com |
 | **Instagram** | @spokanecomedy |
 | **Facebook** | @spokanecomedy |
 
 ## Opendate Fit
-
-**Score: 78/100 — Strong Candidate**
-
-Strong independent comedy venue with active ticketed programming. Appears to use proprietary ticketing system integrated into their website. High volume of shows (multiple per week year-round) with mix of national acts and local talent. Good candidate for Opendate's platform if they're looking to upgrade or consolidate their ticketing infrastructure. Food/beverage service adds complexity but also revenue potential. Well-reviewed venue (4.5/5) with strong local following.
-
----
-
-*Last updated: 2026-03-04*
-*Source: Website research*
+**Score: 75/100 — Strong Lead**
+Active comedy club with steady programming and national touring acts. Uses SeatEngine (third-party), making them a good switching candidate. Downtown location, full food/beverage service, and consistent event volume. Good fit for Opendate's independent venue focus.

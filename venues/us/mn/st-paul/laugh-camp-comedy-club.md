@@ -1,56 +1,38 @@
 # Laugh Camp Comedy Club
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 490 Robert St N, St Paul, MN 55101, USA |
-| **Phone** | (866) 687-8525 |
-| **Website** | https://www.camp-bar.net/laugh-camp-comedy-club |
-| **Google Rating** | 4.7/5 (208 reviews) |
-| **Type** | Comedy Club, Night Club, Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=3194956945527311310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Stand-up comedy club located at Camp Bar in downtown St. Paul, MN. Hosting national touring comedians, local rising stars, open mics, and late-night improv shows. Part of St. Paul's nightlife scene with full food and drink service.
 
 ## History
-
-_Research pending_
+Comedy venue operating within Camp Bar, a popular entertainment venue at 490 N Robert Street. Established as part of Camp Bar's multi-faceted entertainment offerings which also include trivia nights and live music.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| TBD | Booker/Manager | Not found on website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Stand-up comedy (national touring acts + local rising comics), improv, open mic
+- **Frequency**: Weekly shows (primarily Thu-Sat)
+- **Ticket prices**: $10-$35 typical
+- **Notable acts**: Langston Kerman, Lil Mo Mozzarella, Andrew Rivers, Jackie Fabulous
+- **Special shows**: "After Dark" late-night improv series, Celtic Comedy Night
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | SeatEngine |
+| **Ticket Range** | $10-$35 |
+| **Online Sales** | Yes, via SeatEngine widget |
+| **Website** | https://camp-bar.net/laugh-camp-comedy-club |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 866-687-8525 |
-| **Website** | https://www.camp-bar.net/laugh-camp-comedy-club |
+| **Address** | 490 N Robert Street, Saint Paul, MN 55101 |
+| **Phone** | (866) 687-8525 |
+| **Website** | https://camp-bar.net |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 75/100 — Strong Lead**
+Active comedy venue with consistent weekly programming and national touring acts. Uses SeatEngine (third-party platform), making them a good candidate for switching to Opendate. Located in downtown St. Paul with full bar/restaurant operation. Good event volume and diverse comedy programming.

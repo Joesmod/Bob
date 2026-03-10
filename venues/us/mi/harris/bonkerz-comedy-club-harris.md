@@ -1,56 +1,39 @@
-# Bonkerz Comedy Club - Harris
+# Bonkerz Comedy Club - Harris (Island Resort & Casino)
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | W 399 US-2, Harris, MI 49845, USA |
-| **Phone** | (407) 629-2665 |
-| **Website** | https://bonkerzcomedyproductions.com/locations/island-resort-and-casino/ |
-| **Google Rating** | None/5 (None reviews) |
-| **Type** | Comedy Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=12060084496793088633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Comedy club venue located inside Island Resort & Casino's Club Four One entertainment space in Harris, MI (Upper Peninsula). Part of the Bonkerz Comedy Productions national network. Features nationally touring comedians in a casino entertainment setting.
 
 ## History
-
-_Research pending_
+Bonkerz Comedy Club operates within Club Four One, the casino's free entertainment venue. Shows run select Thursday and Sunday nights from September through May. Part of Bonkerz Comedy Productions' multi-venue touring network spanning casinos and clubs across the US.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| Bonkerz Comedy Productions | Operator/Booking | Website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Genres**: Stand-up comedy (nationally touring comedians from Bonkerz network)
+- **Frequency**: Select Thu/Sun nights (Sept-May season), 8:00 PM showtime
+- **Ticket prices**: FREE admission (except special events)
+- **Age**: 18+ welcome
+- **Setting**: Inside casino's Club Four One nightclub venue
+- Comedy alternates with live music (Thu-Sat music shows at 8:30 PM)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Island Resort & Casino (free entry, no ticketing) |
+| **Ticket Range** | Free (special events may be ticketed) |
+| **Venue Website** | https://bonkerzcomedyproductions.com/locations/island-resort-and-casino |
+| **Casino Website** | http://www.islandresortandcasino.com/entertainment/club-four-one |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 407-629-2665 |
-| **Website** | https://bonkerzcomedyproductions.com/locations/island-resort-and-casino/ |
+| **Venue** | Club Four One, Island Resort & Casino |
+| **Location** | Harris, MI 49845 (Upper Peninsula) |
+| **Bonkerz Website** | https://bonkerzcomedyproductions.com |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 30/100 — Low Priority**
+Free entertainment venue inside a casino. No ticketing system in use (free admission to drive casino traffic). Not a candidate for ticketing platform as shows are used as casino marketing amenity. Bonkerz Comedy Productions may be worth contacting for their other ticketed venues.
