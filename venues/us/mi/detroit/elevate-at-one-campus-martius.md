@@ -1,52 +1,44 @@
 # Elevate at One Campus Martius
 
 ## Overview
+Part of Rock Events, a full-service event production company operating multiple event spaces throughout Detroit's central business district. Elevate is one of several venues in their portfolio, which includes lofts, rooftop patios, and waterfront spaces. NOT a ticketed entertainment venue.
 
-| | |
-|---|---|
-| **City** | Detroit |
-| **State** | MI |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Company Type
+Event production company and venue management - provides space rental + full event services including AV, catering, design, décor, entertainment booking, logistics, and more.
 
 ## Programming & Shows
+- **No ticketed shows**
+- **No public events**
+- Private event production services for:
+  - Corporate conferences
+  - Weddings
+  - Galas and fundraisers
+  - Film/photo location rentals
 
-_Research pending_
+## Services Offered
+Full event production including:
+- Audio/Visual
+- Budget management
+- Design + Décor
+- Entertainment booking
+- Food + Beverage
+- Graphic Design
+- Onsite Logistics
+- Venue sourcing
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+| **Current Provider** | N/A - No ticketing |
+| **Ticket Sales** | No public ticketed events |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **Website** | https://www.rockevents.com |
+| **Location** | One Campus Martius, Detroit, MI |
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-27*
-*Source: Opendate Lead Pipeline*
+**NOT a fit for Opendate.** Rock Events is an event production company, not a ticketed venue. They manage private events (weddings, corporate conferences, galas) and provide full-service production. No public ticketed entertainment. No ticketing platform needed.

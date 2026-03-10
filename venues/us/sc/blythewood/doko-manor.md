@@ -1,56 +1,47 @@
 # Doko Manor
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 100 Alvina Hagood Cir, Blythewood, SC 29016, USA |
-| **Phone** | (803) 724-6305 |
-| **Website** | https://www.dokomanor.com/ |
-| **Google Rating** | 4.8/5 (213 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=9708120109884957942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+5,000 sq ft wedding and private event venue located inside the 25-acre Doko Meadows Park in Blythewood, SC. Features 3,240 sq ft ballroom, full catering kitchen, business conference room, outdoor pergola, and scenic lake views. NOT a ticketed entertainment venue.
 
 ## History
+Opened March 2013. The name "Doko" is believed to be either an Indian name meaning "watering place" or an African name meaning "where the iron horse drinks" - both referring to the area's history as a water stop for steam engines.
 
-_Research pending_
+## Venue Type
+Private event space rental for weddings, corporate events, reunions, private parties, bridal showers, and fundraisers. No public ticketed events.
 
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Amenities
+- 3,240 sq ft ballroom
+- 700 sq ft gallery/lobby
+- Full catering kitchen
+- Business conference room
+- Front and back porches with rocking chairs
+- Outdoor pergola by scenic lake
+- Audio/video equipment
+- Dance floor
+- Tables and chairs
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **No ticketed shows**
+- **No public events**
+- Private event rentals only
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - No ticketing |
+| **Ticket Sales** | No public ticketed events |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 803-724-6305 |
-| **Website** | https://www.dokomanor.com/ |
+| **Phone** | (803) 724-6039 |
+| **Email** | info@dokomanor.com |
+| **Address** | 100 Alvina Hagood Circle, Blythewood, SC 29016 |
+| **Website** | https://www.dokomanor.com |
+| **Facebook** | @Dokomanor |
+| **Instagram** | @dokomanor |
 
 ## Opendate Fit
+**Score: 0/100 — Not Applicable**
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**NOT a fit for Opendate.** This is a wedding and private event venue rental facility. They rent the space for weddings, corporate events, and private parties - no public ticketed entertainment events. No ticketing platform needed.
