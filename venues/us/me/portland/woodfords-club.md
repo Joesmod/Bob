@@ -1,56 +1,39 @@
 # Woodfords Club
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 179 Woodford St, Portland, ME 04103, USA |
-| **Phone** | (207) 772-4893 |
-| **Website** | https://www.woodfordsclub.com/ |
-| **Google Rating** | 4.6/5 (42 reviews) |
-| **Type** | Event Venue, Association Or Organization |
-| **Google Maps** | [View](https://maps.google.com/?cid=14430174816006073309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
+Historic social club and event space in Portland, ME. Founded 1913 as a non-sectarian, non-political social organization. Primarily operates as a private members' club with event space rentals. Features banquet hall, meeting rooms, and vintage candlepin bowling alley.
 
 ## History
-
-_Research pending_
+Organized September 19, 1913. Clubhouse designed by renowned Portland architect John Calvin Stevens and his son John Howard, opening one year later in 1914. Originally a social club for the community, it has evolved to include event space rentals while maintaining its social club roots. Over a century of continuous operation serving Portland's diverse community.
 
 ## Key People
-
 | Name | Role | Source |
 |------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+| TBD | Club Management | Not listed on website |
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+- **Type**: Private social club + event space rental venue
+- **Member activities**: Regular dinners, pool, board games, card games, vintage candlepin bowling
+- **Public events**: Occasional community events and public gatherings
+- **Rental services**: Weddings, family celebrations, business meetings, lessons, recurring events
+- **Capacity**: Has banquet hall and meeting rooms (specific capacity not listed)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Event space rental model, not ticketed shows |
+| **Ticket Range** | N/A |
+| **Online Sales** | N/A |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 207-772-4893 |
-| **Website** | https://www.woodfordsclub.com/ |
+| **Booking Email** | Not listed |
+| **General Email** | Not listed |
+| **Phone** | Not listed on main pages |
+| **Address** | Portland, ME (specific address not on main page) |
+| **Website** | https://www.woodfordsclub.com |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 20/100 — Not a Good Fit**
+This is a private social club and event space rental venue, not a ticketed entertainment venue. They operate on a membership + rental model, not ticket sales for public shows. Occasional public events but no regular programming. Not suitable for Opendate's ticketing platform. Better fit would be event management software or rental booking systems, not ticketing.

@@ -1,52 +1,29 @@
 # Nicholsons MusiCafe
 
-## Overview
+## Research Notes
+**⚠️ MISIDENTIFIED - NOT A VENUE**
 
-| | |
-|---|---|
-| **City** | Folsom |
-| **State** | CA |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | http://nicholsonmusic.com |
+The website listed (http://nicholsonmusic.com) is for **Nicholson Music Company**, a music store and lutherie business in Folsom, CA, not a performance venue.
 
-## About
+### What Nicholson Music Actually Is:
+- Musical instrument retailer (guitars, mandolins, ukuleles, etc.)
+- Lutherie services (instrument setup, adjustment, repair)
+- Est. 35+ years in business
+- Retail shop focused on selling playable, properly adjusted instruments
+- Philosophy: "easy to play; easy to tune; reward you with sound"
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | nnicholson.nmc@gmail.com |
-| **Website** | http://nicholsonmusic.com |
+### No Evidence Of:
+- Live music performances
+- Ticketed shows
+- Concert or event programming
+- Venue space for public performances
+- Café or food service (despite "MusiCafe" in the name)
 
 ## Opendate Fit
+**Score: 0/100 — Not a Venue**
+This is a musical instrument retail store, not a performance venue. Entry should be removed from venue list or researched with correct information. The "MusiCafe" name may have caused confusion, but this is strictly a retail music store with lutherie services.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-28*
-*Source: Opendate Lead Pipeline*
+## Next Steps
+- Remove from venue pipeline
+- If there's a separate "Nicholsons MusiCafe" performance venue in Folsom, find correct website
+- Verify data entry wasn't confused by "Music" in the business name

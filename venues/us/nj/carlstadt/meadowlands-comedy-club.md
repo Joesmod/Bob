@@ -1,56 +1,34 @@
 # Meadowlands Comedy Club
 
-## Overview
+## Research Notes
+**⚠️ MINIMAL WEB PRESENCE**
 
-| | |
-|---|---|
-| **Address** | 317 Washington Ave, Carlstadt, NJ 07072, USA |
-| **Phone** | (201) 893-9777 |
-| **Website** | http://www.meadowlandscomedyclub.com/ |
-| **Google Rating** | 4.6/5 (10 reviews) |
-| **Type** | Comedy Club |
-| **Google Maps** | [View](https://maps.google.com/?cid=13032211748163453054&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+The website (http://www.meadowlandscomedyclub.com) exists but contains almost no content. Only a mailing list signup form is visible.
 
-## About
+### What's On The Site:
+- Basic domain and branding
+- Mailing list signup form ("Join our mailing list for the latest news")
+- No event calendar
+- No about information
+- No contact details
+- No show listings
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 201-893-9777 |
-| **Website** | http://www.meadowlandscomedyclub.com/ |
+### Possible Explanations:
+- Venue may be in development/pre-launch
+- Website may be outdated or unmaintained
+- Venue may be closed or inactive
+- Site may be a placeholder
 
 ## Opendate Fit
+**Score: Unknown — Insufficient Data**
+Cannot assess without information about programming, capacity, ticketing, or operations. The minimal web presence suggests either:
+1. Very new venue not yet fully launched
+2. Inactive/closed venue with abandoned website
+3. Venue that relies primarily on social media or other platforms
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+## Next Steps
+- Check social media (Facebook, Instagram, Twitter)
+- Search for recent news/reviews
+- Check Google Maps for photos and reviews
+- Verify current operational status
+- Look for event listings on third-party platforms
