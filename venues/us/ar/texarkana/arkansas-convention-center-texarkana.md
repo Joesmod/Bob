@@ -1,56 +1,24 @@
 # Arkansas Convention Center Texarkana
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 5200 Convention Plaza Dr, Texarkana, AR 71854, USA |
-| **Phone** | (870) 216-2000 |
-| **Website** | https://www.holidayinntexarkana.com/ |
-| **Google Rating** | 4.6/5 (349 reviews) |
-| **Type** | Convention Center, Water Park, Amusement Park, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=13951520125425953437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Convention center attached to Holiday Inn hotel in Texarkana, AR. Website listed in database is for the hotel, not the convention center itself. Convention center's own website (arkansascc.com) is non-functional.
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+**Unknown** — Unable to verify event programming. Convention centers typically host trade shows, conferences, and private events rather than public ticketed entertainment.
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Unknown |
+| **Ticket Range** | Unknown |
+| **Online Sales** | Unable to verify |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 870-216-2000 |
-| **Website** | https://www.holidayinntexarkana.com/ |
+| **Hotel Contact** | Holiday Inn Texarkana Arkansas Conv Ctr |
+| **Convention Center Website** | arkansascc.com (non-functional) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 20/100 — Poor Fit**
+Unable to properly research due to non-functional website. Venue appears to be a traditional convention center (trade shows, conferences) rather than a public entertainment venue. Low probability of being a ticketing prospect.

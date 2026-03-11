@@ -1,56 +1,40 @@
 # Mesquite Convention Center
 
 ## Overview
+Premier North Texas convention center offering 50,000+ square feet of event space. Connected to Hampton Inn & Suites, located off I-635 in Mesquite, TX. Full-service facility for conferences, trade shows, corporate meetings, and community events.
 
-| | |
-|---|---|
-| **Address** | 1700 Rodeo Dr, Mesquite, TX 75149, USA |
-| **Phone** | (972) 329-3100 |
-| **Website** | https://www.visitmesquitetx.com/business/mesquite-convention-center--exhibit-hall |
-| **Google Rating** | 4.4/5 (582 reviews) |
-| **Type** | Convention Center, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=5778724123336347392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Capacity & Spaces
+- Multiple ballrooms
+- Spacious exhibit halls
+- Dedicated breakout rooms
+- Pre-function corridors for registration/networking
+- Large exhibit spaces for trade show booths and vehicle displays
 
 ## Programming & Shows
+**Convention/Trade Show Venue** — Hosts:
+- Conferences and corporate meetings
+- Trade shows and expos
+- Corporate trainings and banquets
+- Community celebrations
+- Large-scale productions
 
-_Research pending — what genres, typical acts, event types_
+No public ticketed entertainment programming. Event space rental model.
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — not applicable |
+| **Ticket Range** | N/A |
+| **Online Sales** | Venue rental for trade shows/conferences |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 972-329-3100 |
-| **Website** | https://www.visitmesquitetx.com/business/mesquite-convention-center--exhibit-hall |
+| **Website** | visitmesquitetx.com/business/mesquite-convention-center |
+| **Location** | Off I-635, Mesquite, TX |
+| **Connected To** | Hampton Inn & Suites |
+| **Nearby** | Mesquite Arena (allows expanded event footprints) |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 15/100 — Poor Fit**
+Traditional convention center hosting trade shows, conferences, and corporate events. No public ticketed entertainment. Event organizers rent the space for private shows/conferences. Low probability of being a ticketing prospect unless they start hosting public consumer events.

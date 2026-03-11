@@ -1,56 +1,30 @@
-# The District Event Center
+# The District Event Center (Lafayette, LA)
 
 ## Overview
-
-| | |
-|---|---|
-| **Address** | 4607 Johnston St B, Lafayette, LA 70503, USA |
-| **Phone** | Unknown |
-| **Website** | http://www.capgunshows.com/ |
-| **Google Rating** | 4.4/5 (168 reviews) |
-| **Type** | Event Venue, Night Club, Bar |
-| **Google Maps** | [View](https://maps.google.com/?cid=14891133230595647957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Event space in Lafayette, LA at 4607 Johnston St. Hosts gun shows and other events. **Note:** Database URL (capgunshows.com → 2aevents.com) leads to a gun show promoter, not the venue itself. districteventcenter.com website is for a DIFFERENT venue in Green Bay, WI.
 
 ## Programming & Shows
+Known events:
+- **Gun shows** hosted by 2A Events (April 18-19, 2026)
+- Likely other trade shows, conventions, and private events
 
-_Research pending — what genres, typical acts, event types_
+Admission: $10 adults, $2 ages 6-11 (for gun shows)
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | Cash-only at door for gun shows |
+| **Ticket Range** | $10 admission |
+| **Online Sales** | Unknown - gun shows appear to be walk-up only |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | Unknown |
-| **Website** | http://www.capgunshows.com/ |
+| **Address** | 4607 Johnston St, Lafayette, LA |
+| **Event Promoter** | 2A Events (gun shows) at 2aevents.com |
 
 ## Opendate Fit
+**Score: 25/100 — Poor Fit**
+This is an event space/convention center that rents to promoters. Gun shows use cash-only at-door sales. No evidence of ticketed entertainment (concerts, comedy, theater). If they host other types of events beyond trade shows, more research would be needed with proper venue contact info.
 
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Note:** Database contains incorrect/misleading website - needs correction to actual venue website if it exists.

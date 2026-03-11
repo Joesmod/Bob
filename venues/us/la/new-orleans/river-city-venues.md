@@ -1,56 +1,35 @@
 # River City Venues
 
 ## Overview
+Event rental facility located at Mardi Gras World on the Mississippi River. Multiple spaces for corporate events, weddings, team building, and private parties. NOT a ticketed entertainment venue.
 
-| | |
-|---|---|
-| **Address** | 1380 Port of New Orleans Pl, New Orleans, LA 70130, USA |
-| **Phone** | (504) 361-7821 |
-| **Website** | http://www.rivercityvenues.com/ |
-| **Google Rating** | 4.6/5 (166 reviews) |
-| **Type** | Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=14932993768071387865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
-
-## About
-
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+## Venue Spaces
+- River City Ballroom
+- Grand Oaks Mansion
+- River City Plaza & Tent
+- Float Den (at Mardi Gras World)
+- Iberville and Bienville Rooms
+- Riverview Room
+- Mardi Gras World Plaza
+- River City Square
 
 ## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+**None** — This is a venue rental company for corporate events, weddings, and private functions. They do not host public ticketed entertainment.
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A — not applicable |
+| **Ticket Range** | N/A |
+| **Online Sales** | No public ticketed events |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 504-361-7821 |
-| **Website** | http://www.rivercityvenues.com/ |
+| **General Email** | info@rivercityvenues.com |
+| **Phone** | (504) 361-7821 |
+| **Address** | 1380 Port of New Orleans Place, New Orleans, LA 70130 |
 
 ## Opendate Fit
-
-_Assessment pending_
-
----
-
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+**Score: 10/100 — Poor Fit**
+Not a ticketed entertainment venue. This is an event rental facility for corporate functions and private parties. No public shows or ticket sales. Not a prospect for Opendate.
