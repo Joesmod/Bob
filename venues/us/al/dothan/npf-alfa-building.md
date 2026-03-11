@@ -1,61 +1,56 @@
 # NPF ALFA Building
 
 ## Overview
+Part of the National Peanut Festival complex in Dothan, AL. 24,000 square-foot commercial trade building within a 200-acre fairground facility. Primarily used for facility rentals - trade shows, exhibitions, and private events. The complex includes multiple buildings, an amphitheater, arena, and campgrounds.
 
-Event facility at the National Peanut Festival fairgrounds in Dothan, AL. Part of a 200-acre complex with multiple buildings, arenas, and outdoor spaces available for rental. The ALFA Building is a 24,000 sq ft commercial trade building.
+## History
+Part of the National Peanut Festival, an annual agricultural fair celebrating the peanut industry in Alabama. The fairgrounds are used year-round for facility rentals.
 
-| | |
-|---|---|
-| **Address** | National Peanut Festival Fairgrounds, Dothan, AL |
-| **Website** | https://www.nationalpeanutfestival.com/p/facilities-etc/facility-rentals |
-| **Type** | Fairground Event Rental Facility |
-| **Capacity** | Various - ALFA Building: 1,000 max; BankPlus Arena: 3,700; Amphitheater: 10,000+ |
-
-## About
-
-Multi-venue fairground complex operated by the National Peanut Festival. Facilities include:
-- **ALFA Building**: 24,000 sq ft trade/exhibition space
-- **BankPlus Arena**: 60,000 sq ft covered arena
-- **All In Credit Union Amphitheater**: Outdoor stage for concerts (10,000+ capacity)
-- **Summerford Premium Building**: Climate-controlled event space
-- Multiple barns, RV camping, and parking
-
-Primarily used for agricultural shows, trade shows, festivals, and private events.
+## Key People
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | Facility Manager | Website contact |
 
 ## Programming & Shows
+**Primary Use:** Facility rental business
 
-**Facility rental model, not venue-promoted shows.** The amphitheater can host concerts, but the fairgrounds operates as a rental facility where promoters/organizers rent the space and handle their own ticketing.
+**Facilities available for rent:**
+- ALFA Building (24,000 sq ft) - max 1,000 capacity
+- BankPlus Arena (60,000 sq ft covered) - ~3,700 seats
+- All In Credit Union Amphitheater (outdoor) - 10,000+ capacity
+- Summerford Premium Building (14,500 sq ft, climate controlled)
+- Brightspeed Hospitality Center (75-150 capacity)
+- Ag buildings and barns
 
-The complex hosts the annual National Peanut Festival and various livestock shows, but most events are rented/promoted by outside organizations.
+**Events:** Hosts the annual National Peanut Festival (once a year), otherwise rented to third parties for trade shows, concerts, livestock shows, RV rallies, etc.
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | N/A - Rental facility; event organizers handle own ticketing |
-| **Box Office** | N/A |
-| **Online Sales** | Space rental inquiries via website |
+| **Current Provider** | N/A - Rental facility |
+| **Business Model** | Facility rentals to third-party event producers |
+| **Online Sales** | Individual events handle their own ticketing |
+
+Rental clients handle their own ticketing. The NPF does not operate as a ticketing venue.
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking** | Via online facility rental inquiry form |
-| **Website** | https://www.nationalpeanutfestival.com/p/facilities-etc/facility-rentals |
+| **Website** | https://www.nationalpeanutfestival.com |
+| **Facility Inquiry** | Online form at website |
+| **Location** | Dothan, AL |
 
 ## Opendate Fit
+**Score: 20/100 — Poor Fit**
 
-**Score: 25/100 — Poor Fit**
+**Issues:**
+- Not an entertainment venue operator
+- Facility rental business model
+- Third-party renters handle their own ticketing
+- Annual festival is only 1 event per year
+- Wrong business model for ticketing platform
 
-**Why it's limited:**
-- **Rental facility, not a venue-promoted operation** - they rent space, don't produce shows
-- Event organizers/promoters handle their own ticketing
-- No consistent programming or in-house ticketing needs
-- Primary use is agricultural shows, trade shows, annual festival
-
-**Could work if:** Occasionally promoters renting the amphitheater might need a ticketing partner, but that would be promoter-driven, not venue-driven. NPF itself doesn't need ticketing software.
-
-**Assessment:** Wrong business model. Fairgrounds rent space; they don't sell tickets. Opendate targets venues that regularly produce/promote ticketed events.
+**Assessment:** Not a prospect. This is a fairground rental operation. Individual event producers who rent the space would be the ticketing customers, not the NPF itself.
 
 ---
 

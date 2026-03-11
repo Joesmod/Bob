@@ -1,37 +1,49 @@
 # Captain Anderson's Event Center
 
 ## Overview
+Private event and wedding venue in Panama City Beach, FL. Offers multiple banquet spaces for weddings, corporate meetings, and special events. Not a public entertainment venue.
 
-Private event and wedding venue in Panama City Beach, FL. Offers banquet halls and event spaces for weddings, corporate meetings, and special occasions.
+## History
+Associated with the Captain Anderson's family brand (known for their seafood restaurant in the area).
 
-| | |
-|---|---|
-| **Address** | Panama City Beach, FL 32407, USA |
-| **Website** | https://captainandersonseventcenter.com/ |
-| **Type** | Wedding & Private Event Venue |
-
-## About
-
-Banquet and event space affiliated with Captain Anderson's restaurant brand. Focuses on private events including weddings, meetings, and celebrations.
+## Key People
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
 
 ## Programming & Shows
-
-**No public ticketed events.** Services include:
-- Weddings
+**Not an entertainment venue.** Offers private rental spaces for:
+- Weddings and receptions
 - Corporate meetings and seminars
-- Private parties and celebrations
+- Private parties and special events
+
+No public ticketed shows or concerts.
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | N/A - Private event bookings only |
+| **Current Provider** | N/A - Rental venue, not ticketed |
+| **Business Model** | Private event rentals |
+| **Online Sales** | Contact-based booking only |
+
+## Contact
+| | |
+|---|---|
+| **Email** | info@captainandersonseventcenter.com |
+| **Phone** | (850) 691-5653 |
+| **Website** | https://captainandersonseventcenter.com/ |
+| **Address** | 5550 N Lagoon Dr #2, Panama City, FL 32408 |
 
 ## Opendate Fit
+**Score: 10/100 — Not a Fit**
 
-**Score: 10/100 — Not Suitable**
+**Issues:**
+- Not an entertainment venue
+- Private event rental business only
+- No public ticketed shows
+- Wrong business model entirely
 
-Private event venue (weddings/meetings), not a ticketed entertainment venue. No public shows or ticket sales. Wrong business model for Opendate.
+**Assessment:** Not a prospect. This is a wedding and corporate event facility, not a live entertainment venue. They don't sell tickets to the public.
 
 ---
 

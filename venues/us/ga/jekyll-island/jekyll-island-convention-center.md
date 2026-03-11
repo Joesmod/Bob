@@ -1,55 +1,54 @@
 # Jekyll Island Convention Center
 
 ## Overview
+128,000-square-foot oceanfront convention center on Jekyll Island, GA. Primarily a rental venue for conferences, meetings, and private events. Also hosts community signature events like festivals and holiday celebrations. Operated by the Jekyll Island Authority (state park authority).
 
-Oceanfront convention center on Jekyll Island, GA. 128,000 square feet of event space for meetings, conferences, and private events. Only oceanfront convention center on the east coast south of New Jersey.
+## History
+Part of Jekyll Island, a Georgia state park with historic preservation and tourism mission. The convention center markets itself as "the only oceanfront convention center on the east coast south of New Jersey."
 
-| | |
-|---|---|
-| **Address** | Jekyll Island, GA 31527, USA |
-| **Website** | https://www.jekyllisland.com/venues/convention-center/ |
-| **Type** | Convention Center, Private Event Venue |
-| **Capacity** | 200-2,000 depending on configuration |
-
-## About
-
-Full-service convention center with catering, AV, and meeting facilities. Positioned as a destination for corporate meetings, weddings, and conferences. Operated by Jekyll Island Authority.
+## Key People
+| Name | Role | Source |
+|------|------|--------|
+| Jekyll Island Authority | Operator | Website |
 
 ## Programming & Shows
+**Primary Use:** Conference and convention space rentals
 
-**Not a ticketed entertainment venue.** Hosts:
-- Corporate meetings and conferences
-- Weddings and private events
-- Exhibitions and trade shows
+**Public Events:** Annual signature events including:
+- Shrimp & Grits Festival (October)
+- Holly Jolly Jekyll holiday celebration (Nov-Dec)
+- Riverside Live (March) - Southern rock concert
+- Turtle Crawl races (April)
+- 4th of July fireworks
 
-No public ticketed concerts, shows, or performances.
+Most events are free community celebrations or fundraisers, not regular ticketed entertainment.
 
 ## Ticketing
-
 | | |
 |---|---|
-| **Current Provider** | N/A - Private event rentals only |
-| **Box Office** | N/A |
-| **Online Sales** | Inquiry-based bookings via JotForm |
+| **Current Provider** | N/A - Not a ticketed venue |
+| **Ticket Range** | Most events are free or fundraiser entry |
+| **Online Sales** | Individual events may use their own ticketing |
 
 ## Contact
-
 | | |
 |---|---|
-| **Booking** | Via online inquiry form (JotForm) |
+| **Email** | info@jekyllisland.com |
+| **Phone** | N/A - general guest services |
 | **Website** | https://www.jekyllisland.com/venues/convention-center/ |
+| **Address** | 901 Downing Musgrove Causeway, Jekyll Island, GA |
 
 ## Opendate Fit
+**Score: 15/100 — Poor Fit**
 
-**Score: 10/100 — Not Suitable**
+**Issues:**
+- State park authority, not independent venue
+- Convention/rental facility, not entertainment venue
+- No regular ticketed shows or concerts
+- Community events are mostly free
+- Not in the business of selling tickets
 
-**Why it's not a fit:**
-- **No public ticketed events** - exclusively private/corporate rentals
-- **Convention center model** - not an entertainment venue
-- Clients book space for their own events, not venue-promoted shows
-- No need for consumer ticketing platform
-
-**Assessment:** Wrong venue type. Opendate is for venues that sell tickets to the public for shows/concerts/performances. Convention centers operate on a rental/booking model, not ticket sales.
+**Assessment:** Not a prospect. This is a government-operated convention facility that hosts occasional community events. Wrong business model for a ticketing platform.
 
 ---
 

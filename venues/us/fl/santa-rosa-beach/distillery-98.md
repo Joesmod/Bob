@@ -1,42 +1,38 @@
 # Distillery 98
 
 ## Overview
+Venue listed in Santa Rosa Beach, FL. Website is currently offline or unreachable.
 
-| | |
-|---|---|
-| **Address** | 835 Serenoa Rd, Santa Rosa Beach, FL 32459, USA |
-| **Phone** | (850) 919-2400 |
-| **Website** | http://www.distillery98.com/ |
-| **Google Rating** | 4.7/5 (90 reviews) |
-| **Type** | Event Venue, Bar, Manufacturer |
-| **Google Maps** | [View](https://maps.google.com/?cid=895021762698908069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+## History
+_Unable to research - website down_
 
-## About
+## Key People
+| Name | Role | Source |
+|------|------|--------|
+| _TBD_ | _TBD_ | _TBD_ |
 
-_Website inaccessible - unable to complete research_
+## Programming & Shows
+_Unable to research - website down_
 
 ## Ticketing
-
 | | |
 |---|---|
 | **Current Provider** | Unknown |
 | **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Online Sales** | Unknown |
 
 ## Contact
-
 | | |
 |---|---|
-| **Phone** | +1 850-919-2400 |
-| **Website** | http://www.distillery98.com/ (currently down) |
+| **Website** | http://www.distillery98.com (currently offline) |
+| **Location** | Santa Rosa Beach, FL |
 
 ## Opendate Fit
+**Score: N/A — Unable to Research**
 
-**Score: N/A — Unable to assess**
-
-Website failed to load during research attempt (March 2026). Cannot determine venue type, programming, or ticketing needs. May be temporarily down or permanently closed.
+**Status:** Website is unreachable as of March 2026. Cannot assess fit without functioning website. Needs follow-up once site is back online or requires alternate research methods (phone call, social media, in-person visit).
 
 ---
 
 *Last updated: 2026-03-10*
-*Research: Bob (venue-research cron) - website inaccessible*
+*Research: Bob (venue-research cron)*
