@@ -2,51 +2,45 @@
 
 ## Overview
 
+Botanical garden and conservatory in Columbus, OH. Features plant collections, exhibitions, educational programs, and event spaces.
+
 | | |
 |---|---|
-| **City** | Columbus |
-| **State** | OH |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
+| **Address** | 1777 E. Broad Street, Columbus, OH 43203 |
+| **Phone** | (614) 715-8000 |
+| **Website** | https://www.fpconservatory.org |
+| **Type** | Botanical Garden, Educational Venue |
+| **Hours** | 10am–5pm (General Admission) |
 
 ## About
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Public botanical garden featuring tropical plants, seasonal exhibitions (Orchids & Butterflies), educational programs, Hot Shop glassblowing classes, and private event rental spaces.
 
 ## Programming & Shows
 
-_Research pending_
+**Not a ticketed entertainment venue.** Offerings include:
+- General admission to gardens and exhibitions
+- Educational classes (Hot Shop glassblowing, etc.)
+- Private event rentals (weddings, meetings)
+- Seasonal exhibitions
 
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
+No concerts, performances, or ticketed shows.
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+| **General Email** | info@fpconservatory.org |
+| **Phone** | (614) 715-8000 |
+| **Fax** | (614) 715-8199 |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 10/100 — Not Suitable**
+
+Botanical garden/educational venue, not an entertainment venue. General admission for exhibits, not ticketed performances. Wrong venue type for Opendate.
 
 ---
 
-*Last updated: 2026-02-27*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-03-10*
+*Research: Bob (venue-research cron)*

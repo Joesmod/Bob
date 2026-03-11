@@ -2,6 +2,8 @@
 
 ## Overview
 
+Comedy club and comedy incubator in Atlanta. Describes itself as "Atlanta's Comedy Incubator" and "Atlanta's Sexiest Comedy Spot." Offers comedy classes, shows, and community events.
+
 | | |
 |---|---|
 | **Address** | 572 Edgewood Ave NE #116, Atlanta, GA 30312, USA |
@@ -13,11 +15,11 @@
 
 ## About
 
-_Research pending — web scrape needed_
+Small comedy venue focused on developing comedians through classes and showcases. Website has limited publicly accessible content about show schedule and ticketing.
 
 ## History
 
-_Research pending_
+_Limited public information available_
 
 ## Key People
 
@@ -27,15 +29,15 @@ _Research pending_
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+Comedy classes and live comedy shows. Specific show calendar and ticketing information not readily available on public website.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
+| **Current Provider** | Unknown - limited public ticketing info |
 | **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Online Sales** | Not visible on website |
 
 ## Contact
 
@@ -48,9 +50,17 @@ _Research pending — what genres, typical acts, event types_
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 40/100 — Limited Fit**
+
+**Issues:**
+- Minimal public show calendar
+- No visible online ticketing system
+- Appears to be primarily a comedy training/class venue
+- Very small operation - likely not enough volume for ticketing platform
+
+**Assessment:** Too small and education-focused. Not enough public ticketed shows to justify a ticketing platform. Better suited for Eventbrite or simple payment processors for classes.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-10*
+*Research: Bob (venue-research cron)*

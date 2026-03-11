@@ -13,27 +13,13 @@
 
 ## About
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending — what genres, typical acts, event types_
+_Website inaccessible - unable to complete research_
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
+| **Current Provider** | Unknown |
 | **Box Office** | _TBD_ |
 | **Online Sales** | _TBD_ |
 
@@ -41,16 +27,16 @@ _Research pending — what genres, typical acts, event types_
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
 | **Phone** | +1 850-919-2400 |
-| **Website** | http://www.distillery98.com/ |
+| **Website** | http://www.distillery98.com/ (currently down) |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: N/A — Unable to assess**
+
+Website failed to load during research attempt (March 2026). Cannot determine venue type, programming, or ticketing needs. May be temporarily down or permanently closed.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-10*
+*Research: Bob (venue-research cron) - website inaccessible*

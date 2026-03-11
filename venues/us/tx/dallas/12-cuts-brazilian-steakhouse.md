@@ -2,51 +2,26 @@
 
 ## Overview
 
+Brazilian steakhouse restaurant in Dallas, TX.
+
 | | |
 |---|---|
-| **City** | Dallas |
-| **State** | TX |
-| **Country** | US |
-| **Category** | Venue |
-| **Website** | Unknown |
+| **Address** | 18010 Dallas Pkwy, Dallas, TX 75287 |
+| **Phone** | (469) 779-7012 |
+| **Website** | https://12cutssteakhouse.com |
+| **Type** | Restaurant |
 
 ## About
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
-
-## Programming & Shows
-
-_Research pending_
-
-## Ticketing
-
-| | |
-|---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **Website** | Unknown |
+Full-service Brazilian steakhouse offering rodizio-style dining. Features lunch, dinner, brunch, and happy hour service. Also offers private dining, catering, and group events.
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 5/100 — Not Suitable**
+
+**This is a restaurant, not a venue.** No entertainment programming, no ticketed shows. Wrong business entirely for Opendate ticketing platform.
 
 ---
 
-*Last updated: 2026-02-27*
-*Source: Opendate Lead Pipeline*
+*Last updated: 2026-03-10*
+*Research: Bob (venue-research cron)*

@@ -2,55 +2,56 @@
 
 ## Overview
 
+Oceanfront convention center on Jekyll Island, GA. 128,000 square feet of event space for meetings, conferences, and private events. Only oceanfront convention center on the east coast south of New Jersey.
+
 | | |
 |---|---|
-| **Address** | 75 Beachview Dr N, Jekyll Island, GA 31527, USA |
-| **Phone** | (912) 635-6400 |
-| **Website** | http://www.jekyllisland.com/convention |
-| **Google Rating** | 4.7/5 (844 reviews) |
-| **Type** | Convention Center, Event Venue |
-| **Google Maps** | [View](https://maps.google.com/?cid=8617185327452269202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Address** | Jekyll Island, GA 31527, USA |
+| **Website** | https://www.jekyllisland.com/venues/convention-center/ |
+| **Type** | Convention Center, Private Event Venue |
+| **Capacity** | 200-2,000 depending on configuration |
 
 ## About
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Full-service convention center with catering, AV, and meeting facilities. Positioned as a destination for corporate meetings, weddings, and conferences. Operated by Jekyll Island Authority.
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**Not a ticketed entertainment venue.** Hosts:
+- Corporate meetings and conferences
+- Weddings and private events
+- Exhibitions and trade shows
+
+No public ticketed concerts, shows, or performances.
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
+| **Current Provider** | N/A - Private event rentals only |
+| **Box Office** | N/A |
+| **Online Sales** | Inquiry-based bookings via JotForm |
 
 ## Contact
 
 | | |
 |---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 912-635-6400 |
-| **Website** | http://www.jekyllisland.com/convention |
+| **Booking** | Via online inquiry form (JotForm) |
+| **Website** | https://www.jekyllisland.com/venues/convention-center/ |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 10/100 — Not Suitable**
+
+**Why it's not a fit:**
+- **No public ticketed events** - exclusively private/corporate rentals
+- **Convention center model** - not an entertainment venue
+- Clients book space for their own events, not venue-promoted shows
+- No need for consumer ticketing platform
+
+**Assessment:** Wrong venue type. Opendate is for venues that sell tickets to the public for shows/concerts/performances. Convention centers operate on a rental/booking model, not ticket sales.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-10*
+*Research: Bob (venue-research cron)*

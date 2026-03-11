@@ -2,55 +2,38 @@
 
 ## Overview
 
+Private event and wedding venue in Panama City Beach, FL. Offers banquet halls and event spaces for weddings, corporate meetings, and special occasions.
+
 | | |
 |---|---|
-| **Address** | 5550 N Lagoon Dr #2, Panama City Beach, FL 32408, USA |
-| **Phone** | (850) 691-5653 |
-| **Website** | http://captainandersonseventcenter.com/ |
-| **Google Rating** | 4.6/5 (69 reviews) |
-| **Type** | Event Venue, Banquet Hall |
-| **Google Maps** | [View](https://maps.google.com/?cid=13947250194156522780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) |
+| **Address** | Panama City Beach, FL 32407, USA |
+| **Website** | https://captainandersonseventcenter.com/ |
+| **Type** | Wedding & Private Event Venue |
 
 ## About
 
-_Research pending — web scrape needed_
-
-## History
-
-_Research pending_
-
-## Key People
-
-| Name | Role | Source |
-|------|------|--------|
-| _TBD_ | _TBD_ | _TBD_ |
+Banquet and event space affiliated with Captain Anderson's restaurant brand. Focuses on private events including weddings, meetings, and celebrations.
 
 ## Programming & Shows
 
-_Research pending — what genres, typical acts, event types_
+**No public ticketed events.** Services include:
+- Weddings
+- Corporate meetings and seminars
+- Private parties and celebrations
 
 ## Ticketing
 
 | | |
 |---|---|
-| **Current Provider** | _TBD_ |
-| **Box Office** | _TBD_ |
-| **Online Sales** | _TBD_ |
-
-## Contact
-
-| | |
-|---|---|
-| **Booking Email** | _TBD_ |
-| **General Email** | _TBD_ |
-| **Phone** | +1 850-691-5653 |
-| **Website** | http://captainandersonseventcenter.com/ |
+| **Current Provider** | N/A - Private event bookings only |
 
 ## Opendate Fit
 
-_Assessment pending_
+**Score: 10/100 — Not Suitable**
+
+Private event venue (weddings/meetings), not a ticketed entertainment venue. No public shows or ticket sales. Wrong business model for Opendate.
 
 ---
 
-*Last updated: 2026-02-26*
-*Source: Google Places API*
+*Last updated: 2026-03-10*
+*Research: Bob (venue-research cron)*
